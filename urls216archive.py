@@ -1,5 +1,6 @@
 #243 urls reduced to 239(5 blanks).
 #239 urls reduced to 216 after removing duplicates.
+#28 invalid urls here. 188 transcripts expected. 188-6 unimportant youtube links = 182. 
 
 urls = [
     # Miscellaneous
