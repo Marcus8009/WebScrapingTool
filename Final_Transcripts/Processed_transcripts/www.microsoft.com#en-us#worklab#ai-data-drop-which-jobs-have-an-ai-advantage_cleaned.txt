@@ -1,0 +1,43 @@
+file name: www.microsoft.com#en-us#worklab#ai-data-drop-which-jobs-have-an-ai-advantage.txt
+
+## Introduction
+
+Some business functions are reaping more initial benefits from Copilot. Here’s why.
+
+## Staying Informed on AI
+
+Stay in the AI know with WorkLab by signing up for the WorkLab newsletter to receive the latest AI research, insights, and trends delivered straight to your inbox.
+
+## Research Overview
+
+At Microsoft, we’re conducting in-depth research into AI adoption in the workplace—exploring what is working for people, identifying emerging challenges, and how organizations can transition from early experimentation to broad business transformation. Today, we’re highlighting new data from Copilot customers that illustrates which job functions are gaining an early AI advantage. 
+
+To do this, we evaluated one of the primary ways people report value from AI: time savings. Let’s have a closer look.
+
+### Methodology
+
+As part of our ongoing Copilot Usage in the Workplace survey, we asked 1,300 early users of Copilot how much time they were saving each day. They could choose from six responses: “I have not noticed any time savings,” “less than 5 minutes a day,” “5–10 minutes,” “11–30 minutes,” “31–60 minutes,” and “more than an hour.” We segmented the data by job function to assess how much time individuals in different roles reported saving.
+
+### Findings on Time Savings
+
+Our findings revealed that individuals in cybersecurity, product development, and sales/business development reported the most daily time savings, whereas those in procurement, legal, and supply chain reported the least. Notably, across the board, an average time savings of just 11 minutes daily is perceived as sufficient for most individuals to feel that AI is useful—an essential factor in fostering long-term AI adoption.
+
+### AI Saves Time Across Functions 
+
+Most business areas are experiencing enough time savings to underscore the value of AI.
+
+*This chart illustrates the estimated time savings reported by individuals in various job functions, based on their survey responses regarding six categories of time savings. The bars are ordered based on those averages.*
+
+### Implications of Findings
+
+Our researchers hypothesize that two key factors might influence which job functions derive the most value from AI:
+
+1. **Type of Work**: The value and use cases of AI are more evident and straightforward in certain job functions during these early stages. For instance, individuals in sales can utilize Copilot to quickly prioritize leads and draft outreach emails, allowing them to focus on building relationships with customers. In contrast, lawyers operate in environments where confidentiality, privacy, and attorney-client privilege are paramount, which may hinder their ability to adapt their work to AI effectively.
+
+2. **Industry Realities**: Different industries exhibit varying capacities for rapid change. For example, professionals in cybersecurity must adopt new technologies to address emerging threats, while those in supply chain roles may be slower to adopt new technology due to the need to integrate a variety of vendors and legacy systems into their operations.
+
+## Conclusion
+
+The journey towards AI adoption will differ by individual, team, and organization. Nevertheless, it is clear that employees are broadly embracing AI at work, with 75 percent of global knowledge workers reportedly using it, according to our 2024 Work Trend Index Annual Report. To facilitate the transition from widespread enthusiasm to substantial business transformation, understanding how individuals in diverse functions are employing AI is crucial for guiding your AI rollout across the organization. For further insights on how AI is transforming work for employees and leaders globally, refer to our Work Trend Index for the latest data and recommendations. 
+
+Want more research and insights on AI at work? Subscribe to the WorkLab newsletter.

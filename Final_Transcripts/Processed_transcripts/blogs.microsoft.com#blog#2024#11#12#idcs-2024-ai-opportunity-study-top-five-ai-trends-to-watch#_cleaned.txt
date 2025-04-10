@@ -1,0 +1,75 @@
+file name: blogs.microsoft.com#idcs-2024-ai-opportunity-study-top-five-ai-trends-to-watch.txt
+
+## Introduction
+
+Nov 12, 2024 | Alysa Taylor - Chief Marketing Officer, Commercial Cloud & AI
+
+In 2024, generative AI emerged as a key driver for business outcomes across every industry. Already, this new generation of AI is having an incredible impact on our world — yet companies are just scratching the surface of what’s possible as they continue to develop new use cases across every role and function.
+
+To help guide organizations on their AI transformation journey, Microsoft recently commissioned a new study through IDC, titled "The Business Opportunity of AI." IDC's findings reveal that when organizations truly commit to and invest in AI, the return on investment (ROI) potential grows significantly.
+
+As companies worldwide delve deeper into AI, Microsoft customers are deploying innovative solutions and discovering how tools like Copilot can transform their day-to-day work.
+
+## Key Trends in AI Adoption
+
+### 1. Enhanced productivity has become table stakes.
+
+Employee productivity is the number one business outcome that companies are trying to achieve with AI. The study shows that 92% of AI users surveyed are utilizing AI for productivity, and 43% report that productivity use cases have provided the greatest ROI. Alongside productivity, other significant generative AI use cases include customer engagement, topline growth, cost management, and product or service innovation. Nearly half of the companies surveyed anticipate a high degree of impact across these areas over the next 24 months.
+
+**Customer snapshot:**
+At the global marketing and advertising agency dentsu, employees are already saving 15 to 30 minutes a day using Copilot for tasks such as summarizing chats, generating presentations, and building executive summaries.
+
+“Copilot has transformed the way we deliver creative concepts to our clients, enabling real-time collaboration. Agility, security, and uniqueness are crucial, but our goal is to lead this transformation company-wide, from top to bottom.”  
+— Takuya Kodama, Business Strategy Manager at dentsu
+
+### 2. Companies are gravitating to more advanced AI solutions.
+
+In the next 24 months, more companies expect to build custom AI solutions tailored directly to industry needs and business processes, including custom copilots and AI agents. This indicates a growing maturity in AI fluency as companies recognize the value of more advanced scenarios.
+
+**Customer snapshot:**
+Siemens has developed the Siemens Industrial Copilot, easing challenges caused by increasing complexity and labor shortages for many customers across different industries.
+
+“In full appreciation of GenAI’s transformational potential, it’s important to remember that production does not have an ‘undo’ button. It takes diligence to mature AI to industrial-grade quality. The Siemens Industrial Copilot for Engineering significantly eases our customers’ workload and addresses pressing challenges of skill shortages and increasing complexity in industrial automation. This AI-powered solution is a game-changer for our industry with over 50 customers already using it to boost efficiency and tackle labor shortages.”  
+— Boris Scharinger, AI Strategist at Siemens Digital Industries
+
+### 3. Generative AI adoption and value is growing across industries.
+
+Despite being relatively new, generative AI adoption is rapidly expanding—75% of respondents report current usage compared to 55% in 2023. The ROI of generative AI is highest in Financial Services, followed by Media & Telco, Mobility, Retail & Consumer Packaged Goods, Energy, Manufacturing, Healthcare, and Education.
+
+**Customer snapshot:**
+Providence has leveraged AI to enhance patient care, streamline processes and workflows, and improve the effectiveness of caregivers.
+
+“Whether we’re partnering with organizations on the leading edge of this technology—like Microsoft—or adopting established technologies like Microsoft 365 Copilot or DAX Copilot, we’ve successfully stayed at the forefront of this tech revolution. Physicians who use DAX Copilot save an average of 5.33 minutes per visit, and 80% of physicians report lower cognitive burden after using DAX Copilot.”  
+— Sarah Vaezy, EVP, Chief Strategy and Digital Officer at Providence
+
+### 4. AI leaders are seeing greater returns and accelerated innovation.
+
+Companies using generative AI average a ROI of $3.7x, while top leaders realize significantly higher returns, averaging $10.3. Leaders are also quicker to implement new solutions, with 29% of them implementing AI in less than 3 months compared to 6% of laggards.
+
+**Customer snapshot:**
+Södra is an international forest industry group that processes forest products for market. With AI technology from Microsoft, they collect and interpret climate impact data to make thousands of decisions daily.
+
+“With Microsoft’s innovative AI technology, our business experts and data scientists have helped us improve sustainability while significantly boosting revenue.”  
+— Cristian Brolin, Chief Digital Officer at Södra
+
+### 5. Looking ahead: Skilling remains a top challenge.
+
+Thirty percent of respondents identified a lack of specialized AI skills in-house, and 26% lack employees capable of learning and working with AI. This corresponds with findings from the Microsoft and LinkedIn 2024 Work Trend Index Annual Report, which shows that 55% of business leaders are concerned about finding skilled talent for these roles.
+
+Over the past year, Microsoft has helped train and certify over 23 million individuals in digital skills. The company is committed to partnering with governments, educational institutions, industry, and civil society to aid millions more in learning to use AI.
+
+**Customer snapshot:**
+The University of South Florida (USF) is partnering with Microsoft to streamline processes and enhance university operations with AI.
+
+“We're giving students a leg up to do amazing things with AI as part of tomorrow’s workforce. Our focus on generative AI not only drives operational efficiency but also empowers our community to unlock new levels of creativity and impact.”  
+— Sidney Fernandes, CIO & VP of Digital Experiences at the University of South Florida
+
+## Conclusion
+
+While companies largely implement out-of-the-box generative AI solutions and see significant ROI, more than half of those surveyed expect to build custom industry applications in the next 24 months, showcasing an evolution from basic solutions to competitive advantages.
+
+“We are at an inflection point of autonomous agent development, transitioning from off-the-shelf assistants to custom AI agents that execute complex workflows,” states Ritu Jyoti, GVP/GM, AI and Data Research at IDC. “IDC predicts that business spending to adopt AI will have a cumulative global economic impact of $19.9 trillion through 2030, driving 3.5% of global GDP in that year.”
+
+Key findings from IDC’s study indicate the top barriers organizations face when implementing AI, including data privacy, responsible use, and necessary investments in both technology and skills.
+
+No matter where you are in your AI transformation journey, Microsoft can help. To explore how customers are shaping their AI transformation, visit Microsoft’s AI in Action page. For guidance on starting your AI transformation journey, visit Microsoft AI.

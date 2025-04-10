@@ -1,0 +1,96 @@
+file name: www.microsoft.com#en-us#worklab#ai-a-whole-new-way-of-working.txt
+
+## WorkLab Forecast
+
+### Next-generation AI will transform work for everyone
+
+Over the past three years, nearly everything about work has changed. The dimensions that define the way we work—space and time—went from being fixed to flexible. This new flexibility has opened up new options for when and where we work—synchronously or asynchronously, in the office or remote. However, with greater flexibility has come greater complexity. We face an overload of information and communication, along with the drudgery of work about work that interferes with deep work that creates real value. We don’t just need a better way of doing the same things; we need a whole new way of working.
+
+Illustrations by Jason Solo and Studio Ianus.
+
+Now, AI promises not only to help us overcome these challenges but also to vastly expand what’s possible. We are accustomed to AI in our daily online experiences—personalizing our news feeds or suggesting email autocompletes. This AI is so ubiquitous that we’re barely aware of it. However, powerful new foundation models, combined with accessible natural language interfaces, have ushered in a pivotal new phase of AI—one that shifts us from “AI on autopilot” to “AI as copilot.” It creates a new interaction model between humans and computers, turning natural language into the most powerful productivity tool on the planet.
+
+“Today marks the next major step in the evolution of how we interact with computing, which will fundamentally change the way we work and unlock a new wave of productivity growth,” says Satya Nadella, chairman and CEO of Microsoft. “With our new copilot for work, we’re giving people more agency and making technology more accessible through the most universal interface—natural language.”
+
+This next-generation AI will transform work and augment human capabilities in three ways: unleash creativity, unlock productivity, and uplevel skills. 
+
+Jared Spataro, CVP, Modern Work & Business Applications at Microsoft, stated, “A hundred years from now, we’re going to look back on this moment and say, ‘That was the beginning of the truly digital era.’”
+
+With next-generation AI, the possibilities for invention and expression expand. Instead of starting with a blank page, we can interact with AI to generate options—ideas for a speech, a rough draft of a white paper, or multiple versions of a customer presentation. This doesn’t make AI a substitute for human capabilities; rather, it augments them, enabling an entirely new way of working.
+
+“AI is really useful in helping me think more critically about the work that I do. It’s truly augmenting the way that I think,” says Jaime Teevan, chief scientist and technical fellow at Microsoft. “It’s giving me new perspective and new insight.”
+
+Erik Brynjolfsson, Director of the Digital Economy Lab at the Stanford Institute for Human-Centered AI, remarked, “As the technology becomes more and more powerful, as the tools enable us to do more things, by definition that means we have more power to shape the world.”
+
+### Creative Collaboration with AI
+
+One way to frame creative collaboration with AI is to think of the person in the human-AI interaction as the gardener. We plant the seed of an idea through a prompt to a natural language interface. By interacting with AI, we enhance the output quality faster. This is because we spend less time generating raw material and more time applying our best knowledge and insights. With AI as our creative generator, we can maximize our human ingenuity at work.
+
+AI can be seen as an “infinitely patient explainer,” says Microsoft Deputy CTO Sam Schillace. It acts like a manual you can easily utilize: ask anything, from how to use new tools to the nuances of your marketing strategy, and it will explain the topic at the level you need without frustration.
+
+“The traditional notion of productivity, where humans do the bulk of the work and rely on computers for the final step, has been flipped,” says Sumit Chauhan, corporate vice president of the Office Product Group at Microsoft. “Now, AI can take on the time-consuming and tedious tasks, freeing me up for more creative thinking and endeavors. This means I can be more productive and tackle more high-level tasks without getting bogged down in drudgery.”
+
+### Feeling Fulfilled at Work
+
+When our creativity is unleashed, we’re likely to feel more fulfilled. A Microsoft survey of more than 4,000 employees and business decision-makers found that 89 percent who had access to automation and AI-powered tools reported feeling more fulfilled because they could focus on meaningful work.
+
+“Humans yearn to dream, to innovate, to create. Ambition is not dead, but it’s tired due to the overwhelming amount of data and information, and the drudgery of work,” says Colette Stallbaumer, general manager of Microsoft 365 and the Future of Work. “I believe AI will help free us to do the work that matters.”
+
+### Addressing Information Overload with AI
+
+To truly focus on what matters, we must confront information overload—a challenge that is increasingly significant in the hybrid work era. AI has an important role to play in addressing this issue.
+
+The primary problem with information overload is relevance. People are inundated with vast amounts of data, yet only a small fraction contains relevant information necessary for specific tasks. AI can help uncover what’s important efficiently.
+
+“At its best, work is our expression of how we intend to shape the world and be shaped by it. However, the current structures of work have left our inboxes in charge,” says Jared Spataro. “AI is set to help us cut through the noise and refocus on the priorities that matter most.”
+
+Nate Boaz, VP of People Strategy at Microsoft, emphasizes the impact of AI on meetings, noting that few experiences feel as wasteful as attending an unnecessary meeting. With AI-powered tools, we can summarize meetings and highlight relevant points for individuals or teams, saving time and empowering people to engage in meaningful work. This capability has the potential to significantly enhance productivity organization-wide.
+
+Additionally, AI can summarize a week’s emails into just the essential points, helping individuals manage information more effectively.
+
+GitHub research indicates the promise of AI in boosting productivity. A survey of developers revealed that 88 percent could complete tasks more quickly using AI-powered GitHub Copilot, with 74 percent saying it enabled them to focus on more satisfying work.
+
+### The Future of Work
+
+“This is going to eliminate shallow work, allowing us to concentrate on the deep work we truly desire,” asserts Nate Boaz. “This will not only improve your job experience but also enhance your performance.”
+
+As such technologies integrate into everyday workflows, we could witness a productivity boom comparable to the most significant technological disruptions in history.
+
+AI functions like scissors: one blade represents cognition while the other embodies context. Focusing solely on its cognitive capabilities neglects the importance of context—the knowledge derived from data input. The real power of AI is realized when cognition and context work together.
+
+“Bringing the right data to the right place at the right time is something AI excels at,” explains Charles Lamanna, corporate vice president of Business Apps and Platform at Microsoft. 
+
+### Augmentation over Substitution
+
+A key concept in understanding next-generation AI capabilities is “augmentation” versus “substitution.” If someone is proficient in a skill, AI can elevate their abilities. If they were previously unable to perform a task, AI can assist them in accomplishing it. The work experience becomes more enjoyable as we transcend limitations that hinder our ideas.
+
+Consider AI as the ultimate tool for prototyping, even beyond our skillsets. It enhances our writing while also making us better writers. Although many possess powerful productivity tools, we often utilize only a fraction of their capabilities. New AI technology provides full access to applications like Microsoft Excel and the creative potential within PowerPoint.
+
+AI can help us tackle challenging tasks, allowing us to return to the work we love. All we need to do is ask.
+
+### Democratizing Innovation with AI
+
+Just as a TI-84 calculator supports our math calculations, AI will function as a writing calculator, asserts Stanford economist and AI expert Erik Brynjolfsson. By inputting essential information and requesting outputs, we can delegate routine writing tasks and concentrate on higher-level work.
+
+“AI will adapt to each individual,” shares Jon Friedman, corporate vice president of design and research at Microsoft. “It will help teams work more effectively together and provide everyone with unprecedented capabilities.”
+
+In the long run, AI has the potential to democratize innovation. Individuals are no longer restricted by skills outside their domains; their limitations will only be dictated by the quality of their ideas.
+
+AI can effectively act as a means to “upskill,” states Avi Goldfarb, a professor specializing in the impact of AI on business and the economy. “The long-term benefits of upskilling millions of people are immensely exciting,” says Goldfarb. Thus, AI at scale offers benefits not only to individuals and organizations but also to society at large.
+
+### Embracing the AI Revolution
+
+This new era of AI is just beginning. The opportunities ahead are vast, yet it is crucial that we proceed with a growth mindset and responsible practices. 
+
+“I’m a tech optimist. I believe in the incredible potential benefits of AI,” Spataro remarks. “But we must proceed with transparency, humility, and an understanding that we will not transform everything overnight or fully grasp it all immediately.”
+
+Experimentation and learning are vital for effectively harnessing AI. Transformative technologies throughout history have amplified human creativity, establishing foundations for innovation.
+
+“The real payoff is not just in enhancing what we already do but rather in enabling us to achieve new things,” states Erik Brynjolfsson. “We should not merely focus on reducing labor; instead, consider what innovations can arise.”
+
+Just as electricity revolutionized power sources and modernized factory design, leading to unprecedented productivity, true progress can reshape the productivity landscape.
+
+For the first time, we possess access to empowering AI technology. What will we create?  
+
+---  
+What leaders need to do to harness the full potential of the impending AI revolution: insights on the future of work delivered directly to your inbox.

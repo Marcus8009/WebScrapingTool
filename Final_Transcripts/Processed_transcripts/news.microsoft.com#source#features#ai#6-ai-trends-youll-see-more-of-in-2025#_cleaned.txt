@@ -1,0 +1,67 @@
+file name: 6-ai-trends-youll-see-more-of-in-2025.txt
+
+## Introduction
+
+In 2025, AI will evolve from a tool for work and home to an integral part of both. AI-powered agents will do more with greater autonomy and help simplify your life at home and on the job. On the global stage, AI will help us find new ways to address some of the biggest challenges we face, from the climate crisis to healthcare access.
+
+This progress will be driven by advancements in AI’s ability to remember more and reason better, among other innovations. Microsoft remains committed to helping people use and build AI that is safe and secure.
+
+"AI is already making the impossible feel possible, and over the past year we’ve seen significant numbers of people and organizations moving from AI experimentation to more meaningful adoption," says Chris Young, executive vice president of business development, strategy and ventures at Microsoft. "This is the start of a full-scale transformation of how this technology will change every part of our lives."
+
+## AI Usage Growth
+
+In the last year alone, generative AI usage jumped from 55% to 75% among business leaders and AI decision-makers. New AI tools will bring even more potential. Here are six AI trends to watch in 2025.
+
+Over the past year, AI models became faster and more efficient. Today, large-scale "frontier models" can complete a broad range of tasks from writing to coding, and highly specialized models can be tailored for specific tasks or industries.
+
+## Advancements in AI Models
+
+In 2025, models will do more—and do it even better. Models with advanced reasoning capabilities, like OpenAI o1, can already solve complex problems with logical steps similar to human thought processes. These capabilities will be useful in fields like science, coding, math, law, and medicine, allowing models to compare contracts, generate code, and execute multistep workflows.
+
+Advancements in model innovation will occur alongside progress in data curation and post-training. For instance, Microsoft’s family of small Phi models showed that curating high-quality data can improve model performance and reasoning. Furthermore, Microsoft’s Orca and Orca 2 demonstrated the power of synthetic data for post-training small language models, allowing these models to perform comparably to larger language models and excel in specialized tasks.
+
+## AI-Powered Agents
+
+This evolution will create new and more useful AI experiences, particularly with agents in 2025. "There could be synergy between how we are training the models and how those models are powering agents in return," says Ece Kamar, managing director of Microsoft’s AI Frontiers Lab. "People will now have more opportunity than ever to choose from or build models that meet their needs."
+
+Workers at nearly 70% of Fortune 500 companies already use Microsoft 365 Copilot to handle repetitive tasks, such as navigating emails and taking notes during Teams meetings. By 2025, a new generation of AI-powered agents will manage even more tasks on your behalf. "Think of agents as the apps of the AI era," says Charles Lamanna, corporate vice president of business and industry Copilot.
+
+## Transforming Work Processes
+
+With advancements in memory, reasoning, and multimodal capabilities, agents will handle complex assignments with new skills and interaction methods. Organizations will be able to reimagine processes like report creation and human resources tasks, such as resolving IT issues or answering benefits questions, allowing employees to focus on higher-value work.
+
+Businesses can set up multiple agents to alert supply chain managers about inventory disruptions, recommend new suppliers, and execute sales orders, thereby streamlining operations to ensure continuous sales.
+
+Anyone can build an agent in Copilot Studio with no coding expertise required, while developers can create sophisticated agents for complex tasks in Azure AI Foundry. This lays the groundwork for a future where organizations have a range of agents—from simple prompts to fully autonomous systems—that operate independently or collaboratively to execute and orchestrate processes.
+
+## Importance of Human Oversight
+
+Amid these developments, human oversight remains essential in the evolving AI-powered agent framework. "In 2025, a lot of conversation will be about drawing the boundaries around what agents are allowed and not allowed to do, while always ensuring human oversight," Kamar says.
+
+## Home and Daily Life Enhancements
+
+Outside of work, AI is expected to simplify aspects of daily life in 2025. Microsoft Copilot will act as an AI companion, helping to streamline tasks and prioritize information while ensuring privacy and data security. As Copilot evolves, features such as Copilot Daily will provide summaries of relevant news and weather, while Copilot Vision will allow it to understand and engage with web content in real-time.
+
+Copilot could assist with decisions, such as helping to furnish a new apartment by searching for compatible furniture and offering arrangement suggestions for optimal living space.
+
+## Infrastructure Efficiency
+
+As AI continues to require significant resources, innovative solutions are being developed to address these challenges. Microsoft, in collaboration with other firms like AMD, Intel, and NVIDIA, is focusing on creating more efficient hardware, including custom silicon and liquid cooling systems for large-scale AI operations.
+
+New datacenters supporting AI are set to come online with zero water cooling consumption. Microsoft is also committed to using low-carbon construction materials and expanding renewable energy sources such as wind, geothermal, nuclear, and solar power.
+
+Mark Russinovich, Azure’s CTO, envisions a future where data centers and resources are examined holistically for maximum infrastructure efficiency. "In 2025 and beyond, we’re going to increasingly have a holistic view of data centers, energy, and resources,” he explains.
+
+## Measurement and Customization in AI
+
+Measuring risks associated with AI is critical for responsible development. Key advancements will focus on two concepts: testing and customization. The ability to measure risks and threats helps address issues such as AI hallucinations, where inaccurate responses occur.
+
+Sarah Bird, Microsoft’s chief product officer of Responsible AI, emphasizes that comprehensive testing will improve in detecting internal threats and external sophisticated attacks. Organizations will have greater control over AI applications, allowing for customized applications with content filters specific to workplace needs.
+
+## Conclusion
+
+AI is already making a dramatic impact worldwide, fueling advances across various fields, from supercomputing to weather forecasting. Notable breakthroughs in scientific research are anticipated, particularly in drug discovery and sustainable materials development.
+
+In 2025, Microsoft Research aims to continue pushing the frontiers of science, making significant contributions to solving global challenges through innovative AI applications. Ashley Llorens, corporate vice president at Microsoft Research, states, "We’ll start to see these tools having a measurable impact on the throughput of the people and institutions who are working on these huge problems."
+
+AI in 2025 will drive innovation and unlock new potentials for people and organizations globally.

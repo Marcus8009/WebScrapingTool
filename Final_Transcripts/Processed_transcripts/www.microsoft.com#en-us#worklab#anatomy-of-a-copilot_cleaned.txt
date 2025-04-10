@@ -1,0 +1,41 @@
+file name: www.microsoft.com#en-us#worklab#anatomy-of-a-copilot.txt
+
+## Understanding AI Systems: The Importance of the Whole
+
+When it comes to AI, it’s the system (not the model) that matters. If you’re struggling to understand what AI can do for your business, it’s essential to start with the most powerful tools at your disposal.
+
+My job involves helping businesses successfully integrate AI into their workflows, and I have conversations with customers every day. Many people focus on foundational models, particularly the large language models (LLMs) that power AI assistants. However, LLMs are just one component of a broader AI system. If we think of the system as a car, the LLM functions as the engine, but a car also requires wheels, steering, fuel, and other elements to function effectively.
+
+### Core Components of AI Systems
+
+As AI assistants work alongside us, we refer to them as copilots. For instance, our AI assistant is named Microsoft Copilot. Regardless of the provider—be it Microsoft, ChatGPT, Google, or others—every AI system comprises universal key components:
+
+1. **User Experience**: This is the entry point for interaction, where you engage with the system through text, audio, or visual prompts to receive responses.
+
+2. **Orchestrator**: Serving as the system’s central hub, the orchestrator oversees planning and coordination. For instance, when you input a prompt, it determines which parts of the system can adequately respond.
+
+3. **Foundational Model**: Foundational models act as AI-powered reasoning engines that analyze information to answer questions or solve problems. Typically, these are LLMs trained on extensive amounts of text, but various other types of models exist, each with unique strengths and ideal use cases.
+
+Sometimes, you can obtain what you need from a system with just these core components. For example, when asked a straightforward question like, “What’s a great starter car for a new driver?” you receive specific suggestions. However, you can also pose unexpected questions, such as, “Could an elephant pull my Tundra?” The copilot utilizes its knowledge to provide reasoning, confirming that theoretically, an elephant could pull a Tundra while advising against such use in real life.
+
+That’s a solid demonstration of the system’s capabilities, but in a work setting, more comprehensive solutions are necessary. The core elements of a copilot are effective for general knowledge reasoning but fall short when specific knowledge and skills are required.
+
+### Addressing Knowledge Limitations
+
+Foundational models have a critical limitation: they’re trained on a finite dataset. Consequently, if your question pertains to information outside their training parameters, they will struggle to provide an answer.
+
+To overcome this limitation, you can grant the orchestrator access to new knowledge or data sources. For example, when the orchestrator can access your work data—emails, files, meetings, etc.—it becomes substantially more intelligent about your business and its requirements.
+
+Imagine you’re an automotive marketer tasked with launching a new electric SUV and need to draft a creative brief for a television ad campaign. By incorporating your product photos and relevant specifications into your prompt, the copilot gains a deeper understanding of the subject, resulting in more tailored and actionable outputs.
+
+### Enhancing Skills of AI Copilots
+
+While foundational models come with inherent capabilities like summarization and content generation, they often lack proficiency in essential skills such as mathematics, drawing, or design—skills that are frequently utilized in professional environments. To expand your copilot’s capabilities, you may need to enhance it with additional skills.
+
+For instance, if you’re a creative leader at the ad agency working on the SUV campaign, you could leverage tools like Image Creator from Designer to assist in storyboarding your concept. You might initiate your prompt with something like, “Create a series of images for a TV ad featuring an electric SUV driving through the savanna at sunset.” 
+
+This allows your copilot to produce rough storyboards instantaneously, enabling faster idea generation and discussion during brainstorming sessions.
+
+### Conclusion
+
+There is substantial buzz surrounding foundational models, much of which is warranted, as they play a crucial role in the AI innovation landscape. However, they represent only one aspect of a complete system. By effectively orchestrating user interactions, knowledge, skills, and foundational models, the copilot evolves into a tool more powerful than the sum of its parts. This comprehensive approach unlocks significant value that enhances everyday work—ensuring results aligned precisely with your objectives.

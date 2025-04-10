@@ -1,0 +1,35 @@
+file name: www.microsoft.com#en-us#worklab#llms-are-becoming-a-commodity-now-what.txt
+
+## Future-proofing Your Organization
+
+Future-proofing your organization means looking beyond the latest model. Whenever a compelling new AI model emerges, I like to put it through its paces. Recently, I’ve been experimenting with the preview of OpenAI o1 (formerly known as Strawberry), an astonishing new LLM that’s capable of solving complex and layered problems, especially in math, science, and coding.
+
+For businesses, the o1 model and a slew of others in the works represent a clear opportunity. But they also reflect a less obvious challenge: as LLMs become more sophisticated, they’ll also become quickly commoditized, with not a lot of differentiation between them. In other words, today’s breakthroughs will become tomorrow’s table stakes. This means companies should focus more on how they integrate these models with their own data and workflows, rather than seeing the models themselves as a unique competitive advantage. Embracing this shift in mindset is the way to ensure your business stays ahead.
+
+## Decoding the Latest Advance
+
+We have historically relied on size to improve the capabilities of LLMs—training them on more and more data, a process that is incredibly time- and resource-intensive. OpenAI o1 introduces an entirely new scaling dimension, one in which a model can become significantly more capable by taking more time to “think” or reason before it responds. That means o1 can tackle problems step by step, much like how a human might approach challenging questions.
+
+Ethan Mollick, professor at the Wharton School at the University of Pennsylvania, tried the o1 preview on a tough segment of a crossword puzzle and it performed quite well (though not flawlessly). Crossword puzzles trip up other LLMs because they can’t perform the iterative thinking that’s required: trying a word, scratching it out when it doesn’t fit, and cross-referencing clues to see how answers might fit together.
+
+People across the business world are already experimenting with how o1 can handle tasks like responding to RFPs or performing risk assessments. It’s clear that we’ll look back and consider o1 to be one of the most pivotal advancements in generative AI.
+
+## Technology and Commoditization
+
+So if o1 is such a breakthrough, why am I arguing that models will be commoditized? It comes down to competition. With so much energy and opportunity in the AI space, model developers are racing to exceed one another’s advances. We can expect more models, from more providers, with more capabilities on par with one another.
+
+Think of another technology that was groundbreaking for its time: the television. Once a rare luxury made by only a few companies, TVs are now produced by many manufacturers, with excellent models widely available. About two decades ago, flat-screen TVs were coveted and expensive. Now it can cost as much to mount a TV on the wall as it does to buy the TV itself, and “flat-screen TV” has become a redundant phrase. We expect LLMs to follow a similar path to commoditization, but at a swifter pace.
+
+What does this mean for businesses? Leaders have to look beyond the LLMs themselves and focus on creating a system around the models that will serve the unique needs of their organizations. Only by understanding AI systems more holistically will they be able to leverage them to innovate, create value, and maintain a competitive edge.
+
+## Unlocking the Real Value of AI for Business
+
+LLMs get a lot of attention in the media, but the real value of AI comes from how you steer, ground, and fine-tune these models with your business data and workflow. And those capabilities come from the full system that surrounds the LLM.
+
+Consider the evolution of personal computers. At first, the raw power of the CPU was the most critical factor. But as powerful CPUs became commodities, the value of the PC shifted to the overall system—the combination of hardware and software that met your needs. Today, we don’t judge a PC by the power of a single component; it’s the value of the entire package that differentiates one device from another.
+
+The same goes for AI: the system is more powerful than any one part. An LLM on its own, no matter how impressive, won’t deliver truly valuable results until it’s grounded in your company’s specific knowledge. When a system like Copilot can draw from your work data—emails, files, meetings, etc.—it becomes much smarter about your business. The system performs better when you can steer it toward your goals and fine-tune it to adapt to your specific needs. Together, all these elements feed the advanced “thinking” that the LLMs can and will be doing.
+
+## Summing it Up
+
+LLMs are making incredible progress, and I’m delighted every day by what they can accomplish. But their true potential comes through when they’re applied to your unique business data and workflows. That way, they’ll solve more than puzzles—they’ll help untangle your thorniest business problems and reveal new opportunities for creating value.

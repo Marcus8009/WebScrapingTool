@@ -1,0 +1,37 @@
+file name: customers.microsoft.com#en-gb#story#1804968308500747501-sultan-microsoft-copilot-health-provider-en-kuwait.txt
+
+## Introduction
+
+Bader Sultan and Brothers Company (BSBC) is a leading regional supplier of high-quality healthcare and hospital equipment based in Kuwait. The company employs a workforce of 300 people and operates throughout the GCC. BSBC is committed to investing in its employees and technology, choosing to implement Microsoft Copilot early to support their work, productivity, and innovation. The team has reported significant improvements in productivity and responses to customer requests due to their use of Microsoft Copilot for Microsoft 365.
+
+## Company Overview
+
+BSBC is renowned for its reliable supply and maintenance of a wide range of healthcare and hospital equipment, as well as agricultural and veterinary products. The company has maintained a leading position in the regional market, achieving a 50% growth rate even during recession periods. Their success can be attributed to the dedicated work of their team and investment in cutting-edge technologies.
+
+## Interest in AI and Microsoft Copilot
+
+With a firm commitment to providing the best technology for growth and innovation, BSBC has shown great interest in the potential of AI, specifically Microsoft Copilot. 
+
+Emad Al Zaben, CEO of Bader Sultan, states, “For us at Bader Sultan, I don’t want to think about the amazing benefits of artificial intelligence for the future, I want to focus on our employees during the day today. Copilot is a great tool to increase the productivity of all our employees.”
+
+## Implementation of Microsoft Copilot
+
+Bader Sultan partnered with CPT to implement Microsoft Copilot, starting with a two-week trial. Abey George, General Manager at CPT, remarked that after initiating the trial, “they were extremely happy with the technology and their productivity was enhanced.”
+
+The team utilized Copilot in various aspects of their work. Nidal Al-Khadi, Executive Manager of the IT Department at Bader Sultan, notes the positive outcomes: “We found many enhancements in terms of our team’s output and productivity in communication, presentation, and in gaining more knowledge of our products and competition.”
+
+## Practical Applications of Copilot
+
+Zahra Al-Essa, Division Manager of Medical Retail at Bader Sultan, uses Copilot to craft and review emails, particularly those related to deliveries of medical products and equipment. She mentions, “Copilot helps us in enhancing that so everything goes out in time.”
+
+Additionally, Mais Amin, a Medical Representative at Bader Sultan, found Copilot beneficial for responding to clients more swiftly. She shares an example: “A doctor requested from me a comparison sheet about my product and a competitor. At that time, I had lots of work to do. I thought the best and adequate solution would be Copilot. I asked Copilot to prepare for me a comparison table, adding a PowerPoint file as a reference, and it did the job perfectly. It saves me time and gave me more time to accomplish other main work.”
+
+## Future Expectations
+
+Bader Sultan is eager to continue using Copilot and anticipates discovering further use cases as they develop their expertise with the tool. 
+
+Emad Al Zaben concludes, “Copilot is here to relieve our staff of all the tedious work… It is just something for the average employee to start using today.” 
+
+“Copilot is a great tool to increase the productivity of all our employees.” 
+
+— Emad Al Zaben, CEO, Bader Sultan

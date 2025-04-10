@@ -1,0 +1,35 @@
+file name: 1798509188103498351-softchoice-microsoft-copilot-for-microsoft-365-consumer-goods-en-united-states.txt
+
+## Introduction
+
+A leading software- and cloud-focused IT solutions provider, Microsoft partner Softchoice is harnessing generative AI–powered tools to unlock business efficiencies and offer customers a hands-on experience for their own AI journeys. In 2023, Softchoice tested Copilot for Microsoft 365 with a cross-organizational group to explore how generative AI can streamline operations and empower employees. By prioritizing employee education, the company is realizing productivity gains, including a 97% reduction in time spent summarizing technical meetings and up to 70% less time spent on content creation. Softchoice employees are experiencing firsthand how Copilot can transform daily workflows and sharing their expertise to inspire their own customers.
+
+## Softchoice's Approach to Generative AI
+
+Softchoice is embracing generative AI and achieving significant productivity gains with Microsoft Copilot for Microsoft 365. Utilizing an incremental approach that prioritizes employee education and collaboration, Softchoice is demonstrating how these AI-powered tools can transform the workplace. With over 30 years of experience in helping customers maximize their technology investments and extensive expertise in Microsoft products, Softchoice aims to empower its employees to assist customers with their own digital transformations.
+
+The company’s relationship with Microsoft made adopting Copilot for Microsoft 365 a natural choice. Softchoice actively uses Microsoft 365 and understands the security, privacy, and user empowerment practices that Microsoft prioritizes. “People are very familiar with the Microsoft suite of tools, and they’ve been using them for many years,” says Craig McQueen, Vice President, AI Solutions, at Softchoice. “Then, Microsoft took one of the most advanced AI engines and put them together—it makes it a pretty easy choice.”
+
+## Pilot Program and Employee Education
+
+In September 2023, Softchoice established a pilot program, selecting users from different departments to experiment with Copilot for Microsoft 365. Recognizing the need for employee education and organizational commitment, the company emphasized the importance of leaders promoting this initiative. “Successful implementation really came down to having our senior leaders actively and visibly emphasize this was a priority,” explains Jeff Reis, Senior Vice President, IT and Workplace, at Softchoice.
+
+As the pilot program advanced, insights began to emerge that enabled Softchoice to gradually expand the use of Copilot throughout the organization. The initiative focused on educating employees from marketing, sales, and finance on how to use prompts effectively to enhance their work.
+
+## Productivity Gains and Employee Engagement
+
+The results from the Copilot implementation were significant, with employees experiencing productivity gains across departments. The company observed a 97% reduction in time spent summarizing technical meetings and a 75% decrease in other meeting summaries. Sales and marketing teams reported a 62%–67% reduction in time spent creating customer-facing content. “I’ve seen evidence of people who have felt better about what they are doing because some of the more mundane tasks that would normally stretch out over a long time can be completed much faster,” remarks McQueen.
+
+Additionally, Copilot for Microsoft 365 is increasing employee engagement by allowing staff to concentrate on more meaningful tasks. For instance, employees in the learning and development group were able to reduce the time needed for creating internal training modules by 70%. A member of the sales enablement team completed an internal training module within one afternoon instead of weeks.
+
+## Real-Life Experience and Customer Engagement
+
+Softchoice's hands-on experience with Copilot for Microsoft 365 is encouraging employees to prepare their customers for similar AI implementations. Employees leverage real-life examples and insights during interactions with clients. “One sales representative pulled up Copilot at an event to show a customer how she is using it in her sales work and how much time it is saving her,” says Jaime Waterfield, Director, Microsoft Category, at Softchoice. 
+
+As adoption of Copilot for Microsoft 365 progresses, Softchoice is also exploring additional Microsoft services, including Microsoft Copilot for Security and Microsoft Copilot Studio. Reis notes the benefits of standardizing on Microsoft technologies, stating, “Building within the environment you already have makes it easier for people to operate.”
+
+## Conclusion
+
+As Softchoice continues its journey with Microsoft Copilot, the company looks forward to sharing its insights with customers seeking to harness the potential of generative AI tools. McQueen emphasizes the urgency for organizations: “We’re only at the beginning of this technology, and it will accelerate. Now is the time to start learning how to apply this in the workplace because the longer you wait, the bigger the technology gap will be.” 
+
+By starting with focused user groups, Softchoice advises businesses to begin their own explorations of AI to pave the way for future advancements.

@@ -1,0 +1,26 @@
+file name: microsoft.com#en-us#worklab#how-copilot-turns-everyone-into-a-manager.txt
+
+## Introduction
+
+More-senior employees have a better experience using Copilot than their early-in-career co-workers. This article first appeared in the WorkLab newsletter.
+
+Earlier this year, Microsoft launched an early access program for Microsoft 365 Copilot. Since then, tens of thousands of people have started using it as a regular part of their workday. Surprisingly, more experienced people managers are having an easier time adapting to the new technology than their less experienced counterparts.
+
+## Copilot’s Impact on Management Skills
+
+As Jared Spataro, Microsoft’s Corporate Vice President of Modern Work & Business Applications, recently pointed out, there was an assumption that younger digital natives would adapt more readily to new ways of working. However, it turns out that Copilot transforms everyone into a manager, and the skills associated with management are essential to fully benefiting from the technology.
+
+Copilot automates some routine, mundane aspects of work, such as locating a shared presentation. However, users find the most value when assigning Copilot more complex tasks, like crafting tailored emails or analyzing datasets with suggested visualization formats.
+
+To leverage Copilot's full potential, one must possess skills typically developed over time in roles that direct others' work. These include:
+
+- Breaking down work into smaller pieces
+- Assigning tasks with clear expectations and context
+- Evaluating incoming work, providing feedback, and reviewing submissions
+- Making forward decisions on deliverables
+
+Senior leaders, being more versed in these management techniques, find it easier to adapt. Therefore, preparing an organization for generative AI involves not just enhancing technology skills but also cultivating foundational leadership and management capabilities in employees.
+
+## Conclusion
+
+Organizations should focus on training employees, supplying how-to guides, and providing opportunities to lead—be it formally or informally. This approach will be essential in the new era rooted in AI, and those who prepare their employees effectively will be positioned to reap the benefits.

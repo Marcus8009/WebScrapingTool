@@ -1,0 +1,47 @@
+Hi there.
+I’m Luca
+and thanks for joining me on this episode
+of AI Simplified in Microsoft Teams.
+Today’s episode features
+one of my favorite features that I use
+almost every day at work:
+intelligent meeting recap.
+Here I am in my team meeting. Hey Adele!
+I just make sure to record and transcribe,
+and when the meeting ends,
+I’ll see the AI generated recap
+for that meeting.
+To find your intelligent recap
+after the meeting is over, go to the
+Meet app
+and find your meeting
+and click on the “view recap” button.
+In the recap I can see different
+information and different ways
+to catch up on what I might have missed:
+meeting notes, follow up tasks,
+topics discussed, chapters
+that break the meeting into sections,
+and even speaker tracking, showing me
+which participants spoke and when.
+And with Copilot in Teams,
+you can ask for follow-up information
+you want about the meeting.
+For example,
+I want to ask Copilot to make a detailed
+and easy
+to read list out of the meeting summary.
+I simply ask Copilot,
+“Make a table out of the meeting summary
+organized by action item.”
+Not only am I caught up on what I missed,
+but Copilot made it easy
+for me to see that information.
+Now I don’t need to worry
+about being double booked, joining late,
+or having to miss a meeting.
+If it is recorded or transcribed,
+I will be able to take advantage
+of intelligent meeting recap
+and Copilot to learn all about
+the meeting after it is over!

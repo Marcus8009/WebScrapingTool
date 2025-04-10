@@ -1,0 +1,39 @@
+file name: news.nuance.com#2024-03-08-Providence-and-Microsoft-Enable-AI-Innovation-at-Scale-to-Improve-the-Future-of-Care.txt
+
+## Providence and Microsoft Collaborate to Accelerate AI in Healthcare
+
+Providence leverages Microsoft Cloud for Healthcare as a standard platform for developing and delivering AI-powered applications aimed at improving interoperability, generating clinical and research insights, and enhancing care delivery, costs, and outcomes.
+
+BURLINGTON, Mass., March 8, 2024 /PRNewswire/ -- Nuance Communications, Inc., a Microsoft Company, and Providence, a not-for-profit health system serving the Western U.S., have announced their collaboration to accelerate AI innovation at scale. This partnership is directed towards enhancing in-house solutions development, advancing clinical research, and fostering further collaborations between health systems and healthcare IT vendors.
+
+Through its long-standing relationship with Nuance and Microsoft, Providence has successfully migrated solutions to the cloud at scale and expedited the development and adoption of generative AI-powered applications designed to improve care quality and access while reducing physicians' administrative workloads. Providence has widely deployed Nuance's conversational, ambient, and generative AI solutions, including the Nuance Dragon Ambient eXperience™ (DAX™) and Dragon Medical One, along with the largest implementation of the Nuance PowerScribe radiology reporting solution in the United States.
+
+"Microsoft and Nuance's unparalleled expertise, depth of AI applications, and scale enables us to uplevel our innovation, with each organization bringing tremendous value to the partnership," said BJ Moore, Executive Vice President and CIO at Providence. "Our expanded collaboration enables us to rapidly scale and increase the capabilities of many of our existing solutions while creating more personalized and satisfied experiences for patients and providers alike."
+
+Moving forward, Providence will focus on five key areas through its continued collaboration with Nuance and Microsoft. 
+
+"This highly productive collaboration between Microsoft, Nuance, and Providence exemplifies how innovative AI applications paired with deep healthcare expertise and the scale of the Azure cloud are transforming healthcare delivery," stated Robert Dahdah, CVP, Global Health and Life Sciences, Microsoft. "We are accelerating the development and adoption of AI solutions in healthcare by leveraging the security, scale, and reliability of the Microsoft Cloud for Healthcare. This includes incorporating previously siloed data streams into state-of-the-art large language models and generative AI, which offer vital insights and recommendations to improve operational efficiency and care outcomes."
+
+The Nuance and Microsoft healthcare solutions are built on a foundation of trust and Microsoft's Responsible AI principles. These innovations facilitate the creation of connected experiences at every point of care, provide tools that foster collaboration, empower the healthcare workforce, and unlock the value from clinical and operational data using data standards critical to the healthcare industry. 
+
+For more information about Microsoft, visit us during HIMSS 2024 in Orlando, FL at booth #3161.
+
+## About Providence
+
+Providence is a not-for-profit Catholic health system and one of the nation's largest health systems. It comprises a diverse family of organizations and is driven by the belief that health is a human right. With 51 hospitals, over 1,000 physician clinics, senior services, supportive housing, and many other health and educational services, Providence and its partners employ more than 120,000 caregivers serving communities across seven states: Alaska, California, Montana, New Mexico, Oregon, Texas, and Washington, with system offices in Renton, Wash., and Irvine, Calif. Learn more about our vision of health for a better world at Providence.org.
+
+## About Nuance Communications
+
+Nuance Communications is a technology pioneer with market leadership in conversational, ambient, and generative AI. Trusted by 77 percent of U.S. hospitals and more than 75 percent of Fortune 100 companies worldwide, Nuance creates intuitive solutions that amplify people's ability to help others. Nuance is a Microsoft company.
+
+## Media Contacts
+
+**Providence**  
+Bryan Kawasaki  
+Tel: 760-684-0822  
+Email: bryan.kawasaki@providence.org  
+
+**Nuance Communications**  
+Caitlyn Treanor  
+Tel: +1.781.565.8926  
+Email: ckeating@microsoft.com

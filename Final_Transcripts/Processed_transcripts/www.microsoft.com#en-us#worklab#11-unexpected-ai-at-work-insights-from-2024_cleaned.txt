@@ -1,0 +1,51 @@
+file name: www.microsoft.com#en-us#worklab#11-unexpected-ai-at-work-insights-from-2024.txt
+
+## Lessons from AI Experts and Business Breakthroughs
+
+AI began to have real impact on business this year, demonstrating its value as both a personal assistant for every employee and a transformation catalyst for every organization. It was also a year of learning, as thought leaders, real-world research, and business breakthroughs all shined a light on how AI will reshape every aspect of work—illuminating both the opportunities and challenges ahead. Along the way, new terms, ideas, and creative use cases emerged. From the illustrative ("islands of intelligence") to the delightful (custom coloring books), here are 11 AI-at-work insights every leader should know.
+
+## Avoid “Islands of Intelligence”
+
+When people first start working with a new tool, there’s a tendency to sequester updated knowledge and workflows from others. This creates “islands of intelligence” that stymie knowledge sharing and, over time, critical business transformation. With AI, it’s essential to encourage sharing and discussion across your organization. A.J. Brush, a Microsoft Partner Group Product Manager, states, “People react to what others do, not always what they say. When people see their leaders using the same tools and sharing what they’ve learned, they get excited to do the same.” Bridging the gaps between those islands is necessary to build your organization’s collective brainpower.
+
+## Partner Up
+
+For decades, humans have been conditioned to work with technology by issuing commands. Think of how we use a calculator: you input some numbers and symbols, and it responds with an output. AI can operate like that, but it works best if you treat it like a colleague rather than a calculator. When asking it to write a first draft or create a deck, it may not get things right on the first try, so it's important to iterate with it or “co-create.” This process involves having a conversation and working through ideas until you land in the right place. Also, with AI, as with humans, it never hurts to say “please” and “thank you.”
+
+## Remember: BYOAI Is Not Safe for Work
+
+By the first half of 2024, 75 percent of employees were using AI at work, but their employers struggled to keep up. The 2024 Work Trend Index Annual Report found that almost 80 percent of AI users bring their own AI tools to work, with this number jumping to 85 percent for Gen Z employees. These unsanctioned “BYOAI” tools may help individual employees boost productivity, but they undermine the team- and organization-wide benefits of AI and pose risks to company data. A company-wide AI rollout should be a top priority for every leader.
+
+## Use AI to “Write Out Loud”
+
+Many have experienced blank screen syndrome, which can lead to a loss of time and productivity. A team at materials science company Dow discovered how AI can address this issue and used it to reinvent how they produce technical white papers. They schedule and record meetings to discuss a topic in depth, with the aim of handing the transcript over to Copilot to weave the conversation into a clear, cohesive first draft. This approach, termed “writing out loud,” transforms a task that once required hours into one that can be accomplished in just 30 minutes.
+
+## Think of AI Like…MapQuest?
+
+AI inspires various metaphors, and one comparison made by Microsoft Chief Scientist Jaime Teevan is to advances in map technology. While it's certainly useful to tap AI to summarize documents, limiting the technology to basic tasks is akin to printing out MapQuest directions for navigation. Thinking more expansively about the potential of digital maps led to innovations like traffic prediction and rideshare apps. Approaching AI creatively promises to unlock similarly transformative leaps in value.
+
+## Consider Your Entire AI System
+
+With the proliferation of large language models (LLMs), businesses must remember that as these models become commodities, they will become less differentiated. Microsoft CMO of AI at Work Jared Spataro explains that while the model is an important part of an AI system, it is not the only part. Companies should focus more on integrating these models with their own data and workflows.
+
+## Accelerate AI Adoption—and the Sales Will Follow
+
+Lumen President and CEO Kate Johnson shared insights on using AI to advance her telecom company. Initially, when Lumen rolled out Copilot, adoption metrics were low. After auditing her usage and finding she was using AI much less than anticipated, she made a conscious effort to incorporate Copilot into her daily routine and share her habits with other leaders. This approach sparked broader adoption throughout the organization, ultimately resulting in saving about 30 minutes a day per employee. The technology has been particularly transformative for their sales department.
+
+## Take a Functional Approach
+
+To help business leaders understand how AI will fundamentally transform every major business function, Microsoft consulted seven functional leaders on their AI adoption journeys. The consensus was to look for the team's biggest pain points and apply AI to address them.
+
+## Start Deploying AI Agents Today
+
+Companies like Dow are already using agents to cut costs. In 2024, Dow started deploying agents to automate the shipping invoice analysis process and streamline its global supply chain, addressing inaccuracies in invoices that could lead to significant financial overpayments. Dow Chief Information and Chief Digital Officer Melanie Kalmar noted that even a 1 percent improvement in invoice assessment could yield substantial savings.
+
+## Don’t Forget to Have Fun
+
+Podcast host Molly Wood often asks guests how they use AI in their work and personal lives. Kevin Novak, founder of Rackhouse Ventures, shared a heartwarming use case: creating custom coloring books for his three-and-a-half-year-old child using AI-generated images from their adventures. This example illustrates the transformative potential of AI not only in professional environments but also in personal and familial contexts.
+
+Want more essential insights on AI and the future of work? Subscribe to the WorkLab newsletter.
+
+## Results
+
+2024 Work Trend Index Annual Report

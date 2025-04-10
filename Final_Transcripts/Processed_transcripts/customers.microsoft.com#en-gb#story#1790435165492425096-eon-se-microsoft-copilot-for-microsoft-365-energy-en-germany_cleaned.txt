@@ -1,0 +1,35 @@
+file name: 1790435165492425096-eon-se-microsoft-copilot-for-microsoft-365-energy-en-germany.txt
+
+## Introduction
+
+Germany’s energy transition is changing two fundamental aspects of the country’s energy supply. First, the shift away from conventional, centralized provision through large power plants and toward green electricity is making supply more volatile. Second, energy production is becoming more decentralized through the use of geographically dispersed micro-facilities. It’s up to energy providers such as E.ON to manage this complex grid and connect all its components logically and in real time. This ties up a great deal of the workforce, whose capacity is then unavailable for other tasks. That’s why E.ON is using artificial intelligence to make its employees’ lives easier. By increasing productivity and efficiency, Copilot for Microsoft 365 is helping to transform the energy market.
+
+## E.ON's Challenges with Decentralized Energy Production
+
+Where once a single power plant would supply electricity to hundreds of thousands of homes, there are now millions of units of distributed generation in play. In Germany, most of these are solar systems and wind turbines, but hydroelectric, geothermal, and biogas plants are also in place where they are the most efficient option. Someone has to check and adjust the technical conditions for thousands of new power producers and come up with new supply strategies and more efficient processes—that’s a whole lot of extra work for companies such as E.ON.
+
+“Switching from a centralized to a decentralized energy supply wouldn’t be possible if it weren’t for the digital transformation,” says Sebastian Weber, CIO of E.ON. “That includes smart IT infrastructure, digital management of power grids, and intelligent collaboration tools.” These grids feature myriad measuring stations delivering a continuous stream of data to the technicians in the control centers. Dashboards help them manage the grids and keep them running thanks to predictive maintenance. 
+
+“The only way to ensure efficient and high-quality processing of all this data is with the help of artificial intelligence,” says Oliver Müller, Head of User Services – M365 at E.ON.
+
+## Data Management at E.ON
+
+Data drives the work of E.ON’s roughly 80,000 employees. Their analyses, strategies, and knowledge management—all within the company’s Microsoft 365 environment—form the basis for all the work done on grid infrastructure. They use Microsoft 365 to create presentations and graphics, as well as to amalgamate data. "The challenge here is once again to achieve the required speed and high level of data consistency," Müller says. “Especially for tasks that are repetitive or easy to prepare, we were looking for an assistant that would allow us to work more efficiently with the standard Office solutions E.ON has in place.” The company decided to take part in an early access program (EAP) for Copilot for Microsoft 365.
+
+## Essential Use Cases for Copilot
+
+Through this Microsoft EAP, E.ON has already identified three essential use cases for Copilot: assisting with daily work tasks, transcribing and minuting Microsoft Teams meetings, and efficiently locating files, chats, and emails via the Microsoft 365 Copilot chat.
+
+Take this practical example: The task is to put together a presentation, but the facts and figures required are not at hand. Tracking them down can take up a great deal of time, especially if this involves combing through less frequently used sources. Copilot can search through all the data employees have access to in seconds to find the right answers. “This speeds up the whole process enormously, freeing up time that we can then invest in tasks that really add value,” Müller says.
+
+Copilot can even generate the basic framework for a presentation using the corporate design, providing employees with a first draft that they can then expand on and refine. “Copilot does the prep work and can assist with a wide range of tasks,” Weber says. “But creative work and quality assurance remain in human hands.”
+
+## Meeting Efficiency
+
+Meetings are still a fixed part of day-to-day work, but employees no longer have to transcribe them in order to produce minutes or to-do lists—Copilot now does all that. Participants can devote all their attention to the topics under discussion.
+
+E.ON is currently in the process of evaluating the results of the EAP to ensure the smartest allocation of Copilot licenses. “We have to decide where Copilot can be used long-term and to the greatest effect.”
+
+## Conclusion
+
+“The challenge here is once again to achieve the required speed and high level of data consistency. Especially for tasks that are repetitive or easy to prepare, we were looking for an assistant that would allow us to work more efficiently with the standard Office solutions E.ON has in place,” concludes Oliver Müller, Head of User Services - M365, E.ON.

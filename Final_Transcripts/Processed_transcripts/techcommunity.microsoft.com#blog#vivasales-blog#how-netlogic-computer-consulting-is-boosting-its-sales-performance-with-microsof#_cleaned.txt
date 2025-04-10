@@ -1,0 +1,35 @@
+file name: techcommunity.microsoft.com#vivasales-blog#how-netlogic-computer-consulting-is-boosting-its-sales-performance-with-microsof.txt
+
+## Introduction
+
+With Microsoft Copilot for Sales, Netlogic is enhancing sales performance, delighting customers, and improving employee work-life balance.
+
+## Challenges in Productivity
+
+David Swenson, Chief Information Officer at Netlogic, shared, "It has been a long journey to find the right solution for our productivity challenges." The team often faces difficulties managing numerous email threads daily. The introduction of the email thread summary feature has been a game changer, allowing them to quickly distill important points into six bullet points for actionable insights.
+
+As a virtual CIO for his customers, David relies on Outlook and Teams to stay connected, guiding clients through technology road-mapping, budgeting, purchasing, training, and deploying services like Azure, AWS, and Microsoft 365. Daily, he attends multiple customer meetings, taking notes and creating summaries for follow-ups. At the end of each day, he meticulously saves his notes into Dynamics 365 Sales for his stakeholders.
+
+## Notetaking Challenges
+
+Accurate notetaking is crucial for keeping Netlogic's customers satisfied and ensuring deals progress. However, notetaking styles and skills vary significantly among team members, which can lead to crucial information being inaccurately captured or entirely omitted. This inconsistency necessitated alignment before responding to customers, wasting time and extending the sales cycle. This inefficiency was particularly pronounced for new employees still acclimating to contract terms and products.
+
+## Implementing Copilot for Sales
+
+In November 2022, David and his business development team began using features of Copilot for Sales to address these challenges. The tool utilizes Natural Language Processing (NLP) to analyze transcribed Teams meeting discussions, generating key highlights relevant for sales roles. It automatically creates meeting summaries in Outlook from these highlights, which David then saves to the CRM, enabling his team to share information swiftly.
+
+David noted, "Using Copilot for Sales for meeting summaries has saved me at least 30 minutes per meeting." This efficiency has allowed him to close deals faster and has drastically improved his closing rate. The standardized notes produced by Copilot for Sales eliminate discrepancies, further saving time by reducing the need for cross-checking notes.
+
+## Enhanced Customer Interactions
+
+With Copilot for Sales, David can concentrate on customer interactions during meetings, leading to improved quality. The tool's mentions help him track significant keywords, such as product names or key participants, empowering him to respond to customer needs promptly. As a result, customers are happier due to receiving information more quickly, allowing them to make faster decisions.
+
+## Broader Impact on Netlogic
+
+Copilot for Sales also benefits Netlogic beyond the sales team. The swift distribution of information among David's business development team ensures that other departments, like field services, are well-prepared for customer calls. Additionally, the digital optimization team has leveraged insights from meeting notes to identify trends in customer challenges, enhancing existing sales operations. The availability of standardized notes aids newer salespeople in training while on the job.
+
+David remarked, "We have a young sales team with little industry experience. Using these tools across our business areas has not only standardized customer notes but also educated our team about the sales and contract processes." The advantages of recording and summarizing meetings have led to their inclusion in customer contracts as a standard procedure.
+
+## Conclusion
+
+Overall, Microsoft Copilot for Sales has empowered David and his team to derive more value from CRM data by integrating insights into Outlook and Teams. Meeting summaries and the capabilities of Copilot have significantly enhanced the customer experience while reducing the sales cycle time. David emphasizes that implementing Copilot for Sales has saved time, enhanced skills, and improved work-life balance, resulting in a remarkable 25% revenue increase in just one quarter, driven by enhanced efficiency and reduced burnout. "We finish tasks quickly, enjoy our personal time, and, therefore, are more productive the next day," he concluded.

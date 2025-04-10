@@ -1,0 +1,63 @@
+file name: customers.microsoft.com#en-us#story#ocgoodwill-azure-ai-services-nonprofit.txt
+
+## Introduction
+
+To expand the pool of people ShopGoodwill.com can employ and to grow revenue used for its mission, Goodwill of Orange County developed an AI-powered app. The solution utilizes Azure AI capabilities to identify an item of clothing and extract information from photos of labels, subsequently creating a listing description through generative AI. This innovation allows more individuals—including those with developmental, intellectual, and physical disabilities—to secure employment in previously unfilled e-commerce positions, while also preventing more clothing from ending up in landfills.
+
+## The Role of Goodwill of Orange County
+
+In a cavernous warehouse in Orange County, California, employees sort through a vast array of donated items, including watches, electronics, designer bags, bikes, toys, clothing, and more. These items are photographed and listed for sale on Goodwill’s e-commerce site, ShopGoodwill.com. The 150 independent Goodwills across the US primarily generate revenue from in-person shopping at retail stores, with the online portal serving as a supplemental income stream to support local programming, from youth camps to employment services.
+
+Goodwill of Orange County has partnered with Microsoft since 2018 to modernize ShopGoodwill.com, resulting in impressive growth. Following the nonprofit's transition from an on-premise datacenter to the Microsoft Azure stack, both traffic and revenue quadrupled.
+
+## AI Innovation
+
+“We knew we could have that kind of huge impact with other innovation,” states Ryan Smith, Vice President of Online Operations at ShopGoodwill.com and Goodwill of Orange County. The nonprofit is now developing and deploying an app built on Azure AI Services with assistance from Microsoft Tech for Social Impact. This initiative aims to streamline the ShopGoodwill.com listing process, increase employment opportunities, and boost the site’s revenue.
+
+“Microsoft is inspiring us and providing support to think differently about how we deliver our mission,” Smith adds. “AI is bringing us and the nonprofit sector opportunities to really drive success, today and in the future.”
+
+ShopGoodwill.com is dedicated to empowering individuals looking for work, regardless of their backgrounds. The nonprofit assists veterans, individuals with mental health diagnoses, people with disabilities, those who were formerly incarcerated, and others in finding and applying for jobs, reentering the workforce, acquiring essential skills, and advancing their careers.
+
+## Challenges in the Listing Process
+
+One of the challenges faced by ShopGoodwill.com is filling open positions due to the complexities involved in the current listing process, which requires employees to thoroughly research items, write grammatically correct descriptions, and understand product details, such as differentiating between crew neck and v-neck tops.
+
+“This new AI-powered image categorization app will allow our listers to overcome those barriers to entry,” Smith remarks. “We believe this AI-enabled tool will put our team members into the right conditions to help them achieve their best.”
+
+Smith’s team started building an AI model to categorize images of clothing using Azure AI Services, further refined during a Microsoft hackathon. This model is being tested in the warehouse at Orange County’s ShopGoodwill.com, with plans for a nationwide release once ready.
+
+## Functionality of the App
+
+The app functions by allowing a lister to take photos of an item of clothing. Azure AI Custom Vision analyzes the image to recognize and classify the item, for example, identifying it as a woman’s blouse. Azure AI Vision then extracts information from the item’s label or tags. This data, securely hosted in Azure, is utilized to generate a description for the listing via a large language model (LLM).
+
+Listers can also add specifics, such as details about a frayed collar or dry cleaning requirements, which are incorporated into the computer-generated description. They have the option to edit the description accordingly. Each Goodwill can customize posting rules, either requiring a review before publishing or allowing employees to list items directly from the app.
+
+“We can get this app into the hands of people who otherwise wouldn’t be able to do this work, and that’s super exciting to us,” Smith states.
+
+## User-Friendly Design Focus
+
+With the AI model now established, Goodwill of Orange County is collaborating with Microsoft partner Valorem Reply to create a user-friendly app, set to enter beta testing soon. They are prioritizing design elements such as a high-contrast mode to assist users with low vision. Plans for future versions include enhancing accessibility, such as integrating compatibility with assistive technologies and enabling voice command functionalities. The team will actively seek user feedback for continuous improvement of accessibility features. “We have a great relationship with our team members, and when they tell us there’s a gap in the design, we’ll be able to address it and update accessibility features really quickly,” Smith explains.
+
+## Addressing AI Risks
+
+As with all generative AI, the tool carries inherent risks. “We know AI makes mistakes from time to time, so we’re working constantly to make sure it is safe,” Smith clarifies. The app leverages built-in safeguards within Azure AI Services to limit unintended AI-generated content and mitigate misuse of the technology. Additionally, it employs content filters to avert problematic words from affecting the generative AI or users.
+
+## Mission and Impact
+
+“Everyone deserves the opportunity to work, no matter their skills or abilities,” Smith asserts. "With this solution, we're fulfilling our mission to employ more people.” The income generated from ShopGoodwill.com remains within the communities where items were donated and are listed. These funds directly support programs that aid individuals in accessing career development resources, overcoming challenges, and living more independent lives. “The e-commerce site is a revenue engine for Goodwills across the country, fueling the local programs that support their communities,” Smith emphasizes. “We’re entrusted with donations, and ShopGoodwill.com helps us maximize revenue for the greatest impact on our mission.”
+
+Increasing the capacity to sell on the online platform will yield more resources for career centers, supported employment initiatives, and various other programs.
+
+## Efficiency Gains
+
+Goodwill of Orange County estimates that research and writing item descriptions currently consume 35-45 percent of the time required to create a listing for ShopGoodwill.com. The AI-powered app is expected to handle this work in a fraction of the time. “A 35 percent increase in the number of items a lister can post is huge at our scale,” Smith notes. ShopGoodwill.com generates approximately $9 million in clothing sales each month, so widespread adoption of the tool could effectively push that figure beyond $12 million.
+
+With streamlined posting processes, ShopGoodwill.com aims to direct more product to its e-commerce platform—again leading to increased revenue that supports the Goodwill mission. Moreover, Smith foresees an AI feature that will utilize aggregate sales history to provide optimal pricing recommendations for each item, with future updates including additional clothing categories.
+
+## Environmental Contributions
+
+Boosting online sales volume aligns with Goodwill’s environmental goals as well. “By giving clothing a second or even third life, we keep products out of landfills and help our environmental bottom line,” Smith highlights.
+
+This initiative represents Goodwill of Orange County's inaugural venture into AI technology—but certainly not its last. “Microsoft is giving us the opportunity to use tech for projects that truly impact society. The potential of AI is helping nonprofits double, even triple their impact. The world is just opening up in this AI space,” Smith concludes.
+
+Find out more about Goodwill of Orange County on Facebook and LinkedIn.

@@ -1,0 +1,27 @@
+file name: microsoft.com#en-us#worklab#podcast#regain-control-of-your-focus-and-attention-with-researcher-gloria-mark.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Elise Hu. On WorkLab, I hear from leading thinkers on the future of work. Economists, designers, psychologists, and technologists share surprising data and explore the trends transforming the way we work.
+
+## Guest Overview
+
+Gloria Mark, a professor of informatics at the University of California, Irvine, and a visiting researcher at Microsoft since 2012, is the author of the new book *Attention Span: A Groundbreaking Way to Restore Balance, Happiness, and Productivity*. Mark has significant insights into the decline of attention spans, having researched the topic since 2004. In her findings, she notes that people now spend an average of only 47 seconds on any given screen before switching to another. 
+
+Mark provides research-based tips for regaining control over attention and combats the constant distractions prevalent in today’s work environment. Furthermore, she hints at future possibilities where AI may help improve work wellbeing by recognizing when mental resources are low and suggesting appropriate breaks.
+
+## Tips for Overcoming Distractions
+
+Mark has three key strategies to help individuals overcome distractions:
+
+1. **Get Curious**: Embrace “meta-awareness,” which means being conscious of what you’re doing as it unfolds. Mark emphasizes that many actions are automatic, such as instinctively checking social media. By raising these behaviors to your conscious awareness, you become intentional in your actions and can reflect on your motivations—perhaps you simply need a break.
+
+2. **Picture Your Future Self**: Practice forethought by envisioning how your current actions will impact your future self. For example, consider the urge to check the news at work. Visualizing whether that decision will leave you fulfilled or working late on an overdue report can influence your choices.
+
+3. **Design Your Day**: Plan to engage in tasks that require the most thought and creativity during your peak performance times. Mark recommends incorporating breaks into your schedule, referencing the Japanese concept of yohaku no bi, which highlights the value of empty space in your day. This time for contemplation, meditation, or simply a walk can help replenish your mental resources.
+
+## Conclusion
+
+WorkLab serves as a platform for experts like Gloria Mark to share insights and contribute to the ongoing discussion about the future of work. While the opinions of guests are invaluable, they do not necessarily reflect Microsoft’s own research or perspectives. 
+
+For further insights, follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.

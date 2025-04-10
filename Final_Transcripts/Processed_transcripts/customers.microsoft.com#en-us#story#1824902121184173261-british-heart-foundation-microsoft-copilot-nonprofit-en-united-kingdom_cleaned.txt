@@ -1,0 +1,51 @@
+file name: customers.microsoft.com#en-us#story#british-heart-foundation-microsoft-copilot-nonprofit-en-united-kingdom.txt
+
+## Introduction
+
+The British Heart Foundation (BHF) is Europe’s largest funder of research into heart and circulatory disease and finances projects using AI to accelerate scientific breakthroughs. The organization is testing Microsoft 365 Copilot with about 300 employees to enhance business operations.
+
+## Microsoft 365 Copilot Trial
+
+BHF staff are using the AI assistant for various tasks, such as staying updated on office communication, crafting emails and documents, and searching across the nonprofit’s tech platforms. In initial tests, users estimate that Microsoft 365 Copilot could save them up to 30 minutes per day. These efficiencies allow employees to collaborate more effectively, tackle significant projects, and maintain a culture of innovation.
+
+## Impact of Funding and Research
+
+BHF funds life-saving initiatives, including correcting genes that cause inherited heart disease and developing AI models to identify individuals at high risk of fatal heart attacks. The organization invests over £100 million annually into cutting-edge cardiovascular research. As a nonprofit committed to advancing medical understanding, BHF aims to leverage AI for greater breakthroughs that can help the 7.6 million people in the UK and over half a billion people worldwide affected by heart and circulatory diseases.
+
+## Employee Insights
+
+“Technology plays a part in everything we do at the British Heart Foundation, and everything we do is experimentation,” said Alex Duncan, Chief Technology Officer at BHF. “So when Copilot was introduced to us, my question was, how quickly can we get this?”
+
+BHF’s trial of Microsoft 365 Copilot aims to support employees in fulfilling the organization’s mission. Duncan notes, “We wanted to be at the forefront of this Microsoft technology because we can see the opportunities for us.” 
+
+## Gains in Efficiency and Productivity
+
+Early results from the implementation of Microsoft 365 Copilot indicate improvements in efficiency and productivity, enabling staff to enjoy a better quality of working life. Thomas Sorensen, Technology Innovation Manager at BHF, explained, “Microsoft 365 Copilot is helping us be more efficient so we can work harder and faster on our mission.”
+
+## Addressing Health Challenges
+
+With more than half the UK population expected to be diagnosed with a heart or circulatory condition in their lifetime, BHF's work is increasingly vital. “I think AI is going to change the way we do everything,” Duncan remarked. 
+
+Staff have reported that Microsoft 365 Copilot aids by summarizing key takeaways from lengthy documents, effectively taking minutes in meetings, and searching for information across various Microsoft platforms. Tasks that once required considerable time are now streamlined. Sorensen highlighted, “This alleviates challenges for our colleagues, particularly project managers and those with a meeting-heavy work life.”
+
+## Enhancing Organizational Culture
+
+The time saved through Copilot also contributes to a more collaborative culture. Peter Ugbashi, Technology Graduate at BHF, shared, “With the time I save with Copilot, I invest that time in helping my colleagues.” Staff are using the saved time for skill development and professional growth.
+
+## Future Innovations
+
+While the deployment of Microsoft 365 Copilot at BHF is recent, the organization is optimistic about its potential to facilitate more mission-driven work. Ugbashi stated, “With Copilot, we’re helping our colleagues gain time back to come up with ideas that move the organization forward.”
+
+Sorensen emphasized the importance of AI, describing it as “arguably the key disruptive technology of our time.” Microsoft 365 Copilot's built-in security features, alongside emerging organizational policies for AI use, provide a framework for safe experimentation.
+
+## Inclusive AI Usage
+
+BHF has also emphasized inclusion, granting licenses for Microsoft 365 Copilot across all departments and roles. Duncan noted, “We’re thinking about how we make sure this is an inclusive environment for everybody.” The pilot has helped improve accessibility for staff, especially through features like Microsoft Teams transcripts and the drafting tool within Word, Outlook, and PowerPoint.
+
+Ugbashi uses the coaching capability of Copilot to enhance his professional communication, particularly given his diverse workplace. “Now I’m more confident,” he remarked, reflecting on the positive impact of the tool on his communication skills.
+
+## Conclusion
+
+Looking ahead, BHF envisions future AI-powered innovations, including a Microsoft Copilot Studio prototype that would allow public interaction with BHF's published content in new ways. Sorensen advises organizations considering AI tools to act decisively: “Get started as early as you can. Use it as an engine for innovation.”
+
+Find out more about the British Heart Foundation on Twitter, Facebook, and LinkedIn.

@@ -1,0 +1,26 @@
+file name: microsoft-deputy-cto-sam-schillace-on-how-ai-will-shift-our-productivity-paradigm.txt  
+date: October 4, 2023
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in a digital age. Today, I am very excited to be talking to Sam Schillace, who has been transforming the way we work for decades.
+
+## Shifting Productivity Paradigms
+
+Sam Schillace’s breakthroughs in collaboration technology and engineering leadership have helped transform the way we work. In this episode, the Microsoft CVP and Deputy CTO discusses his experiences developing and using AI tools, and how they have the potential to shift our productivity paradigm. He also shares his perspective on what leaders need to do to foster creativity and innovation, and how they can stay ahead of the curve in a moment of technological disruption and transformation.
+
+Schillace is the second guest for season 5 of Microsoft’s WorkLab podcast, in which host Molly Wood has conversations with economists, technologists, and researchers who explore the data and insights about the work trends you need to know today—from how to use AI effectively to what it takes to thrive in a digital age.
+
+## Key Takeaways from the Conversation
+
+1. **Technological Transition**: Schillace believes that we’re on the cusp of a transition that could be as profound as the one at the dawn of the computer age, with the ability to use conversational speech with AI being a key reason. “We think the computer is a tool for helping us, but a lot of what we do is we are really helping the computer do stuff. If you don’t think that’s true, tell me how often you spend time trying to fix the formatting, not understanding why it’s not working right.” He emphasizes that we’ve previously learned the syntax computers understand, but now we’re moving to a more semantic realm where the computer can have context, knowing what you’re doing and being able to actually help you instead of you helping the computer.
+
+2. **Growth Mindset for Leaders**: Schillace encourages leaders to approach this moment of technological disruption and opportunities with open-mindedness and a growth mindset. “Being able to know what you don’t know, being able to ask questions in an environment where you have low information and be aware of things like biases and preconceptions that prevent you from getting good results out of an AI tool, I think is useful. I think a growth mindset is going to be much more important now than it’s ever been.”
+
+3. **Optimism in Innovation**: Reflecting on his own record of innovation, Schillace notes that breakthroughs often come from unexpected places and a positive approach. “Don’t ask the why not questions. What if is a better question,” he states. “What does the world look like if this works? And if the what if question is compelling, then you work through the why not problems…the real prize comes from being optimistic and right. And the real penalty comes from being pessimistic and wrong.”
+
+## Conclusion
+
+There's a lot to look forward to if business leaders act out of excitement, not fear. Additionally, Schillace offers advice for leaders on building a diversified “portfolio life” and rethinking careers and growth in the AI-powered work environment.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.

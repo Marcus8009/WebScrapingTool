@@ -1,0 +1,59 @@
+file name: microsoft.com#en-us#worklab#ai-impact-at-dow-copilot-identifies-millions-in-cost-savings.txt
+
+## Introduction
+
+On a sprawling operations floor at Dow headquarters in Midland, Michigan, invoices flow in an unending stream. Billing statements from up to 4,000 daily shipments—emailed PDFs, Electronic Data Interchange transactions, paper—move through the system 24/7, detailing everything from freight surcharges to refrigeration costs. Each invoice represents a piece in the company’s enormous supply chain puzzle, and every line item needs verification against contracts and the realities of that particular shipment’s journey.
+
+For a global materials science company, paying to move everything from the silicon for your smartphone to the foam for your mattress is simply the cost of doing business. Dow spends several billion dollars annually on outbound shipping alone. This expense masks a common business reality ripe for AI transformation: even in an era of hyper-automation and efficiency, inaccurate charges buried in hundreds of thousands of invoices—misapplied fees, undetected errors—can quietly build up significant potential overpayments.
+
+## Challenge
+
+“If we had a better way to assess and track invoicing errors—even a 1 percent improvement would mean substantial savings,” says Melanie Kalmar, Chief Information and Chief Digital Officer at Dow. 
+
+“Having so many sources of data coming in can overwhelm traditional systems and boggle the human brain,” she explains. Kalmar has spent decades looking for untapped potential in her company’s digital landscape. Taking action against those invoicing issues required innovation.
+
+## Solution
+
+So Dow partnered with Microsoft to use Copilot and agents to automate the shipping invoice analysis process and streamline Dow’s global supply chain, unlocking efficiencies and value in ways that were previously unimaginable. 
+
+Jared Spataro, Microsoft Chief Marketing Officer of AI at Work, describes this transformation: “Think of agents as the new apps for an AI-powered world. Every organization will have a constellation of agents—from simple to fully autonomous. They will work on behalf of an individual, team, or function to execute and orchestrate business processes. Copilot is how you’ll interact with these agents.”
+
+To transform the invoice verification process at Dow, the team built two types of AI agents. The first is an autonomous agent, created in Copilot Studio, that monitors incoming email for attached PDF invoices and structures the data for analysis. Given that Dow receives 20 percent of its shipping invoices via PDF—more than 100,000 of them a year—visibility into that data is essential. 
+
+The autonomous agent then scans for billing inaccuracies, surfacing them in a dashboard where employees can use the second agent—a prompt-and-response agent in Copilot that they call the Freight Agent—to investigate further by “dialoguing with the data” in natural language.
+
+## Early Results
+
+Just a few weeks into the proof-of-concept phase, employees were using the agents to analyze thousands of invoices for outbound land-based shipping in North America, flagging anomalies and highlighting potential savings. Once the system is fully scaled to all shipping modes around the globe, Dow anticipates increased accuracy in logistic rates and billing, which should result in the company saving millions of dollars in shipping costs in the first year.
+
+“Seeing how an agent could solve the riddle of hidden losses autonomously, and in minutes rather than weeks or months—we knew this was the future,” says Mike Weideman, Senior IT Director at Dow.
+
+## Workshop Insights
+
+During a workshop in August that brought together around two dozen Dow and Microsoft supply chain, IT, and operations specialists, participants shared their challenges with the verification process. Tami Sowle, Logistics Operational Excellence Manager at Dow, explained, “We get these 20-page invoices, and there’s often no way to tell if they’ve already been processed or if we’re overpaying.” Her employees were bogged down by manual checks and balances and unable to efficiently audit invoices, particularly complex ones filled with obscure “accessorial” fees—charges related to delays, temperature control, or extra services.
+
+This insight crystallized the project goals. “Invoicing was going to be fertile ground for AI’s potential to reshape workflows,” says Microsoft Principal Software Engineer Brennen Cage.
+
+## Implementation
+
+Cage took the lead in building the Freight Agent. In less than 48 hours, he used Dow’s Integrated Data Hub platform, built on Microsoft technology, to ingest eight months of 2024 data—invoiced charges for 43,000 shipments. Prompts for the agent began to reveal anomalies in the data quickly.
+
+By querying the Freight Agent, Dow employees can see invoice anomalies, like discrepancies between the expected cost and the charge on the invoice.
+
+When Cage demonstrated the system to Kalmar’s team, they were wide-eyed. Invoice errors that typically required hours, days, or weeks of tedious manual auditing now surfaced in a few keystrokes. Cage remarked, “Boom,” as he discovered a particular surcharge showing up at $30,000 when the typical rate is $5,000. 
+
+## Future of AI Agents at Dow
+
+Dow Global ISC Innovation Director Jeff Tazelaar envisions the future with a network of autonomous agents working together seamlessly. With over 100 use cases already identified for leveraging agents across the supply chain, it’s clear this technology can support both cost reduction and revenue growth.
+
+“It improves the way we’re doing our jobs and are being productive,” says Sowle. The dynamic nature of these AI agents allows Dow to interact with information in a transformative manner.
+
+## Conclusion
+
+As the lead of Dow’s digital transformation, Kalmar recognizes the need for upskilling and broad adoption of AI tools within the organization. She understands that meeting operational challenges with AI is not solely about IT but about embracing a broader change.
+
+“Word is getting around,” she says. “Now people are knocking on the door, saying, ‘Hey, can you help?’”
+
+By following Dow’s lead, other organizations can also start their own AI transformation journeys. Key takeaways include identifying the biggest process challenge and grounding AI in organizational data, as well as measuring progress with set KPIs.
+
+For those interested in learning more about transforming organizations with AI, subscribing to the WorkLab newsletter is a great starting point.

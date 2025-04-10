@@ -1,0 +1,31 @@
+file name: customers.microsoft.com#en-us#story#1823424868741213189-syensqo-azure-open-ai-service-other-en-belgium.txt
+
+## Introduction
+
+Syensqo.AI, a division started only six months ago by the Belgian science and technology powerhouse Syensqo, has developed SyGPT, an advanced AI chatbot powered by Azure OpenAI Service. This project aims to enhance data access and operational efficiency within Syensqo, using different data sources to answer questions via an internal chatbot. Syensqo.AI leverages Azure OpenAI Service, providing fast and efficient answers in a secure manner.
+
+## Key Features and Development
+
+The key capability of SyGPT is the ability to access data in a secured manner. Vincent Colegrave, Head of Syensqo.AI, stated, "The key capability is really accessing data in a secured manner. We’re going live with a chatbot capability that allows our colleagues to access data from different applications, databases, and existing data storage services in the company securely."
+
+The journey to create SyGPT was driven by the need for rapid deployment and immediate value extraction. Colegrave shared, "We started talking with Microsoft three and a half months ago, and two weeks after, we started coding. Three months down the road, we are already going live." This collaboration with Microsoft provided the technological foundation required for such swift progress.
+
+## Technical Integration
+
+Syensqo relied on the seamless integration of Azure AI Services for the realization of their use case. Colegrave remarked, "We leveraged Azure AI Services and the general Microsoft Azure technology stack, Azure OpenAI Service in specific." This foundation ensured that Syensqo could deploy SyGPT at scale, meeting the demands of their global operations.
+
+Additionally, Syensqo.AI makes use of Azure Cosmos DB for globally distributed, multi-model database management, ensuring high availability and low latency. The integration of Azure API Management ensures secure and scalable API connections to existing databases, apps, and other data storage services within Syensqo, maintaining data safety and privacy.
+
+## Data Utilization
+
+The sources of AI for SyGPT will come from API connections to existing databases, applications, and other data storage services within Syensqo. These API connections are secured to ensure the safety and privacy of the data. For instance, Syensqo’s extensive research and development database, which contains years of scientific research, experimental results, and proprietary data, will be integrated via Microsoft Azure API Management. This will allow SyGPT to utilize a vast amount of internal data, making it a powerful tool for research and data analysis.
+
+## Stakeholder Benefits and Impact
+
+SyGPT benefits a wide range of stakeholders within Syensqo, enhancing data access, operational efficiency, and collaboration through a centralized, secure data hub powered by AI. The impact of SyGPT has been significant. Colegrave noted, "We tested SyGPT with 80 colleagues who spent almost a month querying and giving feedback. We reported and analyzed more than 100 bugs." The feedback has been overwhelmingly positive, highlighting the efficiency and security of the tool.
+
+This rigorous testing phase validated the tool's capabilities and provided valuable insights for future improvements. Colegrave elaborated, "We want to embed more models and follow the fast-evolving technology. Our goal is to bring the best value to our colleagues."
+
+## Conclusion
+
+The partnership between Syensqo.AI and Microsoft has led to the successful development and deployment of SyGPT, a chatbot that significantly enhances data access and operational efficiency. With a strong technological foundation and a shared commitment to innovation, both companies are poised to explore further advancements in AI technology.

@@ -1,0 +1,41 @@
+file name: linkedin.com#pulse#can-ai-help-jared-spataro-f5esc.txt
+
+## Introduction
+
+Welcome back to AI at Work, a newsletter and video series that decodes the future of business. In my series on AI-native organizations, Part 1 uncovered the core principles of AI natives, Part 2 zoomed in on one business in detail, and now, in Part 3, let’s look at how every company can start using these insights.
+
+## The Challenge of Reinvention
+
+Savvy startups are weaving AI into every new process and practice. But let’s face it: Unlike these AI-native organizations, most companies aren’t building everything from scratch. They have legacy processes, work habits, and business methods. Their fundamental challenge is reinvention.
+
+What can existing companies learn from AI natives? It’s about developing an AI-native mindset, always looking out for how AI might solve challenges or open new possibilities. Every company can become what I like to think of as AI-first (even global corporations like Microsoft). Here’s how to get started.
+
+## Learning from AI Natives
+
+In our conversations with AI-native leaders, we frequently heard the same advice. Whenever they face a challenge or introduce a new task, they start by asking themselves, “Can AI help with this?” Can AI draw up HR policies? Train the sales team? Help get our product on the market faster?
+
+You’re probably not creating as many net-new processes as AI natives do, but you can evaluate existing ones. Consider your challenges. Ask yourself, what single improvement would have the most profound effect on my business? And how can AI help?
+
+If you’re in finance, identify your pain points in processes like planning and analysis, and risk management and compliance. In customer service, look at tasks like issue diagnosis and problem resolution.
+
+## Experimenting with AI
+
+Once you’ve identified your business challenges, experiment with AI-first fixes. You might ask employees to use AI to simplify a content creation process, deploy AI agents to handle repetitive tasks, or both.
+
+At Microsoft, we’re not just partnering with customers on their AI transformation—we’re transforming our own work across every function and every process. We’re seeing big results. In sales, using Copilot to increase the pipeline and deal velocity and improve conversion rates led one business group to see a 9.4 percent increase in revenue per seller. A team within our customer service group is using Copilot to resolve cases nearly 12 percent faster.
+
+This kind of AI experimentation is rippling across companies worldwide. At multinational telecommunications company Vodafone, an early study revealed Copilot could save users, on average, four hours a week per person. As Hazel Butler, from the Legal and Business Integrity Team at Vodafone, noted, “We review a lot of contracts. Microsoft 365 Copilot has helped us to review those documents more quickly. This has helped us to provide more accurate and speedy contract reviews and turnaround times.” Vodafone expects this impact to increase as colleagues become more comfortable using the tool, and they're rolling it out to over 68,000 employees.
+
+## Measuring Success with AI
+
+AI natives don’t just use AI; they measure how well it’s working. An AI-native creative agency we talked to reduced the time to produce a major campaign by more than half, from nine months to four.
+
+Consider how your new AI-infused processes influence KPIs or other metrics. In information technology, that means looking at product adoption rates or support ticket resolution time. Marketing teams can measure lead conversion rates, cost per lead, and revenue from leads. Knowing what works helps you plan your next steps.
+
+Consulting firm McKinsey & Company is creating an agent to speed up the client onboarding process. The pilot showed lead time could be reduced by 90 percent and administrative work reduced by 30 percent. The agent automates complex processes, such as identifying the right expert capabilities and staffing teams and acts as a single place where colleagues can ask questions and request follow-ups.
+
+## Conclusion
+
+Making organizational gains with AI requires reimagining processes honed over years, often decades, and taking the first step can feel daunting. Start by finding a business problem and use AI to tackle it. Over time, you’ll develop the organizational practice of asking, “Can AI help with this?” That’s what AI-native organizations do, and that’s the key to an AI-first mindset.
+
+For more insights about AI and the future of work, subscribe to this newsletter.

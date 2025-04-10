@@ -1,0 +1,49 @@
+file name: customers.microsoft.com#en-us#story-1835026746816257326-harvey-azure-openai-service-other-en-united-states.txt
+
+## Introduction
+
+In an industry traditionally underserved by digital innovation, the founders at Harvey are delivering professional-class AI to lawyers around the world. Aligning itself with legal industry leaders, Harvey now runs on Azure AI infrastructure, including Azure OpenAI o1-preview, o1-mini, GPT-4, and GPT-4 turbo models. The platform can summarize and compare documents, perform due diligence, reference case law, and much more.
+
+## Meet Harvey
+
+Harvey is a fast-growing, game-changing legal platform that simplifies the day-to-day workflows of lawyers and maximizes productivity. “The reason it’s been so hard to build technology for industries like legal is the workflows are so varied and complex and no two days are the same,” explains Gabe Pereyra, Cofounder and President at Harvey. Today, tens of thousands of lawyers use Harvey to comb through contracts, summarize or compare multiple documents, perform due diligence, and generate work products. The platform can reference libraries of previous cases and legal precedents, facilitating research and analysis through one generative AI system.
+
+## Building Trust in the Legal Sector
+
+Law firms trust Azure, and Harvey aims to earn that trust as well. The concept for Harvey originated in 2022 with two roommates—one an antitrust and securities litigation lawyer, and the other an AI researcher. They recognized the potential of generative AI to impact the legal space with real-time, high-quality results, pitched the idea to OpenAI, and obtained early access to GPT-4. “It became really obvious what to do with these models,” says Pereyra.
+
+Focusing on the Am Law 100, which ranks the top 100 American law firms, Harvey aims to build trust within elite firms. “We think the most important thing for generative AI is going to be trust, and one of the best ways to achieve that is to gain the trust of leading firms in the industry,” states Pereyra.
+
+## Expanding the Client Base
+
+After quickly winning over many elite law firms, Harvey also expanded its services to in-house legal teams at large enterprises. They have collaborated with a global leader in assurance, tax, and advisory services to create a tax model, which is already deployed in several jurisdictions. “We built this model exclusively for this global firm, and we’re starting to replicate this approach with a large number of law firms,” Pereyra adds.
+
+To maintain trust, Harvey has developed a platform tailored to the legal industry. The team blends legal and AI talent to lead its sales, product, and engineering efforts. “We’ve received compliments from large law firms saying we’re the first legal tech vendor they’ve seen that really understands big law,” says Pereyra.
+
+## Technology Foundation
+
+Harvey’s technology staff has aligned the platform with many leading law firms through a migration to Microsoft Azure and Azure AI infrastructure. “With our need to colocate compute and models, Azure makes that easy,” says Pereyra. The company requires compliance with varied security requirements while ensuring customer data sensitivity. For example, certain customers require that models be hosted in specific regions.
+
+Harvey’s engineers use Azure OpenAI Service o1-preview and o1-mini models, which are effective for reasoning and problem-solving tasks. They also utilize the latest GPT-series models optimized for chat and accuracy. The company has been fine-tuning these models with OpenAI and Microsoft and is exploring the use of NVIDIA accelerated computing on Azure to train open-source models.
+
+## Infrastructure and Data Security
+
+The technology stack at Harvey includes Azure Communication Services, Azure Kubernetes Service (AKS), Azure Database for PostgreSQL, and more. Customer data is stored in Azure Blob Storage with bring your own key (BYOK) configuration, allowing clients to manage their own keys, enhancing security and access control. “We eventually want to build systems used by big companies, financial institutions, and governments,” says Pereyra.
+
+Harvey’s operations continue to scale, taking into account high levels of data protection and model deployment. The firm’s use of Azure enables smooth scaling and infrastructure setup, which has been critical for their operations.
+
+## Impact on Legal Teams
+
+Harvey is already making a significant impact for legal teams and lawyers, with one full-service law firm in Europe reporting increased productivity and enhanced service delivery through cloud technology. By simplifying routine tasks, attorneys can focus on complex legal challenges, improving client relationships. A corporate lawyer noted savings of 10 hours of work per week due to Harvey.
+
+## Future Directions
+
+Since moving to Azure, Harvey can access OpenAI and third-party models from a single vendor along with all necessary infrastructure, allowing for future scalability. The trust associated with Azure is a key advantage for Harvey. “With Harvey on Azure, our customers feel more secure and familiar with the offering,” explains Pereyra.
+
+Collaboration with Microsoft also provides access to AI model development expertise, which has aided smooth migration processes. “If we have a problem, Microsoft is super responsive and helps us figure it out,” he notes.
+
+## Looking Ahead
+
+Moving forward, Harvey plans to strengthen its relationship with Azure by integrating its offerings with Microsoft products, including Microsoft Copilot and Microsoft 365 tools. “This suite of tools is widely used by lawyers and professional services providers, and being connected to all the tools they use located on Azure enhances our product narrative," concludes Pereyra.
+
+Discover more about Harvey on LinkedIn and X/Twitter.

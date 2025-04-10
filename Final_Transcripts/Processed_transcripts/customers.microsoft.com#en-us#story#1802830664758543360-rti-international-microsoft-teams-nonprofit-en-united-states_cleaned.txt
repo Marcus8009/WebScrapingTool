@@ -1,0 +1,41 @@
+file name: 1802830664758543360-rti-international-microsoft-teams-nonprofit-en-united-states.txt
+
+## RTI International and Microsoft 365 Copilot
+
+The independent research institute RTI International enables clients to create evidence-based public policy and data-backed best practices in the realms of social science, engineering, international development, and laboratory sciences. The nonprofit adopted Microsoft 365 Copilot to empower staff to gain productivity wherever possible. RTI anticipates that greater efficiency will allow staff to focus on their areas of expertise, delivering even better science-backed solutions for clients.
+
+## Innovations and Research
+
+Free genomic testing identifies newborns at risk of childhood-onset diseases. A novel technique converts greenhouse gases into fuel that could lower climate change-causing emissions. Machine learning pinpoints schools and childcare facilities at higher risk for exposing kids to lead and asbestos. These innovations are part of studies led by RTI International, an independent, nonprofit research institute dedicated to improving the human condition. RTI's work in social and laboratory sciences, engineering, and international development helps clients inform public policy and ground practice in evidence.
+
+By 2030, RTI aims to improve the well-being of one billion people worldwide through its science-based solutions. With such an ambitious goal, every bit of gained productivity matters. To become more efficient and to support their staff members’ creativity, RTI’s C-suite decided to experiment with Microsoft 365 Copilot, the AI-powered assistant. The pilot showed that even after just a few weeks, staff reliably saved time, and licenses paid for themselves in efficiency and saved billable hours.
+
+## Staff Feedback and Results
+
+“Ultimately, what we have to offer is our energy and our time,” says Amanda Greenway, Manager of Collaboration Technologies at RTI. “As much as we can route away from tasks like finding the perfect wording for emails and reading chats, the more we can focus on finding solutions for our clients.”
+
+To evaluate the Microsoft 365 Copilot experiment, RTI sent a weekly survey to understand how staff were using the AI-powered assistant. “Even in our small pilot, we saw a comfortable ROI,” Greenway says. About a fifth of users saved more than an hour a week. Multiplied across 300 users so far, many of whom are experts at the top of their field and do work no one else at the organization can do, those savings add up fast. “If we can take an hour of their time and remove the rote tasks that don’t require their specific expertise, they can dedicate more of their time to projects for clients,” she adds. That powers the nonprofit’s research into health, climate change, equity, education, and other high-stakes fields.
+
+## Enhancements in Workflow
+
+Staff commonly use Microsoft 365 Copilot to search for a detail or conversation across Teams, Outlook, and recorded and transcribed meetings, simultaneously. Instead of scrolling and hunting through each platform individually, Copilot surfaces the relevant item or information in moments. Staff are also able to ask Copilot for information they would normally search for on the internet. Working in a single platform helps minimize what the Harvard Business Review calls the “toggling tax” of continually switching applications and contexts, which research suggests eats up an average of four hours per week. “You don’t have to flip back and forth and copy-paste between SharePoint, OneNote, OneDrive, or other systems and documents. You have it all right there at your fingertips in Copilot,” Greenway says.
+
+RTI staff members also turn to Microsoft 365 Copilot to quickly catch up on what they missed. The AI assistant recaps Teams chats, inboxes, and meeting transcripts, with links staff can click to the original source. “This helps people be more aware of what’s going on in a project” so they can dive right in, contributing their expertise to the big questions RTI tackles, Greenway says.
+
+## Accessibility Features
+
+One of Microsoft 365 Copilot's most popular features has been its ability to adjust the tone of emails and documents. Greenway, who is on the autism spectrum, also says this function can support people who are neurodiverse. “It's sometimes challenging to find the right words,” she explains. “Copilot removes that barrier. It's a game-changer for me.”
+
+## Conclusion
+
+With a dozen practice areas and work in more than 90 countries, RTI conducts extensive research—roughly 3,800 studies last year. Staff now use Microsoft 365 Copilot to summarize related documents and reports, which can span dozens or even hundreds of pages as well as multiple files. Digests of complicated research are vital to the organization, as they provide an overview for clients, the media, and the general public.
+
+RTI’s thorough data governance policies pair with Microsoft 365 Copilot so the AI assistant only surfaces documents that staff members have permission to view. Microsoft 365 Copilot operates within RTI’s tenant, so organizational data never extends into the public domain.
+
+Ultimately, support from AI helps RTI staff do more of what moves the needle on global issues. “Copilot gives us more time to stay in a flow state while at work,” Greenway says. Fewer interruptions and greater efficiencies, coupled with RTI staff members’ passion and dedication, help the nonprofit ask the big questions and carry out their mission.
+
+Find out more about RTI International on X/Twitter, Facebook, and LinkedIn.
+
+“As much as we can route away from tasks like finding the perfect wording for emails and reading chats, the more we can focus on finding solutions for our clients.”
+
+— Amanda Greenway, Manager of Collaboration Technologies, RTI International

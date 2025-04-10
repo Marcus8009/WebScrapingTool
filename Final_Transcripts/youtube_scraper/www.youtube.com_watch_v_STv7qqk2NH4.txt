@@ -1,0 +1,42 @@
+Hi - I’m
+Luca, a product marketer
+for the Microsoft Teams team.
+I can’t tell you how often
+I ‘ve been pressed for time
+while trying to send a thorough
+but simple message to my coworkers
+on Teams.
+Often, I’ll end up with spelling errors
+or the wrong tone for the group
+and have to go back
+and rewrite my message tons of times.
+But here’s a tip – now
+I can use Microsoft
+Copilot in Teams’ Compose Copilot feature
+to quickly adjust the length, tone,
+and create fleshed-out messages
+in my Teams chats with just a few clicks.
+Let’s say I want to send a message
+to my co-workers
+about this upcoming project.
+“Hey team, here’s
+the schedule for the event I have so far,
+does everything look right?”
+And then I’ll copy and paste the outline
+I have for the project so far, but it’s
+just a giant jumbled sentence.
+This can clearly be better.
+Select the Copilot button in the bottom
+here, click adjust and select
+“professional”. And voila!
+With just a couple of clicks, I was able
+to make my content much more presentable
+before sending it to my team,
+all thanks to Copilot.
+And with the power of Compose Copilot
+I can also edit my tone and length,
+allowing me to adapt my message
+to whatever audience I am sending it
+to, from a co-worker or friend
+all the way up to my boss or a VP!
+And that is the power of Copilot!

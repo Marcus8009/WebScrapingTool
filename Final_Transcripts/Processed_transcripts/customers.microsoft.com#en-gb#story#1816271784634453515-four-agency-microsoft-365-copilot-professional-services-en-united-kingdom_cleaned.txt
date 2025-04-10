@@ -1,0 +1,33 @@
+file name: customers.microsoft.com#en-gb#story#1816271784634453515-four-agency-microsoft-365-copilot-professional-services-en-united-kingdom.txt
+
+## Introduction
+
+Four Agency is an independent media, marketing, and communications agency with hubs in the UK and UAE, offering a full spectrum of marketing services. The agency quickly identified Microsoft 365 Copilot as a key technology and rolled it out across its 350-strong team.
+
+## Adoption of Microsoft 365 Copilot
+
+Team members appreciate how Copilot aids them in creative brainstorming, content creation, and reporting tasks while saving administrative time. 
+
+Luke Alexander, Chief Digital and AI Officer at Four Agency Worldwide, stated, “We identified fairly quickly that Copilot is a key technology for us… it fits into our existing workflow.”
+
+## Agency's Vision and Innovation
+
+As a certified B-Corp, Four Agency is dedicated to delivering insightful campaigns and innovative services. The business recognizes that AI will significantly change the sector. Nan Williams, Group Chief Executive of Four Agency Worldwide, explained, “It’s going to change every industry, every organisation, but in marketing services—absolutely. It’s going to be a fundamental change.”
+
+This vision, combined with the team's passion for innovation, led Four Agency to adopt Microsoft 365 Copilot early.
+
+Luke Alexander elaborated, “We want to be seen as really at the cutting edge of this. The main reason for that is we are already using the Microsoft stack and it fits into our existing workflow. But, also, we did realize it is significantly better than what is available in the market.”
+
+## Training and Implementation
+
+Understanding that people and technology must coexist effectively, Four Agency invested in staff training and change management surrounding Copilot’s introduction. This initiative aimed to inspire creativity, ensure proficiency, and promote responsible use of the technology.
+
+The team chose a universal roll-out strategy. Luke Alexander said, “When we looked at introducing Copilot at the agency, we realized that it had to be done properly. We felt this meant it had to be something that everybody across the agency got at the same time, so we all feel like we are pulling together in one effort.”
+
+## Benefits and Future Outlook
+
+The Four Agency team is already experiencing the benefits of creatively adopting new technology, which helps them meet the tight deadlines typical in the agency setting. Copilot is particularly effective in administrative processes, such as HR, data analysis, and report generation, thereby enabling the team to provide client outputs and reports more quickly.
+
+Marcia La-Rose, Head of HR at Four, expressed her enthusiasm for the opportunity Copilot affords: “We want to spend more time doing outreach and less time doing paperwork.”
+
+Looking ahead, Luke Alexander emphasized, “Where we are today is really just the starting point of how we can use this technology.” Nan Williams concurred, stating, “I really do think the next two to five years are going to be very radical and—for people who engage and explore—they will be very, very beneficial.”

@@ -1,0 +1,27 @@
+file name: www.microsoft.com#en-us#worklab#ai-data-drop-what-the-future-workforce-really-cares-about.txt
+
+## AI Adoption Among Early-in-Career Employees
+
+Our new research shows that AI is table stakes for younger employees.
+
+### Introduction
+
+Since our customers first started using Microsoft Copilot, we’ve been closely studying how people use it at work and what their behaviors can teach us about adopting and rolling out AI broadly. This information is especially valuable for leaders looking to drive AI adoption among their teams. Recently, we discovered that after about one business quarter with Copilot, it becomes a game-changer for the majority of early-in-career employees in selecting where to work.
+
+### Research Overview
+
+As part of our ongoing Copilot Usage in the Workplace survey, we focused on the work patterns of more than 1,000 early users, specifically early-in-career employees who will soon compose the bulk of the workforce. To understand their feelings around AI, we categorized users based on their length of Copilot usage: less than three weeks, 3-6 weeks, 7-10 weeks, and 10+ weeks. We then measured how likely they were to agree that having Copilot would influence their choice of employer.
+
+### Key Findings
+
+Our findings indicate that early-in-career employees begin with excitement about using Copilot, delighting in its capabilities. However, between three and 10 weeks, the novelty appears to wane, and their perceptions fluctuate. Notably, after the 11-week mark, the habit of using Copilot solidifies, with 54 percent stating that access to Copilot would influence their choice of employer. This is a crucial insight for leaders planning AI rollouts, underscoring the importance of providing access and training to attract current and future talent.
+
+### Importance of Technology in Job Selection
+
+Over half of young people believe that access to innovative technology will significantly shape their job choices. This trend suggests that the influence of technology, particularly AI, will increase as these tools continue to evolve. Understanding that today's early-in-career employees will soon dominate the workforce emphasizes the need for organizations to ensure they are equipped with AI access and learning opportunities before potential employees consider job offers.
+
+### Conclusion
+
+From our experiences with the rollout of Microsoft Copilot, we have learned that AI adoption requires intentionality, experimentation, and continuous learning. As employers recognize AI tools as differentiators in the job market, developing a strategic approach is imperative for future success. 
+
+Want more great insights on where work is headed? Subscribe to the WorkLab newsletter.

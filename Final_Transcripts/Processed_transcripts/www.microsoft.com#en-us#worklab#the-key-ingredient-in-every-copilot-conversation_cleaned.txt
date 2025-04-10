@@ -1,0 +1,17 @@
+file name: www.microsoft.com#en-us#worklab#the-key-ingredient-in-every-copilot-conversation.txt
+
+## The Key Ingredient in Every Copilot Conversation
+
+To get the most out of Copilot, provide context—lots of context. 
+
+Working with Microsoft 365 Copilot is akin to cooking, as Jared Spataro, Microsoft’s Corporate Vice President of Modern Work & Business Applications, explains. “It turns out, what you put in really matters,” he says. The most important ingredient is context.
+
+It’s often the aspect that people overlook. When asking Copilot to draft an email, you might specify the recipient and key points, but you could forget to mention the reason for the message. Nuance is crucial: Should the tone be upbeat, conciliatory, or stern? What feeling should the recipient have? What action should you inspire them to take? All of these details help Copilot generate the most relevant and ready-to-use suggestions.
+
+With traditional search engines, we’re accustomed to using few words for the best results. However, with Copilot, providing more detail leads to better responses. Don’t stress about spelling, grammar, or sentence structure—Copilot can correct your errors and transform your jumbled thoughts into polished content.
+
+What Copilot cannot do is read your mind. For instance, if it’s assisting you in writing a speech, share how you want the audience to feel at the conclusion and their potential feelings beforehand: Are they energized with coffee first thing in the morning or in a post-lunch slump?
+
+The more thoughtful you are with your inputs, the better the outcomes will be. While it might seem like extra work at first—especially since you already know these details—investing the initial effort ensures Copilot understands your intentions, ultimately helping you work more efficiently from draft to finished product.
+
+Just like cooking, the interaction with Copilot combines both art and science. It invites exploration and experimentation, making it a fun process. So, set perfection aside and focus on providing a variety of contextual details. You’ll be pleasantly surprised by what Copilot can serve up.

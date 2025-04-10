@@ -1,0 +1,43 @@
+file name: customers.microsoft.com#en-us#story#axon-azure-openai-service-national-government-en-united-states.txt
+
+## Introduction
+
+Axon Enterprise, Inc. (Axon) provides technology solutions and tools that help protect and empower police officers, focusing on reducing the hours officers spend writing reports each shift. Collaborating with Microsoft, Axon developed a new tool called Draft One using Azure OpenAI Service to draft reports for officers.
+
+## Impact on Report Writing
+
+The implementation of Draft One resulted in an 82% decrease in time spent on reports, allowing officers more time to engage with their community and enhancing their work-life balance. According to Noah Spitzer-Williams, Senior Principal Product Manager at Axon, "For most officers, we are cutting report-writing time in half. Some agencies are seeing up to an 82% decrease in time spent on reports."
+
+Across the United States, law enforcement officers typically spend up to 40% of their shifts drafting reports, which can lead to officer fatigue and burnout. Recognizing this challenge, Axon aimed to revolutionize the report-writing process without sacrificing quality.
+
+## Development of Draft One
+
+Draft One leverages generative AI to transcribe body-worn camera audio and draft narratives for police reports in seconds. Rick Smith, CEO and Founder of Axon, stated, “Every single officer in the United States writes police reports, often multiple times a day. With Draft One, we are harnessing the power of AI to make one of the most burdensome tasks faster and easier, allowing officers to focus on what matters most—serving their communities.”
+
+Founded over three decades ago, Axon’s mission has evolved from providing hardware tools like Tasers and body cameras to delivering a comprehensive ecosystem of connected solutions that enhance safety and efficiency in public safety.
+
+## The Role of AI in Law Enforcement
+
+Axon realized that AI could significantly reduce the time officers spend on routine tasks and improve report quality. After the release of ChatGPT in November 2022, Axon began experimenting with AI for drafting reports. Spitzer-Williams remarked, “One of our company values is aiming far and envisioning a world that is better than today.”
+
+Building on its trusted relationship with Microsoft, Axon developed a prototype of Draft One in early 2023, receiving initial feedback from select agencies. The tool transcribes body camera audio into draft narratives in minutes, substantially reducing the time spent on paperwork. 
+
+In April 2024, Axon released a complete version of Draft One to agencies, less than a year after the project began. Police departments that adopted the tool observed immediate improvements, with some agencies reporting up to an 82% reduction in report-writing time.
+
+## Features and Safeguards
+
+Draft One includes safeguards to ensure report accuracy and reliability. Officers must review and sign off on each report before it is submitted for further review, maintaining accountability. The AI adheres strictly to body-worn camera audio, calibrated to prevent embellishment and speculation, while each draft contains placeholders for officers to edit.
+
+Axon also conducted a double-blind study to validate the quality of Draft One's reports. Spitzer-Williams explained, “We took 24 independent evaluators and gave them reports, half written by officers and half with the assistance of Draft One... the conclusion was that the Draft One reports performed as well as officers in three of five categories and better in two.”
+
+## Enhancing Community Interaction
+
+Officers are now able to devote more time to community outreach rather than paperwork. This has led to increased job satisfaction and improved recruitment rates for departments. The use of Draft One assures the public that in-person interactions are accurately captured, resulting in trustworthy reports.
+
+Rick Smith emphasized the transformative nature of the tool: “With Draft One, we are harnessing the power of AI to make one of the most burdensome tasks faster and easier, allowing officers to focus on what matters most—serving their communities.”
+
+## Conclusion
+
+Axon is pioneering the use of AI technology to improve safety, work-life balance, and operational efficiency for officers. The company aims to continue exploring how new technologies can solve longstanding issues in law enforcement. “We want to use this new technology to serve as a force multiplier for law enforcement in a responsible and innovative manner,” Smith stated.
+
+Discover more about Axon on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.

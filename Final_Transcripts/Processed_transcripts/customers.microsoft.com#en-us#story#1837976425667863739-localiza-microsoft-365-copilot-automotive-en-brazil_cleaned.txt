@@ -1,0 +1,55 @@
+file name: customers.microsoft.com#en-us#story#localiza-microsoft-365-copilot-automotive-en-brazil.txt
+
+## Introduction
+
+Localiza needed to increase employee productivity and optimize repetitive manual tasks. The company implemented Microsoft 365 Copilot and integrated AI to automate processes and improve efficiency. As a result, Localiza reduced 8.3 working hours per employee per month, improved inclusivity, and increased productivity in key areas of the company.
+
+## Company Overview
+
+Localiza&Co is a leader in the mobility industry in Latin America, with over 700 branches across seven countries: Brazil, Argentina, Colombia, Ecuador, Mexico, Paraguay, and Uruguay. The company has been operating for more than 50 years and employs approximately 21,000 people. Localiza has distinguished itself through its ability to innovate and adapt to market changes, consistently prioritizing customer service excellence and becoming a benchmark for industry evolution.
+
+## Adoption of Microsoft 365 Copilot
+
+Recently, Localiza embarked on a digital transformation journey centered on generative AI by implementing Microsoft 365 Copilot, an AI tool revolutionizing the way the company operates and delivers value. The decision to adopt Microsoft 365 Copilot was driven by the need to innovate and improve employee productivity and efficiency.
+
+Denys Damm, End-User Experience Lead in Information Technology at Localiza, said: “When Microsoft introduced Copilot embedded within Microsoft 365, we saw a great opportunity to be at the forefront of artificial intelligence innovation. Since our entire base is built on Microsoft 365, it made sense for us to get on board to enhance employee productivity.”
+
+Localiza was among the first five companies in Brazil to adopt Microsoft 365 Copilot, starting with the issuance of 300 licenses in 2023. The company has been diligently ensuring that all employees are engaged and using the tool effectively.
+
+## Overcoming Initial Challenges
+
+Initially, Localiza struggled with creating effective prompts for Copilot. Denys noted that poor prompts lead to unsatisfactory results: "If your prompt is not properly done, it ends up generating a negative result or one that doesn't meet your expectations." The company invested in training and hackathons to enhance employee skills for better productivity. 
+
+Localiza developed a methodology to demonstrate the positive impact of Microsoft 365 Copilot on its business. They observed significant improvements in employee productivity when using Copilot to create dashboards for Microsoft Viva Insights.
+
+## Productivity Improvements
+
+Among Copilot users, 50% are top users, 17% are heavy users, 24% use it moderately, and only 8% are occasional users. Heavy users reported a productivity increase of 10.6%, while the average increase among all users was 4.5%. Additionally, 81% of top users and 68% of heavy users reported improvements in productivity and work quality. Most users stated they would miss working with Copilot on a day-to-day basis if licenses were removed.
+
+During the second wave of adoption, experts and leaders increasingly used the tool, particularly Microsoft Teams and Microsoft 365 Chat. The company implemented a policy to rotate occasional users monthly due to high demand and held hackathons to boost usage, introducing a new approach for champions focused on adaptable use cases.
+
+## Time Savings and Focus on Strategic Activities
+
+With the implementation of Copilot, the company achieved an average reduction of 8.3 working hours per employee per month. Among the most engaged employees, this reduction was even more significant, reaching up to 19 working hours per month. As Copilot becomes more integrated, the company anticipates that these users will reduce up to 25 working hours per month. Denys states, "Once we can make these productivity gains tangible, we can scale them across the company, providing a technological competitive advantage to our business."
+
+Weslley Moraes, a specialist at Localiza, emphasized the impact of Copilot: "Copilot was able to optimize repetitive and manual tasks, allowing the team to focus on more strategic activities, thereby improving their day-to-day work." 
+
+## Specific Use Cases
+
+One notable example was the reduction in the time required to consolidate and analyze customer feedback. Previously, a team of two to three people would devote almost an entire day to this task, but with Copilot, they can complete the same activities in just a few hours. 
+
+The marketing team benefited significantly as well, utilizing Copilot to simplify the creation of images, marketing campaigns, and internal communications, saving time and ensuring clear alignment with company goals.
+
+### Crisis Management
+
+Copilot has also become an invaluable asset in crisis management. During emergencies, it efficiently summarizes information from Microsoft Teams meetings and generates standardized reports, enhancing decision-making and effectiveness in incident responses.
+
+## Inclusivity and Future Plans
+
+Copilot played a crucial role in including hearing-impaired employees in live meetings through real-time transcription and automatic summaries. Juliana Rocha, a Digital Transformation Specialist at Localiza, stated: "Copilot has allowed employees with hearing impairments to participate more actively in meetings."
+
+Localiza plans to expand its use of generative AI across more areas and tools. Juliana mentioned a pilot for AI Builder and Copilot Studio, involving nearly 30 people, with 42 promising use cases identified. The company is also exploring Microsoft Copilot for Finance to further boost productivity and efficiency.
+
+## Conclusion
+
+Localiza's digital transformation with Microsoft 365 Copilot illustrates how technology can drive operational excellence, providing measurable impacts. With strong results and a forward-looking plan, Localiza is set to continue innovating in the mobility sector. Discover more about Localiza on Facebook, Instagram, LinkedIn, and YouTube.

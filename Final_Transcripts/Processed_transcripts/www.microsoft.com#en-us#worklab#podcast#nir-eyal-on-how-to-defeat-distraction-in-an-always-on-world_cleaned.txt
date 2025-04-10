@@ -1,0 +1,25 @@
+file name: microsoft.com#en-us#worklab#podcast#nir-eyal-on-how-to-defeat-distraction-in-an-always-on-world.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, including how to use AI effectively and what it takes to thrive in our new world of work.
+
+## Guest Insight: Nir Eyal
+
+Nir Eyal is a bestselling author and entrepreneur with special expertise in making products and services engaging and habit-forming. In his book, *Indistractable: How to Control Your Attention and Choose Your Life*, he provides simple guidelines on maintaining focus and tuning out distractions.
+
+Eyal is the last guest for season 5 of the WorkLab podcast. During the conversation, he discusses the difference between reactive and reflective work.
+
+## Key Takeaways
+
+Eyal points out the common misconception that we are being productive while actually being distracted. He differentiates between reactive work—such as responding to notifications, emails, and office chatter—and reflective work, which includes strategizing, creative thinking, and planning. He emphasizes the necessity of scheduling time for reflective work to avoid misdirection in our efforts.
+
+Eyal has been advocating for the business applications of AI for over a decade. He anticipates that generative AI will soon play a role in helping us maintain focus on priority tasks. He envisions a future where AI assistants are aware of our intentions and schedules, helping us align our actions with our goals. “They can help keep us accountable and say, ‘Hey, I see you’re doing this thing as opposed to the thing you planned to work on, is that what you really want to be doing?’”
+
+A strong proponent of timeboxing, Eyal believes that intentionally filling calendar space helps individuals clarify their focus areas and identify sources of distraction. He stresses that leisure activities, such as watching TikTok or social media, are not distractions if scheduled into the day. “Dorothy Parker said that the time you plan to waste is not wasted time,” he remarks. He advocates for planning downtime as a means to foster productivity and creativity.
+
+## Conclusion
+
+WorkLab is a platform for experts to share insights and opinions. Microsoft values diverse voices in exploring the future of work. The views shared by the guests do not necessarily reflect Microsoft’s research or opinions.
+
+You can follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.

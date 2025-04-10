@@ -1,0 +1,21 @@
+file name: customers.microsoft.com#en-gb#story#aztec-group-microsoft-365-copilot.txt
+
+## Introduction
+
+Aztec Group is a financial services business offering a range of services including fund services, corporate services, AIFM services, depositary services, ESG & sustainability services, management incentive services, and advanced portfolio services for private equity, real assets, private credit, and institutional investor clients. With locations in six strategic jurisdictions—Guernsey, Ireland, Jersey, Luxembourg, the United Kingdom, and the United States—Aztec employs over 2,000 people and is a trusted partner for over 450 funds, managing more than €600 billion in assets under administration (AUA).
+
+## Digital Transformation
+
+The company is currently undergoing a significant digitalisation programme. Charlotte Light, Chief Digital Officer at Aztec Financial Services, explains, “It’s important for Aztec to scale our industry operations and technology is a massive enabler for that.” A key focus of this programme is to enhance efficiency and productivity while effectively managing risk. 
+
+To facilitate this transformation, Aztec Group has provided 300 members of staff access to Copilot for Microsoft 365, enabling them to explore how AI can add value to their work in a compliant manner. Copilot integrates seamlessly with the data stored in Microsoft Teams, SharePoint, and other Microsoft tools used across the organization, including Word, Excel, PowerPoint, and Outlook. All data processed by Copilot adheres to Aztec’s data security policies as well as Microsoft’s commitments to data protection, privacy, security, compliance, and responsible AI practices, including GDPR and the EU data boundary.
+
+## Benefits of Copilot
+
+James Gow, Group Managing Director of Aztec Financial Services, highlights the potential of Copilot: “The use cases are unlimited. We look at lots of data on behalf of our clients, and Copilot has an ability to streamline how that work gets done. That gives us a competitive advantage when we are looking at servicing our clients and really improves that client experience.” 
+
+The completion of the Copilot trial yielded promising results. Sam Scott, an Associate Director at Aztec Financial Services and participant in the trial, reports, “Copilot enables me to improve the quality of my work by allowing me to create first drafts and structuring my thoughts really simply and easily.” Additionally, Liz Streeter, a Director at Aztec Financial Services, states, “Copilot also helps with workflow efficiencies. It helps you to become more creative.”
+
+## Future Plans
+
+Based on these early successes, Aztec plans to scale the use of Copilot to 1,000 users this year, with plans to eventually implement it across the entire organization. Charlotte Light emphasizes the importance of Microsoft as a partner: “Microsoft is an important partner for us, working with them not just as a software provider but also as a strategic partner. I’m excited to be able to offer Copilot to our staff and accelerate bringing AI services to our clients.”

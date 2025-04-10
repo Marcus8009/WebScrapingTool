@@ -1,0 +1,73 @@
+file name: microsoft.com#en-us#worklab#charles-lamanna-on-the-next-big-role-for-ai.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use generative AI effectively to what it takes to thrive in our new world of work.
+
+## The Evolution of AI in Business
+
+MOLLY WOOD: In just one year, Microsoft Copilot has changed the way we work forever. By now, business leaders understand how it can boost individual productivity and the efficiency of their teams. But as generative AI evolves, a bigger and more consequential opportunity presents itself: total business reinvention. In today’s episode, Charles Lamanna, Corporate Vice President of Business Apps and Platforms at Microsoft, goes beyond what’s possible today and shares what the near future of AI looks like. We talk about low- and no-code tools and how AI is evolving from being just a personal assistant to being a group assistant. 
+
+CHARLES LAMANNA: We’re going to go from a world where most desks and most workers don’t have a copilot to help them get their job done. But a few years from now, everyone will have a copilot to help them complete tasks more efficiently. Just like I now wonder how people could run a large team without a computer, without email, or without Teams.
+
+## The Importance of Low-Code and No-Code Tools
+
+MOLLY WOOD: Let’s dig deeper into the idea of low-code and no-code. 
+
+CHARLES LAMANNA: Absolutely. My background’s as a developer, and I love writing code. However, there are billions of people on Earth, and only 30 million who write code regularly. This bottlenecks many great ideas. Low-code and no-code aim to democratize programming, allowing anyone to create solutions without needing to learn traditional programming. We talk about this idea of Clicks Not Code. You can drag and drop and build solutions visually, making technology accessible to more people.
+
+## Real-World Example of Low-Code in Action
+
+MOLLY WOOD: Can you provide an example of something powerful built with Clicks Not Code?
+
+CHARLES LAMANNA: One example is Samit Saini who worked at Heathrow Airport. He had no programming background but taught himself to use the low-code platform Power Apps. He built applications that replaced paper guides at security checkpoints, making processes more efficient and environmentally friendly. This initiative not only removed waste but also propelled his career forward.
+
+## The Impact of AI on Business Processes
+
+MOLLY WOOD: You mentioned exciting stats about productivity savings when utilizing Copilot.
+
+CHARLES LAMANNA: Yes, there are notable improvements. For instance, sellers using Copilot save an average of 90 minutes a week, which translates into a 12 percent increase in overall customer satisfaction. 
+
+## The Emergence of New Roles with AI
+
+CHARLES LAMANNA: We’re beginning to see the creation of new types of jobs with the rise of AI. A key component to successfully rolling out AI in businesses is having high-quality curated content. If the AI's content is outdated or incorrect, it will provide stale answers. Organizations are creating roles like Content Ops to manage and enhance the content that feeds into these AI systems.
+
+## Transformation Pillars: Automation, Collaboration, Customization
+
+MOLLY WOOD: Can you talk about the pillars of transformation in AI?
+
+CHARLES LAMANNA: Historically, Copilot has been focused on one-on-one interactions. Now, we are transitioning towards a setup where multiple users can engage with one or many copilots at the same time. This change encourages new team compositions where individuals can collaborate with various copilots to enhance productivity.
+
+## Automation and Its Benefits
+
+CHARLES LAMANNA: We're shifting to a world where AI automates tasks that are repetitive and monotonous. For example, Copilot can handle tasks like data extraction and email formatting in the background, freeing people to focus on critical and creative aspects of their jobs.
+
+## The Copilot-Human Relationship
+
+MOLLY WOOD: Let's discuss the balance between copilot assistance and human work.
+
+CHARLES LAMANNA: We believe Copilot should handle mundane tasks while humans focus on creativity, long-term planning, and collaboration. The goal is to ensure people spend more time on engaging work rather than monotonous tasks. Great AI models, responsible filters, and effective user experiences are essential for this transformation.
+
+## Starting the AI Transformation
+
+MOLLY WOOD: Where should leaders begin with AI deployment?
+
+CHARLES LAMANNA: Start with applications that use generative AI effectively to achieve quick outcomes. Companies often begin by building everything from scratch, which is time-consuming. Instead, utilize existing apps that can be deployed with minimal effort. Understanding the business case for AI is crucial—keep metrics in mind that impact customer experiences, revenue, and operational efficiency.
+
+## Observations from AI Implementation
+
+MOLLY WOOD: What have you learned since the launch of Copilot?
+
+CHARLES LAMANNA: It's exceptional to see a piece of technology that enhances the quality of business processes. Our data shows improved performance metrics—sales opportunities increase, customer service efficiency rises, and finance departments experience job satisfaction improvements.
+
+## Personal Use of AI
+
+MOLLY WOOD: On a personal level, how do you engage with AI?
+
+CHARLES LAMANNA: I manage around 300 emails and 200 Teams messages daily. Using Copilot to track priority communications is a game changer. On a more casual note, I enjoy creating images using AI for personal group chats, experiencing a creative outlet I didn’t have before.
+
+## Conclusion
+
+MOLLY WOOD: Thank you for sharing your insights, Charles Lamanna, Corporate Vice President of Business Apps and Platforms at Microsoft. Join us next time for more discussions on the future of work, including an upcoming episode with Sal Khan, founder of the Khan Academy. For more information and to access our episodes, visit microsoft.com/WorkLab. Please subscribe, rate, and review us wherever you listen.
+
+---

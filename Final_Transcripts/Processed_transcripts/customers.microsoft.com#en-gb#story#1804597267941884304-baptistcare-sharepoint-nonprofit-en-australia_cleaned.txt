@@ -1,0 +1,55 @@
+file name: https://customers.microsoft.com/en-gb/story/1804597267941884304-baptistcare-sharepoint-nonprofit-en-australia.txt
+
+## Introduction
+
+BaptistCare supports aging Australians and vulnerable individuals in challenging situations, yet the nonprofit anticipates growing workforce shortages that will complicate employee recruitment. To address these concerns, BaptistCare has adopted Microsoft 365 Copilot to enhance efficiencies and empower its staff.
+
+## Case Study: Helen's Story
+
+After Helen’s mother was diagnosed with Alzheimer’s disease, the family realized they could not provide the necessary support, leading them to place her in an assisted living home specializing in dementia care, run by BaptistCare. “We cared for her through the nurses, and they became a part of our family,” Helen recalls. “Old people feel discarded, and yet she was treated with value. I feel a real peace that we did the best for her.”
+
+## BaptistCare's Operations
+
+BaptistCare serves over 24,000 people in need of in-home care, community housing, retirement living, and aged care homes across Western Australia, New South Wales, and the Australian Capital Territory. The organization also supports individuals facing homelessness, families in crisis, survivors of domestic abuse, and others in vulnerable situations. However, like many organizations in this sector, BaptistCare faces the challenge of hiring sufficient staff to serve an increasing client base.
+
+## Technology Integration
+
+“Technology is playing a key role in addressing a mismatch between demographic trends in aged care and workforce shortages,” explains Daniel Pettman, Chief Digital Information Officer at BaptistCare. To enhance productivity and creativity, BaptistCare adopted Microsoft 365 Copilot immediately upon its release. "We signed up literally on day one. We already see Copilot saving a lot of time and empowering our staff,” Pettman states.
+
+## Benefits of Microsoft 365 Copilot
+
+Microsoft 365 Copilot integrates seamlessly into BaptistCare’s technology, allowing staff to delegate manual tasks to the AI assistant, enabling them to focus on essential work and improve their work-life balance. “Copilot helps employees not get caught up in manual, low-value activities. It gives our employees more headroom so they have more time for the people we care for,” says Pettman.
+
+Staff at BaptistCare can manage more responsibilities while developing new solutions to meet client needs. “Information workers today struggle with decision fatigue and information overload. Copilot helps cut through that,” Pettman adds.
+
+With the aid of Copilot, staff save considerable time—between two to eight hours weekly—by automating note-taking during meetings and drafting emails, particularly benefiting those who speak English as a second language.
+
+## IT Solutions Development
+
+BaptistCare’s IT department utilizes Copilot to create software solutions in Power Apps at half the usual time. The team instructs Copilot on app requirements through conversation, and the AI builds the apps, resulting in significant efficiency. “Previously, that would have been done manually. Copilot makes it so much easier,” Pettman comments.
+
+In conjunction with Microsoft 365 Copilot, Azure Generative AI helps automatically classify service desk tickets, saving approximately one minute per ticket, which accumulates to three months a year, equivalent to a quarter of one full-time employee’s work. “The small margins that generative AI saves add up to a lot,” Pettman emphasizes.
+
+## Addressing Workforce Shortages
+
+Australia anticipates a shortfall of 110,000 aged care workers over the next decade. BaptistCare leverages Microsoft 365 Copilot to help mitigate this gap, ensuring continued high standards of client care.
+
+The introduction of advanced tools contributes positively to employee retention. “This technology helps employees with work-life balance, making them happier,” Pettman states. The efficiencies gained through Copilot encourage staff to accomplish more during their workday and refrain from handling work emails at home.
+
+## Recruitment Advantages
+
+Copilot also serves as a valuable recruitment tool. Hiring managers mention the software’s availability during interviews, making BaptistCare an attractive option for potential employees. “People are quite attracted to organizations using technology like that. Copilot is a good recruitment tool to differentiate us in the market,” Pettman notes.
+
+Additionally, staff use Copilot to build business cases for new hires, generating structured documents that compose approximately 70% of the required content. This streamlining process enables quicker approvals for additional staff.
+
+## Data Security and Governance
+
+BaptistCare manages sensitive information and personally identifiable information (PII) for their clients. “We care for people, and that includes caring for their information,” Pettman asserts. With Copilot, BaptistCare ensures that stringent security measures protect client data.
+
+A governance audit was performed before implementing Copilot to validate access and permissions. Each user signs an internal agreement and receives training regarding safe use and reporting potential data incidents. Ongoing education fosters a culture of responsibility around AI.
+
+## Conclusion
+
+Pettman underscores the importance of using technology to relieve administrative burdens: “Using Copilot as a starting point eases a lot of cognitive load. By using really good technology, our employees can focus more on transforming the lives of people we work with.” Confidence in the security and accuracy of Microsoft 365 Copilot allows the staff at BaptistCare to maintain their focus on their mission. “Our vision is every individual living well, and we work to make sure our clients are getting more benefit from us. Technology empowers our staff to do that,” he concludes.
+
+In the face of workforce challenges, BaptistCare's innovative use of Microsoft technologies is paving the way for enhanced care and operational efficiency.

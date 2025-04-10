@@ -1,0 +1,41 @@
+file name: customers.microsoft.com#en-us#story#1785448033474736158-sandvik-coromant-microsoft-copilot-for-sales-discrete-manufacturing-en-sweden.txt
+
+## Introduction
+
+Sandvik Coromant, founded in Sandviken, Sweden, in 1942, has a history of looking to the future by supplying cutting-edge tooling solutions to the world’s engineering industries. With a presence in over 150 countries and a staff of about 8,000, Sandvik Coromant positions itself as a comprehensive partner, providing hands-on assistance, recycling and reconditioning centers, training programs, online solutions, and consulting services. Dynamics 365 has been enhancing productivity for years, but now Copilot for Sales is elevating customer relationships to new heights.
+
+## The Impact of Microsoft Copilot for Sales
+
+“Microsoft Copilot for Sales supports us in effortlessly capturing and maintaining the highest data quality, consistently fresh and concrete in the system,” says Silvana Zafarana, Global Sales Process Specialist at Sandvik Coromant. This improvement in customer information previously came at a great cost of time and effort for the sales teams.
+
+Emphasizing its innovative spirit, Sandvik Coromant has been an early adopter, leveraging Dynamics 365 Sales and Customer Service to unify customer service processes, eliminate data silos, and enhance customer experiences. The meticulous note-taking and data upkeep that was essential for maintaining high-quality data limited sellers' time with customers, prompting the company to embrace AI with Copilot for Sales.
+
+## Efficiency Gains with Copilot
+
+Copilot assists in reducing the amount of tedious work that can drain sellers of essential time and energy. By streamlining processes, Copilot saves sellers at least one minute on each transaction, enabling them to focus on responding to customer needs with analysis, creativity, and adaptability.
+
+For example, account managers who receive hundreds of emails daily can save an average of 20 minutes each day through Copilot's email summaries. The tool translates summaries into the account manager's native language, making it easier to consume information quickly. Additionally, it simplifies the task of adding email summaries as notes in the CRM, reducing the time taken from over three minutes to just ten seconds.
+
+## Enhanced Data Management
+
+Copilot also excels in data extraction. Previously, entering or updating customer contact details required multiple steps, but a single click within the Copilot for Sales panel automatically captures this data for the CRM. "Automated data entry and integration ensure our sales teams have up-to-date information at their fingertips, enabling informed decision-making and strategic customer interaction," states Javier Guerra, General Manager for South & West Europe.
+
+Meeting transcript summaries further reduce the time spent catching up on account activities. Sellers now access key information in minutes rather than hours. Copilot saves time on emails that don’t directly lead to sales by suggesting replies based on email content, allowing sellers to adjust the draft and proceed with their day.
+
+## Sales Effectiveness and Collaboration
+
+Sales is not just about emails; it also involves connecting deeply with customers. Copilot enhances sales effectiveness by providing insights across Teams, Outlook, and Dynamics 365 applications. It summarizes customer interactions based on data from digital messaging channels, boosting productivity both in internal and customer meetings.
+
+During Teams meetings, relevant information from Copilot negates the need to switch between apps, allowing participants to focus on discussions rather than note-taking. This functionality also extends to generating meeting summaries and follow-ups, clarifying next steps and facilitating coordination among team members.
+
+## Bridging Language Barriers
+
+Collaboration can be especially challenging for international companies with multilingual teams. Copilot bridges these gaps by using AI to translate sellers' questions into English, making cross-functional collaboration seamless and reducing errors.
+
+Sandvik Coromant was among the first customers to adopt an early version of Copilot for Sales, working in partnership with the Microsoft FastTrack team for guidance and feedback. Emil Mattsson, Principal Solution Architect at Microsoft, highlights the valuable impact of Sandvik Coromant’s feedback on shaping the product's evolution.
+
+## Conclusion
+
+Adopting Copilot for Sales has proven to be a net positive for Sandvik Coromant. The teams are analyzing opportunities more quickly, using AI-powered insights to provide exceptional customer experiences, and enjoying an intuitive tool that is simple to use. Per Hoffner, Product Owner for Dynamics CRM, describes Copilot for Sales as a significant step in demonstrating the potential of AI, stating it "helps them do their job better."
+
+Looking ahead, Sandvik Coromant anticipates further innovations, such as integrated OneNote summaries and transcription of in-person meetings, fostering excitement for the future among the sales team. "I know this is a product that is developing daily, and I’m very excited for the future," sums up Zafarana.

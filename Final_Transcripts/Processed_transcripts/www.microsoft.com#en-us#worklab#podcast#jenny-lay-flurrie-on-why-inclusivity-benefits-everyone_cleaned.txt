@@ -1,0 +1,81 @@
+file name: microsoft.com/worklab/podcast/jenny-lay-flurrie-on-why-inclusivity-benefits-everyone.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Mary Melton. On WorkLab, we hear from leading thinkers on the future of work. Economists, technologists, and researchers all share surprising data and explore the trends transforming the way we work.
+
+## Jenny Lay-Flurrie: Chief Accessibility Officer
+
+JENNY LAY-FLURRIE: I see enormous potential with AI, but we also have to make sure that we’re doing it in a grounded way, making sure that the data we lean on is disability representative so that you can learn from it.
+
+That’s Jenny Lay-Flurrie, Microsoft’s chief accessibility officer since 2016. Jenny lost her hearing entirely as an adult. Since then, she has been on a mission to make life easier for people with disabilities. She and her team have rolled out features like the adaptive Xbox controller for gamers with limited abilities and live captioning on Microsoft Teams. In this episode, Jenny shares her personal story, discusses why accessibility matters to everyone, outlines what business leaders can do to empower their teams, and explains how AI might help along the way.
+
+## Jenny's Personal Story
+
+MARY MELTON: Hi, Jenny. Thank you so much for joining us today on WorkLab.
+
+JENNY LAY-FLURRIE: Thank you for having me.
+
+MARY MELTON: Can you tell us about your story as a person with disabilities?
+
+JENNY LAY-FLURRIE: So yes, I live with disabilities. There is a journey of disability identity that we all go through, and I went through mine as a person with declining hearing, getting a music degree, and then going into IT. I didn’t have that sense of empowerment with my disability. I learned that it was easier to hide it and not ask for what I needed to be successful. When I came to Microsoft, I took the easier path, which was to see my disability as a part of my humanity and to ask for what I needed to be successful. I’ve definitely learned a lot over the years and have a lot of empathy for people, no matter where they are on that journey. 
+
+Most people with disabilities come to this gig through accident, injury, and illness. Most are not born with disabilities; about 5 percent are born with them. It’s a heck of a ride. I’m proud of who I am, including my disabilities. 
+
+MARY MELTON: Well, the numbers are pretty high, Jenny. More than 1 billion people live with disabilities. That’s one in eight people in the world. 
+
+## The Importance of Accessibility
+
+JENNY LAY-FLURRIE: The numbers we lean on is that 1 billion, which came from the World Health Organization in 2010. Here’s the reality: We’ve just gone through a mass disabling event—it’s called a pandemic. Mental health challenges have also dramatically increased. Understanding that true metric will teach us a lot in the years and decades to come.
+
+MARY MELTON: It’s heartening to think about how conversations around this topic are changing generationally and right now as well.
+
+JENNY LAY-FLURRIE: Communities are essential. Bringing together people to talk about their experiences, learn from others, and share best practices is powerful. It’s been instrumental to my journey and many in our disability community. Having the right communities during the pandemic became essential.
+
+## Understanding Accessibility in the Workplace
+
+MARY MELTON: Broadly speaking, what does accessibility at work encompass?
+
+JENNY LAY-FLURRIE: Yes, accessibility is not one thing. It varies from person to person. Accessibility enables an environment where any individual can be successful and unlock capabilities that help companies deliver more. It includes physical, digital, and best practices in language and etiquette. 
+
+MARY MELTON: What do you think is still misunderstood by business leaders about people with disabilities?
+
+JENNY LAY-FLURRIE: There are common misconceptions I hear every day. For instance, some may say, “I don’t have any disabled people in my company.” You absolutely do. It’s whether they feel comfortable identifying themselves. When I hired my team, 50 percent disclosed having a disability, and a year later that number was 95 percent.
+
+## Business Leaders and Accessibility
+
+MARY MELTON: Are you seeing business leaders becoming more open to discussions around making modifications in the workplace?
+
+JENNY LAY-FLURRIE: Yes, we’re seeing it mature and with more investment in disability inclusion. However, there’s still a significant need to accelerate these efforts to keep up with rising disability rates.
+
+## The "ROI Trap"
+
+MARY MELTON: You’ve mentioned being mindful of the "ROI trap," which refers to justifying the cost of an accessible product based on its perceived limited audience. Could you elaborate?
+
+JENNY LAY-FLURRIE: Yes, the "ROI trap" captures instances where accessibility is linked only to a disability demographic, discouraging investment. When looking at demographics, accessibility features may seem to serve a small percentage, but that’s a narrow view. For example, audiobooks were designed for the blind and are now enjoyed broadly by many others.
+
+## First Steps Towards Inclusivity
+
+MARY MELTON: What are some first steps for someone considering how to improve accessibility in their organization?
+
+JENNY LAY-FLURRIE: Every Microsoft employee takes mandatory training on accessibility upon joining the company. It creates common ground for discussing disability and ensures everyone has knowledge on accessibility tools. 
+
+## Inclusive Gaming Initiatives
+
+MARY MELTON: Stepping away from a business context, what can you tell us about your team’s efforts to make gaming more inclusive?
+
+JENNY LAY-FLURRIE: The emphasis is on making technology easy to find and use. For example, in Windows 11, we’ve placed accessibility features prominently for everyone to use. My favorite feature is live captions, which can filter profanity and even work offline. We also have features in Office that guide employees on making their documents accessible.
+
+## Broader Applications of AI
+
+MARY MELTON: What are your thoughts on the potential of AI for people with disabilities?
+
+JENNY LAY-FLURRIE: The potential is massive. We must ensure we use grounded data, making sure it represents people with disabilities. AI applications need to be accessible as innovation accelerates. For example, we’ve partnered with OpenAI for features like Copilot, which can assist in writing documents.
+
+## Conclusion
+
+MARY MELTON: Thank you so much, Jenny Lay-Flurrie, Chief Accessibility Officer at Microsoft. This has been a wonderful conversation with a lot to think about.
+
+JENNY LAY-FLURRIE: Thank you for the time.
+
+MARY MELTON: Thank you for listening to this episode of WorkLab. Please subscribe and check back for the next episode, where we will talk with Jared Spataro. If you have questions for our leaders, email us at worklab@microsoft.com. Visit Microsoft.com/WorkLab for transcripts of this episode and thoughtful stories exploring the way we work today.

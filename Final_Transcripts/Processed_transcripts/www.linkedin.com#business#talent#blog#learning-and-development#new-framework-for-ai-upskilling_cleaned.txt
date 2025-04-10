@@ -1,0 +1,76 @@
+file name: linkedin.com#business#talent#blog#learning-and-development#new-framework-for-ai-upskilling.txt
+
+## Upskilling and Reskilling in AI
+
+Overwhelmed by the pace and complexity of helping your organization gain AI skills? You’re not alone.
+
+The 2024 Annual Work Trend Index from Microsoft and LinkedIn, released today, surveyed 31,000 people in 31 countries and revealed that AI is already changing the world of work. Fully 75% of knowledge workers now use AI at work, citing benefits like saving time, becoming more creative, and enjoying their work more. The report found that while 79% of leaders agree AI adoption is critical to remain competitive, 60% worry their organization’s leadership lacks a plan and vision to implement AI.
+
+“The urgency every company is feeling to build AI skills gives talent development pros a new seat at the table,” says Aneesh Raman, workforce expert at LinkedIn. “The biggest thing that will set any organization up for success is building a culture of continuous learning.”
+
+This moment requires both thinking differently and a new plan for upskilling your employees. Talent development teams must help their organizations take a strategic, personalized approach to learning AI skills across levels.
+
+LinkedIn has curated learning paths featuring more than 50 LinkedIn Learning courses to help lead your organization's AI upskilling efforts. The framework to upskill employees spans a wide range of roles and levels of proficiency—from project managers and marketers requiring introductory AI knowledge to engineers needing highly technical skills to build and deploy company-specific AI systems.
+
+In this new era of work, AI skills will be critical for nearly every role. However, the level of AI readiness will vary: an entry-level sales representative, seasoned marketing professional, data analyst, and engineer will each need different skills to incorporate AI into their day-to-day work.
+
+## Five-Level Framework for AI Expertise
+
+The LinkedIn Learning team crafted a five-level framework with a structured learning model to upskill your organization on AI. The framework organizes expertise into five levels:
+
+1. **Foundational AI Knowledge** (Levels 1 and 2) - Required for all employees.
+2. **Business Power Users and Developers** (Level 3) - For those using AI for deeper collaboration.
+3. **Machine Learning Engineers** (Level 4) - For those building AI systems and software.
+4. **Specialized Experts** (Level 5) - Cloud specialists and cybersecurity professionals.
+
+While some upskilling should happen concurrently—general AI learning for the entire organization alongside hands-on skill building for certain roles—LinkedIn’s courses and insights can help your organization thrive.
+
+## Getting Started with Upskilling
+
+To begin your organization’s AI journey, every employee—from business leaders to creatives to tech professionals—will need to understand the basics of AI. This includes what AI can assist with, such as drafting emails and identifying data patterns, and what it cannot help with, like human connection and relationship building. It's crucial to share a consistent message around the responsible use of AI aligned with organizational goals.
+
+“Over the next few years, we’ll see people who have the same job title but doing entirely different work,” says Doug Rose, AI strategist and LinkedIn Learning instructor. “It won’t just be about learning how to interact with AI systems but also about excelling at tasks where humans hold an advantage.”
+
+If your organization is just starting with AI, you’re in good company. “We’re still figuring a lot out in the AI space,” says Terence Morley, VP of global talent development at NBCUniversal, who is excited about AI’s potential to enhance learning and performance.
+
+### Expert Example: Kraft Heinz
+
+When Kraft Heinz was planning its 2023 Ownerversity Day, they chose the theme “Revolutionizing Creativity and Collaboration Through the Power of AI.” They focused on building foundational knowledge of AI by identifying teams responsible for establishing AI usage policies and collaborating with them throughout the learning journey.
+
+## Learning Path Level 1: Building AI Literacy
+
+The foundation of AI literacy helps employees gain basic fluency in AI. This level encourages understanding of how AI can streamline tasks and enhance productivity.
+
+### Expert Example: PwC
+
+To expand and scale its AI offerings, PwC pledged to invest $1 billion in AI training for its 75,000 employees in the U.S. and Mexico. They introduced mandatory e-learning modules complemented by in-person seminars and hands-on workshops, ensuring their approach caters to different department needs.
+
+## Learning Path Level 2: Hands-On AI Engagement
+
+This level is for employees who have achieved basic AI literacy and are ready to get hands-on. Key skills at this stage include prompting chatbots and collaborating with AI assistants. Every employee can benefit from training aimed at strategic AI applications within their roles.
+
+### Example of Professional Engagement
+
+While building a culture of curiosity around AI, organizations can assess how employees are currently using AI and share success stories company-wide to inspire participation.
+
+## Learning Path Level 3: Creating with AI
+
+Level 3 emphasizes the creation process using AI, targeted at business power users and seasoned developers. Important skills include using low-code tools and working with APIs to build applications.
+
+### Expert Insight
+
+“We believe all of our people need a fundamental understanding of AI technology,” says Leah Houde, chief learning officer at PwC, who highlights the importance of ongoing training for technical employees.
+
+## Learning Path Level 4: Engineering and Technical Skills
+
+Focusing on machine learning engineers, Level 4 addresses skills necessary for building and training AI models. As technical demands evolve rapidly, ongoing re-skilling is crucial for maintaining competitiveness.
+
+## Learning Path Level 5: Specialized Expertise
+
+This level tackles the specific needs of IT and cybersecurity professionals who require cutting-edge skills in AI applications, emphasizing the need for continual learning and adaptation to fast-paced changes in AI technologies.
+
+## Conclusion
+
+The recent report from Microsoft and LinkedIn reveals that nearly half of U.S. executives are not investing in AI tools for employees, while a quarter of L&D teams globally plan to offer generative AI training this year. Many employees are proactively adopting AI tools in their roles, highlighting a significant opportunity for organizations to engage with AI intentionally.
+
+By implementing a structured approach for upskilling employees based on their AI readiness and technical proficiency, organizations can position themselves to thrive amid evolving workplace demands. LinkedIn remains committed to providing expert insights and resources throughout this ongoing journey to AI literacy.

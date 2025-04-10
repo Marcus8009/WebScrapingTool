@@ -1,0 +1,51 @@
+file name: www.microsoft.com#en-us#worklab#why-youre-overwhelmed-at-work.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Mary Melton. On WorkLab, we hear from leading thinkers on the future of work. Economists, technologists, researchers—they all share surprising data and explore the trends transforming the way we work.
+
+This week, we explore findings from the 2023 Microsoft Work Trend Index, a global report of 31,000 people in 31 countries. This year’s report reveals how digital debt is impacting employee productivity and creativity, and how next-generation AI can help lift that burden and usher in a new productivity wave. To help us unpack the insights in the report, we’re sharing a conversation between two Microsoft leaders: Jared Spataro, corporate vice president of modern work and business applications, and Colette Stallbaumer, who’s the general manager of Microsoft 365 and Future of Work, and who previously led communications for CEO Satya Nadella. They explore trends and insights from the report and talk about the recently announced Microsoft 365 Copilot and what they’re learning from using the new AI product in their workday. 
+
+## The Shift to AI
+
+COLETTE STALLBAUMER: Good morning, Jared.  
+JARED SPATARO: Good morning, Colette.
+
+COLETTE STALLBAUMER: We are going to dive into this pretty incredible time that we’re in with the platform shift to AI. And I know, to us, it seems like this all happened so fast. Can you ground us a little bit on how we got here?  
+JARED SPATARO: Boy, we could go back a long time, but maybe I’ll just go back a little over three years ago. I think we couldn’t have this moment in AI without having the incredible digitization wave that swept over the planet as a result of how we all adapted to the pandemic. I remember pre-pandemic, the hardest thing I had was trying to convince people to turn their video on in meetings. We’re so far past that now, and communication is more free and easier than ever before.
+
+## Research Findings
+
+COLETTE STALLBAUMER: It’s really interesting how we pivoted a lot of our research three years ago to study intensely how work is changing. And now, as we’re on the cusp of this shift to AI, customers are turning to Microsoft for guidance. What stood out in our study?  
+JARED SPATARO: The number that captured the feeling was 64 percent. Sixty-four percent of people told us that they felt like they didn’t have the time or energy to do their jobs. Almost 60 percent of people’s time is now spent in communication, which leaves only about 40 percent for focused, creative work. We ended up calling this phenomenon digital debt.
+
+## Insights on AI
+
+COLETTE STALLBAUMER: Every once in a while, we hit upon something that resonates emotionally with people, and that’s what digital debt was this time. It’s easier than ever to communicate, but harder than ever to keep up.  
+JARED SPATARO: About 50 percent of people said they were worried about AI taking their jobs, but an amazing 70 percent said they would be willing to delegate tasks to some sort of AI assistant to help them out at work. 
+
+## Creative Assistance
+
+COLETTE STALLBAUMER: I think it’s surprising that people in creative roles said they felt more likely to use AI. I turn to Microsoft 365 Copilot whenever I have writer’s block.  
+JARED SPATARO: Ah, I love using Copilot in meetings. It is like having an incredible assistant listening closely to the dynamics of meetings. I can ask for summaries and different sides of a debate instantly, saving me so much time. 
+
+## Customer Conversations
+
+COLETTE STALLBAUMER: This moment in AI is no different than the shift to remote work. Leaders need to prepare culturally for this shift and help employees feel comfortable learning to work alongside an AI copilot.  
+JARED SPATARO: With AI, there are many cultural questions. It’s a big cultural shift that requires organizations to think about how to help staff adjust.
+
+## Embracing Change
+
+COLETTE STALLBAUMER: Culture truly eats strategy for breakfast. We need to focus on shifting both mindsets and behaviors.  
+JARED SPATARO: People are used to a deterministic relationship with computers. The key is to view AI as a tool designed to help pull the best out of us.
+
+## The Training of Future Generations
+
+COLETTE STALLBAUMER: My son struggles to get his creative ideas onto paper, but I’m excited about what AI can unlock for him.  
+JARED SPATARO: My kids are interested in how AI can improve programming tasks. It’s wonderful to see how quickly the rising generation can embrace this technology.
+
+## Conclusion
+
+Just as the world had to adapt to remote work, we are also entering an era of adapting to AI as a copilot in our professional lives. There are many reasons to be optimistic about this shift, and we are excited for what’s ahead.
+
+Thank you again to Jared Spataro and Colette Stallbaumer for sharing their insights. This wraps up this episode of WorkLab. Please subscribe for more conversations about the future of work.

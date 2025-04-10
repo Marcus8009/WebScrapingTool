@@ -1,0 +1,51 @@
+file name: https://customers.microsoft.com/en-us/story/1749403583645228440-amadeus-microsoft-365-professional-services-en-france.txt
+
+## Introduction
+
+As a company providing solutions to the tourism and hospitality industry, Amadeus operates in 190 countries. Created in 1987 by four European airlines, Amadeus has expanded its reach beyond flight booking into a diverse range of travel solutions. Today, it is a leader in the technological solutions behind travel.
+
+## Company Overview
+
+Amadeus provides a broad range of solutions for airlines, hotels, and travel agencies. The company's commitment to innovation has been instrumental in driving its success, and thanks to the recovery in air traffic, Amadeus’ 2023 annual revenue reached €5,441.2 million. Embracing cutting-edge technology to ensure the best efficiency, Amadeus is deploying Copilot for Microsoft 365, a Microsoft application powered by AI, implemented in the Microsoft 365 suite of products like Microsoft Teams, Microsoft Word, Microsoft PowerPoint, and Microsoft Outlook. This application is designed to make employees’ daily work easier.
+
+## Challenges and Deployment
+
+“One of the challenges for large-scale, global organizations is collaboration and data management. We are generating a large amount of data from different countries, and it's very useful to have quick access to all this data,” explains Marco Ruiz González, Product Manager and Solution Architect who supervised the deployment.
+
+Amadeus was one of the first customers to adopt Copilot for Microsoft 365, initially deploying it to a wave of 300 users across various business units and positions in early August. The objective is to progressively deploy the solution to 3,000 users in the next six months through weekly waves.
+
+To select early adopters for the pilot, Amadeus focused on individuals already heavily using Microsoft solutions. Notably, senior specialists and managers in marketing and engineering were the most represented, according to the company’s data. The first deployment wave showed promising results, with half of the users engaging with the tool weekly and over one in three using it daily. More than 60% of users rated the technology between 4 to 5 stars.
+
+## User Experience and Benefits
+
+The summarizing and drafting features are considered extremely useful. Meryem El Mehdati, a Senior Specialist in corporate internal communication, noted, “It made my life easier. I used to spend a lot of time writing a first draft of communication, but with Copilot, I can get a first draft in maybe 5 minutes or 10 minutes.”
+
+Copilot also offers a high precision level when generating content. “It looks for cues and expressions used in the past and incorporates them into the draft. That is great. Copilot can also give me a list of alternatives,” El Mehdati adds.
+
+Beyond the realm of communication, generative AI enhances efficiency in various areas. Frederick Ros, Head of Digital Workplace Services, states, “Throughout the discussions we've had with Microsoft, we've realized that this technology makes it possible to bring efficiency to people, to try and remove all these little frictions. The best example is with meetings.” 
+
+## Meeting Efficiency
+
+Copilot allows users to summarize key discussion points, including who said what, and to suggest action items. El Mehdati uses this feature to stay updated on meetings when she is unable to attend.
+
+The range of use cases is as diverse as the employees in the organization, covering summarizing email threads, chat discussions, generating new content, and more.
+
+For managers, Copilot is also transformative. Sean Carey, Vice President of the Architecture & Innovation department, uses Copilot extensively across PowerPoint, Word, Teams, and Outlook. “If I'm added late to a Teams thread, rather than reading through, I can ask for a summarization of what's been discussed before I join,” he explains, allowing him to participate effectively and swiftly.
+
+## Effectiveness and Adoption
+
+Carey has reduced his email backlog from 1,000 emails daily to fewer than 100, illustrating the efficiency gained. For Ruiz González, gathering information is now easier with Copilot: “This is a new way of searching and it is going to massively save time,” he noted, praising the personalized output it provides.
+
+Of the 300 early users, 90% have adopted Copilot. “I think the initial education awareness and adoption training is a critical influence to the success of the program. To understand its capabilities and how Microsoft can potentially help me with that,” Carey advises. Efforts were particularly focused on upper management and personal assistants.
+
+For the small minority—less than 10%—who do not use Copilot at all, the main barrier was finding time to learn the tool. “When you've got the AI enablement of Microsoft, there's a lot to learn. I prioritized what I saw was relevant to me, but also something that would demonstrate the value of generative AI,” Carey stated.
+
+Microsoft provides extensive documentation to help users optimize Copilot's capabilities. Ruiz González adds, “You already have prompts that the tool is suggesting.” His team also offers functional support to new users through dedicated threads in Teams.
+
+## Conclusion
+
+“In the end, Microsoft is helping us a lot and providing the top technologies that are in the market,” concludes Ruiz González.
+
+“Throughout the discussions we've had with Microsoft, we've realized that this technology makes it possible to bring efficiency to people, to try and remove all these little frictions. The best example is with meetings.” 
+
+Frederick Ros, Head of Digital Workplace Services, Amadeus.

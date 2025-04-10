@@ -1,0 +1,43 @@
+At Unilever, we believe there is a huge opportunity
+in the end-to-end marketing model
+to leverage Copilot,
+transforming a largely manual part
+of our marketing process: the brief.
+At the brief kickoff meeting,
+without even prompting,
+Copilot could begin to gather all of the relevant
+content across data sources.
+It could create a first draft,
+and when that's ready, share it
+with relevant stakeholders for their review.
+We call this Smart Briefing.
+That's quite powerful.
+This is not just about embracing change.
+It's about strategically positioning Clifford Chance
+for the future while maintaining our core mission
+of delivering superior legal service.
+The Copilot Agent working alongside the lawyer,
+ can autonomously identify risks,
+confirm the inclusion of required documents,
+and notify stakeholders of next steps.
+That just allows
+me and my team, to be free and available
+to deal with much more complex issues.
+So the concept that you could have
+your own personal compliance agent is so exciting.
+The beautiful thing about Copilot Agents is
+it can connect into our existing ecosystem.
+When a potential fraud scenario is identified,
+the agent will autonomously go and gather
+the relevant information
+from that source system, perform an analysis,
+and provide that analysis back to the fraud colleague.
+That always ensures
+that a human is in the loop.
+We actually built a working prototype
+in the space of a week.
+It enables us to operate at scale and at speed,
+efficiently, accurately.
+It allows us to take control over
+areas that we need to be focusing on,
+to improve our customer experience.

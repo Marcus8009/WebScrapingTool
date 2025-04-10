@@ -1,0 +1,41 @@
+file name: uniper-se-microsoft-copilot.txt
+
+## Introduction
+
+Climate-neutral by 2050. That’s what the Paris Agreement set out for the EU back in 2015. Now in full swing, the energy transition calls on many industries to do their part. But Uniper wants to do more; the energy company wants to lead the way and actively shape the transition, which is why it is striving to become climate-neutral by 2040. To this end, Uniper is investing not only in low-carbon and carbon-neutral energy sources but also in suitable technology. Employees are assisted in their day-to-day work by AI and Copilot for Microsoft 365. The ultimate goal is to extend the benefits from the workforce to the company and the environment.
+
+## Uniper's Role in Energy Transition
+
+Companies like Uniper are playing a pivotal role in the EU’s efforts to achieve climate neutrality. It’s time to scale back dependence on fossil fuels and expand the use of renewable sources of energy: natural gas plants are being converted so they can run on hydrogen in the future, while large power plants are being replaced by wind turbines. 
+
+“These aren’t jobs that can be completed overnight—including from an IT perspective,” says Damian Bunyan, CIO of Uniper. “Tapping new sources of energy means dealing with completely different data and a lot more of it. When it comes to energy trading, this leads to a vast increase in the kinds of smaller transactions that require considerably more computing power. We want to start now to manage this growing complexity.” Uniper plans to invest around 8 billion euros in the green transformation by 2030.
+
+## Skilled Workforce and Employee Efficiency
+
+Pulling off this transformation will, however, hinge on having the requisite number of skilled workers—Uniper alone is currently looking to hire some 800 new people. “For us to actively shape the energy transition, our employees must be able to focus on using their core competences,” Bunyan says. But it’s fairly common for expert capacity to be tied up performing manual and repetitive tasks, such as summarizing meetings or tracking down facts and figures. “This is where IT can provide technologies that can free up more time for employees to spend on tasks that really add value.”
+
+## Adopting Microsoft Azure
+
+Uniper took the first step in this direction back in 2016 by pursuing a single-cloud strategy based on Microsoft Azure. “Having a state-of-the-art IT landscape and central data basis means we can roll out new technologies like AI quickly and easily. That’s essential for reaping the benefits early on that will boost our own competitiveness,” Bunyan explains. “As a provider of critical infrastructure, all systems and applications must function safely and reliably. That’s why we chose to try out our own AI solution based on Copilot for Microsoft 365.”
+
+## Copilot for Microsoft 365
+
+“Now whenever I’m invited to be on a panel or speak at a conference, Copilot gives me all the information the company has on a given topic in a matter of seconds and in whatever language I choose. In the past, that all had to be put together manually,” Bunyan says. Copilot for Microsoft 365 had already demonstrated its potential for adding value as part of an early adopter program involving about 300 users. Since May 2024, all employees have had unlimited access to the tool. 
+
+“Unlike other solutions, Copilot can access our company’s collective knowledge stored in all Microsoft 365 applications—in full compliance with all data protection regulations,” Bunyan says. The AI assistant can transcribe meetings on Microsoft Teams, summarize the content in multiple languages, extract action points from email threads in Outlook, suggest structures for PowerPoint presentations, and help prepare information aimed at specific target groups.
+
+## Impact on Auditing and Security
+
+Copilot also supports in-house auditors, whose job it is to check that all Uniper locations are complying with security standards, regulations, and industry norms. “Legal requirements can change pretty fast and vary from country to country,” Bunyan says. “For any audit in any country, Copilot for Microsoft 365 lays out the particulars for the given standards and creates an audit plan as well as the relevant audit checklist. That means our auditors can get to work right away, and we increase audit productivity by up to 80%.”
+
+But that’s only the beginning of the journey: the more Copilot’s capabilities are expanded using additional company-specific knowledge, the more value the tool can add. To increase effectiveness and efficiency in IT security, Uniper is currently performing initial tests using Copilot for Security. “As an operator of critical infrastructure, we have to contend with a growing number of reports of phishing and attacks by hackers. AI can help us implement a sensible way of managing the sheer number of threats,” Bunyan says. “Copilot for Security immediately flags incidents relating to a new report, which means we can now identify risks up to twice as fast as before, assess them right away, and take the appropriate action.” Moreover, Copilot helps Uniper manage access rights and compile new emergency plans based on existing ones.
+
+## Enhancing Decision Making with AI
+
+Not only does AI support Uniper employees in working more effectively, but it also helps them make better decisions. “Before energy actually gets used, it goes through numerous trading transactions. A great many factors influence energy trading, including the weather, political events, and the market situation. This makes it extremely difficult even for experienced traders to identify the right moment to buy or sell energy,” Bunyan explains. “AI can help here. We use machine learning methods to evaluate previous transactions and identify certain patterns with a view to generating recommendations for the best time to buy or sell. But it’s our traders who make the final call.” 
+
+AI continues to assist through the steps that follow. If the total energy generated by a particular power plant is sold in one big chunk, that has a massive effect on the market in question. “Using AI models, we can divide the total amount into sensible packages so that the market remains stable,” Bunyan says. “AI helps us cut through a lot of the complexity. This is also true for the calculations used in the import of liquid natural gas, which require a lot of computing power. The market situation, prices, and our import locations tend to develop dynamically. For imports to be beneficial, they must meet certain price and volume criteria. AI helps us assess these parameters and make informed decisions.”
+
+## Conclusion
+
+For a long time, Uniper has been using AI to optimize its internal business processes from beginning to end within a specialized environment. Now, with the introduction of Copilot for Microsoft 365, all employees can reap the benefits of AI to make their day-to-day work more effective. This spells good news for Uniper’s customers as well: “Thanks to AI, we can come out with better products in next to no time. That’s a massive boost to our competitiveness. We’re also seizing new opportunities to develop enhanced solutions that will speed up the energy transition.”

@@ -1,0 +1,77 @@
+file name: news.microsoft.com#features#innovation#a-conversation-with-kevin-scott-whats-next-in-ai.txt
+
+## Introduction
+
+Artificial intelligence systems powered by large language models today are transforming how people work and create, from generating lines of code for software developers to sketches for graphic designers. Kevin Scott, Microsoft’s chief technology officer, expects these AI systems to continue to grow in sophistication and scale—from helping address global challenges such as climate change and childhood education to revolutionizing fields from healthcare and law to materials science and science fiction. Scott recently shared his thoughts on the impact of AI for knowledge workers and what’s next in AI.
+
+## Key AI Advancements in 2022
+
+When reflecting on the advancements in AI over the past year, Scott noted:
+
+- The launch of GitHub Copilot, a large language model-based system that dramatically improves developer productivity by turning natural language prompts into code. This innovation opens up coding to a much broader audience.
+
+- The popularity and accessibility of generative image models like DALL∙E 2, which provides users with a visual vocabulary that enhances creativity in design, though not replacing professional artists.
+
+- Significant progress in AI models, particularly in protein folding, highlighting collaborative efforts with David Baker’s laboratory at the University of Washington and the Institute for Protein Design. This work is seen as transformative for science and medicine.
+
+Scott expressed optimism for the future: "That’s a big, impressive year. And I think next year will be better."
+
+## Future Impact of AI
+
+Looking ahead, Scott anticipates that 2023 will be an exciting year for AI. He believes large AI models will continue to transform the knowledge economy by applying their capabilities in diverse intellectual labor scenarios beyond coding, including tasks in design, manufacturing, and writing.
+
+Scott shared a personal experience using a system he built with GPT-3 to aid his writing process, which significantly increased his productivity: "When I wrote a book the old-fashioned way... I’d feel really good about myself. With this tool, I’ve had days where I can write 6,000 words in a day."
+
+## Enhancing Job Satisfaction with AI Tools
+
+Scott discussed the reasons behind increased job satisfaction when using AI tools. He noted that:
+
+- Many people enjoy mastering new tools that enhance their workflow, which can lead to a noticeable improvement in morale.
+
+- AI tools, such as GitHub Copilot, help eliminate repetitive tasks, allowing users to remain in a productive flow state.
+
+A study indicated that using no-code or low-code tools led to an 80% positive impact on users’ overall work satisfaction.
+
+## AI Integration in Microsoft Products
+
+Scott emphasized that AI is enhancing numerous Microsoft products, often in ways users may not fully recognize. Machine learning algorithms contribute to features in Teams, Outlook, Word, and other products, improving user experiences significantly.
+
+The transition from specialized models for each task to a single powerful model utilized broadly has substantially elevated the overall capability and functionality of Microsoft’s technology offerings.
+
+## AI in Science and Society
+
+Microsoft's ongoing AI research and development initiatives, such as AI4Science and AI for Good, aim to tackle significant societal challenges. Scott highlighted the potential of AI to:
+
+- Aid in curing complex diseases.
+- Prepare for future pandemics.
+- Provide affordable healthcare for aging populations.
+- Educate the next generation on essential skills.
+
+The scalability of AI models is crucial for advancing these goals in science and technology.
+
+## Breakthroughs in Computing for AI
+
+Scott pointed out that the advances witnessed in AI stem largely from the importance of scale in training models. The power of modern supercomputers, including Microsoft’s Azure AI infrastructure, plays a vital role.
+
+Investments in software optimizations, such as DeepSpeed and the ONNX Runtime, are central to improving training efficiency and making large models more accessible.
+
+## AI and Jobs
+
+Addressing concerns, Scott acknowledged that the growth of AI technologies will inevitably change the nature of work. He emphasized the potential for job creation in new areas and highlighted the diverse opportunities AI tools can unveil.
+
+## Responsible AI Development
+
+Microsoft is committed to ensuring its AI tools are developed and applied responsibly. Scott outlined several measures in place:
+
+- A responsible AI process to scrutinize and mitigate potential harms.
+- Iterative deployment strategies to test and validate responsible AI practices with early customers before broader releases.
+
+All resources and methodologies regarding responsible AI development are shared with the community to promote industry-wide standards.
+
+## Conclusion
+
+Kevin Scott’s insights shed light on the transformational impact of AI on various sectors and the ongoing commitment to responsible development in the face of change. The conversation reflects a future where AI significantly enhances human creativity and productivity while addressing critical global challenges.
+
+--- 
+
+Top image: Center photograph of Microsoft Chief Technology Officer Kevin Scott is courtesy of Microsoft. Left and right images were created by a producer using DALL∙E 2, OpenAI’s AI system that can create realistic images and artwork from text descriptions.

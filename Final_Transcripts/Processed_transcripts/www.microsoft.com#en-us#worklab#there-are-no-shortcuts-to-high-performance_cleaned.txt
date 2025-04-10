@@ -1,0 +1,46 @@
+file name: microsoft.com#worklab#there-are-no-shortcuts-to-high-performance.txt
+
+## Introduction
+
+New research highlights the importance of investing in challenging conditions that impact performance, revealing that there are no shortcuts to high performance in business. AI can play a significant role in this endeavor.
+
+This article first appeared in the WorkLab newsletter. Be the first to get our updates by subscribing.
+
+## Key Findings on Performance
+
+According to a Viva People Science survey conducted with 1,100 external leaders from various global industries, the most critical factors for high performance are primarily human: effective managers, good communication, inspiring leadership, and an inclusive culture that promotes wellbeing. However, leaders expressed that these human factors are the hardest to get right.
+
+Implementing these challenging yet crucial capabilities can elevate organizational performance, making it essential for companies to focus their time and resources on them. Investing in technology can greatly assist in this area.
+
+## The Role of Effective Management
+
+Leaders identified effective managers who empower their teams as the foremost factor linked to high performance. Managers are crucial as they serve as the gateway to the workforce, unlocking the potential of employees. 
+
+However, developing effective managers was cited as a significant challenge for organizations. Leaders also emphasized the importance of effective communication and clarity regarding performance expectations, which are vital for maximizing team output. Organizations should leverage technology to alleviate burdens on managers, allowing them to concentrate on empowering teams and enhancing communication.
+
+## Collaboration Challenges
+
+The survey results indicated that leaders often engage in positive, low-conflict collaboration, characterized by building relationships and celebrating wins. Conversely, they tend to shy away from more challenging interactions, such as constructively addressing disagreements or collaboratively deciding on investments.
+
+This is especially concerning for the HR and IT departments, which need to work closely to select technologies that focus on the critical human factors. The survey revealed that most IT leaders primarily collaborate with their own teams (88%), while only 29% reported working closely with HR on technology investment decisions. Similarly, HR leaders mostly work with their own teams (78%) and only 47% engage with IT for technology decisions.
+
+To bridge this communication gap, many organizations have established roles for Digital Experience or Digital Transformation leaders who align technologies with human-centered needs. These leaders serve as vital links between IT and HR.
+
+## The Importance of AI
+
+Empowering staff through AI tools is a key objective for digital transformation leaders. Major challenges identified by leaders that hinder high performance include:
+
+- Burned-out and disengaged employees
+- Inefficient work culture driven by excessive meetings and long hours
+- Overburdened managers
+- Tedious task accumulation
+
+Leaders recognized that AI has significant potential to address these challenges, which are critical barriers to high performance. By employing AI to reduce repetitive tasks, create efficiencies, and allow employees to focus on more meaningful work, organizations can overcome performance hurdles.
+
+Moreover, leaders reporting strong performance across various metrics indicated that their organizations have progressed further in AI adoption than their counterparts and have invested more in AI for specific employee experience applications.
+
+## Conclusion
+
+In conclusion, while the easy path in performance enhancement may seem tempting, embracing the more challenging aspects of management and collaboration—with the help of AI—can make a significant difference. Tackling these challenges head-on, supported by technology, distinguishes high-performing organizations from those that merely maintain acceptable performance levels.
+
+Stay informed on AI trends and research by signing up for the WorkLab newsletter.

@@ -1,0 +1,33 @@
+file name: www.microsoft.com#en-us#worklab#enlist-ai-in-your-fight-against-email-overload.txt
+
+## A New Approach to Help Tame Your Inbox
+
+According to Microsoft's 2024 Work Trend Index Annual Report, email overload remains a persistent issue for Microsoft 365 users—85 percent of emails are read in under 15 seconds, and the typical person reads four emails for every one they send. However, users cannot simply declare email bankruptcy; emails still contain vital information and updates. The opportunity cost for organizations, when employees spend excessive time managing their inboxes, can be significant.
+
+Artificial Intelligence (AI) can help employees reclaim time and free up space for more strategic work. A study of early Copilot users revealed that those at top companies spent between 25 percent and 45 percent of their time interacting with emails.
+
+With AI, the workday of the future is likely to involve significantly reduced time spent on managing inboxes. To help organizations build habits that tackle email overwhelm, consider adopting the following four-part plan:
+
+## Distill
+
+Copilot condenses lengthy email threads into summaries, allowing users to quickly grasp key takeaways without sifting through entire conversations. It can gather and highlight key action items for team members, like messages from the CEO’s chief of staff sent across multiple platforms, including email. Encouraging teams to integrate AI catch-up summaries into their morning routines can help them get up to speed efficiently.
+
+## Dig
+
+Searching for crucial files or pieces of information no longer requires recalling which of the thousands of emails contains the needed information. Copilot can conduct the search, extending its capabilities to messages on Teams and files stored across various folders. Maryleen Emeric, Senior Director of Product Marketing for Modern Work and Biz Apps at Microsoft, illustrated this with an example: “Let’s say I know so-and-so sent me an amazing PowerPoint deck, but I can’t remember if it was in an email or during a meeting.” Now, she can simply ask Copilot to surface the file, saving valuable time. Emeric remarked that this functionality “has 100 percent changed how I search for information.”
+
+## Draft
+
+Copilot can generate a first draft of an email, which users can then fact-check and enhance. To maximize time savings, it's advisable for individuals to always start with a Copilot-generated draft, rather than only relying on it when uncertain about content. Tom Heath, Senior Business Program Manager at Microsoft, emphasizes this by stating: “It’s about changing a behavior. We need to build the reflex into our daily tasks.”
+
+## Diagnose
+
+Once a draft is ready, Copilot can evaluate aspects of the message that may be unclear or off-putting. Its “coaching” feature can check the tone of an email, assess clarity, and remind writers to consider the recipient’s feelings. For instance, does your message come across as polite, abrupt, or slightly defensive? This feature can be particularly beneficial for individuals who don’t enjoy writing, speak English as a second language, or seek assurance before sending an email.
+
+We all face the challenge of email overload. Developing an AI habit to manage it can help clear inboxes in a fraction of the time, reduce stress, and ensure that the most crucial information stands out.
+
+For more actionable insights on AI's transformative impact on work, consider subscribing to the WorkLab newsletter. 
+
+## Customer Zero
+
+Work It

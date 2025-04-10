@@ -1,0 +1,31 @@
+[Music]
+hey everyone I'm Luca and welcome to
+another episode of AI simplified in
+teams today I wanted to share one of my
+favorite co-pilot tips recapping chat
+threads in teams anytime I've been out
+of the office in training for a week or
+working with a team that is across
+different time zones I always come back
+to tons of unread messages I need to
+catch up on but with three clicks
+co-pilot quickly summarizes what I
+missed all I have to do now now is go
+into any busy chat click the co-pilot
+logo select the more prompts button in
+the bottom corner and choose highlights
+from the past 7 Days co-pilot then
+generates a 7-Day highlight for me that
+synthesizes all the key information I
+had missed in this chat I can even go
+further than just the summary asking
+co-pilot to organize the action items in
+a table so I have a clear idea of what I
+missed and just to check in with my team
+I'll copy and paste and share those
+action items and get the discussion back
+on track now instead of spending hours
+scrolling through my messages to find
+the information I needed I can do it
+effortlessly and visualize it easily
+with co-pilot and teams

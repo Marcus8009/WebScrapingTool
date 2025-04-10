@@ -1,0 +1,49 @@
+file name: customers.microsoft.com#en-us#story#ouh-microsoft-365-copilot-health-provider-en-united-kingdom.txt
+
+## Introduction
+
+Oxford University Hospitals NHS Foundation Trust (OUH) aimed to enable its staff to innovate with generative AI technologies in a secure and compliant manner. To achieve this, OUH implemented Microsoft 365 Copilot, enhancing the return on investment from existing Microsoft solutions.
+
+## Productivity and Time Savings
+
+Staff members reported significant productivity improvements and time savings in administrative tasks, ultimately allowing more resources to be directed towards frontline services. Initial findings indicate an average admin time saving of 2-3 hours per week.
+
+## Implementation and Support
+
+The OUH IT team, responsible for supporting acute care across Oxfordshire, recognized a strong interest in generative AI tools among its 18,500 network users. Matt Harris, Interim Chief Digital and Partnership Officer at OUH, shared, “We wanted a secure way for people to start using new generative AI technologies... Working with Microsoft to deploy Copilot meant we could be very comfortable with the security element of the tooling.” 
+
+Copilot was rolled out to just over 4% of the Trust's user base starting January 1, 2024. Users were encouraged to participate in drop-in sessions where the IT team discussed potential use cases, prompting, and actions.
+
+## Centre of Excellence
+
+As the rollout expanded, it became clear that a centre of excellence was needed. This hub, created in partnership with Microsoft, enabled users to share experiences and successes, leading to improved learning about Copilot’s capabilities.
+
+## User Experiences
+
+To date, over a third of users reported saving between one and two hours a week with Copilot, while nearly 10% saved around three to four hours per week. Notably, a colleague from the information governance team reduced complex formatting tasks from 15-20 minutes to mere seconds, allowing more focus on frontline services.
+
+Lee Massie, Head of IT at OUH, highlighted his own personal efficiency gains, stating, “I think I’m personally saving around an hour every day” through automated report generation.
+
+Liz Gamlen, who chairs the targeted lung health check initiative, transformed her meeting notes process, cutting the time taken from 90 minutes to just 25 minutes, significantly enhancing her work-life balance.
+
+## Governance and Compliance
+
+While OUH is committed to applying responsible AI principles, Lee Massie emphasized that Copilot offers capabilities beyond meeting notes and summaries. The team is concentrating on ensuring compliant use and identifying best practices for meetings recorded and transcribed.
+
+## Ongoing Development and Feedback
+
+Lee Massie utilized Copilot to gather user feedback through Microsoft Forms and identified opportunities for improving productivity. Users have praised its capabilities in text creation and document summarization, contributing to a boost in overall workflow efficiency.
+
+Matt Harris remarked on how Copilot facilitates intelligent search, producing curated information that enhances decision-making. In Finance, leaders have found it useful for generating VBA scripts to streamline processes.
+
+## Future Potential
+
+Despite the current focus on administrative tasks, Massie expressed a desire for broader applications of Copilot across clinical teams while ensuring effective governance measures are in place. For instance, Copilot could aid in creating and translating patient information leaflets, making them more accessible.
+
+## Coaching and User Engagement
+
+A critical element of the Copilot rollout will involve training users to craft effective prompts, enhancing the quality of responses received. Massie shared his learning, advising that specific and refined prompts yield better results.
+
+## Conclusion
+
+As OUH continues to explore the capabilities of Microsoft 365 Copilot, the team acknowledges that they are only scratching the surface of its potential. They have committed to sharing their learnings with other NHS organizations, highlighting digital technologies as paramount to effective healthcare delivery. The Trust is dedicated to ensuring that tools like Copilot are utilized effectively to support staff, enhance productivity, and ultimately benefit patient care.

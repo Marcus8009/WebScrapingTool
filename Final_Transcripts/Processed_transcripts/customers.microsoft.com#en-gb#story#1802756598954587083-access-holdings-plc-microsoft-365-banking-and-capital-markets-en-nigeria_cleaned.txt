@@ -1,0 +1,39 @@
+file name: customers.microsoft.com#en-gb#story#access-holdings-plc-microsoft-365-banking-and-capital-markets-en-nigeria.txt
+
+## Introduction
+
+Access Holdings Plc. is a leading multinational financial services group serving over 56 million customers with services such as commercial banking, lending, payments, insurance, and asset management. To address challenges in data management, productivity, and software development, the company adopted Copilot for Microsoft 365. The integration of generative AI capabilities into daily tools has significantly enhanced staff engagement in meetings and streamlined data analysis. Tasks like coding that previously took eight hours can now be completed in two, while launching chatbots now takes just 10 days instead of three months. Additionally, preparing presentations has been reduced from six hours to 45 minutes.
+
+## Company Overview
+
+Headquartered in Lagos, Nigeria, Access Holdings Plc. operates a network of more than 600 branches and service outlets across three continents and 18 countries, serving over 56 million customers. The company employs more than 28,000 people in Nigeria and is listed on the Nigerian Exchange Limited.
+
+Over the past 30 years, Access Holdings has evolved from a small Nigerian bank into a prominent African financial institution. "Like any leading organization, Access Holdings aims to quickly adapt to new technology trends, especially those that are highly beneficial like generative artificial intelligence (AI)," shares Lanre Bamisebi, Executive Director of IT and Digitalization at Access Holdings Plc. "This enables us to mainstream sustainable business practices to support our growth."
+
+## Adoption of AI Technology
+
+Access transitioned into a holding company to drive rapid growth and provide an interconnected ecosystem of services. Established in 2022, Access Holdings Plc. includes the Access Bank Group, a Payment and Switching Services Company, a Digital Lending Company, a Pension Fund Company, and an Insurance Brokerage Company.
+
+"To inspire everyone in the organization to take advantage of AI, we knew we had to integrate AI into the tools people use every day. Copilot for Microsoft 365 made the most sense and was a natural fit for us," explains Bamisebi. 
+
+The holding company initiated training for its executive directors and general managers to utilize Copilot. "According to our surveys, some employees were apprehensive about AI due to their discomfort with change, while others feared job displacement. The training aimed to reassure them,” Bamisebi notes. "The training also helped us gather use cases from the participants. We were amazed how people who didn't know how to use AI just hours before could suddenly identify various ways to incorporate it into their work."
+
+## Benefits of Copilot
+
+In the first three months of Copilot adoption, Access Holdings observed substantial benefits across its operations. Developers now use Copilot to expedite the development lifecycle. "Rather than writing every line of code from scratch, developers can get an outline of code from Copilot and make edits. This can reduce an eight-hour timeline to about two or three hours," Bamisebi explains. Developers also use Copilot to review existing code for efficiency, enhancing system stability by predicting potential issues.
+
+Using Copilot accelerates project timelines. For instance, the development of a chatbot project, which typically might take two to three months, can now be completed in approximately 10 days with the aid of Copilot.
+
+"Currently Copilot helps increase the engagement level of our staff during meetings by about 25%," adds Bamisebi. The integration of Copilot into Microsoft Teams has particularly improved online meetings by summarizing minutes and highlighting important points, allowing staff to focus on discussions rather than note-taking.
+
+The company’s data science team greatly benefits from Copilot, as it aids in extracting insights from vast amounts of data. A marked increase in productivity has been observed in report and presentation preparations. Bamisebi shares an example: "One of our executives had to present to investors. She used Copilot to quickly analyze the report, highlight its strengths and weaknesses, and rework the presentation with an analyst. What would have taken five or six hours, took just 45 minutes with Copilot."
+
+## Future Outlook
+
+For employees with busy schedules, Copilot has proven to be invaluable by summarizing chats, emails, and meetings, ensuring that no action items are overlooked. "Recently, I took a week off. Unlike my other vacations, this time I was able to just relax,” reflects Bamisebi. “I knew that as soon as I’m back, Copilot will help me catch up with anything that I’ve missed."
+
+Access Holdings has established a dedicated Copilot environment to ensure data security, preventing information leaks outside the organization or between user groups. All queries and interactions carried out with Copilot are managed exclusively by Access Holdings Plc.
+
+While quantifying cost-savings is premature, Bamisebi anticipates substantial savings: “For example, a developer could also take on testing tasks. This could lead to about 25% enhanced staff efficiency and reduced technology operating costs.”
+
+Access Holdings is set to continue its technological evolution. "One of the things I've always wanted to measure is the overall effectiveness of our technology," says Bamisebi. The company aims to develop metrics to gauge efficiency and limit bugs in generated code. “In only a few months, we’re able to make better decisions, analyze large sets of data, have more engaged discussions, and collaborate more smoothly. After a year, we are sure to see even greater gains in efficiency and cost savings," concludes Bamisebi.

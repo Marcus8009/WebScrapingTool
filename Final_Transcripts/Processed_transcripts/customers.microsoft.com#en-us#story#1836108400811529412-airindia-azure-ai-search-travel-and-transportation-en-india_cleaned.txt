@@ -1,0 +1,65 @@
+file name: customers.microsoft.com#en-us#story#1836108400811529412-airindia-azure-ai-search-travel-and-transportation-en-india.txt
+
+## Transformation at Air India
+
+As part of a transformation intended to restore its status as a world-class airline with a strong Indian identity, Air India needed to upgrade the customer experience without increasing costs. 
+
+Air India used Azure OpenAI Service to develop AI.g, one of the world’s first airline virtual assistants based on generative AI. Launched in May 2023, it has handled nearly 4 million customer queries and complements other innovative AI-based services.
+
+As Air India has doubled its passenger count, AI.g has managed 97% of queries with full automation, allowing the airline to avoid millions of dollars in customer support costs. The integration of generative AI across multiple applications positions the airline for continued growth.
+
+## Challenges Faced
+
+Air India, the nation’s flagship carrier, is midway through a five-year transformation plan aimed at renewed profitability and regaining global leadership. Over decades, the nearly century-old airline underwent management changes that left its fleet and technology outdated. This resulted in a less-than-ideal experience for millions of passengers. The current transformation seeks to address prior shortcomings and drastically improve customer service.
+
+“Customers are the very center of our existence,” says Dr. Satya Ramaswamy, Chief Digital and Technology Officer at Air India. “We anticipate a many-fold increase in passengers, and they’re coming with certain expectations. We need to deliver. Happy customers are loyal customers.”
+
+In 2022, under new ownership by the Tata Group, the airline ordered 470 new planes and set out to recover its original reputation for customer care. This effort included modernizing infrastructure by migrating all workloads, including a new website, from on-premises data centers to Microsoft Azure.
+
+## Implementation of AI Technologies
+
+Ramaswamy explains, “We want to adopt the latest technologies available to us to provide the consistent, quick, and accurate service that our customers expect from us.” 
+
+To enhance customer service while managing costs, the airline decided to upgrade its virtual assistant, which had been based on outdated technologies. “When OpenAI models were offered on Azure, we didn’t have a second thought,” remarks Viju Chacko, Head of Digital Architecture at Air India. “It was the next obvious step.”
+
+The company’s confidence was strengthened by positive experiences with Microsoft 365 Copilot. Air India began working with Azure OpenAI Service and Azure AI services to update the existing assistant’s core natural language processing engine to the latest GPT models. The airline reengineered its AI stack for generative content and back-end integration, using Azure AI Content Safety to detect and mitigate potentially harmful content.
+
+“We have to be very accurate with information and careful about some of the potential challenges with generative AI,” says Ramaswamy. He emphasizes that Retrieval Augmented Generation (RAG) and integration with back-end systems are essential for ensuring the assistant’s responses are accurate and actionable.
+
+## Building a Multi-modal AI Platform
+
+The airline constructed a multi-modal AI platform that includes Azure AI Search, Azure AI Speech, and Azure AI Vision, all built on Azure data solutions. AI Search collaborates with Azure OpenAI to support RAG, while Azure Cosmos DB provides scalable storage for conversations, user states, and vectors, in addition to supporting non-relational database needs such as booking data. 
+
+Chacko states, “For use cases where we want a dynamically scaling database, especially for NoSQL data, Azure Cosmos DB is our choice. With our virtual assistant in particular, we have experienced higher scale, higher availability, and faster time to market.”
+
+Azure SQL Database helps evaluate the assistant’s interactions, and the platform functions seamlessly with other data solutions in the company’s architecture, including Azure Database for PostgreSQL and Azure Databricks.
+
+This data foundation underpins a highly capable virtual assistant, with Azure App Service enabling swift deployment. Chacko explains, “The solution is implemented as multiple microservices, including the bot code and natural language processing service that works with Azure OpenAI. All are deployed using Azure App Service.” Azure API Management is utilized to ensure the security of sensitive customer data.
+
+## Launch and Performance of AI.g
+
+In May 2023, Air India launched its new assistant, now named AI.g, which is among the industry’s first virtual agents based on generative AI and informed by the airline’s enterprise data. Ramaswamy states, “We built a bunch of innovations to ensure the information provided by the chatbot is well integrated into our enterprise systems, such as our reservation system.”
+
+AI.g handles an average of 30,000 questions per day across 1,300 topic areas related to bookings, flight status, baggage, check-in, frequent flyer awards, airport lounge access, and more. Chacko notes, “For every business requirement, we figured out how to realize it on the Azure platform. The support from Microsoft has been amazing, both in terms of technical assistance and co-innovating solutions together.”
+
+Customers appreciate that the virtual assistant can comprehend colloquial or incomplete requests. Ramaswamy explains, “This is possible because Azure OpenAI Service can reason that a Labrador is a dog, thus applying the pet policy while personalizing responses.”
+
+To date, AI.g has successfully managed nearly 4 million customer queries, 97% of which were automated. When additional support is required, it escalates the matter to contact center staff.
+
+“Customer convenience and the ability to get things accomplished quickly and accurately is why customers prefer to interact with AI.g,” says Ramaswamy, noting that it allows the contact center to focus on customers needing human assistance.
+
+## Innovative Customer Support Features
+
+The Azure-powered AI platform also enhances various aspects of customer experience. Travelers can streamline check-ins by scanning their visas and passports, then use tagging to track baggage throughout their journeys. The platform's voice recognition capabilities enable analysis of live contact center conversations for quality assurance and training. Chacko adds, “The multi-modality helps us realize the multimedia aspects of these interactions.”
+
+Conversational AI based on Azure OpenAI Service has significantly improved the Air India customer experience, enabled the airline to upscale customer support without increasing the number of human agents, and empowered agents to deliver personalized support while managing costs.
+
+## Future Projects and Goals
+
+Ramaswamy states, “We have doubled our passenger count since early 2022.” However, the call volume in the contact center remains steady at about 9,000 queries daily, as AI.g handles approximately 10,000 a day, realizing considerable savings in operational costs.
+
+The company is now pursuing AI-powered initiatives aimed at improving efficiency and enhancing training for crew and pilots. Ramaswamy discusses future features where contact center staff can converse with customers while the AI listens to automate data entry and retrieval. 
+
+As Air India continues to innovate and expand its AI capabilities, it strives for its goal of becoming a global aviation leader with a target of attaining a 30% market share. Ramaswamy concludes, “We are on this mission of building a world-class airline with an Indian heart. To accomplish that goal, we are becoming an AI-infused company, and our collaboration with Microsoft is pivotal to that journey.” 
+
+Discover more about Air India on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.

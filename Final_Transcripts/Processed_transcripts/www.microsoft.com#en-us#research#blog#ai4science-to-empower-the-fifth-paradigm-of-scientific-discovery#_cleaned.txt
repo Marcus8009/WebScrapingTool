@@ -1,0 +1,46 @@
+file name: microsoft.com#research#ai4science-to-empower-the-fifth-paradigm-of-scientific-discovery.txt
+
+## Introduction
+
+Published July 7, 2022  
+By Christopher Bishop, Technical Fellow and Director, Microsoft Research AI for Science
+
+Editor’s note, Oct. 20, 2023 – The post was updated to remove information related to the Amsterdam lab, as those details have since changed.
+
+Over the coming decade, deep learning looks set to have a transformational impact on the natural sciences. The consequences are potentially far-reaching and could dramatically improve our ability to model and predict natural phenomena over widely varying scales of space and time. Could this capability represent the dawn of a new paradigm of scientific discovery?
+
+## Data-Intensive Scientific Discovery
+
+Jim Gray, a Turing Award winner, and former Microsoft Technical Fellow, characterised the historical evolution of scientific discovery through four paradigms. With origins dating back thousands of years, the first paradigm was purely empirical and based on direct observation of natural phenomena. While many regularities were apparent in these observations, there was no systematic way to capture or express them. The second paradigm was characterised by theoretical models of nature, such as Newton’s laws of motion in the seventeenth century, or Maxwell’s equations of electrodynamics in the nineteenth century. Derived by induction from empirical observation, such equations allowed generalization to a much broader range of situations than those observed directly.
+
+While these equations could be solved analytically for simple scenarios, it was not until the development of digital computers in the twentieth century that they could be solved in more general cases, leading to a third paradigm based on numerical computation. By the dawn of the twenty-first century, computation was again transforming science, this time through the ability to collect, store, and process large volumes of data, leading to the fourth paradigm of data-intensive scientific discovery. Machine learning forms an increasingly important component of the fourth paradigm, allowing the modelling and analysis of large volumes of experimental scientific data. These four paradigms are complementary and coexist.
+
+The pioneering quantum physicist Paul Dirac commented in 1929 that “The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that the exact application of these laws leads to equations much too complicated to be soluble.” For example, Schrödinger’s equation describes the behaviour of molecules and materials at the subatomic level with exquisite precision, and yet numerical solution with high accuracy is only possible for very small systems consisting of a handful of atoms. Scaling to larger systems requires increasingly drastic approximations, leading to a challenging trade-off between scale and accuracy. Even so, quantum chemistry calculations are already of such high practical value that they form one of the largest supercomputer workloads.
+
+## The Fifth Paradigm of Scientific Discovery
+
+However, over the last year or two, we have seen the emergence of a new way to exploit deep learning as a powerful tool to address the speed-versus-accuracy trade-off for scientific discovery. This is a very different use of machine learning from the modelling of data that characterizes the fourth paradigm, because the data that is used to train the neural networks itself comes from the numerical solution of the fundamental equations of science rather than from empirical observation. We can view the numerical solutions of scientific equations as simulators of the natural world that can be used, at high computational cost, to compute quantities of interest in applications such as forecasting the weather, modelling the collision of galaxies, optimizing the design of fusion reactors, or calculating the binding affinities of candidate drug molecules to a target protein. 
+
+From a machine learning perspective, however, the intermediate details of the simulation can be viewed as training data which can be used to train deep learning emulators. Such data is perfectly labelled, and the quantity of data is limited only by computational budget. Once trained, the emulator can perform new calculations with high efficiency, achieving significant improvements in speed, sometimes by several orders of magnitude. 
+
+This ‘fifth paradigm’ of scientific discovery represents one of the most exciting frontiers for machine learning as well as for the natural sciences. While there is a long way to go before these emulators are sufficiently fast, robust, and general-purpose to become mainstream, the potential for real-world impact is clear. For example, the number of small-molecule drug candidates alone is estimated at 10^60, while the total number of stable materials is thought to be around 10^180 (roughly the square of the number of atoms in the known universe). Finding more efficient ways to explore these vast spaces would transform our ability to discover new substances such as better drugs to treat disease, improved substrates for capturing atmospheric carbon dioxide, better materials for batteries, new electrodes for fuel cells to power the hydrogen economy, and myriad others.
+
+## Microsoft’s AI4Science Initiative
+
+AI4Science is an effort deeply rooted in Microsoft’s mission, applying the full breadth of our AI capabilities to develop new tools for scientific discovery so that we and others in the scientific community can confront some of humanity’s most important challenges. Microsoft Research has a 30+ year legacy of curiosity and discovery, and I believe that the AI4Science team – spanning geographies and scientific fields – has the potential to yield extraordinary contributions to that legacy.
+
+I’m delighted to announce today that I will be leading a new global team in Microsoft Research, spanning the UK, China, and the Netherlands, to focus on bringing this fifth paradigm to reality. Our AI4Science team encompasses world experts in machine learning, quantum physics, computational chemistry, molecular biology, fluid dynamics, software engineering, and other disciplines who are working together to tackle some of the most pressing challenges in this field.
+
+## Case Studies and Impact
+
+An example project is Graphormer, led by my colleague Tie-Yan Liu in our China team. This is a deep learning package that allows researchers and developers to train custom models for molecule modelling tasks, such as materials science or drug discovery. Recently, Graphormer won the Open Catalyst Challenge, a molecular dynamics competition that aims to model the catalyst-absorbate reaction system by AI, and has more than 0.66 million catalyst-absorbate relaxation systems (144 million structure-energy frames) simulated by density functional theory (DFT) software. Another project, from our team in Cambridge, in collaboration with Novartis, is Generative Chemistry, where together we are empowering scientists with AI to speed up the discovery and development of breakthrough medicines.
+
+As Iya Khalil, Global Head of the AI Innovation Lab at Novartis, recently noted, the work is no longer science fiction but science-in-action: 
+
+“Not only can AI learn from our past experiments, but, with each new iteration of designing and testing in the lab, the machine learning algorithms can identify new patterns and help guide the early drug discovery and development process. Hopefully in doing this we can augment our human scientists’ expertise so they can design better molecules faster.”
+
+The team has since used the platform to generate several promising early-stage molecules which have been synthesised for further exploration.
+
+## Conclusion
+
+It is with pride and excitement that we take this next step to come together as a cross-geographical team and follow in the footsteps of pioneers before us, to contribute to this next paradigm of scientific discovery, and in doing so impact many important societal challenges. If you share our excitement and ambition and would like to join us, I encourage you to look at our open positions or get in touch to talk to anyone on the team.

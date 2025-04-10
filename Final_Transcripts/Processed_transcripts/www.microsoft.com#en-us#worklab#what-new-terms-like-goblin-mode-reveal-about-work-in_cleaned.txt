@@ -1,0 +1,61 @@
+file name: www.microsoft.com#en-us#worklab#what-new-terms-like-goblin-mode-reveal-about-work-in-2023.txt
+
+## Introduction
+
+Are you quiet quitting, or just embracing JOMO? Timeboxing or adapting to the Triple Peak workday? From productivity paranoia to asynchronous collaboration, the language we use to describe work is changing as quickly as work itself. The Economist even declared “hybrid work” the 2022 word of the year, noting that it would reshape everything from how we use cities to what we consider free time. As business leaders look to understand the new patterns of work, these terms offer insights into both the challenges and opportunities ahead.
+
+Colette Stallbaumer, general manager of Microsoft 365 and Future of Work at Microsoft, says, “We’ve all been through this tremendous shared experience that has prompted us to find new ways to label the ways we’re feeling.” One of those feelings, she notes, is being tired. “Humans will always want to be inventive and find new ways of doing things and reach greater heights. But ambition is tired right now. It’s not dead, but it needs a rest.”
+
+## New Work Terms
+
+### Productivity Paranoia
+
+Leaders often feel uneasy about whether people are being productive, despite the fact that employees are working more than ever. In the past, employees who admitted to feeling burned out or stuck might have faced career blockers, but now, the lines between personal and professional lives have blurred due to remote work.
+
+### Asynchronous Collaboration
+
+Historically, employees did their jobs at the same time and in the same place—9 to 5 in the office. Now, new patterns of work and technology allow for collaboration that transcends space and time. To support asynchronous work, managers can reimagine meeting culture, leverage tools like meeting transcripts and recordings, and create team best practices. It’s essential to establish work-life boundaries to prevent burnout.
+
+### Generative AI
+
+Generative AI, seen in tools like Dall-E 2 or ChatGPT, is poised to transform the working world. Kevin Scott, chief technology officer at Microsoft, expresses confidence that 2023 will be the most exciting year for AI innovation. Business leaders will need to adopt new work patterns enabled by these tools while measuring creativity and impact rather than traditional metrics like time spent.
+
+### Goblin Mode
+
+Oxford named “goblin mode” the 2022 Word of the Year, defining it as behavior that is unapologetically self-indulgent or lazy. Influencers on TikTok have reclaimed goblin mode as a point of pride, rejecting unrealistic self-presentation norms. Stallbaumer embraces this empowering take: “Goblin mode can look like showing up to work as more of yourself.” 
+
+### Human Energy Crisis
+
+Kathleen Hogan, chief people officer at Microsoft, describes a collective state of depleted enthusiasm, motivation, and mental health due to various factors. Since the pandemic, workday spans have increased significantly, necessitating a focus on wellbeing and allowing employees to embrace their authentic selves.
+
+### JOMO
+
+The Joy of Missing Out (JOMO) is the happiness derived from not attending events or meetings. Stallbaumer advocates for a shift away from “presenteeism” to trusting employees to determine their attendance priorities. Embracing JOMO means valuing impact over visibility in the workplace.
+
+### NTD
+
+Just as “GTG” means “got to go,” participants may use “NTD” (need to drop) in chats during meetings. When teams frequently drop off meetings, leaders should reinforce the importance of breaks and time management in respect to meeting duration.
+
+### No-KRs
+
+Contrary to OKRs (Objectives and Key Results), No-KRs refer to tasks that should not be prioritized. Identifying these can relieve pressure on managers and assist in developing team goals.
+
+### Quiet Quitting
+
+Quiet quitting refers to doing the minimum required at work, prioritizing personal interests. While it’s not a precursor to resigning, it signifies shifting employee priorities toward wellbeing. Stallbaumer notes, “Our data shows people are working more than ever. They just have a new ‘worth-it equation.’”
+
+### Timeboxing
+
+This productivity technique involves scheduling important aspects of life with set times. Leaders are encouraged to support teams in controlling their schedules and respecting designated time slots.
+
+### Triple Peak Workday
+
+The pandemic has created a “triple peak workday,” adding a third productivity peak around 9 p.m. Managers should adapt team agreements to accommodate varying work styles and promote flexible work patterns.
+
+### Worth-it Equation
+
+Post-pandemic, many employees are prioritizing family and wellbeing over work. Leaders need to understand this new equation as they navigate economic uncertainty and support their teams’ needs effectively.
+
+## Conclusion
+
+The insights and terminology around the evolving work landscape highlight the importance of understanding and adapting to new challenges. As the workforce continues to navigate change, embracing flexibility and prioritizing employee wellbeing will be crucial for success. Stallbaumer emphasizes the resilience of the human spirit amid the need for rest and balance in ambition.

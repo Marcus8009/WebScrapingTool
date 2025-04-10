@@ -1,0 +1,69 @@
+file name: microsoft.com#en-us#worklab#how-copilot-is-transforming-one-global-creative-agency.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use generative AI effectively to what it takes to thrive in our new world of work.
+
+## Interview with James Thomas
+
+Today I’m talking to James Thomas, global head of technology at Dentsu Creative, about his organization’s early experience with generative AI at work. Dentsu is one of the world’s largest global creative agencies and was also one of the first to try out Microsoft 365 Copilot as part of Microsoft’s Early Access Program. James shares how incorporating generative AI into everyday operations has transformed his team’s workflows and what business leaders should keep in mind as they begin to adopt this technology.
+
+**MOLLY WOOD:** James, thanks so much for joining us.
+
+**JAMES THOMAS:** Thank you for having me. It’s great to be here.
+
+**MOLLY WOOD:** Dentsu was one of the first companies to try out Microsoft’s Copilot. What has the experience been like for the teams that took it for a test drive?
+
+**JAMES THOMAS:** A huge amount of people wanted to get their hands on it. Unfortunately, we didn’t have that many licenses. But the lucky 300 or so who got access are now experiencing a game changer. Many can’t see themselves going back to how they used to work. They see the efficiencies, improvements in the quality of their output, and better collaboration in creative roles. Much time is spent on planning—complex production meetings and sessions where notes and action items need to be created. The savings and efficiencies we’re seeing mean people can focus directly on their primary tasks.
+
+## AI in the Creative Process
+
+**MOLLY WOOD:** How has AI impacted the creative process at Dentsu?
+
+**JAMES THOMAS:** Typically, we work with clients in what we call a chemistry session, brainstorming ideas. We would normally go away and present concepts days, weeks, or even months later. Using Copilot and DALL-E, we can now ideate in real-time with clients, sketching down ideas into Word and allowing ChatGPT to expand those out into fully formed concepts. AI enables quick visualizations, helping us communicate ideas better, and it significantly accelerates our process. We've found use cases we hadn’t even thought of before. Initially, some creatives were apprehensive about the technology, but now it’s regarded as another tool in their toolkit, allowing them to reach their ideas much faster.
+
+**MOLLY WOOD:** What was the preparation like for this integration?
+
+**JAMES THOMAS:** We’ve done a great job of supporting our teams, largely thanks to Dominic Shine, our CIO, and Brian Klochkoff, who enables our services at scale. We hold office hours and town halls where users can share tips and tricks they’ve found, fostering a collaborative environment to learn from one another.
+
+## Future Vision
+
+**MOLLY WOOD:** As adoption grows and these efficiencies compound, what do you imagine will happen?
+
+**JAMES THOMAS:** We’re dealing with a demand from CMOs for continuous content generation—countless versions for various channels. Creatives have traditionally been overloaded with this manual workflow. AI allows them to focus on deeper creative thinking. By automating elements like content generation, they can spend more time refining the upfront creative ideas, which is crucial for developing exceptional campaigns.
+
+## Creativity and Collaboration
+
+**MOLLY WOOD:** Can you elaborate on collaboration and interaction in the creative process?
+
+**JAMES THOMAS:** People dislike starting with a blank page. Tools like ChatGPT help throw around initial concepts, expanding simple ideas into proposals quickly. This rapid idea generation fosters creativity and assists in tailoring messages to specific audiences.
+
+**MOLLY WOOD:** Have you had any moments where this technology blew your mind?
+
+**JAMES THOMAS:** Yes, I spend most of my day in meetings, and the note-taking, transcribing, and summarizing are incredible. If I join a meeting late, I can review the recap and be up to speed in no time. It’s more accurate than my notes. Plus, managing lengthy email chains has become less daunting with Copilot summarizing content into concise paragraphs.
+
+## Advice for Business Leaders
+
+**MOLLY WOOD:** What advice would you give to business leaders looking to integrate AI into their organization?
+
+**JAMES THOMAS:** Tailor the technology to your team’s specific use cases. A creative team may not care about Excel functionalities but will be interested in applications that pertain to their work. Building a culture of sharing insights on these tools is key to driving adoption.
+
+## Addressing Skepticism
+
+**MOLLY WOOD:** How do you address AI skepticism?
+
+**JAMES THOMAS:** The biggest misconception is that generative AI will replace jobs. This technology is elevating roles by helping creatives be more productive and generate better content. It opens doors to new skill sets and careers, such as prompt engineering. While technology can enhance creativity, human intuition and input will always be essential.
+
+## Conclusion
+
+**MOLLY WOOD:** As we look ahead, what do you foresee about the future of work?
+
+**JAMES THOMAS:** It’s hard to predict, but I believe most professionals will leverage AI tools in their daily workflows. Everyone will become more efficient, leading to happier work lives as we automate mundane tasks. The role of AI in our lives is only set to expand.
+
+**MOLLY WOOD:** Thank you, James Thomas, for sharing your insights.
+
+**JAMES THOMAS:** Thank you for the opportunity.
+
+---
+
+Thank you for tuning in to this episode of WorkLab. Please subscribe and join us next time, where I’ll talk to Microsoft Chief Scientific Officer Eric Horvitz about leveraging AI for the greater good. Drop us an email with your thoughts at worklab@microsoft.com, and check out Microsoft’s Work Trend Index for more insights on today’s work trends.

@@ -1,0 +1,31 @@
+file name: customers.microsoft.com#en-us#story#scottishwater-microsoft-copilot-energy-en-united-kingdom.txt
+
+## Introduction
+
+Water is the planet’s most precious resource, and in Scotland, Scottish Water’s 4,500 employees provide water and wastewater services to 2.6 million households. Digitalisation plays a crucial role in helping the company analyse the water cycle and better understand water demand. However, tedious tasks often interrupt the crucial work of delivering safe drinking water and recycling wastewater, motivating the need to reduce mundane tasks. Implementing Copilot for Microsoft 365 has allowed Scottish Water to free up time for more meaningful activities.
+
+## The Infrastructure and Challenges
+
+Scottish Water operates 230 water treatment works supplying 1.52 billion litres of water daily through a network of 50,000 kilometres of water mains. Additionally, 1,800 treatment works collect and treat over 900 million litres of wastewater. John Cairney, Head of Digital Strategy & Architecture / CTO at Scottish Water, emphasizes their commitment to delivering water and wastewater services. The company heavily relies on operational technology and IT—including mobile devices, smart devices, laptops, sensor technology, and analytics software—to achieve its goals.
+
+Many employees find themselves in unproductive meetings where note-taking and minute-writing consume time better spent on more impactful tasks. Andrea McCheyne, Transformation Manager at Scottish Water, points out the challenges associated with such meetings, describing them as less engaging and time-consuming.
+
+## Implementing Copilot
+
+“We call it ‘lifting the level of work,’” Cairney explains. Scottish Water has engaged with their data scientists to explore the potential of traditional artificial intelligence, and with the maturity of generative AI, they decided to implement Copilot for Microsoft 365 to reduce the time spent on mundane tasks. 
+
+Employees have embraced Copilot across traditional Office applications, particularly within Microsoft Teams, Word, and Outlook. “In our best week, we saved around 200 hours across all Copilot users,” Cairney says. “That’s time that we can now spend on more meaningful tasks directly related to improving our customers’ experience.”
+
+## Benefits of Copilot for Meetings
+
+Feedback highlights that the use of Copilot in Teams has been particularly beneficial. With the ability to summarise meetings and track assigned tasks, Copilot allows participants to focus on engagement rather than note-taking. McCheyne states, “Copilot gives us all the answers we might need about a meeting in a matter of seconds,” eliminating the need for manual note-taking, which increases productivity.
+
+## Enhancing Communication and Productivity
+
+Post-meeting, Copilot also provides feedback on presentation styles and engagement levels, enriching the educational aspect of meetings. McCheyne notes the significant boost in productivity when creating communication materials, stating that “Copilot eliminates the blank page syndrome,” allowing users to produce structured documents quickly.
+
+Analysts can utilize Copilot to explain complex datasets and code, reducing time spent searching for information. “A very important return on our investment in Copilot is not necessarily the time itself, but the much higher quality of work we create,” McCheyne explains.
+
+## Conclusion
+
+The implementation of Copilot at Scottish Water signifies a shift toward spending less time on tedious tasks, allowing more time for impactful work. Cairney summarises the effectiveness of Copilot by stating, “It works like a copilot, an assistant that takes over those tasks that keep you from doing work that holds more purpose.” Moving forward, Scottish Water plans to roll out Copilot to all employees to enhance productivity and the quality of work across the organization.

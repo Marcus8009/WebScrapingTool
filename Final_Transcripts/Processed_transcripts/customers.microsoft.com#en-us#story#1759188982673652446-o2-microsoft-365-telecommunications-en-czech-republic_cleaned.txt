@@ -1,0 +1,51 @@
+file name: 1759188982673652446-o2-microsoft-365-telecommunications-en-czech-republic.txt
+
+## Introduction
+
+O2 Czech Republic is leading the way in workplace productivity and communication dynamics. With its early adoption of Microsoft Copilot for Microsoft 365, O2 has seen a significant decrease in time spent on administrative tasks. Instead of manually drafting meeting summaries and action points, employees now use Copilot to automatically generate the information they need. This move has revolutionized how information is shared and has made automation a part of daily work at the telco giant.
+
+## Company Overview
+
+O2 Czech Republic, part of the international investment group PPF, is one of the leading telecommunication companies in Central Eastern Europe. It provides voice, internet, data, and IPTV services to 8 million customers, which include households, small and medium enterprises, large corporations, and government entities. With strong roots in the Czech Republic, PPF Telecom also serves customers in Slovakia, Hungary, Serbia, and Bulgaria. O2 covers 99% of the Czech Republic’s inhabited territory with its fixed internet and has been rapidly expanding its 5G network across the country.
+
+## Innovation and Efficiency
+
+With an eye on the future, O2 established its Artificial Intelligence (AI) Centre, Dataclair.ai, to innovate products and streamline operations. “We process big data and then apply AI algorithms and advanced analytics to generate insights that can improve customer services and operations,” explains Petr Hirš, Director of AI Centre at O2 Czech Republic. 
+
+O2’s drive for efficiency focuses on enhancing productivity and employee experience, particularly concerning meeting attendance. "The number of meetings a person would have to attend might differ based on their role. Some employees might have a lot of meetings to create content or generate product ideas. For others, these meetings might be purely informational," elaborates Jan Hruška, Chief Technology Officer at O2. “If a person is not contributing to the creation of information, they might prefer to avoid having to sit in one- or four-hours’ worth of meetings. We realized that there are many opportunities for efficiency if we apply AI to such use cases.”
+
+## Early Adoption of Microsoft Copilot
+
+In 2023, O2 began exploring Microsoft Copilot for Microsoft 365. "Microsoft offered us the chance to be part of the early access program for Copilot," recalls Hruška. “We had already been using Azure OpenAI Service to create a Virtual Buddy chatbot for our customer support staff in collaboration with Microsoft, so trying out Copilot was an obvious move. It also offered easy integration with our Microsoft environment and gave us the chance to realize ideas we were already experimenting with in Azure OpenAI."
+
+O2 recognized Copilot’s potential to enhance productivity for a broader audience. "With Virtual Buddy, we address customer service, bringing all internal knowledge, work procedures, documents, and instructions about hardware like mobile phones, modems, into the chatbot,” says Hruška. “Microsoft Copilot had the potential to be something like that, and so much more, for every O2 employee.”
+
+## Implementation Strategy
+
+O2 approached the introduction of Copilot with a two-phase rollout, initially focusing on teams poised to gain the most significant benefits. To democratize access and foster widespread interest, O2 promoted Copilot with demo teasers via its intranet, and the remaining licenses were distributed based on queries, promoting a proactive curiosity across the organization.
+
+Furthermore, O2 established a Copilot guru team comprising power users who regularly convened to exchange insights, refine company-wide communication strategies, and serve as an internal knowledge hub for various Copilot use cases. O2’s approach to introducing Copilot encouraged staff to stay curious, enabled sharing of successes, and provided troubleshooting support, nurturing a community-driven adoption that leveraged expertise and collective learning to navigate the technology effectively.
+
+## Impact on Employee Productivity
+
+Just in the early adoption phases, O2 already saw a reduction in the time employees spent on repetitive tasks, enabling them to dedicate more energy towards innovation. Copilot’s native integration with Microsoft Teams and Microsoft Word simplifies content generation and idea brainstorming. “I'm using Copilot to generate ideas and get document summaries. In combination with Edge chat for research, it is a brilliant tool to create any kind of draft,” highlights Hirš.
+
+Copilot has also transformed how O2’s staff approach meetings, minimizing the need for employees to be present when they don’t have an active, contributing role. By integrating Copilot with Microsoft Teams, employees who do not attend purely informational meetings can communicate with Copilot about anything they may have missed. “They can ask for a summary, the action points, or any specific questions about the meeting. There is no need for someone else to debrief them; Copilot can do it,” says Hruška.
+
+This automated debrief allows employees to be more strategic about their time, freeing them up for more urgent tasks. "With Copilot, we can reduce the mandatory attendance by half or more—focusing only on the people who are directly contributing to the creation of new content," Hruška emphasizes.
+
+## Enhancing Communication Dynamics
+
+O2’s communication dynamics have also improved. “When a team works on something, prepares a presentation, and presents it, many more questions arise. The presenter may not recall all the information on the spot and may need to follow up afterward," explains Hruška. “When a question arises during the meeting, anyone can ask Copilot. We save days of waiting and following up. It’s faster and more effective.” By eliminating the lag between meetings and follow-up actions, O2 ensures that its teams are more agile and focused, producing results more quickly.
+
+## Data Security and Employee Support
+
+With these changes, O2 continuously emphasizes data security. "The best part is that data security and access rights are respected by Copilot," notes Hruška. “For example, I can ask ‘What's the scope of project X?’. If I have access to sensitive data like costs and expenses, I will get this type of information. On the other hand, anyone with more restricted access could just get a summary of the project’s goal.” This ensures that while all O2 employees benefit from Copilot’s capabilities, sensitive information remains secure and accessible only to those with the necessary permissions. 
+
+O2 also ensures that all employees, new and current, receive the support they need through Copilot. While using Virtual Buddy to speed up the onboarding process, it relies on Copilot to provide on-demand access to information. Hruška emphasizes, “People can ask the same question a hundred times or a hundred different questions without the need to schedule a call with a colleague and wait for the answers. Something that would normally take hours or days can be completed in five minutes with Copilot.” This combination of digital and personal onboarding methods positions O2 to offer superior service to its customers, driven by a workforce that is well-informed from the outset.
+
+## Future Outlook
+
+Looking ahead, O2 views AI not just as a tool for efficiency but as a cornerstone of strategic innovation. "We are testing the accuracy of large language models so we can potentially enable the AI assistant to serve customers directly in the future," Hruška elaborates. This would lead to greater operational efficiency as well as provide customers with quicker and more accurate responses.
+
+All these changes are helping O2 keep up with growing demands. The telco has seen more than a 60% year-over-year increase in data consumption on mobile devices. “Customers expect low fees and prompt service. We invest in technology and network capacity, but enhancing productivity is absolutely essential,” Hirš adds. “Repetitive administrative tasks are becoming increasingly viable to perform for robots and AI, which frees our staff to do more valuable, strategic, creative work. So, we aim to continue encouraging this creativity to innovate our way through any future challenge.”

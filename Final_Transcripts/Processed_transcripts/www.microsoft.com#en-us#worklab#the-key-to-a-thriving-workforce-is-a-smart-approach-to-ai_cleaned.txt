@@ -1,0 +1,55 @@
+file name: www.microsoft.com#en-us#worklab#the-key-to-a-thriving-workforce-is-a-smart-approach-to-ai.txt
+
+## Introduction
+
+What’s the best way for leaders to foster good performance? Companies often try to answer these questions by measuring metrics like engagement or financial results. At Microsoft, we explore whether the workforce is thriving.
+
+“Thriving has become the North Star for how we understand employees,” says Microsoft VP of People Analytics Dawn Klinghoffer, who leverages data to help leaders improve employee experience. “We define thriving as being empowered and energized to do meaningful work. Are people excited to come to work every day, excited about the opportunities ahead?”
+
+## The Benefits of Thriving
+
+One way we gauge this at Microsoft is through our Employee Signals survey, a biannual company-wide poll. The recent results not only offered insights into the tangible benefits of thriving but also uncovered a key catalyst for fostering it: access to AI.
+
+We focus on fostering a culture of thriving because research suggests it can boost how effectively our workforce perceives itself. Employees who are thriving have the highest scores on our indicators of performance, such as productivity, effort, and impact. Moreover, thriving employees are more likely to go above and beyond, take pride in their work, and be less inclined to seek employment elsewhere.
+
+Recent survey results provide insights about thriving in the new era of work. We discovered that higher scores on key factors that support thriving—finding meaning in work, feeling empowered, and feeling energized—correlate with measurable boosts in productivity. Access to AI appears to raise scores across these pillars.
+
+### Meaningfulness
+
+Employees who find their work meaningful are 59% more likely to say they are productive and 28% more likely to exert extra effort. Minimizing time on tasks that feel meaningless is crucial. AI can assist by generating drafts, sifting through data, or serving as a brainstorming partner, which can lead to a 20% increase in scores related to meaningful work.
+
+“What we find is that AI is really there to help you take friction and toil out of the system, and to remove the drudgery of work,” Klinghoffer says. “When people are able to remove some of that drudgery, we see that they’re more productive, and they thrive more.”
+
+### Empowerment
+
+Survey results point to a future where AI empowers people in their jobs. Empowered employees do not feel resource constraints and aren’t overburdened by others. Klinghoffer notes that access to AI tools correlates with 34% higher scores for empowerment-related questions.
+
+### Energy
+
+Employees who feel energized are 44% more likely to express pride in their work and 22% more likely to initiate productivity and discretionary effort. Different levels of AI use—learning about it, integrating it into processes, or having AI resources—correlate with higher energy levels. In fact, energy-related scores for AI users increased by nearly 27%.
+
+These results provide strong evidence that AI can catalyze thriving and high performance. How a company makes AI available will significantly influence whether it can harness these benefits. If employees are equipped with the necessary knowledge, tools, training, and resources, they can fully leverage AI as a companion.
+
+## A Blueprint for Thriving with AI
+
+Klinghoffer recommends keeping the following blueprint in mind:
+
+### Accelerate Alignment
+
+Strengthen connections between employees, the company’s mission, and AI's transformative potential. Clarify how AI initiatives align with company goals and employee roles, and celebrate contributions to AI projects to demonstrate their impact.
+
+“Employees who felt more connected to the mission and really understood how their work fits into the larger system were also the ones who were thriving,” says Ketaki Sodhi, Senior HR Data Analyst at Microsoft. “When we looked at Copilot and employee sentiment around AI, these were the folks willing to experiment and find ways to use AI to alleviate the drudgery of day-to-day tasks.”
+
+### Be Inclusive
+
+Create an environment where all employees feel equipped to engage with AI through education, training, and fostering a culture of innovation. Regular check-ins and feedback sessions can help employees express concerns and share ideas related to AI. Research shows that even saving just 11 minutes a day can help employees appreciate AI's value.
+
+### Cultivate Collective Growth
+
+Foster a culture that empowers employees to determine their best work methods while investing in meaningful collaborative experiences. Provide flexibility for employees to manage their schedules and engage with AI. Highlighting successful use cases and promoting teamwork encourages knowledge sharing.
+
+Collective growth includes in-role experiences (how to create learning opportunities within roles) and future career possibilities. AI can facilitate both by eliminating drudgery and allowing for creative work. “You see a huge boost. People get excited doing something new, growing their skills and experiences, and furthering their career,” Klinghoffer says, noting successful role changes facilitated for about 20% of her organization.
+
+## Conclusion
+
+Access to AI tools is crucial for creating a thriving workforce. By adopting a supportive structure that promotes alignment, inclusivity, and collective growth, companies can empower their employees to harness AI's potential and achieve higher performance and satisfaction in their work.

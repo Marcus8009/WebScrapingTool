@@ -1,0 +1,88 @@
+file name: microsoft.com#en-us#worklab#eric-horvitz-on-the-possibilities-of-generative-ai-for-human-thriving.txt  
+Title: Eric Horvitz on the Possibilities of Generative AI for Human Thriving
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use generative AI effectively to what it takes to thrive in our new world of work.
+
+## Eric Horvitz: A Pioneer in AI
+
+Eric Horvitz has been at Microsoft for 30 years and is currently the company’s first Chief Scientific Officer, where he works on initiatives at the frontier of the sciences. Previously, he was director of Microsoft Research Worldwide. Eric believes in long-term thinking when it comes to generative AI’s enormous promise to enrich our lives. He first became awestruck by its possibilities as an undergraduate student in his neurobiology lab. Nowadays, he’s fascinated by AI’s potential impact on virtually every critical field: business, healthcare, and education, just to name a few.
+
+## Human-Centered AI Development
+
+MOLLY WOOD: Alright, let’s start this technology conversation with people because you’ve written a lot about putting humans at the center of generative AI development. How do you see humans flourishing alongside generative AI?
+
+ERIC HORVITZ: It’s going back a couple of decades. Early on in my career, I became deeply interested in how machines and humans could collaborate and how machines could support human cognition—how machines could extend the powers of human cognition. By understanding how we think and where we’re going with our thinking, it would be a human-AI collaboration with humans at the center, celebrating the primacy of human agency and creativity. I believe these machines can supercharge human thinking along multiple dimensions. The next 25 years will be defining, and we can aim this technology towards a new level of human flourishing. 
+
+## Insights from the White House Meeting
+
+MOLLY WOOD: I saw that you were among the people at the White House earlier this year to talk with President Biden about opportunities and risks. Can you give us a sense of how you felt coming out of it?
+
+ERIC HORVITZ: The vibe at the White House is one of deep interest—what does this all mean for society? There’s an excitement and a feeling that we can’t miss this wave of technology. We’re in control; we can shape where this technology goes.
+
+## The Concept of an "Ideas Processor"
+
+MOLLY WOOD: You’ve even talked about creating the world’s best “ideas processor” using AI. Can you elaborate on that?
+
+ERIC HORVITZ: Think about how our own intellect works. Human intellect is still a mystery to our leading scientists, but we can synthesize new ideas. The machines we’re building have the potential to help us process ideas faster and richer, achieving the worlds that we desire.
+
+## Interaction with AI Systems
+
+ERIC HORVITZ: It’s almost like learning to ride a bicycle—understanding how to engage with these systems in problem-solving is essential. We’re riding a wave of innovation, learning how to surf as those waves change.
+
+## The Power of GPT-4
+
+MOLLY WOOD: Correct me if I’m wrong, but even after following AI for so long, GPT-4 still surprised you?
+
+ERIC HORVITZ: Yes! We conducted tests for reliability and accuracy, and I was exploring how well the system could perform at complex challenges. I saw a "phase transition" in capabilities between GPT-4 and its predecessor, GPT-3.5—this was a qualitative leap. I described it as "polymathic" because it could weave together ideas across disciplines like a trained group of experts.
+
+## The AI Anthology
+
+MOLLY WOOD: The path forward that centers human uniqueness led you to develop the AI Anthology series, right?
+
+ERIC HORVITZ: Yes, I wanted to democratize the thinking around GPT-4. I engaged experts across fields to explore how this technology could be harnessed for human flourishing and what guidance would be needed. The responses resulted in a collection of essays reflecting diverse perspectives.
+
+## Governance and Ethical Development
+
+MOLLY WOOD: You are also the founder and chair of Microsoft’s Aether Committee, aimed at responsible AI development. Can you discuss that?
+
+ERIC HORVITZ: We developed Microsoft’s AI principles focused on fairness, reliability, privacy, inclusiveness, transparency, and accountability. These principles continue to guide our work in AI ethics and engineering.
+
+## Perspectives on Artificial General Intelligence
+
+MOLLY WOOD: Do you think that artificial general intelligence (AGI) is possible?
+
+ERIC HORVITZ: The term AGI can scare people as it implies a powerful intelligence surpassing humans. However, people will direct this technology in valuable ways. Pursuing AGI is an interesting intellectual activity, and I see it as a promising pursuit.
+
+## Embracing Abundance in Work
+
+MOLLY WOOD: How can business leaders shift from fear to a mindset of abundance at work?
+
+ERIC HORVITZ: Leaders are experimenting with AI to alleviate the drudgery of daily tasks and allow individuals to focus on the creative aspects of their roles—much of which relies on human brilliance.
+
+## Understanding Human Flourishing
+
+MOLLY WOOD: Can you explain what human flourishing means to you?
+
+ERIC HORVITZ: There’s a rich discourse around human flourishing that ties back to Aristotle, encompassing wellbeing, social contributions, health, and personal goals. It’s about achieving our desires, which often go deeper than mere financial proxies.
+
+## Conclusion
+
+MOLLY WOOD: Thank you for this enlightening discussion, Eric!
+
+ERIC HORVITZ: It’s been great spending time with you, Molly. Thanks for all the great questions. 
+
+[Music]
+
+## Next Steps
+
+MOLLY WOOD: Please subscribe and check back for the next episode, where I’ll be chatting with Erica Keswin, a workplace strategist. You can find all episodes and thoughtful stories at microsoft.com/worklab. As for this podcast, please rate us, review, and follow us wherever you listen.
+
+WorkLab is produced by Microsoft with Godfrey Dadich Partners and Reasonable Volume. I’m your host, Molly Wood. 
+
+--- CHUNK SPLIT ---
+
+Dentsu Creative is among the first organizations to use Microsoft 365 Copilot. James Thomas, the company’s global head of technology, takes us behind the scenes on how it’s transforming the business.
+
+Generative AI is changing jobs, expanding opportunities, and shifting how we lead.

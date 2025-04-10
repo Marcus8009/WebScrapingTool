@@ -1,0 +1,57 @@
+file name: customers.microsoft.com#en-us#story#parloa-azure-openai-service-professional-services-en-germany.txt
+
+## Introduction
+
+Parloa saw a need for businesses to leverage AI for personalized, dynamic customer support experiences. By adopting a “voice-first” approach, it aimed to create human-like interactions across different languages.
+
+## Technology Choices
+
+To achieve its goals, Parloa chose Microsoft Azure for its global scalability, advanced AI capabilities, and support for language models. The company also utilized Azure AI, Azure Kubernetes Services (AKS), Azure Cosmos DB, and Azure OpenAI Service.
+
+## Empowering Call Center Agents
+
+Parloa has empowered call center agents to respond to calls faster and with greater accuracy, promoting them to roles as AI managers. This transition has resulted in increased sales and customer satisfaction for their clients.
+
+## Industry Leadership
+
+With its “voice-first” approach, Parloa has quickly established itself as a leader in AI-powered customer service automation across critical sectors such as insurance, e-commerce, utilities, and travel. Founded in 2018 and based in Berlin, the company recognized the pressing need for more personalized and dynamic experiences when handling customer inquiries in multiple languages.
+
+## Insights from Team Members
+
+“An estimated $489 billion (USD) is spent every year on contact centers, yet the experience is still frustrating for everyone,” says Maik Hummel, Lead Engineer at Parloa. “We focused on bringing together the best of people and technology to facilitate voice communication that makes customer interactions feel as natural as possible.”
+
+“It was important to us to cover as many languages as possible and the nuances of each one,” adds Hanna Waldenmaier, Vice President of Global Partnerships at Parloa. “We aimed to create a technical infrastructure that gives customers full control over all aspects of a call and chat, with the highest-quality automation.”
+
+## AI Agent Management Platform
+
+Parloa aimed to build an enterprise-grade AI Agent Management platform to automate customer interactions across phone, chat, and messaging apps. The decision to run this platform on Microsoft Azure was driven by its global scalability and superior AI capabilities.
+
+“Microsoft has a globally scaled cloud and the best language models available,” says Hummel. Waldenmaier emphasizes, “We also knew we could collaborate with Microsoft commercial teams and the partner ecosystem to build custom solutions and deliver better value for our customers.”
+
+With Azure, Parloa designed a purpose-built tech stack for intelligent applications utilizing Azure Kubernetes Service (AKS), Azure Cosmos DB, Azure Cognitive Services, Azure AI Search, and Azure OpenAI Service. Hummel mentions, “Using Azure offerings, especially AKS as our infrastructure layer, was essential to reduce operational burden while staying compliant with customer requirements. AKS automatically scales services based on demand and distributes workloads across multiple nodes, maintaining service availability and helping us scale workloads dynamically.”
+
+## Data Storage Solutions
+
+“Azure Cosmos DB gives us a flexible, easily scalable way to create customer-specific data storage solutions for a variety of situations and data structures,” adds Hummel. This platform is utilized for customer services, including temporary call data storage and longer-term analytics data storage.
+
+Azure AI Search further enhances data retrieval capabilities, allowing Parloa to manage knowledge bases with low-latency access and high availability.
+
+## Enhancing Customer Interactions
+
+Parloa’s AI Agent Management Platform (AMP) employs Azure Cognitive Services and Azure OpenAI Service for functionalities like speech recognition and text-to-speech, enabling real-time understanding of customer queries and providing accurate and efficient responses. Models such as GPT-4o via Azure OpenAI Service generate human-like responses, enhancing the quality of customer interactions.
+
+“As an example, our technology supports a global customer with one of the largest call centers in the world,” Waldenmaier notes. “Thousands of people speaking many different languages call every day and receive highly personalized care in their native language.”
+
+## Achievements and Results
+
+Hummel highlights that a recent implementation using Azure services has notably improved latency and call predictability, spurring an AI transformation for contact centers and customer service. The AMP platform provides AI agent designers with a comprehensive interface for configuring and maintaining AI agents and VoIP settings, thus streamlining the setup process and enhancing customer interactions.
+
+As a result of this automation, a leading teleshopping company is currently managing 3 million calls daily. Agents can now offer shopping recommendations, leading to a 10% increase in the company’s shopping cart value. “It’s phone automation that keeps humans in the loop, but where agents are essentially promoted to AI managers,” explains Hummel.
+
+## Conclusion
+
+“The goal isn’t to replicate human beings,” says Waldenmaier. “It’s like AI is a different character that helps make the lives of agents and their customers easier. With Parloa, every customer interaction is as easy as talking to a friend.” Parloa customers report that agents feel more supported in quickly resolving inquiries.
+
+“With Microsoft support, we have a solution that empowers consistently great customer service at scale,” concludes Hummel. “We think that’s something every company can benefit from.”
+
+Discover more about Parloa on LinkedIn, X/Twitter, and YouTube.

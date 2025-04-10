@@ -1,0 +1,49 @@
+file name: taiwan-hospital-deploys-ai-copilots-to-lighten-workloads.txt
+
+## Introduction
+
+TAINAN, Taiwan – It’s a typically busy afternoon at Chi Mei Medical Center’s pharmacy department in this southern Taiwanese city. Staff in white coats work quickly, packing bottles and tablet strips for the lines of patients waiting at the counter. Since April, the pharmacists have been receiving assistance from a generative AI assistant, known as a copilot, built with Microsoft’s Azure OpenAI Service.
+
+## AI Copilot Implementation
+
+With a single click on the A+ Pharmacy copilot button on a screen, pharmacists can access a patient's clinical information, summarized from multiple databases in one interface. This includes medication lists, surgical records, allergy history, lab tests, nursing notes, medical and surgical records, as well as the patient’s ID number, bed number, and diagnosis. One tab even flags dangerous drug interactions, and pharmacists can view if a particular medication is covered by insurance before prescribing it.
+
+“The design logic fits how pharmacists work,” stated department head Hui-Chen Su. The time saved through the copilot allows each pharmacist to see 30 patients a day, an increase from 15. This shift enables pharmacists to dedicate more time to patients with complex needs. Chi Mei pharmacists have rated the copilot four to five stars out of a maximum of five.
+
+## Addressing Healthcare Worker Challenges
+
+This implementation is just one example of how hospitals are beginning to use generative AI to assist Taiwan's overstretched healthcare workers. AI has been previously utilized in medical settings, particularly in imaging. However, this current wave aims to reduce the substantial paperwork burden, which includes retrieving information from various internal databases and summarizing medical reports.
+
+Since November 2023, the 2,500-bed Chi Mei Medical Center has rolled out multiple copilots. Doctors now use a copilot to generate medical reports quickly from admission and progress notes, saving time. Nurses utilize another copilot to create reports for shift changes and bed transfers, while nutritionists generate dietary recommendations. Throughout May alone, these copilots were utilized approximately 36,000 times by 3,500 individual users.
+
+“We found it can not only reduce workload but also help ensure patient safety,” explained Dr. Hung-Jung Lin, chief executive of Chi Mei. Preliminary surveys among 20 nurses suggested a reduction in burnout scores following the copilot's introduction.
+
+## Health Worker Shortage in Taiwan
+
+Nevertheless, Taiwan faces a significant health worker shortage, exacerbated by an aging population and declining birth rates. "In Taiwan, the biggest challenge is manpower shortage," Dr. Lin noted. 
+
+Despite having one of the best healthcare systems globally, with a single-payer model that allows patients to choose any doctor or hospital, Taiwan has only two doctors per 1,000 people compared to the OECD average of 3.6, and 7.6 nurses per 1,000, as per Taiwan’s Ministry of Health and Welfare and OECD data. Doctors in Taiwanese hospitals average 69 hours per week, significantly exceeding the scheduled 50 hours.
+
+## Adoption of Generative AI
+
+With the rise of generative AI tools, which leverage large language models (LLMs) to synthesize data and generate text and more, hospital administrators quickly recognized opportunities for improvement. 
+
+Chi Mei Medical Center, owned by the charitable foundation of CHIMEI Corp., has a history of embracing digital technology, as evidenced by its adoption of electronic medical records in 1995. In 2019, they established an Intelligent Healthcare Center focused on developing predictive AI models.
+
+During the 2020 pandemic, the center created predictive models for COVID-19 patients based on vital signs. In 2022, they utilized Microsoft 365 and Power BI to analyze hospital data. The integration of Microsoft Azure OpenAI Service allowed for secure connections among various hospital databases, adhering to patient data privacy guidelines.
+
+## Copilot Development and Staff Buy-In
+
+Alongside the A+ Pharmacy, the hospital has also rolled out copilots for doctors, nurses, and nutritionists, including an A+ Patient Safety copilot that identifies patients at risk of falls by analyzing key indicators and recommending safety measures. The hospital has plans to develop further copilots, such as an A+ National Exam Review tool for ongoing medical education.
+
+Doctors who used to spend an hour creating medical reports can now generate them in about 15 minutes by reviewing and editing the AI drafts. Additionally, personalized educational materials for patients with multiple conditions can be created quickly.
+
+Dr. Chia-Te Liao, a cardiologist and director of Chi Mei’s Center for Evidence-Based Medicine and Health Policy, played a crucial role in engaging healthcare workers to customize the copilots to their workflows. Initially met with skepticism, especially from some doctors and nurses, the executive team reassured them that the intention was not to replace jobs but to enhance efficiency.
+
+## Feedback and Continuous Improvement
+
+Currently, around two-thirds of the 95 pharmacists, half of the 2,000 nurses, and about one-third of the 700 doctors at Chi Mei are using a copilot. Despite the positive reception, users have expressed concerns about the AI's language output, occasionally opting for layperson terms rather than medical jargon. Nurses have rated their copilot experience three to four stars on average.
+
+Liao acknowledged that language issues are a prominent concern, citing instances where simplified characters replace the traditional script. Nevertheless, overall feedback indicates a positive impact. Dr. Lin proclaimed, “We found AI performed beyond our expectations,” as the technology compiles fragmented data and highlights important social factors that healthcare professionals often overlook, essentially promoting empathy in patient care.
+
+Top image: Hui-Chen Su, Director of the pharmacy department of Chi Mei Medical Centre, says a copilot has helped pharmacists work faster by consolidating patient information from various databases onto one interface. Photo by Billy H.C. Kwok for Microsoft.

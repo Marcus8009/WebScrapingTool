@@ -1,0 +1,47 @@
+file name: www.microsoft.com#en-us#worklab#how-business-leaders-are-using-copilot-right-now.txt
+
+## Reinvention of Work with Microsoft 365 Copilot
+
+By now, it’s clear: AI will transform work for everyone. Some business leaders have moved to the front of the pack. In the past year, people in industries around the world have adopted Microsoft 365 Copilot, testing how it can revolutionize the way they work. The early results show that Copilot users spend less time on mundane, energy-sapping tasks and more time on high-level, high-value work, allowing leaders to reimagine their business models and pursue once-impossible bold opportunities. One company even utilized AI to help develop a product that boosts crop yields.
+
+We asked six early adopters—from advertising executives to accounting experts—how their companies are using Microsoft 365 Copilot today.
+
+### Julie Sweet, Chair & CEO, Accenture
+
+**What Accenture Does:** Accenture is a global professional services company that aids businesses, governments, and other organizations in building their digital core, optimizing operations, accelerating revenue growth, and enhancing citizen services. 
+
+**Her Experience With Copilot:** Sweet aimed for Accenture to be among the first companies to adopt Copilot; this year, she states, Accenture is set to train 250,000 of its 700,000 workers on AI. “We wanted to unlock personal productivity for our own people. Every minute of productivity they gain is used to enable our clients,” she explains. Early users report saving at least 30 minutes a day, with some saving up to three hours. Accenture started with its senior leaders in the first cohort to illustrate the real power of AI in reinventing business practices.
+
+### Florian Häse, Research Scientist, Bayer
+
+**What Bayer Does:** Known as the creator of aspirin, Bayer is a major global company with core competencies in the life sciences of healthcare and nutrition.
+
+**His Experience With Copilot:** Häse works in Bayer's Computational Life Science department and utilizes Copilot to analyze extensive research data gathered over years. He emphasizes that it not only assists in finding information but also extracts it from unstructured data sources, making the process significantly faster. “Previously, I spent days and weeks looking for data; now, I can do it efficiently without missing opportunities to connect with colleagues.”
+
+### James Thomas, Global Head of Technology, Dentsu Creative
+
+**What Dentsu Does:** Dentsu is a global ad agency connecting brand, content, commerce, and experience for major brands like Kraft Heinz, Netflix, and T-Mobile.
+
+**His Experience With Copilot:** Thomas has found that using Copilot has transformed the creative process, reducing the time taken to visualize client ideas from weeks or months to mere minutes. “The ability to visualize ideas quickly keeps clients excited and ensures the best new ideas prevail,” he notes.
+
+### Vicki Holman, Collaboration Platform Owner, Hargreaves Lansdown
+
+**What Hargreaves Lansdown Does:** This UK-based financial services company assists 1.6 million customers in saving, investing, and retiring.
+
+**Her Experience With Copilot:** Holman reports that early users save two to three hours weekly by utilizing Copilot. Moreover, it has positively impacted neurodivergent employees, enabling them to summarize meetings or revisit recorded sessions, thus reducing workplace stress.
+
+### Coskun Cavusoglu, Financial Services Tax AI Go-to-Market Leader, EY Americas
+
+**What EY Does:** A "Big Four" professional services organization, EY provides assurance, consulting, law, strategy, tax, and transaction services globally.
+
+**His Experience With Copilot:** Cavusoglu describes a collaboration with Microsoft to develop a Copilot plugin to analyze EY sample data. “With natural language queries, our leaders will generate reports, gaining not only productivity but insights in near real time,” he asserts.
+
+### Anup Purohit, Group CIO, Wipro Limited
+
+**What Wipro Does:** Wipro is a leading technology services and consulting firm with 245,000 employees across 65 countries, dedicated to innovative solutions addressing complex digital transformation needs.
+
+**His Experience With Copilot:** Purohit shares that Copilot has transformed his workflow, from checking calendars to summarizing emails and planning tasks post-meetings. “AI is reinventing how I approach my daily schedule, allowing for greater focus on key actions,” he concludes. 
+
+---
+
+These insights illustrate the transformative power of Microsoft 365 Copilot across diverse industries, driving efficiency and innovation collaboratively among workers.

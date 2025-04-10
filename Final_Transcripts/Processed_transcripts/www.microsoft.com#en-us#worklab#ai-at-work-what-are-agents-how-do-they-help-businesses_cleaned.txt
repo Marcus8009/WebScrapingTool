@@ -1,0 +1,39 @@
+file name: www.microsoft.com#en-us#worklab#ai-at-work-what-are-agents-how-do-they-help-businesses.txt
+
+## Understanding AI Agents
+
+AI is moving fast. Just as business leaders are starting to wrap their heads around AI assistants, suddenly everyone’s talking about AI agents. They’re a hot topic for good reason: just as every employee will have an AI assistant like Copilot, every business process will soon be transformed by agents.
+
+To understand how agents will reshape the way your business works, first you need to grasp what they are and how they function. Different people come to this topic with varying degrees of familiarity and technical knowledge, so let's start with the fundamentals.
+
+### What Exactly is an AI Agent?
+
+To date, most people have used AI on an individual level to unlock productivity gains. The time savings from using AI at work are well documented. You can use Copilot to summarize documents, take meeting notes, and prioritize your inbox. Through these interactions and your personal data, your Copilot becomes more attuned to your job, your team, and your work style.
+
+AI agents, on the other hand, can execute a wide range of business processes. They can function as simple prompt-and-response systems or as advanced, fully autonomous agents capable of executing workflows from start to finish. Agents can think or reason, remember, be trained, and even know when to ask for help.
+
+Agents can learn new skills, such as sending emails, creating support tickets, or updating records. They can react to events or triggers like an email from a customer and can check in with you for guidance when needed. Because agents are grounded in your organization’s data and knowledge, their actions are contextually relevant to your business needs.
+
+### Copilot & Agents
+
+How do agents relate to Copilot? Copilot is your personal AI assistant and the interface through which you'll interact with AI agents. It acts as a single pane of glass for your work tasks—whether involving one agent, several agents, or none at all. Here, you can direct agents and extract valuable information—like updates on your sales pipeline or directions on how to manage a back order for a discontinued product.
+
+Think of Copilot as your smartphone and agents as its apps. Just like a smartphone allows you to interact with various applications for diverse purposes—be it booking a ride, managing finances, or learning a new language—agents will perform a variety of functions. In essence, agents are the new apps for an AI-powered world.
+
+### Practical Applications of AI Agents
+
+You will deploy an agent when you want to apply AI to a business process that spans multiple employees and functions. For instance, an agent can manage an end-to-end fulfillment process—from taking customer orders to processing them and intelligently substituting out-of-stock items to ensure timely shipping.
+
+Agents enable organizations to scale capacity like never before. In a sales team context, agents can take over important yet time-consuming internal processes, allowing personnel to concentrate on building customer relationships. This creates new opportunities; for example, if a customer places a large order, the agent could efficiently fulfill the order and notify the sales team of potential upsell opportunities.
+
+### Real-World Examples of Agents in Action
+
+Companies are already leveraging agents to increase revenue, decrease costs, and scale impact. For instance, Dow, a global materials science company, spends several billion dollars annually on outbound shipping. They are collaborating with Microsoft on a pilot project to track invoicing errors with the help of Copilot and agents. Once fully scaled worldwide, Dow anticipates significant savings in shipping costs due to improved invoice accuracy.
+
+Similarly, Thomson Reuters has developed a professional-grade agent to expedite legal due diligence processes. Initial tests indicate that this agent can perform certain tasks in half the time, thereby enhancing efficiency for clients and strengthening their new business pipeline.
+
+### The Future of Work with AI Agents
+
+I foresee a future where organizations utilize entire constellations of agents working behind the scenes to enhance existing processes and innovate new ones. In sales, they will assist in researching leads, prioritizing opportunities, and crafting personalized outreach. In supply chains, agents will minimize disruptions by autonomously monitoring supplier performance and detecting delays while making real-time adjustments.
+
+Ultimately, every company consists of its people and its processes. By integrating Copilot and agents, you can enhance both aspects, providing your business with the best opportunity to maintain its competitive edge.

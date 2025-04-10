@@ -1,0 +1,46 @@
+file name: news.microsoft.com#siemens-and-microsoft-scale-industrial-ai.txt
+
+## Siemens and Microsoft Collaborate on Industrial AI
+
+October 24, 2024 | Microsoft Source
+
+BERLIN — Siemens is revolutionizing industrial automation through its collaboration with Microsoft. They have enhanced the Siemens Industrial Copilot, enabling it to operate effectively in demanding environments at scale. By combining Siemens’ extensive domain expertise with the Microsoft Azure OpenAI Service, the Copilot provides improved handling of rigorous requirements in manufacturing and automation.
+
+Over 100 entities, including Schaeffler and thyssenkrupp Automation Engineering, are utilizing the Siemens Industrial Copilot to optimize processes, mitigate labor shortages, and foster innovation. With 120,000 users of Siemens engineering software, the introduction of a Generative AI-powered assistant opens up new opportunities.
+
+Thyssenkrupp Automation Engineering is the first co-creation partner to implement the Copilot globally, with plans to engineer their machines starting in early 2025. This initiative aims to fully leverage the Copilot's potential across their product offerings. Siemens is leading the charge in offering Generative AI for automation engineering, making it readily accessible via their Siemens Xcelerator open digital business platform.
+
+“The collaboration between Siemens and Microsoft marks a pivotal moment in the industrial sector; one where AI Transformation becomes a cornerstone for innovation and operational efficiency,” stated Judson Althoff, executive vice president and chief commercial officer at Microsoft. He noted that integrating the Microsoft Azure OpenAI Service into Siemens’ industrial solutions equips companies with cloud-based AI tools to tackle complex challenges, boost productivity, and maintain competitiveness in a dynamic environment.
+
+Cedrik Neike, a Member of the Managing Board of Siemens AG and CEO of Digital Industries, emphasized, “Together with Microsoft we scale industrial AI, empowering our customers to become more resilient, competitive, and sustainable. Thyssenkrupp Automation Engineering illustrates how customers can leverage the Siemens Industrial Copilot in highly demanding environments for significant efficiency gains.”
+
+Since its launch in July 2024, many customers across various sectors have begun using the Siemens Industrial Copilot for Engineering to enhance efficiency. Engineers can create panel visualizations in just 30 seconds and generate code needing only 20% adaptation. This reduces manual labor and addresses the skilled labor shortage. Additionally, the chat function provides instant, accurate answers, eliminating lengthy searches and driving innovation.
+
+## Transforming Battery Quality Assurance
+
+Thyssenkrupp Automation Engineering showcases the Siemens Industrial Copilot’s transformative capabilities, particularly in the development of automated systems for battery and hydrogen assembly lines. Their machines contribute to ensuring battery quality for electric vehicles—a crucial aspect of the sustainable energy transition reliant on highly reliable batteries. Integrated sensors, cameras, and measurement systems monitor battery cell quality throughout various stages, performing complex evaluations to identify discharges beyond established thresholds.
+
+The Siemens Industrial Copilot enhances the development and operation of these machines by automating repetitive tasks, including data management, sensor configuration, and documenting the steps necessary to meet rigorous battery inspection standards. This support allows engineers to focus on more complex, value-added tasks, while the real-time problem-solving capabilities of the Copilot help to minimize downtime and ensure smooth operations.
+
+Dr. Volkmar Dinstuhl, Member of the Executive Board of thyssenkrupp AG and CEO of thyssenkrupp Automotive Technology, remarked, “Siemens Industrial Copilot will prospectively ease our workload and tackle the pressing challenges of labor shortages and increasing complexity in battery testing. This AI-powered solution will be a game-changer for our industry, and we will actively roll it out across our machines.”
+
+Siemens will provide more details on the Siemens Industrial Copilot at the SPS expo in Nuremberg, Germany, in November 2024.
+
+## Company Backgrounds
+
+Siemens AG (Berlin and Munich) is a leading technology company focusing on industry, infrastructure, mobility, and healthcare. The company aims to create technology that transforms everyday life. By merging the real and digital worlds, Siemens enables customers to accelerate their digital and sustainability transformations, enhancing factory efficiency, livability in cities, and sustainable transportation. Siemens also holds a majority stake in Siemens Healthineers, a global leader in medical technology.
+
+In fiscal 2023, Siemens generated revenue of €74.9 billion with a net income of €8.5 billion. It employed approximately 305,000 individuals worldwide as of September 30, 2023.
+
+Microsoft (Nasdaq “MSFT”) develops AI-powered platforms and tools designed to meet evolving customer needs. The company is dedicated to responsibly broadening AI access, aiming to empower individuals and organizations globally.
+
+Thyssenkrupp Automotive Technology is a prominent supplier and development partner for the international automotive industry, offering high-tech components, systems, and automation solutions for vehicle production. In fiscal year 2022/23, this division recorded sales of €7.9 billion.
+
+For additional information, contact:
+- Siemens AG: Jil Huber, +49 162 3474144, jil-patricia.huber@siemens.com
+- Microsoft: WE Communications for Microsoft, +1 (425) 638-7777, rapidresponse@we-worldwide.com
+- thyssenkrupp AG: Sarah Grassmann, +49 152 28277427, sarah.grassmann@thyssenkrupp-automotive.com
+
+For further details, visit:
+- [Siemens Industrial Copilot](https://www.siemens.com/industrial-copilot)
+- [SPS Fair](https://www.siemens.com/sps-fair)

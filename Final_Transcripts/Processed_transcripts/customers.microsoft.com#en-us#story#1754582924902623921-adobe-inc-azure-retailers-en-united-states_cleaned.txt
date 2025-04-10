@@ -1,0 +1,45 @@
+file name: customers.microsoft.com#en-us#story#1754582924902623921-adobe-inc-azure-retailers-en-united-states.txt
+
+## Introduction
+
+Adobe’s mission is to “change the world through personalized digital experiences.” From everyday creators to the world’s largest global brands, Adobe provides tools to transform how customers express their ideas, engage audiences, and drive their businesses forward across every screen. Adobe's suite of digital experience products has revolutionized how organizations manage their digital ecosystems, enabling unprecedented customer engagement.
+
+## Customer Challenges
+
+To grow their business, Adobe required a trusted cloud partner capable of empowering their customers at scale while adhering to industry regulations and evolving security and privacy requirements.
+
+## Partnership with Microsoft
+
+The collaboration between Adobe and Microsoft transcends the mere combination of services; it exemplifies the power of collaboration in the digital age. By uniting data, content, and processes, this partnership helps organizations enhance both customer and employee experiences while unlocking the true value of their data for impactful actions.
+
+The Microsoft Cloud stands as the most trusted and comprehensive cloud solution, assisting organizations in navigating a rapidly changing world and seizing new growth opportunities while meeting industry regulations and privacy demands. Microsoft’s cloud infrastructure is equipped with built-in capabilities that enhance Adobe solutions, providing essential services ranging from configuration to governance and security.
+
+Nik Shroff, Sr. Director, Global Tech Partners at Adobe, stated: “A modern data estate is the keystone for growth and AI-driven innovation. The connecting pipes between Microsoft’s data layer and our SaaS solutions are prebuilt and it's all secure… Adobe and Microsoft's connectivity accelerates productivity and real-time decision-making, turbocharging the ability to activate on that data.”
+
+## Integration and Transformation
+
+The synergy of the Microsoft Cloud and Adobe’s industry-leading marketing expertise manifests in over 60 integrations, supporting transformative digital experiences across key industries. Integrations with Adobe Experience Cloud and Microsoft Dynamics 365 facilitate unified data intelligence, marketing activation, and analytics, while Microsoft 365 production and collaboration tools promote an efficient digital document lifecycle with Adobe’s Document Cloud solutions. This seamless integration culminates in best-in-class experiences for customers, driving efficiency and enhanced performance.
+
+These integrations not only enhance the value of technology investments but also improve business outcomes and accelerate marketing and sales impacts. Marketers can achieve faster time to market without sacrificing compliance or privacy standards crucial for corporate governance.
+
+## Executive Alignment
+
+When Adobe and Microsoft engage with enterprise customers, they work to build relationships between the CIO and CMO, recognizing the alignment of their priorities. CMOs focus on creating personalized customer engagement, while CIOs are tasked with managing data and addressing problems through an evolving toolkit. The digital transformation facilitated by Adobe’s cloud-based systems on Microsoft Azure is pivotal for enabling these C-level executives to serve their organizations and customers effectively.
+
+Nik Shroff further noted: “In joining forces with Microsoft, we're crafting innovation; it's a commitment to empowering our customers with a way to manage their data in a way that makes marketing more effective and drives customer loyalty.” 
+
+## Commitment to Innovation
+
+The Adobe and Microsoft partnership emphasizes a commitment to industry-leading innovation. By investing in engineering, development, and marketing across various industry verticals, Adobe capitalizes on AI and big data capabilities using the Azure platform, including the OpenAI model. This collaboration promotes the development of industry-specific AI as Adobe and Microsoft continue to innovate solutions for ever-evolving customer needs, leveraging machine learning products like Adobe Sensei.
+
+Adobe and Microsoft are introducing new capabilities in the age of AI, providing enterprises with the scale and agility needed to design and deliver more productive experiences tailored for both customers and employees. Together, they enrich employee experiences, reinvent customer engagement, reshape business processes, and propel innovation forward.
+
+## Strategic Relationship
+
+As a member of the Microsoft AI Cloud Partner Program, Adobe benefits from premier co-innovation, co-marketing, and co-sell opportunities, which enhance their strategic relationship and support their go-to-market efforts. Their joint community of sellers utilizes the Microsoft Commercial Marketplace to facilitate a quicker and more agile adoption of Adobe's SaaS offerings. By streamlining procurement through the Commercial Marketplace and validating Microsoft Azure Consumption Commitment (MACC) eligibility, Adobe cloud solutions can be rapidly adopted by an expanding customer base.
+
+## Conclusion
+
+The Adobe solutions developed on the Microsoft Cloud pave the way for the future of digital experiences. Integrating best-in-class marketing technology, the power of a trusted cloud, and a commitment to innovation across industries positions Adobe and Microsoft to deliver highly personalized customer and employee experiences on a global scale.
+
+Ankur Jain, Director of Product Management at Adobe, commented: “The partnership ensures that customer data is unified from every part of a business, meaning every workflow can now be driven by insight into the customer journey.”

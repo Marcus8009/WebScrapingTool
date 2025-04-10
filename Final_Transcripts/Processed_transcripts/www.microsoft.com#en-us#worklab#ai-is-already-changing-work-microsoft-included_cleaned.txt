@@ -1,0 +1,83 @@
+file name: www.microsoft.com#en-us#worklab#ai-is-already-changing-work-microsoft-included.txt
+
+## AI Is Already Changing Work—Microsoft Included
+
+Seven functional leaders share data and insights on what they’re learning—and how AI can help future-proof any organization.
+
+### Meet Our Leaders
+
+- **Mala Anand**  
+  Corporate Vice President, Customer Service
+
+- **Sandeep Bhanot**  
+  Corporate Vice President, Sales
+
+- **Jessica Daughetee**  
+  Vice President, Marketing
+
+- **Christopher Fernandez**  
+  Corporate Vice President, Human Resources
+
+- **Cory Hrncirik**  
+  Director, Finance
+
+- **Hossein Nowbar**  
+  Chief Legal Officer and Corporate Vice President, Legal
+
+- **Nathalie D’Hers**  
+  Corporate Vice President, IT
+
+### What business goal is Copilot helping you achieve?
+
+- **Sales:** Sandeep Bhanot
+- **Marketing:** Jessica Daughetee
+- **Finance:** Cory Hrncirik, Christopher Fernandez
+- **Human Resources:** Not specified
+
+### What’s the most important process your function is improving with Copilot today?
+
+- **Finance:** Cory Hrncirik
+- **Sales:** Sandeep Bhanot
+- **Legal:** Hossein Nowbar
+- **Marketing:** Jessica Daughetee
+
+### Where are you seeing the biggest business value of AI?
+
+- **Sales:** Sandeep Bhanot
+- **Legal:** Hossein Nowbar
+- **Marketing:** Jessica Daughetee
+
+### Now that you’re well into this process of AI transformation, what is the top takeaway you’d want to share with other business leaders?
+
+- **IT:** Nathalie D’Hers
+- **Finance:** Cory Hrncirik
+- **Sales:** Sandeep Bhanot
+- **Legal:** Hossein Nowbar
+
+### What will be the biggest impact of Copilot and agents in the next few years?
+
+- **Legal:** Hossein Nowbar
+- **Sales:** Sandeep Bhanot
+- **Human Resources:** Christopher Fernandez
+
+### Internal Studies and Results
+
+1. Internal CSS experiment conducted by Microsoft; 600 participants using Copilot Q&A function, Azure Core team; Nov. - Dec. 2023. These results are statistically significant at the 95th percent confidence interval.
+   
+2. Internal Microsoft sales team data based on 687 sellers of Microsoft 365 Copilot from Jan. - June 2024, compared with sellers with low usage of Copilot. Regular usage of Copilot means those who use it daily at least 50% of the time during the testing period.
+
+3. Internal Microsoft marketing team data from June - Sept. 2024 showing conversion as initiating the free account sign-up process on Azure.com.
+
+4. Internal HR experiment conducted by Microsoft, 33 participants, Oct. 2024. Results are statistically significant at the 95th percent confidence interval.
+
+5. Internal Microsoft Finance data collected from Oct. 2023 - Aug. 2024.
+
+6. Projected numbers based on internal Microsoft legal team study involving 56 participants in May 2024. Results are statistically significant at the 95th percent confidence interval.
+
+7. Internal Microsoft IT experiment with 46 participants conducted from Sept. 16-27, 2024. Success rate refers to using self-help resources to resolution without contacting an agent. Results are statistically significant at the 95th percent confidence interval.
+
+8. A projected number based on user testing of DACA Copilot and 12 years of DACA clinic metrics.
+
+### Conclusion
+
+AI continues to demonstrate its potential in transforming how organizations operate and engage, with leaders across various functions sharing insights on how tools like Copilot are driving improvements and efficiencies within their teams.

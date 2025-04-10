@@ -1,0 +1,37 @@
+file name: customers.microsoft.com#en-us#story#redcross-azure-ai-services-nonprofit-en-kenya.txt
+
+## Introduction
+
+Kenya Red Cross works to alleviate suffering and promote wellbeing, but a shortage of mental health professionals and services puts this care out of reach for many. The organization aimed to bridge that gap.
+
+## Development of the Chatbot
+
+Kenya Red Cross collaborated with Pathways Technologies to develop a mental health chatbot called Chat Care, utilizing Azure AI. The tool initiates conversations about mental health and suggests coping mechanisms, such as breathing exercises and in-person services, available in English and Swahili.
+
+Kenya Red Cross anticipates that the recently launched chatbot will expand the reach of its mental health services without overstretching the capacity of its human counselors. They also hope the digital tool will help overcome stigma associated with mental health.
+
+## Community Impact
+
+In addition to mental health support, Kenya Red Cross undertakes various humanitarian efforts, such as training smallholder farmers, providing clean water for schoolchildren, and assisting individuals in the Dadaab Refugee Complex. “Our role is to alleviate human suffering wherever it may be found,” says Kelvin Njenga, Digital Transformation Officer at Kenya Red Cross.
+
+The chatbot was developed with the input of a multistakeholder group, including mental health professionals, the Kenyan Ministry of Health, AI experts, community organizations, and individuals with lived experiences. This collaborative effort resulted in a tool that is sensitive to the needs of users and reflective of counseling best practices.
+
+## Functionality and Accessibility
+
+Chat Care enhances accessibility to mental health care. “If someone is not comfortable speaking on the phone, or they are not able to because of a disability like a hearing impairment, they can have a conversation on Chat Care,” Njenga explains. The chatbot can engage multiple users simultaneously, eliminating waiting times for human counselors. It initiates conversations by asking users how they are feeling, providing options like happy, anxious, and sad—complete with emojis.
+
+The chatbot tackles sensitive subjects that users may find difficult to discuss, such as financial stress and substance abuse. “It opens you up to talk about issues that are sometimes looked at as taboo,” says Mercy Githara, Mental Health and Psychosocial Manager at Kenya Red Cross.
+
+## Integration with Human Services
+
+Chat Care is designed to complement, not replace, human interaction. It provides users the option to reach out to a human counselor through the platform or call the Kenya Red Cross mental health hotline at any time. The chatbot is also linked to various referral directories, connecting users to support for issues like gender-based violence and child protection.
+
+## Privacy and Security
+
+Kenya Red Cross emphasizes the importance of maintaining client confidentiality. The chatbot operates within Microsoft Azure, ensuring that client conversations are secure and not accessible from external sources. “This technology helps us meet confidentiality standards” of mental healthcare, Njenga notes. Strict access limitations prevent staff from viewing chatbot interactions, and it does not collect personally identifiable information.
+
+## Conclusion
+
+Kenya Red Cross hopes that users will view Chat Care as an extension of their existing services. “There’s no form of discrimination from us. Everyone is accepted and loved,” Wendy states. With the integration of AI, the organization is striving to enhance access to mental health services and build on the trust they have established within the community. “This chat platform offers more people an opportunity to access mental health services—and that is needed,” Wendy concludes. 
+
+For more information, Kenya Red Cross can be found on Twitter, Facebook, and LinkedIn.

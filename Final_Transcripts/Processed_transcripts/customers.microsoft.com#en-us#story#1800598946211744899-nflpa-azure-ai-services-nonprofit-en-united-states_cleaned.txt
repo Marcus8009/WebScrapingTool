@@ -1,0 +1,45 @@
+file name: customers.microsoft.com#en-us#story#nflpa-azure-ai-services-nonprofit.txt
+
+## Introduction
+
+The National Football League Players Association (NFLPA), which represents and protects professional football players, is creating ways to keep players safe during the offseason. With 32 teams practicing in two-hour sessions across nine weeks, the NFLPA found it challenging to review each session to ensure health and safety and prevent rule violations. It wanted a solution to help staff study video footage and address safety-related rule concerns more efficiently. 
+
+With the help of Microsoft partner Xoriant and Microsoft technology, such as Azure AI Services and Azure App Service, the NFLPA is integrating AI into the video review process to reduce time studying footage by up to 73%, freeing up time for staff and increasing safety for players.
+
+## Challenges Faced
+
+The NFLPA is committed to ensuring security for professional football players, including reviewing video footage taken during offseason practice sessions to discover and manage any rule violations. However, with hundreds of hours of footage to review, identifying each violation was a time-consuming and challenging task.
+
+The NFLPA formed in 1956 to represent the rights of professional football players and has worked tirelessly to improve working conditions, wages, and more for players across all teams. During the nine-week no-contact offseason, teams practice for about two hours a day but must refrain from physical contact to protect players from unnecessary injuries. They must also adhere to rules to maintain a healthy working environment.
+
+To uphold these guidelines, the NFLPA reviews video footage from practice sessions. With each of the league’s 32 teams capturing about 256 hours of footage collectively each week, the NFLPA recognized that manual video review routines were not sustainable if it wanted to provide the best possible enforcement for its members. 
+
+Lester Archambeau, Senior Player Director at the NFLPA, noted, “Contacts can vary, and it’s a bit of a subjective view for staff in the Players Association to look at the film and decide if the contact was inadvertent. And with the staff we have, we just don’t have the capacity to look at all of the footage.”
+
+## Seeking Solutions
+
+Realizing that new technologies could help solve these time-constraint issues, the NFLPA turned to Microsoft and Xoriant for help in implementing a solution. In 2022, the NFLPA reached out to Microsoft, knowing that Microsoft could provide a comprehensive solution using AI and other innovative technologies, despite few sports organizations having embraced these tools.
+
+Richard Persons, Director of Information Systems at the NFLPA, stated, “We had to figure out how we can do this in a unique space and build something that can create efficiency so that what would have taken days to go through can now take hours or minutes.”
+
+Microsoft connected the NFLPA with Xoriant, a Microsoft partner that assists businesses in developing creative solutions using the latest technological innovations. Working together, they created tools to analyze footage more quickly than staff could manually.
+
+## Implementation of AI Solutions
+
+For both the 2022 and 2023 offseasons, the NFLPA developed a solution using Azure AI Services and Azure App Service. The tool analyzes the footage from 32 teams, each comprising 22 players, and identifies potential rule violations for the NFLPA to review. Although the solution is still in early stages, the NFLPA anticipates time savings of up to 73%, allowing staff to concentrate on higher-value support tasks for the professional football players.
+
+Archambeau expressed optimism about the tool's effectiveness: “In any given practice, the players are doing 60 plays, each lasting about three to five seconds. If this tool can tell me there are 10 plays to review, I’m happy with that because it has saved me from having to review the other plays.”
+
+## Future Implications
+
+The NFLPA is among the first in its industry to adopt technology like AI to empower its players and staff, and it is already seeing impressive results. With the use of Azure Virtual Machines and Azure AI Services to record footage and Microsoft Power BI for creating data dashboards, the NFLPA can track plays from thousands of players more easily, helping to maintain player safety and enforce rules consistently across all teams. 
+
+Persons emphasized the proactive approach enabled by this technology: “With this technology, we can be proactive instead of reactive. Our ultimate goal is to protect the players and provide a more effective and consistent practice across all 32 teams.”
+
+The NFLPA remains excited about the potential of their solution to continue supporting players. They plan to use technology to ensure every play is protected, and rules are enforced consistently. 
+
+“I’m confident that, working with Microsoft, we’re going to achieve what we want to achieve,” said Persons. “Then, who knows where this goes from here? This is just the beginning of what we’re trying to accomplish, and there’s a lot more that will come from this down the road.”
+
+## Conclusion
+
+The NFLPA is enthusiastic about creating a better practice season for all professional football players. The association is committed to providing a safer environment and improved conditions for all players and staff. By leveraging the latest AI technology, the NFLPA aims to ensure health and safety while enhancing efficiency in their operations.

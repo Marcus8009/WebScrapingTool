@@ -1,0 +1,49 @@
+file name: barnesley-council-releasing-the-potential-with-microsoft-copilot.txt
+
+## Introduction
+
+Barnsley Council won double Council of the Year in 2023 because of the work it has done to modernise council operations and transform the Borough. The next step on its transformation journey is the adoption of Microsoft Copilot.
+
+Barnsley Council is already enjoying widespread success in its adoption of Microsoft Copilot for Microsoft 365.
+
+You can see the Council’s journey for yourself in a series of four videos below.
+
+## Chapter 1: The Excitement
+
+Barnsley Council wanted to explore how Microsoft Copilot for Microsoft 365 could help colleagues to get more from the productivity applications they use every day. By lifting some of the administrative burden, the council hopes to release the potential of its people.
+
+Sarah Norman, CEO of Barnsley Council, says: “We see artificial intelligence as being a way of releasing the potential of our staff, eradicating some of those more mundane, boring tasks, automating things so that they can really use their creativity in other areas, be more productive and be more efficient.”
+
+See how the project got started in the first video of this series.
+
+## Chapter 2: Data and Training
+
+The council’s aim with this project was to be brave and do things differently but treat generative AI like any other approved tool.
+
+Sarah Norman adds: “One of the things we want to ensure in Barnsley is that we’re at the forefront of technological waves rather than being a place that suffers when things change and economies move on. We see this as a great opportunity to work with Microsoft.”
+
+Because the Council holds a lot of very sensitive data, information governance, data security, and risk were a major early focus.
+
+Culture has also been key to the success of the technology roll-out. The Council has invested in Copilot champions—early adopters who walk around showing colleagues how to use the new technology; prompt engineering tips shared on a dedicated Teams channel; and guides for dos and don’ts. 
+
+The programme has attracted a record number of volunteers. Learn more about their experiences in the second video of this series.
+
+## Chapter 3: The Use Cases
+
+Like many local councils, significant budget constraints have put additional pressures on staff. In the five areas that Barnsley Council identified as offering the “biggest bang for your buck”—finance, HR, legal, business support, and children’s services—it has used Microsoft Copilot to relieve some of this pressure.
+
+While recognising that paperwork is an essential part of a social worker’s job, Wendy Popplewell, Executive Director of Core Services at Barnsley, hopes that the use of Copilot will lift some of the admin burden from the social work team. 
+
+She says: “That means for our social workers that their workloads are more valuable—it makes the job more satisfying. They’re not going to end up off sick because they’re stressed. They get to spend more time with their families which is great for their wellbeing. And it means that, hopefully, they’ll want to stay at Barnsley because we’re using these really forward-thinking technologies that make their job more satisfying.”
+
+Copilot is already delivering value in other areas, too. The communications and marketing team see Copilot as a game-changer, and the learning and development team loves how Copilot for Microsoft 365 frees them to focus on more creative work, such as the development of learning resources.
+
+Discover more in the third video of this series.
+
+## Chapter 4: The Results
+
+Cllr Sir Stephen Houghton CBE, Leader of Barnsley Council, says: “We do know in these challenging circumstances that local government faces, we’ve got to take every avenue, every opportunity to do things more efficiently and to do things better.” 
+
+Review how Copilot is contributing to Barnsley Council’s achievement of these aims in the concluding video of the series.
+
+For more information on Copilot for Microsoft 365, click here for Copilot tips and tricks.

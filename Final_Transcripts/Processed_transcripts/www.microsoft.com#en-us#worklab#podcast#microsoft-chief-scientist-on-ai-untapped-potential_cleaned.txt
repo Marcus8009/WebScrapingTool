@@ -1,0 +1,28 @@
+file name: microsoft.com#en-us#worklab#podcast#ai-untapped-potential.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft hosted by Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age. In this episode, Molly speaks with Jaime Teevan, Chief Scientist and Technical Fellow at Microsoft, who has been recognized as one of Time’s AI 100. She is seen as a key voice in articulating the enormous possibilities that AI can unlock for businesses.
+
+## Jaime Teevan's Background
+
+Jaime Teevan became Microsoft’s first chief scientist in 2018. Her extensive experience in researching productivity and collaboration proved invaluable when the pandemic shifted how and where we work, and continues to be critical as we enter the AI era. In 2023, Time recognized her as one of the top 100 people impacting the future of AI. 
+
+## Key Insights from the Discussion
+
+In this episode, Molly and Jaime discuss several important insights from her research:
+
+1. **Ask AI for Help with Prompts**  
+   One common misconception about using AI, especially large language models, is that users must know exactly what they want. Jaime suggests an easier method: “If you want to figure out how to prompt a model well, one great way is to just ask the model to help you,” she states. She encourages users to express their uncertainties and ask for guidance on crafting effective prompts.
+
+2. **Emphasizing Conversations**  
+   In the AI era, the importance of conversations—both with technology and among individuals—grows significantly. Jaime emphasizes a shift from issuing simple commands to interacting with technology using natural language. “Our work is essentially becoming having interesting conversations with our computer and with other people,” she notes.
+
+3. **Creativity in Using AI**  
+   Jaime challenges individuals to think creatively about leveraging AI's capabilities. Notably, she mentions, “Many of the most interesting ways to use models are actually as a partner for brainstorming, for ideation, for coming up with new ideas.” She compares this to the evolution of mapping technology, suggesting that just as digital maps improved navigation and planning through unforeseen features, AI will transform collaboration and productivity in equally significant ways.
+
+## Conclusion
+
+WorkLab serves as a platform for experts to share their insights and perspectives on the future of work. While Microsoft values these diverse viewpoints, it is emphasized that the opinions expressed do not necessarily reflect Microsoft's own research or opinions. 
+
+Listeners can follow the WorkLab podcast on Apple Podcasts, Spotify, or wherever they get their podcasts to stay informed on evolving work practices influenced by AI and technology.

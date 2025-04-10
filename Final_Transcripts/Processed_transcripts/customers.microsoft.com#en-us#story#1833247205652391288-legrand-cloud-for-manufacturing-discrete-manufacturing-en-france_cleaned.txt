@@ -1,0 +1,45 @@
+file name: customers.microsoft.com#en-us#story#1833247205652391288-legrand-cloud-for-manufacturing-discrete-manufacturing-en-france.txt
+
+## Introduction
+
+Legrand needed tools to help its teams manage complex product data, translating it into multiple languages and keeping it relevant for customers worldwide.
+
+## AI-Powered Tools
+
+Legrand co-developed AI-powered tools, Gaia and Elia, using Microsoft Azure OpenAI Service, to streamline product data management and improve customer support. The use of Gaia reduced the time to generate product data by 60%, while Elia improved customer support interactions by providing fast, accurate information.
+
+## Keeping Pace with Complexity
+
+Legrand, a leader in electrical and digital building infrastructures, powers everyday life by delivering essential products, from lighting controls to wiring devices. With more than 300,000 products across 90 countries, keeping product information accurate, up-to-date, and globally relevant is a monumental challenge. Managing this vast array of products means that information must be translated into dozens of languages and updated regularly to meet global customer needs.
+
+Vincent Wang, Chief Digital Officer at Legrand, captures the scale of this task: “With so many product references, it’s a huge challenge at the group level to provide the most correct, relevant data.”
+
+## Collaboration and Technology
+
+To meet this challenge, Legrand collaborated with Artefact’s AI and data specialists to co-develop the tools Gaia and Elia using Azure OpenAI Service, Azure AI Search, and Azure Data Lake Storage within Microsoft Cloud for Manufacturing. Microsoft technology was chosen because it offered seamless interoperability, scalability, and a strong existing relationship.
+
+Wang states, “Historically, we were already using Microsoft technology. Creating the solution with Microsoft Cloud for Manufacturing provided us with accelerated time to market, easier maintenance, and a strong relationship with local Microsoft teams who are proactive and supportive.”
+
+## Enhancing Sales and Marketing
+
+Elia acts as more than just an AI-powered chatbot; it is a vital tool that enhances access to accurate product information. Sales managers and customer service teams can rely on Elia for quick and reliable answers to customer queries, improving interactions. One Legrand customer advisor notes, “The user interface is great. The answers are precise, brief, and explanatory.”
+
+In terms of marketing, Gaia assists Legrand’s teams in generating accurate, localized product descriptions, ensuring that products resonate with customers worldwide. Gaia also helps optimize product information for SEO, improving visibility across digital platforms. Wang emphasizes the importance of this, stating, “We need to push data to our local entities. We have about 200. And either we translate it into the local language or we enrich it for local context.”
+
+## Results of AI Integration
+
+The impact of Gaia and Elia has been transformative. By integrating these AI-powered tools, Legrand significantly reduced the time spent creating and localizing product content. Gaia cut the time spent generating product data by 60%, with 82% of marketing managers preferring Gaia’s AI-generated descriptions over manually created ones during A/B testing.
+
+Elia has also improved the efficiency of customer service and sales teams by offering quick access to product information, thereby enhancing customer interactions. Christophe Sirieix, AI and Data Analytics Manager at Legrand, estimates that around 20 minutes are saved per sales representative and customer advisor daily due to easier access to information.
+
+## Future Outlook and Automation
+
+By enabling round-the-clock customer interaction, reducing call volumes, and allowing sales managers and marketing teams to focus on higher-value tasks, Legrand can operate more efficiently. These tools have freed teams from routine tasks to concentrate on more valuable aspects of their work, improving customer experience and employee satisfaction. 
+
+However, Wang notes that despite the benefits of AI, human oversight remains essential: “You still have to read through the description, make the corrections if needed, and give your own validation,” he states.
+
+## Conclusion
+
+Legrand’s journey with Microsoft Cloud for Manufacturing is just beginning. With Gaia and Elia already delivering impressive results, the company looks forward to future developments. These tools are about more than just automation; they empower employees and enhance customer experience. Wang concludes, “These tools are in line with the slogan of Legrand. We’re trying to improve lives.”
+
+Discover more about Legrand on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.

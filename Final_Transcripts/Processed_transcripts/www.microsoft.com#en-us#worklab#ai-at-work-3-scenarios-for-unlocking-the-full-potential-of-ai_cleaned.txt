@@ -1,0 +1,50 @@
+file name: microsoft.com#en-us#worklab#ai-at-work-3-scenarios-for-unlocking-the-full-potential-of-ai.txt
+
+## Introduction
+
+As we kick off 2025, many people are eager to enhance their understanding of AI. Whether you're already utilizing AI tools in your daily work or just starting, there is always more to learn. Often, the only limitation lies in our imagination rather than the technology itself.
+
+In this context, I’d like to discuss some practical Copilot scenarios that can help unlock the full potential of AI at work. A common theme across these scenarios is that AI becomes significantly more effective when connected to your work data, such as your emails, files, and meetings.
+
+## Scenario 1: Prioritize Your Email
+
+Keeping up with emails can be a daunting task. Research indicates that the heaviest users of Microsoft 365 receive over 250 emails daily. Personally, my inbox often feels overwhelming. However, with Copilot, managing and prioritizing these messages has become much simpler.
+
+For example, after returning from the holidays to an overflowing inbox, I used Copilot’s “prioritize my inbox” function. It analyzed my messages and highlighted the most important ones at the top, providing explanations for their urgency and specific action items for each email.
+
+Copilot goes beyond merely considering the sender and the subject line; it reads the entire message to make informed prioritization decisions. For instance, a casual subject like “Coffee and a donut?” may not seem urgent, but if the sender is discussing a critical deal, Copilot will flag it for immediate attention.
+
+Additionally, you can instruct Copilot to prioritize emails from specific individuals, such as your manager or key customers, ensuring essential communications are never overlooked.
+
+Here are some further prompts to manage your email effectively:
+- “Show me the most urgent emails from today.”
+- “Summarize unread emails from the past 15 days, highlighting those from key collaborators and managers.”
+- “Highlight all emails with action items or deadlines in my inbox.”
+
+## Scenario 2: Build Workplace Intelligence into Your Prompt
+
+A common issue is that many users employ generic prompts, such as “Write a thank you email that says X, Y, and Z.” Some even resort to copy-pasting data from documents into their prompts. However, a more efficient method exists.
+
+By referencing specific work files in your prompts, you allow Copilot to provide tailored responses based on your business's knowledge and data. This eliminates the need for tedious information hunting.
+
+For instance, if you have an important strategy document that requires a prompt response, you can ask Copilot to summarize it and identify any gaps or concerns. Just cite the document's name, and Copilot will utilize the original data—no copy-pasting needed.
+
+It's also crucial to note that unlike consumer-centric AI tools, Copilot prioritizes security and confidentiality. Your data and prompts will not be used to train large language models, ensuring protection through strong encryption and multi-factor authentication.
+
+## Scenario 3: Use a SharePoint Agent
+
+With over 2 billion files uploaded to SharePoint daily, it can be challenging to locate necessary documents. I utilize SharePoint AI agents to assist with questions regarding content on any accessible SharePoint site or library.
+
+Before customer meetings, I receive briefing documents that summarize accounts and provide agendas. Using a SharePoint agent, I can quickly prepare for these meetings by asking, “Get me ready for my customer meetings this week.” The agent retrieves accurate information directly from the relevant SharePoint site.
+
+Anyone with edit permissions on a SharePoint site can create agents tailored to specific tasks and share them with their team. Building these agents is straightforward and requires just a few clicks.
+
+These SharePoint agents serve across various functions. For instance, finance teams can design agents with access to financial reports to suggest cost-saving measures, while IT teams can create agents that analyze customer feedback for trends.
+
+Think of SharePoint agents as virtual experts always available to find the information you need.
+
+## Conclusion
+
+If you're relying on generic prompts or AI that doesn’t integrate with workplace data, you're likely missing out on the core advantages of this technology. AI becomes exponentially more powerful when it is informed about your role, team, and business context. This understanding is vital as you continue exploring AI solutions in the year ahead.
+
+For further insights on AI and the future of work, consider subscribing to this newsletter.

@@ -1,0 +1,86 @@
+file name: microsoft.com/worklab/podcast#will-ai-make-work-more-human.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in our new world of work.
+
+## The Importance of Humanity in the Workplace
+
+Erica Keswin: People of all levels and all roles want to feel connected to the purpose and mission of what you do. My hope is that as generative AI takes over, and all tech takes over certain aspects of a leader’s job, that leader can have more time to connect with his or her employees as humans.
+
+## Guest Introduction: Erica Keswin
+
+Molly Wood: Erica Keswin is a business strategist who has worked with the world’s most iconic brands over the last 25 years. She’s an outspoken advocate for a human-first workplace, especially as AI dominates the conversation. In fact, she’s published three bestselling books on the topic. Her latest book, *The Retention Revolution*, just came out in October. Retention as we know it is a bit outdated, according to Erica. The reasons people stay at a company have really changed. Connection to our work and each other is paramount. So is flexibility, personal development, and even an open door to exit through when the time comes. In today’s episode, I chat with Erica about the human workplace, what that is, how to cultivate one, and why it’s more important now than ever.
+
+## Defining a Human Workplace
+
+Molly Wood: Erica, thanks so much for joining me. 
+
+Erica Keswin: It’s great to be here. 
+
+Molly Wood: Your first book, *Bring Your Human to Work*, was published in 2018, which was well before the pandemic, the generative AI boom, quiet quitting—all of these workplace trends we’ve seen over the past few years. Today, in 2023—almost 2024—these books are more relevant now than ever. So let’s start with a definition. What is a human workplace?
+
+Erica Keswin: When I wrote *Bring Your Human to Work*, people at the time thought I was talking about my dog, Cruiser. I was actually talking about creating a workplace that’s not only good for people but good for business, and how those two things are not mutually exclusive. A human workplace honors relationships.
+
+## The Shift in Leadership During the Pandemic
+
+Molly Wood: How does that resonate even more now, would you say, in this era of structured flexible work, Gen Z, and generative AI?
+
+Erica Keswin: During the pandemic, many leaders were more human. Employee engagement and job satisfaction actually went up during a very stressful time. Leaders need to continue doing this by checking in and genuinely caring about their employees, especially Gen Z, who want to feel valued as humans. Generative AI is making human skills even more important.
+
+## Implementing Human-Centric Practices in Leadership
+
+Molly Wood: How do you think leaders can start to put this into practice in a structured way?
+
+Erica Keswin: If I were creating a to-do list for 2024 regarding retention, a key aspect is helping employees develop and grow on the job—up, down, and sideways. We need to think creatively about internal mobility, having conversations with employees about how they want to grow. If there isn't a culture of psychological safety, employees won't feel comfortable expressing their growth desires.
+
+## Exploring Growth Opportunities
+
+Molly Wood: Can you elaborate on this idea of growing down? 
+
+Erica Keswin: Not everyone needs to feel like they’re climbing the ladder at every point in their lives. There may be times when individuals prefer a lateral move or even a step back due to personal circumstances. Leaders should support this kind of growth by demonstrating vulnerability, empathy, and encouraging experimentation when discussing changes.
+
+## Balancing Technology and Human Connection
+
+Molly Wood: You also emphasize the importance of tech intelligence but warn against overdoing it. How can leaders find balance when integrating generative AI?
+
+Erica Keswin: It's about finding the sweet spot between technology and connection. For instance, when my book came out, I participated in an event with Microsoft's Jared Spataro. Twice a year, Microsoft brings people together to build relationships and connect on a human level. These connections enhance our ability to collaborate effectively using technology.
+
+## The Human Element in Generative AI
+
+Molly Wood: How do you see generative AI contributing to humanity in the workplace?
+
+Erica Keswin: As technology changes, the human skills take on increased importance. We need to invest in developing these human capabilities. I was at a conference recently and learned that a radiologist who understands how to interact with generative AI will thrive, while one who doesn’t may struggle. We should also focus on supporting middle managers who often receive no formal training when they transition into their roles.
+
+## Connection to Purpose and Mission
+
+Molly Wood: A common theme in your work is the importance of feeling connected to a greater mission. 
+
+Erica Keswin: Yes. When starting a new job, leaders should connect an employee’s role to the organization’s purpose. This connection is vital for all levels within an organization. As generative AI takes over some tasks, this connection can deepen, allowing leaders more time to cultivate relationships with their employees.
+
+## Employee Retention in a Changing Landscape
+
+Molly Wood: Let’s talk about retention more broadly. You mention that leaders should maintain an open door for employees considering moving on. Can you elaborate?
+
+Erica Keswin: The world has changed; new generations view their careers as portfolios, not ladders. Therefore, we need to rethink how we onboard and offboard employees. If we know they may not stay long-term, we should facilitate graceful goodbyes that reinforce a lasting connection. This approach creates a more virtuous cycle.
+
+## Engaging Remote Workforces
+
+Molly Wood: Post-pandemic, many companies face challenges with remote engagement. Do you have tips for fostering connection in remote environments?
+
+Erica Keswin: Yes, while not all companies can afford frequent in-person gatherings, it's essential to allocate resources for this where possible. Engaging a community manager to oversee connections and strategically map out both in-person and virtual interactions can foster relationships, which are vital for retention.
+
+## Conclusion
+
+Molly Wood: What is the single most important way for business leaders to retain great talent?
+
+Erica Keswin: Care about them.
+
+Molly Wood: A simple yet powerful message. Thank you, Erica Keswin. I encourage every leader to read *The Retention Revolution* and *Bring Your Human to Work*. Thank you for your time.
+
+Erica Keswin: Thank you so much.
+
+## Episode Wrap-Up
+
+Molly Wood: Thank you again to Erica Keswin. That’s it for this episode of WorkLab, the podcast from Microsoft. Please subscribe and check back for the season finale, where I’ll be speaking to Nir Eyal about building healthy habits with the help of generative AI. If you have questions or comments, email us at worklab@microsoft.com. Explore Microsoft’s Work Trend Indexes and the WorkLab digital publication for more insights on thriving in today's world of work.
+

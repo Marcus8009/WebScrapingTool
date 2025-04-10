@@ -1,0 +1,55 @@
+file name: customers.microsoft.com#en-us#story#mars-azure-machine-learning-professional-services-en-united-states.txt
+
+## Introduction
+
+Interpreting data quickly and correctly is key to saving animal lives. With a global shortage of human experts available to analyze pet scans and images, pets had to wait hours and sometimes days before receiving the right care. Mars used the Microsoft Azure AI model catalog, choosing Mistral for its model as a service (MaaS) offering to extract data insights quickly, accelerating the development and deployment of its own AI-powered solutions. 
+
+## Maximizing Efficiency in Veterinary Care
+
+Pets with critical, undiagnosed conditions can receive the care they urgently need in minutes versus hours or days. Veterinarians are better able to make data-driven decisions and implement treatment plans swiftly. Anyone who has ever held their pet in a veterinarian’s office, waiting for results, knows the agony of each passing moment. Mars Science & Diagnostics, a division of Mars Petcare, is dedicated to transforming the field of veterinary science.
+
+Jerry Martin, Vice President of Research & Development at Mars, stated: “We believe that pets make the world a better place. Our team is dedicated to shaping the future of veterinary care, ensuring we provide the very best for the pets we love.”
+
+## Addressing the Shortage of Expertise
+
+Interpreting data quickly and correctly is essential for diagnosing medical conditions; however, this task becomes increasingly challenging with unstructured data such as scans. Furthermore, the global shortage of veterinary-trained radiologists makes this issue even more acute. Mark Parkinson, Senior Director of AI Development at Mars, explained: “Veterinary-trained radiologists are becoming a scarcity, and yet there’s an increasing demand for their capabilities. To save more pet lives, veterinarians need access to tools that can handle simpler cases for faster, high-quality results while augmenting human expertise.”
+
+To tackle these challenges, Mars sought to unlock technological potential, enabling humans to dedicate more time to saving animal lives. The company aimed to support veterinarians better, shortening the time to diagnosis and improving health outcomes for pets and their owners.
+
+## Leveraging Microsoft Azure
+
+Mars has a longstanding relationship with Microsoft, working to become more cloud-native and leverage AI-driven capabilities. They transitioned from a self-managed database and on-premises model deployments to the Azure AI model catalog, choosing Mistral for its MaaS offering, which simplified the development of generative AI applications and accelerated their RapidRead solution.
+
+Parkinson remarked, “The Azure AI catalog provides access to a wide range of pre-built models such as Mistral to help restructure data and enhance our accuracy. We know it’s accurate because nothing goes into our production systems without being validated and signed off by radiologists.”
+
+The collaboration brought together experts from various fields to develop RapidRead, identifying key diagnostic keywords and enhancing understanding through AI.
+
+Michael Fitzke, AI Senior Director at Mars Science & Diagnostics, expressed: “Working together toward a goal, seeing the alerts for serious findings emerge, and routing those directly to a radiologist—it all makes this project incredibly rewarding.”
+
+## Scaling Medical Technologies
+
+With Azure Machine Learning, Mars teams could devote their efforts to validation and achieving optimal results. They are conducting large-scale training within a dedicated workspace, ingesting more data quickly from millions of images, often accompanied by extensive reports. Mars employs Machine Learning for data filtration and speedy extraction of essential information.
+
+Parkinson noted, “The Azure Machine Learning platform significantly enhances large-scale model training, so we could run incredibly large X-ray models. We believe these may be the largest in the veterinary industry.” The teams harness advanced algorithms to improve RapidRead’s diagnostic accuracy, identifying abnormalities in radiological images that might be overlooked by human experts.
+
+## Collaborative Development for Enhanced Accuracy
+
+Jerry Martin emphasized, “We’re using Azure to build more and better AI models for RapidRead to help support the high demand on veterinary radiologists. Additionally, the benefit of scale helps us boost the accuracy of our AI models and expand our operations.”
+
+Mars’s implementation of a comprehensive range of Azure products, including AI, databases, and app services, enhances the capabilities of RapidRead, extending its value into other areas of pet care, such as dentistry. Using Azure Durable Functions, Mars creates complex workflows in a serverless environment, enabling parallel processing and decreasing workflow completion time. 
+
+Nicole McNally, AI Scientist at Mars, stated: “Working with Azure makes everything we’re doing quicker. Instead of running one experiment, we can run many, training the model with much bigger datasets.”
+
+## Infrastructure Efficiency with Azure
+
+Using Azure Kubernetes Service (AKS), Mars can select optimal compute resources for each workload while automatically scaling for efficiency. This arrangement has reduced the need for manual infrastructure configuration. By leveraging Azure Service Bus to host its endpoints on AKS, Mars reaps additional scaling benefits.
+
+Mars employs Azure Cosmos DB as the main database for RapidRead, logging radiologist feedback to continually train the model, integrating more findings into the system. The choice of Azure Cosmos DB stems from its capability to handle unstructured data, offering high scalability, low latency, and swift results while managing workloads efficiently across multiple regions.
+
+## Conclusion: The Impact of RapidRead
+
+As Mars continues to innovate, the company is set to enhance pet health and wellness significantly. Martin stated, “Over the last 12 months, RapidRead’s advanced identification capabilities potentially have saved hundreds of pets.” By revolutionizing the traditional diagnostic process, Mars is showcasing the considerable value AI can offer to non-tech sectors, achieving a remarkable 38% average precision boost and an impressive 96.9% precision rate on synthetic test sets.
+
+Martin concluded, “Clinics are now getting results in mere minutes versus hours or days. The significance of that can’t be understated. We are saving more lives, and pets are home with their families much, much faster. For Mars, that is the best metric by which we can measure our success.”
+
+Discover more about Mars on Facebook, Instagram, LinkedIn, and YouTube.

@@ -1,0 +1,45 @@
+file name: customers.microsoft.com#story#pkshatech-microsoft-copilot-for-microsoft-365-other-en-japan.txt
+
+## Introduction
+
+PKSHA Technology develops algorithmic solutions and AI technologies that help companies become more efficient and improve their processes. They believe in the power of algorithms to solve some of the world’s biggest challenges. Through Copilot for Microsoft 365, the team optimizes their time on critical work by increasing efficiency in meeting preparations, data analytics, and ideation. With Copilot, PKSHA releases their products faster, creates better sales presentations and proposals, and improves their customer management.
+
+## Company Overview
+
+Based in Tokyo, Japan, PKSHA Technology is a 500-person company focused on developing AI solutions. Since 2012, they have conducted research and development, building AI technologies to tackle significant global challenges. Their mission is to shape the software of the future and provide products and services that enable enterprise companies in Japan to utilize this technology to enhance business processes and operational efficiency. In retail, their software aims to improve shopping experiences and customer lifetime values, effectively reducing inventory waste to zero. In the financial sector, they assist with credit card fraud detection, and in healthcare, they develop algorithms to expedite disease diagnosis. They contribute positively to the world by offering AI and Software as a Service (SaaS) solutions.
+
+## Vision and Implementation of AI
+
+PKSHA envisions a future where humans and AI collaborate as teammates. Through Copilot for Microsoft 365, every PKSHA employee can optimize more of their time for significant business impact, enhancing efficiency in meeting preparations, data analytics, and ideation. Copilot enables them to release products more quickly and respond more effectively to prospecting opportunities while streamlining customer management.
+
+The company believes it is crucial to utilize new AI solutions internally to evaluate how they can best meet their clients' needs. Consequently, they established the Future Work Black Belt Team, dedicated to trying out innovative technologies, including Copilot for Microsoft 365. As Mr. Kensuke Yamamoto, Executive Officer & Head of Development, states, “Copilot is a tool that supports our main mission of defining and shaping the software of the future. Copilot is part of our own future way of working so we can lead our customers to the right future workplace.”
+
+## Customer Success and Feedback
+
+Ms. Yui Takeuchi, from customer success, emphasizes, “We use the term 'AI-Powered Future Work'. I show our clients how AI and Copilot make everyone’s job more advanced and easier to handle. How it’s changing the way people feel about their work.” She notes that customers will quickly recognize the benefits as they integrate AI into their workflows. Her team showcases the value of Copilot by sharing Copilot-generated notes post-meetings, with customers expressing envy about her ability to use Copilot.
+
+## Operational Efficiencies
+
+As PKSHA experienced rapid growth and onboarded new employees, ensuring access to necessary information became challenging. Copilot streamlines the process by allowing employees to search through text and video files, facilitating quicker results.
+
+Mr. Hiroshi Kato, a Software Engineer, mentions that Copilot allows him to complete research on documentation in minutes rather than hours, enabling him to focus on more critical tasks like system architecture design and security. He states, “By using Copilot, it saves me several hours a week from routine work activities. With this extra time, I’m able to focus on developing features that improve the quality and enhance the security of our products.”
+
+Ms. Takeuchi has observed significant improvements in her customer interactions. She can now devote more time to customers instead of preparing paperwork for meetings. Previously, she spent hours gathering information and documenting follow-up actions, but now she can promptly organize materials and share them with clients after meetings. “Copilot has changed the way we work, both in terms of time and quality. The time it takes us to prepare for meetings has been reduced, giving me more time to brainstorm using Copilot,” she states.
+
+## Enhancing Customer Engagement and Product Development
+
+Copilot helps identify potential trends in customer needs, reflecting their feedback in products and serving as a guide for sales teams to enhance their presentations and proposals.
+
+In product development, the team utilizes Copilot in Teams for research, efficiently consolidating information about customer product needs and enhancements. This collective knowledge leads to faster delivery of superior products. Mr. Kato sums it up, “With Copilot, I feel that I am now more creative than I was before. We generate new ideas quickly, focusing on the new features we should develop for our customers.”
+
+The AI Helpdesk service contains extensive customer data, and success teams leverage Copilot in Excel to identify trends, significantly reducing the time spent on data analysis. As Ms. Takeuchi shares, “When I was analyzing the information, I would spend three to four hours looking at the data and making graphs. With Copilot, it takes less than an hour to do that same work.” This efficiency allows the team to provide more insightful recommendations to clients.
+
+## Leadership and Future Aspirations
+
+Mr. Yamamoto highlights the challenges of managing numerous teams, stating, “It’s impossible for me to attend every meeting. With Copilot, by having the summary of each team’s meeting in video, I am right away able to keep up with the topics and stay updated with the details.” This capability allows him to identify where support is necessary and understand various issues. 
+
+With the organization-wide implementation of Copilot, PKSHA is enhancing efficiency, improving products, and accelerating innovation across multiple departments. This lays the foundation for PKSHA to assist many Japanese companies in experiencing the future of work while fulfilling their mission to shape the software of the future.
+
+Mr. Yamamoto concludes, “Across every department, everyone is gaining the benefits of using Copilot. We believe we will be able to show our customers more examples of how Copilot and AI solutions will help their companies and what the future of work can look like today.”
+
+“As a result, we focus on the new features we should develop for our customers.” - Mr. Hiroshi Kato, Software Engineer, PKSHA Technology.

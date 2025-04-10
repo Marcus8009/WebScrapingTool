@@ -1,0 +1,87 @@
+file name: podcast-charles-duhigg-how-to-build-new-habits-for-the-ai-era.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in our new world of work.
+
+## Conversation with Charles Duhigg
+
+MOLLY WOOD: Today I’m talking to Charles Duhigg, a Pulitzer Prize–winning reporter, a bestselling author, and a renowned expert on the science of productivity, habit formation, and effective communication. We talked with him about how to use those good habits and human communication skills to unlock all the potential of AI, but also how to use AI to improve our human communication. Here’s my conversation with Charles.
+
+**CHARLES DUHIGG:** Everything that we can see about the future of tech is it’s going to be more and more like having a conversation, and less and less like using a calculator. The faster we get into the habit of thinking about which conversation is the right kind of conversation with this particular type of AI or this particular interface, the faster we’re going to be able to use that tool effectively.
+
+MOLLY WOOD: Your books, *The Power of Habit* and *Smarter Faster Better*, have really become touchstones for people who want to become more productive and form good habits. What’s your nutshell advice for leaders who are interested in these topics?
+
+**CHARLES DUHIGG:** The biggest and most important thing is to understand that real productivity comes from building the habits that allow us to think more deeply, particularly when thought is needed. When we’re feeling stressed, overwhelmed, or someone says, “I need an answer right now,” the ability to step back and ask, “How do I get myself to think more deeply at this moment? How do I get myself to be innovative on demand?” Those are the things that lead to productivity. Productivity is not busyness; it's about making the right choice when genuinely needed.
+
+## The Evolution of Technology and Productivity
+
+MOLLY WOOD: How, if at all, are your views evolving as technology evolves? 
+
+**CHARLES DUHIGG:** Generative AI represents a huge disruptive force in positive ways. It’s an add-on for human intelligence that increases its value. A lot of what we do daily does not draw on our unique intelligence. For instance, replying to a higher number of emails isn't the metric of being smarter but rather of efficiency. AI allows us to complete rote activities more quickly. 
+
+I talked to Mustafa Suleyman, who said, “I think for smart people, this will give them even more of an advantage. For those who aren’t used to relying on their intelligence, it could pose a challenge because it forces them to think in new ways.” 
+
+MOLLY WOOD: It seems like you have to develop a new habit around entirely new technology.
+
+**CHARLES DUHIGG:** Yes, but it happens very organically. Humans learn to use tech effectively over time. Early telephone users struggled with communicating effectively due to the lack of visual cues, but eventually adapted, leading to deeper, more meaningful conversations via the phone. With AI, the habit-building process will also be organic.
+
+## Communication as a Cornerstone of Meaningful Interaction
+
+MOLLY WOOD: Your latest book is *Supercommunicators*. Communication is one of the fundamental soft skills. What insights did you gather while writing this book?
+
+**CHARLES DUHIGG:** Advances in research and neural imaging have given insights into effective communication. Some questions invoke deeper responses—these are known as deep questions asking about values, beliefs, and experiences. Effective communicators tend to ask many more questions and initiate various types of conversations—practical, emotional, and social. 
+
+The way my son engages with Bing and ChatGPT highlights an interesting shift—he converses about ideas he’s exploring, finding it edifying, while I’ve remained more transactional, viewing tech as a calculator.
+
+## The Impact of Vulnerability in Communication
+
+MOLLY WOOD: How does this apply in the context of AI?
+
+**CHARLES DUHIGG:** When interacting with AI, using emotional language can increase its effectiveness. If you frame your question with emotional weight, it might yield better results. Vulnerability in communication invites trust and can lead to more favorable interactions. These instinctual communication approaches also apply to engaging with AI.
+
+MOLLY WOOD: If we express more vulnerability, will AI respond better?
+
+**CHARLES DUHIGG:** Yes, exposing vulnerability can encourage responsiveness from others. Communication, in essence, is about sharing emotions and experiences. When we are vulnerable, we often foster deeper connections.
+
+## The Future of Work and Communication Skills
+
+MOLLY WOOD: In workplaces, communication hasn’t often been prioritized. Is there a dual training process needed for communicating with humans and AI effectively?
+
+**CHARLES DUHIGG:** Exactly. We can practice communication techniques with AI before applying them in real life. Companies are already incorporating this practice into negotiation training. 
+
+MOLLY WOOD: It seems AI can be a communication sandbox for practicing interpersonal skills.
+
+**CHARLES DUHIGG:** Precisely. Utilizing techniques like “looping for understanding”—repeating what someone says and asking if you’re interpreting correctly—can improve conversations. By practicing these techniques with AI, we can form habits that become automatic in human interactions.
+
+## Adapting to AI in Communication
+
+MOLLY WOOD: Can you share communication habits you've adopted in relation to AI?
+
+**CHARLES DUHIGG:** I experiment with AI regularly, especially for technical questions, to clarify my understanding or find quicker solutions. Using AI requires experimentation, similar to how we adapted to using the telephone.
+
+MOLLY WOOD: Isn’t it important to seek reinforcement from AI as a verification source?
+
+**CHARLES DUHIGG:** Absolutely. Conversations with AI can clarify our thinking and unveil insights about our problems. They allow us engagement without bias, leading to greater understanding.
+
+## Conclusion
+
+MOLLY WOOD: What question should leaders ask themselves every day?
+
+**CHARLES DUHIGG:** Instead of fixating on paranoia, ask, “What’s the most meaningful thing I can do today?” Leaders need to proactively seek to address what truly matters amid the reactive whirlwind of daily tasks.
+
+MOLLY WOOD: What common work habits do you anticipate will become irrelevant soon?
+
+**CHARLES DUHIGG:** Boring tasks will likely fade away—like mundane data analysis, which AI can handle with greater efficiency, allowing us to focus on meaningful analysis rather than drudgery.
+
+MOLLY WOOD: Finally, what excites you at the intersection of business and technology?
+
+**CHARLES DUHIGG:** I’m eager to see a new Cambrian explosion in technology, reminiscent of the late-'90s tech boom. There’s huge potential for unexpected innovations that can disrupt traditional industries.
+
+MOLLY WOOD: Thank you, Charles.
+
+**CHARLES DUHIGG:** Thank you. This was wonderful.
+
+---
+
+Thank you for listening to WorkLab, where we delve into the future of work with experts in the field. Please subscribe to our podcast for more insights, and visit Microsoft’s Work Trend Indexes for additional resources related to the evolving workplace.

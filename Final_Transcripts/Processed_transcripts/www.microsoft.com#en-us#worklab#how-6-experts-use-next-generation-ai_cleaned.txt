@@ -1,0 +1,35 @@
+file name: www.microsoft.com#en-us#worklab#how-6-experts-use-next-generation-ai.txt
+
+## How AI Experts Leverage Next-Generation AI in Their Work
+
+From saving time to enhancing presentations, here's how artificial intelligence experts utilize the latest technology in their work.
+
+Pamela Mishkin, an OpenAI researcher who focuses on AI policy and safety, needed to understand how AI would impact forestry workers despite having no prior knowledge in the field. "I put some dense documents about forestry into the model," she explained. "Then I asked it to extract the sections that were most relevant to my question." This research, which would have taken hours manually, was completed quickly with the help of next-generation AI.
+
+As we have grown accustomed to background AI that suggests what to watch, read, and buy, we are now entering a phase where AI empowers us to create rather than just consume. To explore this shift, we spoke to six AI experts about how they are leveraging next-generation AI at work.
+
+### Jaime Teevan, Microsoft Chief Scientist
+
+Jaime shares, "I take all my pre-read documents—you know, before entering a meeting with multiple papers to review—and summarize them as poems. Initially, it was a gimmick, but I found that I process the information better this way. It also makes the process of preparing for a meeting a bit more enjoyable."
+
+### Erik Brynjolfsson, Director of the Digital Economy Lab at Stanford Institute for Human-Centered AI
+
+Erik recounted a recent experience: "I had to give a talk at the National Bureau of Economic Research. I asked GPT-3 for assistance in writing my remarks and had it rewrite my draft in the style of Taylor Swift for fun. It generated a fantastic poem filled with metaphors I had never considered. The audience found it hilarious and insightful. Blending academic work with a touch of art opened up new ways of thinking for me, and I've since developed a newfound appreciation for Taylor Swift's poetry."
+
+### Sumit Chauhan, Microsoft CVP, Office Product Group
+
+Preparing for an off-site meeting, Sumit stated, "I needed to write a paper about AI, with information scattered across emails, documents, and PowerPoints. I instructed Microsoft 365 Copilot, ‘Generate me a document with a framing, business plan, monetization, and go-to-market for AI.’ The tool searched all my relevant documents and emails, producing an outline that I could build upon. Without it, I would have spent an entire week preparing. Now, I can focus on structuring the conversation and developing a higher-level strategy, which provides me the creative space to think."
+
+### Eric Horvitz, Microsoft Chief Scientific Officer
+
+Eric shared an application of AI in scientific research: "A recent article in Nature discussed an unexpected increase in methane levels during the pandemic. I input the entire paper into the model and asked various questions, including, ‘What if the author's hypotheses are incorrect? What else could explain this data?’ The system generated a compelling set of alternative hypotheses for exploration. This demonstrates how AI can function as a scientific advisory copilot for tackling complex challenges."
+
+### Pamela Mishkin, researcher at OpenAI
+
+Pamela noted her different communication style compared to her manager, saying, "I’m very New York—off-the-cuff and quick—while she’s more formal. I ask ChatGPT to rewrite my communications in her style. I also use it to review my emails, ensuring clarity and professionalism. It helps tone down my New York-ness in interactions with colleagues from California."
+
+### Sam Schillace, Microsoft Deputy CTO
+
+Sam described a unique application of AI during a Teams meeting: "We used closed captioning, and the model—an internal experiment—structured the captions into a Loop document. Post-meeting, we didn’t just have a transcript; we received a well-organized log detailing questions asked, responses given, referenced materials, and snippets from relevant documents. It provided us with a valuable resource for future reference."
+
+As we become reliant on tools like keyboards, mice, and the internet, it’s clear that future work environments will be unimaginable without AI copilots to assist with summarization, reasoning, and communication. This marks the beginning of a transformative approach to our work and the achievements that lie ahead.

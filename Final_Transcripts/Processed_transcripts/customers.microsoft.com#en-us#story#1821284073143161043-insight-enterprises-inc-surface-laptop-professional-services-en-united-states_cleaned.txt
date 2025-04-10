@@ -1,0 +1,63 @@
+file name: 1821284073143161043-insight-enterprises-inc-surface-laptop-professional-services-en-united-states.txt
+
+## Introduction
+
+Insight wanted to improve productivity by streamlining processes and onboarding while implementing stronger security and privacy measures to avoid potential vulnerabilities. Scalable solutions were needed to enhance delivery quality, accuracy, and speed.
+
+## Technological Solutions
+
+To modernize operations, Insight adopted a suite of Microsoft technologies, including Microsoft Surface, Windows 11, and Microsoft 365 Copilot. These tools aimed to modernize processes, accelerate onboarding, and enhance data privacy measures.
+
+### Microsoft Surface Devices
+
+Surface devices provide a future-ready platform equipped with security features, such as TPM 2.0 chips and Windows Hello facial recognition, which are vital for advancing data security. 
+
+Shahana Nasmin, Senior Information Technology Manager at Insight, explains: 
+
+> “Surface is a very secure platform for us. The Windows Hello facial recognition feature, now improved with the infrared camera, has further strengthened our security posture.” 
+
+The flexibility of Surface devices encourages inclusive work styles that foster collaboration and innovation. The devices’ mobility and impressive battery life have significantly improved the user experience across various departments. Nasmin notes: 
+
+> “Mobility has improved, and the high-res displays have made a noticeable difference.” 
+
+Additionally, she mentions the practicality of the wireless keyboard and built-in keyboard shortcuts: 
+
+> “The wireless keyboard feature of Surface Pro is also very handy, and the keyboard shortcuts and gestures that have been built into the hardware are very, very helpful.” 
+
+### Windows 11
+
+Insight has embraced Windows 11 for its robust security features and enhanced application performance, especially in resource-heavy applications like Microsoft Teams. 
+
+Mathew Skaff, Vice President, Global Business Solutions at Insight, shares:
+
+> “Teams used to use a lot of resources, but with the newer Surface devices and Windows 11, application performance is much better.” 
+
+Mark Berlin, Vice President of Partner Management at Insight, adds:
+
+> “We’ve seen exceptional performance out of Surface devices with Windows 11, especially with audio and noise canceling and overall video quality. The high-resolution display and touch and pen support have also been well received.”
+
+### Microsoft 365 Copilot
+
+Copilot has been transformative for Insight by automating routine tasks such as meeting summarization, email management, and content creation. To support global adoption of Copilot, Insight utilized Microsoft Viva Engage for training and sharing best practices, which fostered collaboration across teams. 
+
+Skaff emphasizes the impact of Copilot on productivity:
+
+> “For each of our teammates using Copilot, we’ve seen about four hours of productivity gained per week from data summarization and content creation.” 
+
+### Results
+
+Since adopting Surface devices, Windows 11, and Copilot, Insight has experienced marked improvements in operational efficiency and teammate satisfaction. The advanced security features of Surface and Windows 11 have bolstered the company’s infrastructure. 
+
+Skaff asserts:
+
+> “It’s crucial to be ahead of the game. We want to take advantage of new technology as it rolls out, then bring that knowledge to our clients, and we are at the forefront of understanding what Surface devices with Windows 11 can do.” 
+
+The automation provided by Copilot has freed teammates to focus on more strategic tasks. 
+
+> “I’m able to attend to more strategic outlook meetings because I don’t have to sit through every meeting,” Skaff explains. “Copilot summarizes the key points for me, saving time, so I can concentrate on more important matters.” 
+
+With streamlined operations and increased innovation, Insight is well equipped to lead in the technology solutions industry and support sustained growth.
+
+## Conclusion
+
+Discover more about Insight Enterprises on their social media platforms: Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.

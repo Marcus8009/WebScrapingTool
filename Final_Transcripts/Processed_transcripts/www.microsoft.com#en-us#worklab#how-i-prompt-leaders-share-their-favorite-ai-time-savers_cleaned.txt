@@ -1,0 +1,55 @@
+file name: www.microsoft.com#en-us#worklab#how-i-prompt-leaders-share-their-favorite-ai-time-savers.txt
+
+## Introduction
+
+From ‘What are our top challenges?’ to ‘Summarize this email thread,' Microsoft executives share their favorite AI prompts.
+
+Drop a few simple conversational prompts into AI, and the results are pretty astonishing. These tools have a deeper potential to transform work for those who learn how to fully leverage them. Think of generative AI as a digital assistant that augments your knowledge and capabilities. By providing it with context and explaining your goals, you can create things faster, complete tasks with ease, and lessen your cognitive load.
+
+To help you get started, we asked 10 leaders at Microsoft how they use prompts to boost creativity, save time, and stay focused on the most meaningful and rewarding parts of their jobs.
+
+## Insights from Microsoft Leaders
+
+### Sumit Chauhan, Corporate Vice President, Office Product Group
+
+"When I get into work in the morning, I’m already behind. There are unread emails and chat messages to catch up on while I’m simultaneously jumping into my first meeting. With Copilot in Outlook, I can type 'summarize,' and boom—I have a pretty accurate rundown of the highlights of a long thread. Or let’s say I need to generate a deck based on documents, emails, previous presentations, and so on. I can go into PowerPoint and say, 'generate me a deck based on these things,' and I receive an outline or draft of a deck. Just that one action saves me an enormous amount of time."
+
+### Jared Spataro, CVP, Modern Work & Business Applications
+
+"What makes Copilot feel almost magical is that it has a deep understanding of me, my job, my priorities, and my organization. It knows my entire universe of data at work. I can write: ‘Quickly summarize the meeting I had at 11 a.m. yesterday. Who attended? What decisions were made? Give me a sense of what you think the next steps should be. Put that summary into an email to Jun, and propose a time when we’re both free next week to discuss. Write it in Japanese.’"
+
+### Colette Stallbaumer, General Manager, Microsoft 365 and Future of Work
+
+"Time is our most precious resource, and Copilot helps me reclaim some of that time at work. During a busy day, my most frequently used prompts start with 'Find me': Find me the Q2 news deck that Marta shared in a meeting this week. Find me the most recent Work Trend Index research document from Grace. Find me the hybrid work playbook we created in 2021. No more hunting for specific documents, decks, or emails. Copilot combs through all my folders and files to quickly find what I need—even if it’s a file I haven’t accessed in years. It saves me time and helps me stay focused on the strategic and creative work that matters most."
+
+### Amy Coleman, CVP, Human Resources & Corporate Functions
+
+"Once a week, to keep myself informed and prepare for meetings with global HR partners, I ask Copilot: What are the top challenges facing global HR organizations this week in September 2023? What about in Australia, 2023? Are HR trends in the US for September 2023 different than the HR trends in Germany for September 2023? Show me HR research across all of our global offices from the past three months, 2023. Who are the top voices talking about these challenges? It opens the door to possibilities rather than simply coming to a conclusion."
+
+### Jaime Teevan, Chief Scientist & Technical Fellow
+
+"When I’m reading an article, I get better summaries by saying, 'summarize this article for a Microsoft executive with a particular interest in research,' rather than just asking for a summary. If I’m thinking critically about the article, I might follow up by specifying what I want the reply to look like: 'What questions should that exec ask of the article? Please include answers to the questions, quoting the article when possible.' I get better replies by including details and direction."
+
+### Deb Cupp, President, Americas
+
+"I meet with a lot of customers, and there are often many ideas generated and action items assigned during these meetings. When I need to send follow-up emails, I rely on Sales Copilot to kick-start the drafting process. I just tell it to generate a response, and it looks at my previous email exchanges with that customer, recent notes from Teams calls, as well as any relevant data from the CRM, and suggests an appropriate response email. I can take that and make some edits of my own before hitting send. These prompts are like my personal shortcuts to staying organized and maintaining communication, even on the busiest workdays."
+
+### Jon Friedman, CVP, Design & Research
+
+"I don’t write code, but I wanted to create JavaScript for an app that ran on mobile devices. I prompted the AI with all the functionalities I wanted the app to have, and it generated the code for me. Then I asked, 'where do I put this code to look at it more carefully?' It guided me on where and helped troubleshoot errors. I didn’t just ask it to do something for me; I asked it to teach me too. It was like collaborating with a patient programmer."
+
+### Kathleen Mitford, CVP, Global Industry Marketing
+
+"Prompts like 'write a list of…,' 'compare…,' or 'give me examples of…' provide interesting options and possibilities, helping me explore creative ideas and establish new work habits. Communication and iteration are key at work, which includes communication with AI. I observe how Copilot responds to my prompts, then I ask it to evaluate its own response, followed by asking it to iterate again. It’s like an ongoing dialogue, arrived at by continually testing and learning."
+
+### Merrie Williamson, CVP of Azure Infrastructure, Digital & Application Innovation
+
+"I am always looking for ways to delve deeper into learning about our specific customers. One useful time saver is telling Copilot, 'highlight key trends and insights in this company’s quarterly earnings report.' It’s a quick way to add the additional context I need to drive great conversations for customer meetings."
+
+### Tara Roth, CVP, Microsoft 365 Customer Success Engineering
+
+"I love the ability to say, 'surface key action items for Teams meetings.' It’s not always perfect, but it gets you close enough that you can quickly edit and add or remove whatever you want. I feel more attentive in meetings because I’m not worried about taking notes; I can fully engage with confidence that Copilot will have captured the key items accurately enough that I can then modify and send out the summary."
+
+### Instant Insights
+
+These insights reveal how Microsoft leaders integrate AI into their daily workflows, emphasizing its role in enhancing productivity and facilitating collaboration.

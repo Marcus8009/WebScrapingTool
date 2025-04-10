@@ -1,0 +1,45 @@
+file name: www.microsoft.com#en-us#worklab#finastra-microsoft-copilot-for-microsoft-365-professional-services.txt
+
+## Introduction
+
+Finastra is the largest pure-play software vendor in financial services, empowering financial institutions with leading software for lending, payments, treasury, capital markets, and universal banking. The company promotes collaboration among banks, fintechs, and non-banks to encourage innovation. Finastra's open platform approach and extensive ecosystem bridge the gap between financial service providers and their users.
+
+## Vision and AI Integration
+
+Leading in Open Finance, Finastra's software solutions drive sustainable decision-making and societal change. "Finance is open, and this is what our DNA is," says Joerg Klueckmann, Head of Corporate Marketing and Communications at Finastra. "Open Finance is a movement, and we pioneered this movement with open, customer-centric technologies based on cloud, APIs, and AI." The company recognizes the potential of generative AI to automate tasks, personalize content, and enhance marketing and customer service.
+
+## Marketing Challenges and Solutions
+
+Finastra identified AI as a game-changer for its marketing processes, aiming to increase efficiency, automate routine tasks, boost analytics, and personalize customer interactions. The goal was to streamline processes, improve campaign performance with data insights, and enhance employee productivity and satisfaction. To lead the AI revolution in financial services, Finastra adopted Copilot for Microsoft 365, which was initiated by its executive leadership team, including CEO Simon Paris.
+
+## Implementation of Copilot
+
+The implementation of Copilot began with 300 employees participating in the Early Access Program, which is continuously expanding. It included an all-company AI learning festival and a phased upskilling program. Initial use cases focused on content creation, collaboration, and market analysis, later extending to Microsoft Power BI. Klueckmann notes, "Before Copilot, my performance marketing team had to have special Power BI skills; now they just put in a prompt and get the results."
+
+## Employee Empowerment
+
+Finastra embedded intuitive training into daily workflows, supported by drop-in sessions and an active intranet. To ensure employee adoption, the company created a network of champions and specialists along with a knowledge-sharing platform. "We organized weekly calls to go through what our champions learned with Copilot, so everyone was educated," explains Harjeet Singh, Senior Director of Marketing and Demand Gen Operations at Finastra.
+
+## Transformative Impact on Content Creation
+
+Content production has historically been a significant hurdle in Finastra’s marketing campaigns, often causing delays. The introduction of Copilot has revolutionized this process, enabling the analysis of market trends and synthesis of expert interviews into actionable insights. "Copilot analyzes the market, to identify the hot topics that the industry is energized about," Klueckmann explains.
+
+Karen Quinn, Senior Director of Brand and Corporate Communications, describes how Copilot aids her team. "It helps us compare and contrast headlines to ensure they are the most compelling," she states. Additionally, Copilot optimizes text for conciseness and engagement, generates mood boards, and ensures language neutrality for global communication.
+
+## Significant Time Savings
+
+"Copilot was a game-changer—it saved us hours of work," says Quinn. The automation capabilities have reduced content creation time from months to days. Singh shares his experience, noting that Copilot saves him 20% to 50% of his time, allowing quick access to valuable insights. "It’s the only tool that I know of that can give you those insights very quickly and simply," he adds.
+
+## Streamlining Marketing Processes
+
+Embedded into Microsoft 365 applications, Copilot streamlines processes by customizing content for various audiences and summarizing meetings. It efficiently manages email threads, measures campaign performance, conducts ROI analysis, and supports event transcription, improving multilingual engagement. Singh emphasizes, "With Copilot, it’s possible to do it a lot better because you are not just translating the language—you’re translating the emotion, as well."
+
+## Creativity and Innovation Enhancements
+
+Copilot has significantly reduced the time needed to create marketing content, enabling the brand and marketing team to raise awareness and enhance creativity. The impact on campaign launches has transformed labor-intensive processes into efficient approaches. "We can now generate content for major campaigns in less than one month," explains Klueckmann.
+
+Finastra aims to lead the AI revolution in financial services software, enhancing data analytics and insight gathering through Copilot. Quinn discusses ongoing projects to integrate Copilot into their People Portal to enhance employee experience and resource access.
+
+## Conclusion
+
+By embracing AI tools like Copilot, Finastra not only reduces operational costs but also enhances employee satisfaction and creativity. "Tools like Copilot give everyone a personal assistant," says Quinn, allowing teams to focus on strategic and imaginative work rather than administrative tasks. Klueckmann concludes, "If your competition is using Copilot and you are not, you’re going to miss the boat. It’s as simple as that."

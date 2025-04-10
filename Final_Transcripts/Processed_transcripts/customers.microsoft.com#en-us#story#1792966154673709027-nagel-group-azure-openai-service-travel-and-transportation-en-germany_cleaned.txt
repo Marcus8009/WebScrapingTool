@@ -1,0 +1,33 @@
+file name: 1792966154673709027-nagel-group-azure-openai-service-travel-and-transportation-en-germany.txt
+
+## Introduction
+
+For an international company, seamless operations hinge on ensuring that the entire workforce can quickly access the internal store of information and know-how. That’s why Nagel-Group now relies on NagelGPT. Employees can pose their questions—currently on the topics of works agreements and sales—at any time and receive an automated response that includes the appropriate reference documents. This saves time, creates efficiency and transparency, and leads to higher-quality answers overall.
+
+## The Efficiency Challenge in Logistics
+
+Logistics is in the middle of a major transformation: many processes integral to supply chains that were once purely manual are now becoming increasingly automated. It generally takes a while for the same to happen to internal processes. These also offer considerable potential to make a company’s internal information management more efficient. Pick any international company, and chances are its employees are constantly asking similar questions: “What contract conditions apply to our Swiss customers? What’s our policy for mobile working? What’s the correct procedure for requesting vacation time?" Employees often have to wade through a quagmire of company data, which eats up a great deal of their time. 
+
+## Implementation of NagelGPT
+
+Michael Lütjann, CIO of Nagel-Group, noted: “Whether it’s in sales, real estate, HR, or IT, our company generates so much information that our employees can no longer process it effectively. As a result, they had no quick way of accessing the information they needed at a given moment.” Previously, when employees required information relating to a contract or works agreement, they had to search the data management system or the intranet for the specific keyword. Unfortunately, even with that exact keyword, they might find only some or none of the information they were looking for—or they would end up with far too many results. “This was because the static full-text search function wasn’t smart enough to link related pieces of information,” adds Sven Kreciszewski, IT Innovation Manager at Nagel-Group. “But that’s precisely what generative AI can do.”
+
+Nagel-Group addressed this situation by entering into an agreement on artificial intelligence (AI) with the works council. “That paved the way for all further AI use cases and our NagelGPT solution based on Azure OpenAI Service. Looking back, it was a crucial decision that enabled us to get to grips with this topic really quickly,” Lütjann says.
+
+## User-Friendly Queries
+
+Nagel-Group began by collaborating with its partner P3 to prioritize use cases that offered employees the most added value, focusing on works agreements that apply throughout the company. Kreciszewski explains: “It’s up to the employer to make sure these are honored.” Now, when employees want to find out about current rules governing mobile working or giving Christmas presents to business partners, they just open NagelGPT in Microsoft Teams and enter their question. Behind the scenes, Microsoft Copilot Studio forwards the question to the central application via Power Automate.
+
+Azure OpenAI Service helps give each inquiry its own content "fingerprint" and interprets references to filter parameters, forming the basis for the search through all documents via Azure AI Search. As soon as the system finds an answer, it gathers all pertinent information and creates a suitable response comprising the question, text blocks, and chat history. Dr. Nils Drescher, Head of AI & Data Analytics at P3, states: “The response users receive also includes all sources and references for the original text passages. In addition to shortening the search time, this makes it easier to delve deeper later on.”
+
+## Continuous Improvement and Integration
+
+As soon as Nagel-Group implemented the first round of use cases, it moved on to the next phase. Kreciszewski explains, “Thanks to the system’s modular structure and the powerful models available through Azure OpenAI Service, integrating new functions and documents at short notice is no problem at all. This allows us to respond quickly to inquiries from different departments and ensure that the data corpus is kept up-to-date.” This agility is particularly important for the sales team, which is currently adding its documents to NagelGPT. “If the parameters suddenly shift, we have to be able to call up details of the affected customer contracts right away,” emphasizes Lütjann.
+
+NagelGPT is fully integrated into the Microsoft environment at Nagel-Group, allowing them to work within their existing infrastructure without needing to establish new data agreements. “This, plus collaborations with Microsoft and P3, guaranteed that progress would be swift.” 
+
+## Future Vision
+
+Nagel-Group aims to continue pooling expertise in industry knowledge, technology, and implementation. Lütjann expresses, “Through the introduction of Copilot for Microsoft 365 as part of an early adopter program, we will achieve further efficiency gains, set new trends, and drive the digital transformation of logistics forward. It was clear from the very beginning that AI would massively change the industry. That’s why we knew we had to get a head start on this topic so we could set the tone and help shape the AI transformation.”
+
+Dr. Nils Drescher reinforces this by stating, “The semantic search function in NagelGPT provides employees with information that builds on their current level of familiarity with the subject matter. They can now pose much more open questions about a given topic and still receive a satisfactory answer.”

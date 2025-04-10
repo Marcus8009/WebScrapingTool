@@ -1,0 +1,55 @@
+file name: how-blackrocks-flight-crew-helped-copilot-for-microsoft-365-take-off.txt
+
+## Introduction
+
+For months, Anthony Diaz-Matos led BlackRock’s deployment of Copilot for Microsoft 365. He tracked internal feedback on its performance, extended the tool across the investment company’s workplace products, and made his own AI discoveries along the way. Recently, Diaz-Matos faced a different challenge: planning meals for the week. With a quick prompt to Copilot, he created a healthy menu, including quinoa with feta and stuffed peppers.
+
+“That was our Wednesday night dinner,” Diaz-Matos said.
+
+He has become an AI aficionado, role modeling how to incorporate Copilot into his team’s day-to-day work and showing colleagues how AI can simplify complicated tasks, such as creating and analyzing spreadsheets for tech integrations. He also collaborated with Microsoft to enhance Copilot based on feedback from BlackRock’s early adopters.
+
+In total, BlackRock purchased over 24,000 licenses for Copilot for Microsoft 365, spanning all employees, functions, and locations.
+
+## Early Adopters and Deployment
+
+To learn more about this rollout, Microsoft Source chatted via Teams with Diaz-Matos, managing director of the company’s global digital workplace.
+
+**SOURCE:** Who were BlackRock’s earliest Copilot adopters? How did they help guide the deployment?
+
+**DIAZ-MATOS:** We started in my organization – Digital Workplace – about 500 people. We can call them “ground control.” They are our information security team, our Microsoft 365 platform team, and many engineers. They focused on preparing for the launch, leveraging large language models (LLMs) and conducting data analysis.
+
+**SOURCE:** Did BlackRock’s decision to invest in Copilot for Microsoft 365 come after additional employee testing?
+
+**DIAZ-MATOS:** Absolutely. We knew you couldn’t just roll it out to the whole firm. It requires champions, which we referred to as our “flight crew,” about 3,000 early adopters connected to the business. They engaged in discussions around performance, capabilities, and provided valuable feedback.
+
+## Feedback and Collaboration
+
+**SOURCE:** How did the flight crew share their opinions and promote the product?
+
+**DIAZ-MATOS:** They formed one of the coolest channels—an active chatroom. They self-answered questions like, “Is there a character limit for prompts?” (which is 2,000 characters) or suggested new ways to use Copilot.
+
+They helped shape our approach to positioning and launching the product. It became an excellent citizen-support organization of early adopters.
+
+**SOURCE:** What challenges did BlackRock encounter during the deployment, and how did you address them?
+
+**DIAZ-MATOS:** Our deep relationships with Microsoft allowed us to provide direct feedback. We got full access to various leaders within the Microsoft Copilot product group, enabling daily standups to analyze user feedback from BlackRock. Our flight crew was instrumental in testing prompts and facilitating discussions with Microsoft’s engineering unit.
+
+This collaboration evolved into a strong partnership.
+
+## Co-Development and Enhancement
+
+**SOURCE:** How did BlackRock and Microsoft improve the Copilot experience together?
+
+**DIAZ-MATOS:** Over a span of more than nine months, the product improved immensely. Continuous feedback between both companies deepened our understanding and helped evolve Copilot into a more robust tool. I believe BlackRock played a significant role in the enhancements.
+
+**SOURCE:** Can you share a unique use case that emerged from the flight crew?
+
+**DIAZ-MATOS:** A great example is a common prompt we used: “Review my inbox and catch me up on all emails I received in the past week.” However, the flight crew suggested a more refined prompt: “Show all these emails in a table with the following headings: ‘from,’ ‘subject’, ‘email summary,’ ‘action items.’ If the email requires a response, bold the action item text.”
+
+This prompt was shared in the BlackRock adoption channel for AI champions and eventually led to discussions in HR, sparking excitement and increased adoption.
+
+Today, I met with my HR business partner and asked, “How’s your Copilot adoption going?” She excitedly shared how the new prompt has transformed their workflow.
+
+That’s what I call a really cool adoption.
+
+*Top photo: BlackRock’s New York City headquarters. (Photos courtesy of BlackRock)*

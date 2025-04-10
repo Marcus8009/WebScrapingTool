@@ -1,0 +1,50 @@
+file name: www.microsoft.com#en-us#worklab#5-key-principles-for-implementing-an-ai-strategy-across-your-organization.txt
+
+## Introduction
+
+When David Swenson, CIO of Netlogic, began his company’s AI journey, he faced a non-linear road. “It has been a long journey to find the right solution for our productivity challenges,” he says. However, when Swenson started using Microsoft Copilot for Sales alongside his development team, he immediately saw significant time savings. He’s not alone; users in a recent Work Trend Index study of Microsoft Copilot reported completing tasks faster, writing stronger emails and reports, and spending less time searching for files.
+
+Despite this promise, many organizational leaders struggle when it comes to implementing an AI strategy. Questions abound: Who should access AI first? How should training be structured? What are the best practices? How can leaders move beyond personal productivity towards creating organizational value?
+
+To assist with this, we explored insights from executives and conducted a global survey to identify common pain points across different roles. This research led to the development of a five-element framework for effective AI strategy implementation.
+
+## Understanding Data Gaps
+
+An essential first step is identifying the data gaps within your organization. Quantitative futurist Amy Webb shared a case where a client wanted to leverage generative AI but realized they hadn’t conducted a data audit in years. “You can’t leap to an AI future without addressing some of that internal infrastructure first,” she emphasized.
+
+Once the data is structured and organized, AI can help employees navigate it effectively. Our global survey revealed that “helping me find the information I need” was the primary task respondents aimed to address with AI, spanning roles from sales (83%) to customer service (81%) and IT/technology (85%).
+
+## Recognizing Role-Specific Pain Points
+
+Different roles experience unique challenges, and workers increasingly look towards AI to address these specific issues. For instance, among sellers, “identifying sales opportunities” (75%) and “identifying the right customer contacts” (73%) ranked highly. Daniel Bertrand, Digital People Enablement Leader at Microsoft Customer and Partner Solutions, refers to tedious tasks as “administrivia,” and AI can alleviate this burden by automating tasks like drafting emails and creating presentations. A LinkedIn study found that 75% of B2B sellers using AI exceeded their quotas compared to only 25% of non-users.
+
+In marketing, for example, 82% of respondents sought AI assistance to identify recent market trends. IT professionals are looking for AI to automate routine tasks, such as performing software updates. These tailored implementations enable AI to address the unique pain points of each job role effectively.
+
+## Championing Super Users
+
+A successful AI integration relies heavily on transformational capabilities, prompting shifts in behavior among employees. Identifying and enabling "super users"—employees who actively provide feedback and use AI frequently—can drive adoption. These individuals become change agents and help foster an environment where peers can learn and share insights. Mala Anand, Corporate Vice President of Customer Experience and Success at Microsoft, notes, “These internal champions are instrumental in driving adoption in a truly exponential way.”
+
+To identify champions, a creative approach might involve granting licenses to those who propose innovative ideas for using AI, transforming them into enthusiastic advocates.
+
+It’s essential to ensure that entire teams have access to AI tools at deployment scale so they can learn from each other's experiences. Support from leadership is crucial; as Bertrand highlights, individual contributors won’t engage with these tools unless they understand their importance from managers.
+
+## Prioritizing Reskilling
+
+Utilizing AI effectively requires training, as employees need time to learn and understand new tools, giving them a professional edge in a progressively AI-driven workplace. Hossein Nowbar, Chief Legal Officer at Microsoft, stresses the importance of “interaction reskilling” to maximize AI's potential.
+
+Organizations should build trust with employees regarding AI by conducting training sessions and demonstrating the technology's effectiveness. Our survey showed that clearly outlining AI usage protocols was vital for inspiring confidence among workers.
+
+## Developing New Work Habits
+
+The introduction of advanced technologies necessitates the formation of new work habits. Organizations often see an initial boost in tool adoption, which can later decline. Addressing sticking points that arise based on role-specific challenges is vital. “We discovered we have to create hero use cases by role to make people productive and accustomed to using the AI,” Bertrand notes.
+
+For roles like sales, it may involve using Copilot to take meeting notes, while finance professionals might leverage AI for quick variance analyses. Across the board, employees should set aside time for focused exploration of AI in their workflows.
+
+Leaders should also foster a habit of reflection after deploying AI. Assessing what works and identifying skills gaps can help organizations strategically implement AI and avoid becoming late adopters.
+
+This guidance, drawn from both executives’ insights and extensive survey results, serves as a roadmap for organizations looking to integrate AI into their operations effectively.
+
+---
+
+### Notes on the Research
+The global survey, part of the Work Trend Index, included 18,100 full-time workers in various roles across 12 markets and was conducted by Edelman Data x Intelligence from July 21, 2023, to November 1, 2023.

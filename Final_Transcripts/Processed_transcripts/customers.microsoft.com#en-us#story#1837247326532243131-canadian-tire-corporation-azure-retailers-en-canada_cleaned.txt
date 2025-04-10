@@ -1,0 +1,43 @@
+file name: customers.microsoft.com#en-us#story#canadian-tire-corporation-azure-retailers-en-canada.txt
+
+## Introduction
+
+To remain competitive in a fast-changing retail industry, Canadian Tire Corporation (CTC) chose to pioneer the responsible use of generative AI to drive efficiencies, create unique customer experiences, and differentiate itself from competitors. 
+
+In moving its data from on-premises systems to Microsoft Azure and building digital assistants using Azure OpenAI Service, the company relieved its workforce from mundane tasks, allowing them to focus on higher-value customer experiences.
+
+## Employee Productivity Gains
+
+More than 3,000 corporate employees save 30 to 60 minutes a day using the ChatCTC digital assistant, which provides self-service access to data and fosters a data-driven culture across the organization. 
+
+### Commitment to AI
+
+Since 1922, CTC has been providing Canadians with the products they need for the jobs and joys of life by continuously seeking to revolutionize the customer experience. Through the power of generative AI, the company is now poised to redefine productivity, efficiency, and business growth as it works to deliver on its brand purpose to “make life in Canada better.”
+
+Several years ago, CTC made a commitment to strategically invest in the Microsoft Azure AI platform, ensuring a robust foundation for generative AI. By moving a significant amount of its data to Azure, the company matured its data governance capabilities to gain deeper insights from its data. 
+
+“There is no question that AI can help us provide cost efficiencies and enhance our customers’ experiences, online and in-store,” says Susan O’Brien, Executive Vice President & Chief Brand & Customer Officer at Canadian Tire Corporation.
+
+## Developing Digital Assistants
+
+A key initiative in this transformation was using Azure OpenAI Service to develop its own assistant, named ChatCTC. The platform, used regularly by more than 3,000 corporate employees, has become an integral part of the company’s daily operations. Employees use the digital assistant for a wide variety of tasks, including training and skills development, building job descriptions, and generating product descriptions.
+
+“Thanks to ChatCTC, our corporate employees save 30 to 60 minutes a day, which is helping them focus on higher-value tasks like driving innovation for our customers—in turn, helping us grow our business,” says Cari Covent, Head of AI and Emerging Technology at Canadian Tire Corporation.
+
+In addition to building ChatCTC, CTC has also developed CeeTee, an AI-powered shopping assistant that simplifies the complicated tire buying process for customers. Built with scale in mind, CeeTee has already demonstrated a significant impact on conversion rates during the recent spring tire buying season. Plans are currently underway to expand CeeTee further to improve CTC’s customer shopping experience.
+
+## Impact of AI on Operations
+
+“We are using Azure AI to create solutions that will disrupt and transform how we operate. In addition to simplifying the tire shopping process for customers through our CeeTee shopping assistant, the company is realizing increased revenue from online sales conversions and improved competitive differentiation,” says Rex Lee, Chief Information and Technology Officer at Canadian Tire Corporation.
+
+The implementation of AI has also led to significant improvements in data quality and trust. By building a process framework for data ingestion into its Azure Data Lake, CTC ensures that data quality issues are identified and addressed at the source. This enables the company to provide self-service access to data for both business and technology workers, fostering a data-driven culture across the organization. 
+
+“We are enabling our employees access to the right data, at the right time, for the right purpose,” adds Covent.
+
+## AI for System-Wide Solutions 
+
+As CTC continues to expand its AI capabilities, the company is focused on solving system-wide problems rather than just point solutions. This approach aims to generate significant value by addressing horizontal processes and constraints across the organization, ultimately enhancing productivity and the customer experience. 
+
+“Customer expectations are evolving in unpredictable ways,” says Lee. “Our technology must adapt and shift as our customers’ needs and expectations change.” He concludes, “With leading AI technologies from Microsoft, we are creating practical applications that are setting new benchmarks for engaging our customers across Canada.”
+
+Discover more about Canadian Tire Corporation on Facebook, LinkedIn, Instagram, X/Twitter, and YouTube.

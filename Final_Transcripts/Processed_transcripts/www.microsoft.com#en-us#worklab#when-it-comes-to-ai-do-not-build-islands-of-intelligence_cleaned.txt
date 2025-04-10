@@ -1,0 +1,31 @@
+file name: www.microsoft.com#en-us#worklab#when-it-comes-to-ai-do-not-build-islands-of-intelligence.txt
+
+## How to Bridge the AI Learning Gap
+
+When people discover a new work hack, they can be tempted to keep it to themselves. This behavior may stem from a subconscious desire to gatekeep information or simply a forgetfulness to share with colleagues. Over time, this creates “islands of intelligence.” While being on an island is pleasant for a vacation, in the workplace, these private knowledge bases can hinder organizational learning and development. Thus, it is crucial for leaders to promote and reward sharing and collaboration.
+
+A.J. Brush, a Partner Group Product Manager at Microsoft, who studies effective communication with Microsoft Copilot, emphasizes the importance of sharing knowledge. She states, “There’s something magical about giving other people the same amount of delight.”
+
+To help leaders maximize the benefits of AI, it is essential to build bridges between individual islands, encouraging everyone to share what they learn. Here are some strategies:
+
+### Keep a Running List
+
+Brush maintains a record of questions and conversation starters recommended by colleagues. For example, one prompt is to start the day by asking Copilot to summarize all communications since the previous evening. Another tip is to ask Copilot to surface the latest interactions with a colleague before a meeting, organized by emails, chats, and files. A running list helps keep the best tips top of mind and makes them easy to share with others.
+
+### Create a Forum for Sharing Great Prompts
+
+Brush and her team regularly share success stories and new prompts in a Microsoft Teams channel and through an internal weekly newsletter. Consider which platform might be most conducive to sharing for your team, whether it’s a collaborative OneNote or Excel sheet, or a callout during a standing meeting. The format matters less than providing opportunities for team members to share their best prompts, as it feels rewarding to help colleagues discover ways to free up time for deep work.
+
+### Consult Copilot Lab
+
+Copilot Lab serves as a repository for sharing the best prompts with coworkers and exchanging advice about interacting with AI. It is a space for experimentation and iterative learning, helping to lift productivity during lulls and providing inspiration. As AI becomes more integrated across the organization, this resource assists employees who are just beginning. Brush notes, “When you show up to use something new, one of the challenges is that you don’t know what’s possible. This gives you a starting point.”
+
+### Be a Role Model for Your Team
+
+Leaders have a unique opportunity to demonstrate that learning is a valuable process. By sharing both successful and unsuccessful prompts, and by fostering discussions about experiences with Copilot, they can become champions of AI. “I spend a lot of time showing colleagues that they can pretty much ask AI for anything,” Brush explains. If she has a question, she believes others may have the same curiosity.
+
+“People react to what others do, not always what they say,” Brush adds. When team members observe their leaders using the same tools and sharing their insights, they are motivated to do the same. It’s not merely about instructing staff; it’s about closing awareness gaps by building bridges between islands, making knowledge more accessible throughout the organization, and enhancing the collective brainpower. 
+
+## Conclusion
+
+To fully leverage the AI toolbox, organizations must encourage a culture of shared learning and collaboration. By implementing strategies to connect individual learning and fostering an environment of openness, leaders can build a more informed and innovative team.

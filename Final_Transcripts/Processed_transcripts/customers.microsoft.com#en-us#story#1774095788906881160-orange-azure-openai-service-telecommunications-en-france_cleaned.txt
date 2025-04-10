@@ -1,0 +1,39 @@
+file name: customers.microsoft.com#en-us#story#orange-azure-openai-service-telecommunications-en-france.txt
+
+## Introduction
+
+The Orange Group is one of the main telecommunications and digital services operators in the world, serving 298 million customers, including individuals, professionals, and large companies. Orange France, a subsidiary of the group, has been exploring Artificial Intelligence (AI) for three years and is now aiming to advance in the realm of generative AI.
+
+## Approach to Generative AI
+
+"Generative AI is the prelude to a tsunami of innovations," says Brice Miranda, Deputy Director in charge of Data, AI and Automation at Orange France. Laetitia Orsini Sharps, Consumer Department Director at Orange France, shares this view, seeing generative AI as "a promising vector for improving customer service and making employees' work easier". The company has developed an ambitious program dedicated to identifying and developing practical use cases across various business areas, facilitated by strong technological partnerships, notably with Microsoft.
+
+Under the leadership of Raphael Mombellet, Director of Data Sciences and Advanced Analysis, a multidisciplinary team was formed with technical, legal, security, and ethical experts. Their goal was to ensure a comprehensive understanding of the needs, developing solutions rapidly for employees to test and evaluate.
+
+## Use of Microsoft Azure OpenAI Service
+
+To develop its AI applications, Orange France chose Microsoft Azure OpenAI Service, which is "renowned for its ease of use in a secure environment in Europe," according to Mombellet. The initiative has led to the development phase of over forty use cases, with around ten implementations already within business teams. One notable application includes a tool for rewriting the content of online Frequently Asked Questions (FAQs), transforming over 30,000 questions/answers to reflect a warmer, more empathetic tone. This reformulation process has significantly reduced the time required for generating content while allowing employees to maintain control over the final output.
+
+## Marketing Innovations
+
+On the marketing front, generative AI has introduced new applications that streamline processes. One application generates product sheets for Orange boutiques, allowing marketing managers to extract key information efficiently. Another tool is a search engine specifically for marketing research, providing relevant summaries and citations within seconds, enhancing employees' productivity.
+
+## Enhancements for Developers
+
+Thanks to GitHub Copilot, the day-to-day tasks of 200 developers have improved with code assistance that quickens code development. The technology facilitates the creation of software without overshadowing the role of the developers.
+
+## Support for Operational Teams
+
+Operational responsibilities have also benefited from AI initiatives. One of the standout use cases involves the synthesis of intervention tickets in Fiber After-Sales Service, which has drastically reduced analysis times from 20 minutes to less than 3 minutes. These advancements support employees in their routine tasks, enabling them to focus on higher-value activities.
+
+## Ethical Considerations and Data Governance
+
+Orange France remains committed to strong governance and compliance. Personal data protection, algorithm transparency, and customer trust are paramount, with careful selection of technology partners that ensure data sovereignty in Europe. Laetitia Orsini Sharps underscores the importance of ethics within the organization, stating that dedicated training and specific governance have been introduced. Furthermore, Orange is actively involved in the Positive AI initiative, promoting ethical practices in AI.
+
+## Results and Future Directions
+
+After a year of implementing generative AI solutions, confidence in this technology has grown within the company. Users appreciate the relief from repetitive tasks and the simplification of their work life, which is crucial for fostering acceptance. "We provide a lot of support to our employees in terms of adoption. Within a few months, we can put the developed use case in their hands," shares Brice Miranda.
+
+Looking ahead, Orange is focused on further industrializing use cases and assessing their value to continue integrating all employees into this transformative journey. Laetitia Orsini Sharps highlights that commitment from all levels of the company is essential for success.
+
+Brice Miranda emphasizes, “We reassure them and do a lot of co-construction and prompt engineering with the business units to improve the solutions.”

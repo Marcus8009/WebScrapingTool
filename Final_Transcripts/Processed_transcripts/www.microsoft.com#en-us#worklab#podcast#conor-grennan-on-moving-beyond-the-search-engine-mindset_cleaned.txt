@@ -1,0 +1,93 @@
+file name: www.microsoft.com#en-us#worklab#conor-grennan-on-moving-beyond-the-search-engine-mindset.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it will take to stay ahead in business.
+
+## The Importance of Mindset in AI
+
+Today, I’m talking with Conor Grennan, Chief AI Architect at the NYU Stern School of Business and founder of the training and consulting company AI Mindset. Grennan helps aspiring entrepreneurs, leaders, and professionals think about how to approach AI for business, emphasizing the need to adopt a new mindset and break free from an outdated search engine paradigm. He advocates for embracing an iterative, conversational approach for the AI era.
+
+## The Eureka Moment
+
+MOLLY WOOD: Conor, thanks so much for coming on WorkLab.
+
+CONOR GRENNAN: Thanks, Molly. Great to be here.
+
+MOLLY WOOD: Many of our guests have had a breakthrough moment that made them realize the significance of their work. Can you share yours?
+
+CONOR GRENNAN: For me, it was a stunning moment when my wife called me to look at a large language model. I was hesitant at first, but after just a few hours of exploring its capabilities, I contacted my boss and said we need to explore this further because it’s going to change everything. That was the starting point for my consultancy and the framework I wanted to build for teaching.
+
+## Commonalities Between Teaching and Consulting
+
+MOLLY WOOD: Now you’re preparing students and leaders through this consultancy. Are there commonalities in your approach?
+
+CONOR GRENNAN: Yes, there’s a deep overlap across industries. Initially, I tried to find use cases relevant to each industry, but I discovered that all industries ultimately require a behavioral shift. It doesn’t matter whether you're in healthcare, private equity, or operations; humans think similarly across sectors.
+
+## Framework Development
+
+MOLLY WOOD: It seems you’ve developed a new framework. Can you elaborate on that?
+
+CONOR GRENNAN: Absolutely! I realized that the traditional use-case model of teaching wasn’t effective for teaching AI. Organizations believed they were transforming by merely using AI to speed up processes. However, genuine transformation involves changing how they approach business, which doesn’t follow a straightforward learning curve.
+
+## Changing Behavior
+
+MOLLY WOOD: You mentioned behavior change as a challenge. Can you expand on that?
+
+CONOR GRENNAN: Correct. Providing AI tools alone won't magically improve productivity. It's like thinking that if we place a treadmill in every home, we'll cure heart disease. The issue is not with learning how to use the treadmill, but changing our behavior around it. We need practice, not just instruction; similar to how we handle exercise.
+
+## The Concept of "Bring Your Whole Self"
+
+MOLLY WOOD: Your leadership advice emphasizes the "bring your whole self" concept. Why is it important?
+
+CONOR GRENNAN: It reflects my perspective from a business school background. Many want to enter the AI field without considering if it's where their true passion lies. The focus should be on using AI to transform what they are genuinely interested in, as this is where true opportunity lies.
+
+## Understanding AI Adoption
+
+MOLLY WOOD: How do you perceive the current AI adoption landscape?
+
+CONOR GRENNAN: There’s a disparity in how people use AI. While many have accessed tools like generative AI a few times, they often use them only for basic tasks. The potential for transformation is still vast and underutilized. The adoption rate has much potential for growth as organizations continue to unlock its capabilities.
+
+## Transforming Organizations
+
+MOLLY WOOD: Tell me more about how AI can transform organizations beyond individual productivity.
+
+CONOR GRENNAN: Most existing tools undergo typical digital transformation where not every department adopts them. AI, however, has the potential to be pervasive across all knowledge worker roles. It's crucial for senior leadership to set benchmarks for new ways of working empowered by AI.
+
+## Talent Evaluation Challenges
+
+MOLLY WOOD: Talent evaluation must change alongside AI adoption. What insights do you have on that?
+
+CONOR GRENNAN: Right! If we don’t level up everyone in the organization, measuring productivity will get distorted. When only some utilize AI while others don’t, you miss the bigger picture. It's imperative to wholly integrate tools and clarify new standards for evaluation.
+
+## The Search Engine Mindset
+
+MOLLY WOOD: You mentioned the "search engine mindset." How does it hinder the adoption of AI?
+
+CONOR GRENNAN: That mindset constrains how individuals view AI’s potential. Our brains are conditioned to treat search bars as they’ve always done, leading to superficial interactions. Changing this behavior is crucial for reaping the full benefits of AI, which should be conversational and interactive, not just transactional.
+
+## Education and Frameworks for Behavioral Change
+
+MOLLY WOOD: How should organizations approach education for AI tools?
+
+CONOR GRENNAN: Organizations need to view training as critical for behavioral change. They can’t just bring in experts to present a PowerPoint; they need structured education for senior leadership first to set the stage for widespread adoption.
+
+## Investment in AI Implementation
+
+MOLLY WOOD: Can you share thoughts on investing in AI tools?
+
+CONOR GRENNAN: It’s essential to understand the long-term benefits of integrating AI tools. They serve as engagement tools which can free up time from mundane tasks, thus dramatically improving job satisfaction and efficiency across teams.
+
+## The Future with AI
+
+MOLLY WOOD: Finally, as we look forward, what opportunities and challenges do leaders need to be aware of?
+
+CONOR GRENNAN: Leaders should not underestimate the difficulty of changing behavior. Engaging people and transforming company culture is crucial for effectively integrating AI into their operations.
+
+## Conclusion
+
+Thank you again to Conor Grennan, Chief AI Architect at the NYU Stern School of Business. I appreciate the time. 
+
+And that wraps up this season of WorkLab. We’ll be back with more insights into the ever-evolving work landscape. If you have questions or feedback, reach out at worklab@microsoft.com, and be sure to check out Microsoft’s Work Trend Indexes and the WorkLab digital publication available at microsoft.com/worklab. 
+
+Please rate, review, and follow our podcast to help us grow. Thank you!

@@ -1,0 +1,37 @@
+file name: customers.microsoft.com#en-us#story#petrochemical-industries-company-microsoft-365-energy-en-kuwait.txt
+
+## Introduction
+
+In the petrochemical industry, staying ahead means leveraging cutting-edge technology. Petrochemical Industries Company (PIC) has transformed its operations with Copilot for Microsoft 365. From drafting emails to generating complex documents in minutes, Copilot has enhanced productivity and data security while fostering a more professional communication style across the company.
+
+## Company Overview
+
+A subsidiary of Kuwait Petroleum Corporation (KPC), the Petrochemical Industries Company (PIC) is a leader in the petrochemical industry in the Middle East and globally. With over five decades of experience, PIC specializes in the manufacturing and marketing of petrochemicals, leveraging its resources and partnerships to provide high-quality products.
+
+## Digital Transformation Initiatives
+
+In late 2022, PIC laid the groundwork for its digital transformation with a focus on intelligent automation. "This approach involved shared objectives for the KPC group as a whole and digital plans specifically for PIC. We wanted to streamline processes by automating time-consuming tasks and cutting down on manual effort," explains Reyadh Ali Albaqshi, Information and Communication Technology Manager at PIC. PIC engaged multiple vendors, including Microsoft, realizing that Microsoft 365 Copilot aligned well with their goals and security requirements.
+
+## Organization-Wide Adoption
+
+PIC’s technology team recognized that the best way to introduce such an innovative tool was to secure buy-in across all levels of the organization. To promote adoption, PIC implemented a phased rollout and comprehensive support strategy, including targeted training sessions that were essential for building enthusiasm and competency in Copilot among employees.
+
+Microsoft 365 Copilot quickly gained endorsement across departments. Teams began relying on it for tasks such as reviewing and summarizing documents, drafting emails, and storytelling. “Copilot for Microsoft Teams and Word addresses diverse departmental needs, from finance to those engaging directly with data in Excel,” notes Maisa Bakhesh, Team Leader of Infrastructure, Security, Business Continuity, and Communication at PIC. The strategy also contributed to a notable increase in the use of Microsoft 365 applications, especially Teams and OneDrive, thereby boosting productivity.
+
+## Enhanced Efficiency and Creativity
+
+With Microsoft 365 Copilot, daily operations and communication at PIC have streamlined, bringing a new level of efficiency. The PIC team can now save time on previously labor-intensive manual tasks and focus more on high-value, creative work. “It used to take us at least a week to prepare documents, like requests for proposals and quotations. Now, we can do it in a day or faster,” explains Bakhesh. The commercial department previously spent significant time generating meeting minutes; now, they are automatically created after pre-tender meetings.
+
+Microsoft 365 Copilot also assists in crafting creative drafts swiftly. “Drafting a speech would usually take at least one day. With Microsoft Copilot, it took less than five minutes,” shares Lulwa Abdullah, Team Leader of Applications at PIC. The corporate communication department utilizes Copilot for writing articles and social media posts as well.
+
+## Quality Improvement and Security
+
+The introduction of Microsoft 365 Copilot has simplified repetitive tasks and enhanced the quality of work at PIC. "When preparing various documents, Copilot often suggests potentially overlooked clauses, enabling us to be more thorough. We've also received feedback that our company-wide correspondences sound and look more professional, thanks to Microsoft 365 Copilot’s assistance," Bakhesh adds.
+
+The migration to Microsoft 365 has also increased the sense of security within PIC. “Some of our employees experimented with free generative artificial intelligence (AI) tools available online, but we were concerned that this would expose confidential information,” remarks Bakhesh. The secure Microsoft 365 environment eased these concerns. "Microsoft 365 Copilot keeps our information secure and confidential," Bakhesh emphasizes.
+
+## Future Outlook
+
+Looking ahead, PIC continues to embrace AI across the organization and plans to draft an AI policy to guide ethical and responsible use. "We want users to be aware of its risks and potential biases, such as plagiarism or data validity. We are working to ensure that users are aware of the dos and don'ts with Copilot," Bakhesh reveals. PIC is also considering integrating Microsoft Fabric with Copilot to enhance decision-making processes through advanced data queries and AI.
+
+"Any organization needs to be using AI in some form. If we don't change, we don’t move forward. I'm glad that we’re pioneering AI at PIC," concludes Reyadh Ali Albaqshi.

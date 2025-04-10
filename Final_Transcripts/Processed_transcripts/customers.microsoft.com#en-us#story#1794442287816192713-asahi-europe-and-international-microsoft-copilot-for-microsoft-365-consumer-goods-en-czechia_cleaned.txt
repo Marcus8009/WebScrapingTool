@@ -1,0 +1,37 @@
+file name: 1794442287816192713-asahi-europe-and-international-microsoft-copilot-for-microsoft-365-consumer-goods-en-czechia.txt
+
+## Introduction
+
+Asahi Europe & International is the international branch of Asahi Group Holdings, which is listed on the Tokyo Stock Exchange, Japan. Building on centuries of European brewing heritage, the business is the custodian of some of the best beer brands in the world, including Asahi Super Dry, Pilsner Urquell, Peroni Nastro Azzurro, Grolsch, and Kozel. Asahi Europe & International develops and manages all export markets globally, outside of Japan and Oceania. The group has 19 production facilities in nine countries across Europe and North America, with further operations in Asia.
+
+## Digital Transformation and Adoption of Microsoft Copilot
+
+In the face of rapidly evolving consumer demands and the constant push towards digital transformation, Asahi Europe & International recognized the need to keep its workforce updated with technology. This spurred AEI to adopt Microsoft Copilot for Microsoft 365 E3. AEI’s decision was aimed at enhancing productivity and fostering a culture of innovation. Bhuvan Pawar, Head of Digital Innovation, Automation and Analytics at Asahi Europe & International, points out, "We believe that time can be put to better use, such as for strategic planning and critical thinking about our engagement with consumers and internal stakeholders."
+
+The company began with 300 Copilot licenses distributed across different departments and functions. "Initially, I thought it would be challenging to get a list of nominated employees to try Copilot, but the response from our departments was very quick and enthusiastic," remarks Pawar. AEI formed "flight crews" of users across different functions, such as marketing, finance, and human resources (HR). These crews are driving Copilot adoption across the company, sharing best practices and inspiring colleagues to leverage Copilot's capabilities. To increase further adoption, AEI also runs Copilot Olympics to ensure the best practices are shared within the company.
+
+## Knowledge Sharing and Collaboration
+
+AEI established a prompt “tap” on Microsoft Teams where employees could share Copilot-related knowledge among each other. “We are a beer company, so calling it a tap was very apt for us,” remarks Geraldine Percival, Group Head of Talent and Development at Asahi Europe & International. Users can add their prompts, making them visible to everyone. Instead of writing similar prompts again from scratch, others can just use the prompt on tap to get the same output. This initiative has encouraged more people to experiment and benefit from Copilot.
+
+Asahi Europe & International's journey with Copilot has revolutionized the way its teams collaborate, transforming routine tasks into opportunities for strategic engagement and creativity. "One of the biggest advantages of Copilot is that you can get meeting minutes done quickly," Percival shares. “This enables team members to focus on action items rather than administrative notetaking.”
+
+Furthermore, AEI employees also saved time in their daily workflows. "For example, I spend less time writing competency-based interview questions. Something that would have taken me three days, multiple coffees, and some frustration, instead took only one hour using Copilot," shares Percival. Others use Copilot for summarizing presentations and documents. “Instead of scrolling through 30 pages of presentation, I can ask Copilot to summarize it,” adds Pawar. “Potentially 15% of time that was previously spent on administrative tasks can now be used to improve our product for our consumers.”
+
+## Consumer Insights and Product Development
+
+Instead of relying on traditional consumer segmentation, AEI uses technology to understand its consumers better. “People are looking for a personalized experience. They're looking for that Instagram moment,” Percival explains. “Instead of demographic segmentation, we prefer to speak to real people and focus on their experience and their occasion. Technology gives us an edge in terms of how we understand our consumers.”
+
+Copilot has become pivotal in streamlining AEI’s creative process from ideation to execution, especially in developing new products. Pawar illustrates, "With Copilot, our marketing team can gain deep insights quickly from any documentation available, which helps them reduce the time to market for new products, packaging, and possibly innovation." This enables AEI to respond to market trends and consumer preferences with greater agility.
+
+## Localization and Future Innovations
+
+Although AEI is a global brand, much of its operations are very local, including how they communicate. This poses challenges in disseminating crucial company information. "Everything we do has to be translated into 14 different languages,” Percival points out. “Moving forward, Copilot can help us localize our communications and documentation quickly and accurately."
+
+Critical processes such as the Global Engagement Survey can now be translated with less time and cost. Percival elaborates, "With Copilot, we can get a rough draft done quite quickly and then focus on quality and local compliance requirements."
+
+Asahi Europe & International is setting the stage for an innovative future, leveraging Copilot to enhance its engagement with employees and customers. "We're experimenting with how we can build conversational artificial intelligence (AI) using Copilot Studio for internal communications," Pawar shares. “Currently, our HR colleagues need to look through documentation to respond to employees. With a Copilot chatbot, staff could ask questions 24/7 and get an answer almost immediately, whether they are on a mobile phone, a laptop at work, or even at home on a Sunday.”
+
+With AI applications, AEI can also build better connections with customers and meet their needs at the right time. “Imagine you’re a customer that runs a shop all week. You usually place orders between Monday and Friday because that’s our usual working hours and you know someone will respond to you. But you might find yourself running out of stock by the weekend, for example during peak periods. You wouldn’t be able to wait till Monday to make that stock order,” explains Pawar. “So, if AEI had a digital AI worker, you could speak to use 24/7 or make an order on our platform and receive your goods at the right time.”
+
+Such innovations will serve to further streamline operations and enrich the customer experience, reaffirming AEI’s commitment to excellence and connection in every pint and interaction.

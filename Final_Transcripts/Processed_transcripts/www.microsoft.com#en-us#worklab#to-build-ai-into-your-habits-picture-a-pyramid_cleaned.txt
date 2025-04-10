@@ -1,0 +1,51 @@
+file name: www.microsoft.com#en-us#worklab#to-build-ai-into-your-habits-picture-a-pyramid.txt
+
+## Introduction
+
+A mental model can help you see the new structure of your workday. This article first appeared in the WorkLab newsletter. Get exclusive insights on AI and the future of work by subscribing here.
+
+As leaders and their teams build new habits with generative AI, it’s helpful to think about work in three categories. First, there are the tasks we can hand off to AI almost entirely. Next are those where AI can give us a boost to get better results. Finally, there is the meaningful, human work for which AI frees up time. As we spend less time on the mundane—73 percent of early users of Microsoft Copilot said it helped them complete tasks faster—we create more room for the work that inspires and energizes us and brings the most value to our organizations.
+
+## The Pyramid Model of Work
+
+So, which category does a given task or project fit into? Picture a pyramid: The tasks that make up your day form the basic building blocks, which you can slot into different layers, from the ground to the summit. Here’s the blueprint:
+
+### Tier 1
+
+The base layer of your workday consists of tasks that are, well, basic. This is the not-particularly-exciting work you can strip off your to-do list and hand over to AI. Some examples include:
+
+- Every week, you sit through an attendance-optional, 60-minute status update on Microsoft Teams, hoping for relevant information. With Copilot, take that hour back and follow up later: “Did anyone mention my name?”
+  
+- Overseas colleagues spin up a lengthy email thread overnight. Instead of reading every twist and turn of the debate, ask Copilot for an executive summary with just the key points.
+  
+- You’re searching through files and channels to track down a specific data point. Instead, just ask Copilot to surface it: “Find the sales projections for the Southeast region.”
+
+Time saved and mundane tasks dispatched, you’re ready for the next level...
+
+### Tier 2
+
+This is the work you’re good at, that you enjoy—and that you can enhance with help from AI. Let’s say you’re writing a crucial memo, email, or sales pitch. Copilot can produce the rough draft, then help you sharpen and improve it as you make your edits. A few prompts you might use include:
+
+- Does this writeup accomplish its objective?
+  
+- Will it resonate with its intended audience?
+  
+- What did I forget to mention?
+
+You got that done quickly! Now you have more time to do your best work. You’re ready for...
+
+### Tier 3
+
+What’s the apex of the workday? For many of us, it’s when we get time to do our most meaningful work—the work that’s most human. When AI saves us time, we should get into the habit of making space for something rewarding. For example, if you use Copilot to skip a non-essential video call, be proactive about slotting in something meaningful instead:
+
+- Work on that strategic or creative project you’ve always wished you had more time for.
+  
+- If you’re focused on being a better manager, connect with a direct report.
+  
+- Refresh and recharge by taking a walk.
+
+As you sit down to work today, look at your to-do list. What can you tap AI to do for you? What can you do better yourself with help from AI? And with the time you’re saving, where can you slot in something meaningful? It’s a new way of thinking about work—and a new way to see the structure of your day.
+
+## Conclusion
+
+Embracing this pyramid model allows us to utilize AI to streamline our daily tasks and focus on what truly matters in our professional lives, enhancing both productivity and satisfaction.

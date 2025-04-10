@@ -1,0 +1,54 @@
+file name: business.linkedin.com#talent-solutions#global-talent-trends.txt
+
+## Global Talent Trends
+
+### Introduction
+
+Over the past 12 months, talent leaders have faced numerous challenges, often pulling them in opposite directions. Issues such as remote work versus returning to the office, hiring surges versus headcount reductions, and developing AI-specific skills versus prioritizing human skills have been prevalent. Despite the complexity of these issues, one key factor remains crucial for success in the emerging world of AI: a company's people.
+
+Teuila Hanson, LinkedIn Senior Vice President and Chief People Officer, states: 
+> “As experts in human potential and change management, talent leaders are uniquely positioned to help their organizations unlock human capability in this AI era of work. Just as you'd upgrade your tech stack, you'll need to upgrade your talent playbooks to stay ahead and unleash all that's possible.”
+
+In this report, we highlight data insights from LinkedIn's Economic Graph, the Executive Confidence Index survey, and our global member community of over a billion professionals to understand how the talent landscape is shifting with the arrival and proliferation of generative AI (GAI).
+
+### The Labor Market
+
+Hiring rates are stabilizing year-over-year, despite a general downturn. While hiring rates across most industries have declined, the tech industry is showing signs of recovery and is even witnessing increases in several countries compared to the previous year. Four sectors that have remained stable amid this downturn are utilities, government, education, and consumer services.
+
+The LinkedIn Hiring Rate (LHR) measures the number of LinkedIn members who added a new employer to their profile within the same month the new job began, relative to the total number of members in that country. The analysis focuses on the most current data available, enabling month-to-month comparisons and accounting for any delays in members updating their profiles.
+
+Additionally, internal mobility has increased by 6% year-over-year. "Internal mobility" refers to employees taking new positions within the same company, including both lateral moves and promotions.
+
+Karin Kimbrough, LinkedIn Chief Economist, emphasizes:
+> “Hiring in most countries and most industries is still down year-over-year, but this slowdown has begun to show signs of moderation and even stabilization in some sectors like technology, information, and media. Increasing internal mobility is encouraging and shows that leveraging internal hiring can enhance organizational agility, employee engagement, retention, and career development.”
+
+### The Impact of Generative AI
+
+Approximately 8 in 10 global executives recognize at least one way GAI could benefit their employees, such as reducing time spent on mundane tasks, increasing productivity, and allowing more time for strategic and creative thinking. However, many companies have yet to fully embrace GAI, presenting a significant opportunity for those willing to adapt quickly.
+
+Aneesh Raman, LinkedIn Chief Economic Opportunity Officer, conveys that:
+> “Most organizations are curious and excited about AI’s potential but are stuck on how to translate that potential into day-to-day work. Talent innovators understand that for effective AI adoption, talent leaders must be involved at every stage of the planning process, applying their change management expertise at every step. Organizations that recognize this will excel in the new era, as success will hinge on who has the best talent, not merely the best technology.”
+
+### Future Hiring Trends
+
+About 80% of global executives plan to hire in the upcoming year. AI is set to drive significant changes in hiring practices and desired skills. As AI assumes more repetitive and less complex tasks, companies will need talent that possesses broader, uniquely human skills such as problem-solving, adaptability, and collaboration.
+
+Erin Scruggs, LinkedIn VP and Head of Global Talent Acquisition, notes:
+> “We’re seeing increasing demand for skills that spur organizational agility. Talent acquisition teams aiming to hire quality talent faster should consistently consider their current employees as a hiring source alongside external candidates.”
+
+### Enhancing Human Capabilities
+
+Adopting AI transcends mere productivity; it also aims to boost human capabilities and foster a more innovative workforce. Employees skilled in using GAI are significantly more likely to develop essential soft skills, such as creative ideation, design thinking, and emotional intelligence. 
+
+Companies with a larger number of employees skilled in GAI demonstrate a fourfold increase in leadership promotions and a fivefold increase in overall promotions compared to those with fewer skilled employees.
+
+Stephanie Conway, LinkedIn Senior Director of Talent Development, advises talent leaders:
+> “Creating readiness for AI adoption requires a systemic approach. Opportunities to apply generative AI in work processes need to be combined with a focus on developing human skills such as growth mindset, innovation, and resilience. A culture of continuous learning is critical, as organizations must evolve with the fast-changing workplace.”
+
+### Conclusion
+
+Companies that recognize the importance of integrating GAI and supporting their teams in leveraging relevant tools will see significant increases in engagement and productivity. As the workforce becomes more adept with GAI, there will be a growing necessity for refining distinctly human skills—including problem-solving, communication, creativity, and compassion.
+
+LinkedIn remains committed to providing timely thought leadership, unique data insights, and innovative tools to help organizations thrive in this evolving landscape. 
+
+For further information, you can explore translated editions of the Global Talent Trends or regional Talent Trends from various countries or reach out with any questions or feedback.

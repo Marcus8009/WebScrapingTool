@@ -1,0 +1,78 @@
+file name: customers.microsoft.com#en-gb#story#maire-microsoft-teams-energy-en-italy.txt
+
+## Introduction
+
+MAIRE is a leading technology and engineering group that develops and implements innovative solutions to enable energy transition. The company’s thousands of engineers help build large installations, but they face burdens associated with paperwork and other bureaucratic tasks. To address this, MAIRE decided to use Microsoft 365 Copilot to automate and streamline routine and repetitive activities. In the first phase of adoption, the organization saved 800 working hours per month, and this saving has more than doubled since then.
+
+## Implementation Strategy
+
+The team at MAIRE encourages widespread uptake of the AI-powered app through its 'Human in the Loop' portal, which contains resources and use cases for Microsoft 365 Copilot. 
+
+Marco Armando Pecoraro, Engineering Processes Digitalization Group Leader at MAIRE, explains the motivation behind this cultural transformation: 
+
+> “We are a group of highly skilled professionals; the more time they spend using their creativity to build huge plants around the world, the less they waste on repetitive bureaucratic tasks, the lower their carbon footprint – and the quicker we’ll do our part in the green energy transition.”
+
+Luca Simonelli, IT Manager at MAIRE, adds, 
+
+> “The great advantage of Microsoft Copilot is that it gives us the opportunity to unlock our people’s capabilities to explore how to do things better every day.”
+
+Chiara Nidasio, Brand Marketing Manager at MAIRE, emphasizes:
+
+> “We put people at the center of our technology, not the other way around. We want to ensure that the benefits of AI are spread across the entire company, and not just restricted to an elective group of techies.”
+
+## Company Background
+
+Headquartered in Milan, Italy, MAIRE develops and implements innovative energy solutions. They provide Sustainable Technology Solutions and Integrated E&C Solutions in sectors such as nitrogen fertilizers, hydrogen, circular carbon, fuels, chemicals, and polymers. The company operates in 45 countries, employing over 8,000 individuals and collaborating with more than 20,000 project personnel worldwide.
+
+As an organization committed to the circular economy, MAIRE recognizes the significant time, effort, and carbon associated with paperwork in its engineering projects. 
+
+> “We were already aware that Microsoft 365 Copilot might be a good candidate to take the burden off a whole range of routine tasks in the company. Because we saw the value in AI, we wanted to make sure that everyone could take advantage of it,” Pecoraro notes.
+
+## Change Management Focus
+
+Pecoraro further states that “this is not strictly speaking about a technology project. Or even a development project. It was, and continues to be, a change management project.” This approach has strengthened MAIRE’s commitment to utilize Microsoft’s expertise for future evolution and transformation.
+
+Simonelli mentions,
+
+> “We’ve always been early adopters of Microsoft technology,” emphasizing the strong partnership between MAIRE and Microsoft which began with their decision to transition to the cloud in 2013.
+
+## Phased Adoption and User Empowerment
+
+Initially, MAIRE decided to distribute 300 licenses across various business areas to evaluate the tool's usefulness and popularity among staff. The adoption process has followed a strategy based on two main steps:
+
+1. Creating a digital channel within their largest EPC project on Microsoft Teams for personnel to express needs and challenges.
+2. Providing Copilot access to a resource group across different organizational areas, enabling staff to use it autonomously.
+
+Pecoraro explains their goal: 
+
+> "The rollout of Copilot to the business, IT, and communication departments was aimed at helping them face their personal working challenges with the support of an AI companion, inspiring widespread technology adoption."
+
+## Results and Impact
+
+Since Copilot's deployment, its interface has facilitated collaboration across diverse teams, promoting quick information exchange and reducing communication bottlenecks. Its automation capabilities have significantly simplified everyday tasks. MAIRE is now saving hundreds of working hours per month, as reported by the Microsoft Copilot Dashboard in Viva Insight. 
+
+Pecoraro highlights:
+
+> “Copilot gives more time for the most important, core aspects of people’s jobs by reducing the amount of time they have to expend on writing reports and other routine tasks.”
+
+An early application of Copilot involved facilitating the tendering process. AI helped compare various proposals from partners, providing a breakdown of key aspects for informed decision-making.
+
+Currently, MAIRE has established a dedicated multidisciplinary team to manage internal adoption and plans to expand Copilot’s use across the organization. They have launched an internal SharePoint portal for "Copilot champions" to track evolving AI prompts and outcomes for various use cases.
+
+Pecoraro notes the importance of sharing knowledge within the organization:
+
+> “This is a great example of how to share knowledge about a new technology throughout an organization. It also assists in boosting the skills of everyone.”
+
+## Future Plans and Training Initiatives
+
+At the time of writing, Copilot has yet to be fully rolled out, but there are plans for expansion. Simonelli explains, 
+
+> “Considering the outcomes of the first phase, we have decided to purchase an additional 2,000 licenses,” adopting a strategy that includes distributing some licenses to employees in specific departments such as HR, Communication, and Legal.
+
+They also launched a Call-to-Action campaign through their ‘Human in the Loop’ portal, which generated significant interest and high adoption rates for Copilot. 
+
+As training is crucial for maximizing the deployment's potential, MAIRE is working with Microsoft to organize training classes. They have completed six training sessions that were well-received and impactful. Selected essential adoption cases range from summarizing Teams meetings to creating documentation and presentations.
+
+Simonelli concludes:
+
+> “What we have realized is that this is not strictly speaking about a technology project. Or even a development project. It was, and continues to be, a change management project.”

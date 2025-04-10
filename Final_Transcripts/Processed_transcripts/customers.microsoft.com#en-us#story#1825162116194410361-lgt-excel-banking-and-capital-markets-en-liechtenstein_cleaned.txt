@@ -1,0 +1,45 @@
+file name: www.microsoft.com#en-us#customers#1825162116194410361-lgt-excel-banking-and-capital-markets-en-liechtenstein.txt
+
+## Introduction
+
+The pandemic opened LGT’s eyes to the need for a modern, flexible work environment to facilitate seamless collaboration. The company committed to a comprehensive digitalization strategy that would deliver on these requirements.
+
+## Cloud-First Strategy
+
+LGT adopted a cloud-first strategy with Microsoft 365 and introduced Microsoft Copilot to modernize the digital workplace and create a flexible, secure work environment for global teams.
+
+By integrating Microsoft 365 and launching Microsoft Copilot, LGT has been able to tangibly improve efficiency. Even just the pilot phase showed that users save an average of an hour a week, while core processes are accelerated significantly.
+
+## Company Overview
+
+LGT, a leading international private banking and asset management group, has been owned by the princely family of Liechtenstein for more than 90 years. As of June 30, 2024, the group managed assets totaling CHF 356.0 billion (USD 396.2 billion) on behalf of high-net-worth private clients and institutional investors. LGT employs more than 5,800 staff at over 30 offices in Europe, Asia, the Americas, Australia, and the Middle East.
+
+Since 1999, isolutions AG—one of the biggest dedicated Microsoft partners in Switzerland—has been supporting companies on their journey to the digital future. For customers across a broad spread of industries, isolutions is committed to integrating Microsoft services in a way that adds value and brings positive change to corporate cultures. The company’s more than 250 IT and change management experts devote themselves to overcoming organizational and technological challenges in collaboration with their customers.
+
+## Importance of Modern Work Environments
+
+Tradition and innovation blend well at LGT, as do proven business practices and a forward-looking vision. Experience gained during the pandemic highlighted to management the importance of a modern work environment for friction-free collaboration and the success of the company. In response, LGT resolved to implement a comprehensive digitalization strategy in cooperation with Microsoft. Using Microsoft 365 and adopting a rigorous cloud-first approach, it has created a digital workplace one step at a time, facilitating secure and flexible collaboration across national borders. 
+
+The seamless integration of applications such as Microsoft Teams, Exchange Online, Excel, and PowerPoint has optimized communication paths, simplified data exchange, and significantly boosted productivity. “Modern work environments lay the foundation for an agile corporate culture and for business success in a digitally connected world,” explains Peter Matt, Head of Digital Workplace at LGT. He added, “With Microsoft as our partner, we can realize our vision of a forward-looking digital workplace in every way.” Another aim of LGT was to leverage early benefits of AI, naturally leading them to participate in the Microsoft 365 Copilot Early Access program and take their role as an AI pioneer in the private banking sector.
+
+## User Adoption Program
+
+Right from the outset, it was clear that Copilot would be implemented as part of a comprehensive user adoption program to fully exploit the new technology. LGT enlisted the support of Microsoft partner isolutions, which had already successfully managed the introduction of Microsoft 365 with an innovative change management strategy. During the pilot phase, 300 licenses were initially issued to employees with a keen interest in technology, representing different parts of the company and regions, to obtain a broad picture of use cases and user behavior.
+
+Global information sessions, webinars, and short video clips were utilized to introduce Copilot, demonstrating how to work with the tool and explaining various use cases. Microsoft partner isolutions provided ongoing advice and motivation, offering practical hints and ways to explore the many varied options of Copilot. “The prudent but creative way in which Microsoft partner isolutions handled the change management process was critical to the successful launch of Copilot,” asserted Matt. “We have reached the point where we see isolutions no longer as an external partner, but as an integral component of our Digital Workplace team.”
+
+## Community and Feedback Mechanism
+
+The M365 Copilot Community established for this purpose was central to the success of the pilot phase. Meetings and workshops enabled users to share their experiences and learn from each other. Pilot users participated in regular surveys that provided insights into usage patterns and efficiency gains. The survey findings were integrated back into the Copilot Community for continuous improvement in deployment. As more Copilot licenses were issued during the pilot phase, the Community took on the role of internal influencers, encouraging potential users to engage with the benefits of Copilot. It has become evident that the Copilot Community will remain a mainstay of the company’s change management strategy moving forward.
+
+## Use Cases and Efficiency Gains
+
+Even in the pilot phase, it became clear that Copilot can support a variety of use cases. For instance, internal communication via Microsoft Teams became considerably easier with Copilot summarizing meetings, producing minutes, supporting data analytics, and assisting in text production. It also provided a secure alternative to third-party chatbots, ensuring confidential handling of sensitive data—a critical aspect in the banking sector.
+
+“The efficiency gains from using Copilot are already impressive,” noted Matt. “And this is just the beginning. As our users gain more experience and Copilot has access to a broader base of data, we will see a major leap in productivity.” Copilot's specific support also streamlined contract reviews in the legal and compliance departments. Instead of taking up to four hours to review lengthy documents, selective prompting now enables the most important aspects to be examined in just 30 minutes. Regular surveys have shown that users save an average of an hour a week, giving them time for more demanding tasks.
+
+## Future Outlook
+
+LGT is now contemplating a company-wide rollout of Copilot after the pilot phase, aiming to accompany this process with extensive change management. Management seeks to create an attractive, end-to-end user experience that guides employees in leveraging Copilot to maximize the potential of Microsoft 365. A virtual AI avatar will serve as a digital workplace guide, offering advice and concrete support. Completion of the M365 cloud transformation will be crucial for broader deployment of Copilot, as it will enable integration into all of LGT’s business processes for even more robust and specific assistance for staff.
+
+For LGT's leadership, one thing is clear: the digital transformation has only just begun and will continue at full throttle. Both LGT’s customers and its staff stand to benefit. “Artificial intelligence has the potential to accelerate processes, raise efficiency, and improve interaction with customers,” remarked Christian Thier, Financial Service Industry Lead and Member of the Executive Board at Microsoft Switzerland. “The successful introduction of Copilot highlights LGT’s innovative role in the private banking sector, and we are proud to join with them in further advancing the digital transformation.”

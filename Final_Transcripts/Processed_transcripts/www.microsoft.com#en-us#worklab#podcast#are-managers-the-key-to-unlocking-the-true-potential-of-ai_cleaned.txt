@@ -1,0 +1,81 @@
+file name: www.microsoft.com#en-us#worklab#are-managers-the-key-to-unlocking-the-true-potential-of-ai.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, focusing on how to use AI effectively and what it takes to thrive in our new world of work. 
+
+## The Value of Middle Managers
+
+BRYAN HANCOCK: Middle managers aren’t the ones that are causing the bureaucracy. They’re the ones that want to fix it. And so let’s give them the power and the tools to fix it. Generative AI is one of those tools because of what it can do.
+
+Research by the global management firm McKinsey and Company suggests that AI has the potential to automate activities that account for up to 70 percent of a worker’s time and add trillions of dollars in value to the global economy. However, as work becomes more efficient, Bryan Hancock, the global head of McKinsey’s talent management practice, emphasizes that the need for strong human leadership is even more important.
+
+Last year, Bryan co-wrote the book *Power to the Middle: Why Managers Hold the Keys to the Future of Work*. Today, he is here to tell us why middle managers are uniquely positioned to help leaders build AI-powered organizations, and how AI can enable them to focus on what really matters: their people. 
+
+## Defining Middle Managers
+
+MOLLY WOOD: Bryan Hancock, thanks so much for coming on WorkLab.
+
+BRYAN HANCOCK: Ah, thanks for having me.
+
+MOLLY WOOD: You co-wrote a book called *Power to the Middle: Why Managers Hold the Keys to the Future of Work*. Who are these middle managers? At Microsoft, we refer to them as people managers to emphasize the importance of putting people first.
+
+BRYAN HANCOCK: I love the term "people managers". At the core, a manager is someone managing a team or an individual. Managers can be anywhere in the organization's hierarchy. If you have someone above you and someone below you, you're probably a middle manager. Our research indicates that many managers spend less than a third of their time managing people—they often spend half of their time on administrative work or as individual contributors, along with a significant portion in meetings. 
+
+Managers who focus on people management and practice top-tier management methods tend to drive better performance and employee satisfaction in their companies.
+
+## The Importance of Human Connection
+
+MOLLY WOOD: How relevant is this message today amid fears that technology and AI might minimize the role of middle managers?
+
+BRYAN HANCOCK: Changes from tech disruptions can lead to reorganization that allows for fewer meetings and use of technology to ease administrative burdens. This creates more capacity for managers to lead effectively. The roles of managers will evolve, and we should double down on the essential aspects of their jobs: managing people and fostering human connection.
+
+Empathy is crucial in cultivating genuine relationships with team members. Empathetic managers build trust and a sense of belonging, creating a safer environment.
+
+## The Impact of Stress on Leadership
+
+MOLLY WOOD: So you’re saying that when people are less stressed and have adequate mental capacity, they can be more empathetic and thus better leaders?
+
+BRYAN HANCOCK: Absolutely. Generative AI can indeed enhance the roles of managers by reducing administrative tasks and helping in people leadership through understanding employee sentiment and assisting in coaching conversations.
+
+One of the challenges with empowering middle managers involves providing adequate training in AI. We are witnessing organizations begin to offer basic training to ensure that management is equipped to leverage these advances effectively.
+
+## The Role of Generative AI
+
+BRYAN HANCOCK: In organizations, leaders are now considering how technology changes work processes and what is required of managers. For instance, in law firms, generative AI is being used to draft initial document versions, changing the dynamic and creativity within the role. This raises questions about how we nurture future experts if entry-level positions diminish.
+
+Generative AI can help entry-level employees reach basic proficiency quickly, but we must define the unique roles entry-level employees play to avoid mediocrity and preserve creativity, empathy, and the human element.
+
+## Fostering Human Connection in Teams
+
+BRYAN HANCOCK: The importance of human connection cannot be overstated. Rituals that foster this, such as team events and check-ins, become more significant as managers have more capacity for creative, empathetic discussions after reducing routine tasks through AI.
+
+Middle managers can help cultivate new talent and skills needed to address organizational challenges. They should express their desire to have more time for coaching and innovative thinking, rather than spending hours on administrative duties.
+
+## Addressing Toxic Management
+
+MOLLY WOOD: There are, of course, less-than-ideal managers out there. Can you talk about the impact of poor management?
+
+BRYAN HANCOCK: Toxic managers are a major source of workplace stress. Surveys indicate about 40 percent of employees have experienced a lack of check-ins from managers, correlating with increased mental distress. Improving management skills is crucial to enhance not only company performance but also the overall happiness and mental health of employees.
+
+## Transforming HR and Talent Management
+
+MOLLY WOOD: So how do we change talent management and HR with this in mind?
+
+BRYAN HANCOCK: It’s a pivotal moment in HR, as organizations rethink how to reinvent work. Generative AI exposes roles to automation that will transform tasks. HR can help organizations adapt to these changes by analyzing what skills are necessary for the future and redefining training programs.
+
+The potential applications of generative AI across the talent lifecycle—like writing job descriptions, assisting with career guidance, and streamlining administrative processes—further empower managers, enabling HR to focus more on coaching rather than transactional tasks.
+
+## Conclusion
+
+BRYAN HANCOCK: I encourage executives to express gratitude to their middle managers. Acknowledge the demands placed on them to spend time with their people amidst evolving work conditions. Commit to ensuring they have the time and resources to contribute positively to the workplace.
+
+MOLLY WOOD: Thank you, Bryan Hancock, for your insights! This conversation has been enlightening.
+
+Thank you for tuning in to WorkLab. Please subscribe and check back for our next episode, where I'll discuss how AI is revolutionizing the medical industry with Peter Lee, Corporate Vice President of Research and Incubations at Microsoft.
+
+For your feedback, email us at worklab@microsoft.com, and explore our other episodes and insights at microsoft.com/WorkLab. If you enjoy the podcast, please rate and review it!
+
+---
+
+The WorkLab podcast is produced by Microsoft in collaboration with Godfrey Dadich Partners and Reasonable Volume. I'm your host, Molly Wood. Thank you for support from our production team, including Sharon Kallander, Matthew Duncan, and Jessica Voelker.

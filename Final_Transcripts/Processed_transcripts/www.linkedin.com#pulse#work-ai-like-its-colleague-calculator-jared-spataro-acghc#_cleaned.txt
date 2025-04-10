@@ -1,0 +1,43 @@
+file name: www.linkedin.com#pulse#work-ai-like-its-colleague-calculator-jared-spataro-acghc.txt
+
+## Introduction
+
+Welcome back to AI at Work, a newsletter and video series that decodes the future of business.
+
+Three weeks ago, I dropped off my fourth and youngest child at college—the same school his mom and I both attended back in the ’90s. On one hand, I was struck by how familiar it all felt. He now lives in the same dorm his mom did during her freshman year, which still has the familiar fluorescent lighting and linoleum floors.
+
+However, as recognizable as his environment feels to me now, I know that the world he’ll step into after graduation will be very different from the one in which I had my first work experiences.
+
+## The Shift in Work Dynamics
+
+AI is creating a seismic shift in the way humans spend their time—reshaping entire workflows and patterns that have long defined the workday. A new pattern is emerging that reflects a fundamental evolution in our relationship to personal technology: to use AI effectively, you need to collaborate with it as if you’re working with a colleague—not a calculator.
+
+Historically, computing has followed a command-and-control pattern. Humans give instructions (“input”), and the computer obeys (“output”). Calculators operate in this manner, and until recently, internet search worked similarly—searching for relevant web pages based on commands.
+
+When AI first came to work, most of us had yet to understand that this paradigm was about to be flipped. Even 18 months ago when we introduced Copilot, “prompt and response” thinking was still the norm—enter the right combination of words or phrases to receive a result that felt like magic.
+
+Since then, individuals who have utilized AI have learned that the most effective way to collaborate is through an iterative and layered process. It’s a conversation, not merely a command.
+
+## Co-Creation with AI
+
+For instance, if you need Copilot to help you build a product pitch deck, providing a single prompt (even a detailed one) likely won’t yield a satisfactory presentation. You achieve the best results when you work iteratively—or “co-create”—with AI. You can add details, point Copilot to relevant files, and receive an outline that you can adjust, expand, and reorder. When ready, Copilot can generate slides for you to edit. This co-creation process molds every step of the deck creation, from formatting to illustration, resulting in a satisfying and useful product.
+
+This new human-AI collaboration pattern requires us to learn new skills and habits while unlearning others. We need to move beyond the “calculator approach” to technology. To effectively collaborate with AI often resembles collaborating with our human colleagues. 
+
+When managing someone, you don’t just assign a task and hope for the best. Instead, you act as a coach. You set expectations, review work, and provide feedback continuously. The same applies to working with AI. You must know how to give the right context in a prompt, distilling pertinent background information from unnecessary noise. You may need to clarify instructions and evaluate the output, redirecting it to achieve the best results.
+
+## Future Implications 
+
+This mode of co-creation is set to reshape organizations, where even the most junior employees will manage multiple AI agents. Everyone will harness AI to offload mundane tasks and leverage its expertise to create more value more efficiently and cost-effectively.
+
+In this transformation, there’s a tremendous opportunity for employees and leaders at every career stage. The first “generation AI” graduates will enter the workforce with an innate understanding of the collaborative back-and-forth that AI requires. They will appreciate the value of delegating tedious entry-level work to AI, allowing them to focus on higher-order tasks, whether it’s strategizing their first job interview or launching their first company.
+
+Meanwhile, more tenured employees can repurpose their existing management skills to work with AI, building capacity for themselves and their teams, dramatically scaling their impact.
+
+Regardless of your position in the organizational hierarchy, AI is leveling the playing field for all employees. With AI, everyone can become a data analyst, designer, or editor. It allows individuals to delegate tasks to AI, enabling more impactful and strategic work. The emergence of simultaneous co-creation with AI and human colleagues amplifies team creativity and productivity.
+
+## Conclusion
+
+With AI, the nature of work is transitioning from people merely using technology as tools to collaborating with technology as colleagues. Co-creation will define our evolving relationship with AI. This emerging trend is already transforming our day-to-day work experiences and has the potential to reshape the career trajectories of everyone—from new graduates to seasoned executives. With AI's assistance, we can all engage in work that is more strategic, meaningful, and, hopefully, more inspiring. 
+
+A few action items before you go: for more insights about AI and the future of work, subscribe to this newsletter.

@@ -1,0 +1,33 @@
+file name: www.microsoft.com#en-us#worklab#ai-at-work-why-cios-matter-more-than-ever.txt
+
+## Introduction
+
+IT leaders can set their organizations on a course for AI-powered success—if they take the right approach. Day to day, chief information officers (CIOs) perform the crucial but often unsung work of building and maintaining the tech and backend systems that keep an organization afloat. Their role comes to the forefront in moments of dramatic change; think of how CIOs swiftly ushered us all into hybrid work in 2020. Prior to that, they powered the shift to cloud and the introduction of a computer on every desk. Now, in the AI era, they’re at the epicenter of yet another transformation.
+
+According to the 2024 Gartner CIO Generative AI Survey, 48 percent of CIOs report being the single executive responsible for AI efforts in their organization. The role is becoming more difficult: demand for IT continues to grow, but CIOs (and chief technology and data officers) are often expected to do more with less, driving innovation as efficiently as possible. It’s a challenging—and pivotal—moment. However, a few strategies can help CIOs be the architects of their organizations’ futures in 2025 and beyond.
+
+## Key Strategies for CIOs
+
+### 1. Get Your Data in Order
+
+Issues around data hygiene and permissions are nothing new, but don’t use longstanding challenges as an excuse to delay AI deployment. Instead, view AI as a reason to accelerate your efforts. When tools like Copilot can draw from your work data—emails, files, meetings, etc.—they become much smarter about your business and its needs. Copilot can also reveal gaps in your data permissions since it references whatever data employees have access to (even if they shouldn’t). Build the foundation of your organization’s future AI-driven success by managing data issues now.
+
+### 2. Embrace a “Learn It All” Mindset
+
+Keeping up with AI can be challenging, but it’s now one of a successful CIO’s most critical jobs. CIOs serve as advisors to CEOs and beyond, educating their organizations on AI’s possibilities. Executives who are genuinely curious about AI set up their employees for learning. At Clifford Chance, a leading global law firm, Chief Technology Officer Paul Greenwood and his team tapped into AI’s potential to address increasing data complexity and fast-evolving regulations while maintaining high ethical standards. They researched available tools and collaborated closely with legal and risk teams to develop AI principles and policies before deployment. As a result, the firm’s lawyers now use Copilot to draft and manage emails and ensure compliance, allowing them to focus on complex legal work. The outcome has included productivity gains, faster client turnarounds, and improved service delivery.
+
+### 3. Measure and Share Your Results
+
+Start by experimenting within your own team or department. Identify a pain point or a business challenge where AI can help, deploy AI to transform that process, and then measure the results. Share the story of that transformation along with lessons learned to inspire others across the organization. This formula can be repeated throughout the company.
+
+For instance, Bank of Queensland Group’s CIO Craig Ryman and Group CTO Robert Wilson have implemented an ambitious tech strategy at the 150-year-old Australian financial institution, transitioning from manual processes to digitized, data-driven operations. The bank identified proof points showing that 70 percent of Copilot users were gaining 30 minutes to an hour a day due to efficiency improvements. Various use cases have been developed to inspire employees; for example, a team used Copilot to simulate stakeholders’ perspectives while building a report, which clarified the summary and provided context for different stakeholders, ultimately reducing review time by four weeks.
+
+### 4. Find Allies Across the Business
+
+One of the biggest challenges associated with deploying AI is cost. It represents a significant new expenditure, and IT budgets haven’t grown accordingly. Every chief financial officer wants to see returns from AI investments. CIOs who co-own digital delivery with CxOs are between 1.5 and 2 times more likely to meet or exceed outcome targets from digital initiatives, according to Gartner’s 2025 CIO Agenda.
+
+When CIOs partner with functions across the business and target processes that are ready for reinvention, they create savings and generate new value. Melanie Kalmar, the Chief Information and Chief Digital Officer at global materials science company Dow, has collaborated with the company’s supply chain leaders to automate the labor-intensive process of auditing shipping invoices and correcting billing inaccuracies. Dow partnered with Microsoft to use Copilot and agents to automate the shipping invoice analysis process while streamlining its global supply chain, unlocking efficiencies and cost-saving opportunities. This success has sparked interest across the organization, with team members seeking assistance from Kalmar’s team.
+
+## Conclusion
+
+CIOs and IT specialists are at the epicenter of the AI transformation. They are not just navigating change; they have the opportunity to shape the future of their businesses. With the right strategies and strong partnerships, CIOs can turn AI’s potential into real-world impact and business value. By fostering a learning mindset, embracing experimentation, and collaborating across the organization, CIOs can ensure their organizations are well-positioned for success in the AI era.

@@ -1,0 +1,38 @@
+hi there I'm Luca and thanks for joining
+me on this episode of AI simplified in
+Microsoft teams today we will go over a
+feature in Microsoft co-pilot in teams
+that is sometimes overlooked but great
+for maintaining your privacy co-pilot
+and teams meetings without transcription
+sometimes I have a meeting that
+shouldn't or can't be recorded or
+transcribed well now with co-pilot
+without transcript I can still Leverage
+The Power of co-pilot while keeping a
+sensitive meeting unrecorded to use this
+feature go to your teams calendar and
+create a
+meeting select more options and scroll
+down to co-pilot and select without
+transcription from the drop- down menu
+this allows me to go into my meeting and
+all I have to do is click on the
+co-pilot icon in teams and it will start
+from that point in the
+conversation let's say I want to know
+what we have covered so far I'll ask
+co-pilot what topics have we talked
+about in the meeting even though no
+information is being stored co-pilot is
+still able to provide me with answers
+based on what was
+discussed since no physical recording or
+transcript is available after the
+meeting ends a meeting recap will not be
+generated and co-pilot in meeting recap
+will not be available to use after the
+meeting and that's all for today's
+episode of AI simplified in Microsoft
+teams
+[Music]

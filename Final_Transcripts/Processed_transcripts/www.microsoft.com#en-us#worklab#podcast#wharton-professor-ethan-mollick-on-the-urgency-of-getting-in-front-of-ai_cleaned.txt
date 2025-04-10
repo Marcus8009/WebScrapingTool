@@ -1,0 +1,91 @@
+file name: www.microsoft.com#en-us#worklab#wharton-professor-ethan-mollick-on-the-urgency-of-getting-in-front-of-ai.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Mary Melton. On WorkLab, we hear from leading thinkers on the future of work. Economists, technologists, researchers—they all share surprising data and explore the trends transforming the way we work.
+
+Today I’m talking to Ethan Mollick, an entrepreneurship and innovation professor at the Wharton School of Business, who embraces the power of AI to further the education of his students—and of his own education. In January, Ethan mandated the use of AI in his curriculum. In today’s episode, he shares what he’s learned from that experience and how he sees AI positively transforming not just the future of education, but of entrepreneurship and the workplace. 
+
+## Conversation with Ethan Mollick
+
+MARY MELTON: Hello, Ethan Mollick, and welcome to WorkLab. Thank you for joining us.
+
+ETHAN MOLLICK: Thanks for having me. I’m really pleased to be here.
+
+MARY MELTON: What are the topics of expertise that you dabble in, and how does AI fit into all of those?
+
+ETHAN MOLLICK: So I’m sort of an accidental expert in AI. I’ve been AI-adjacent my whole career. So I worked with the MIT Media Lab and Marvin Minsky’s AI lab back in the day, but I’ve never been a computer scientist. What I have been fascinated by is both entrepreneurship—so, I teach a lot on research entrepreneurship, especially team success and innovation. I’m also super interested in how we teach in new ways. So I run something at Wharton called Wharton Interactive, which is their internal game studio, where we build teaching games to teach business skills at scale. And that’s sort of where I’ve been encountering AI the most is how do we use this as a teaching tool? I’ve been playing with this a lot since before ChatGPT came out. When Chat was released, it happened to overlap very much with what I was already studying and interested in. So I sort of took a deep dive into that area.
+
+MARY MELTON: When did you start Wharton Interactive?
+
+ETHAN MOLLICK: It’s been around in one form or another since about 2014, officially kind of kicked off in 2018. I’ve been building games for teaching for a while. I wrote a book on the topic over a decade ago, so it’s been a topic of a lot of interest. How do we teach the most people real work skills that are useful at scale? Because it turns out, even minor amounts of business knowledge can transform people’s lives. 
+
+MARY MELTON: Can you reflect for a moment on what you make of this moment? And were you surprised at how fast we got here?
+
+ETHAN MOLLICK: Oh, absolutely. AI has always been almost here, right? So before Chat came out in November of last year, I was experimenting with GPT-3, the previous version. It was kind of miraculous, it wrote as well as a fifth grader. But we’ve been expecting AI to be the thing forever, and it hasn’t taken off. There’s been these AI winters. I think I was less surprised than a lot of people, because once I saw Chat, I was like, oh my god, this is the moment. It’s all going to happen here. 
+
+## The Rise of AI in Education
+
+MARY MELTON: Where were you when you first realized that this had taken off?
+
+ETHAN MOLLICK: Actually, I introduced it to my entrepreneurship class three days after ChatGPT came out, and by the end of that first class, one of the students had already created a working software prototype using GPT-3.5 to demonstrate the product they were developing for the class. By the Thursday, about 60–70 percent of my students had used Chat to do a range of things, including brainstorming ideas and improving messages for their clubs.
+
+MARY MELTON: On one hand, you sound very positive, but on the other hand, I’ve also seen that you’ve written that we’re living in something that you’ve described as an “AI-haunted era.” How does that measure up with the positivity part of it?
+
+ETHAN MOLLICK: AI is a general purpose technology. It is going to affect everything we do. General purpose technologies are these rare events like steam power, the computer, or the internet. AI is doing that, and its results will differ across industries—is already having varying impacts on jobs. 
+
+MARY MELTON: You see it as a game changer like the steam engines and internet changed our lives.
+
+ETHAN MOLLICK: I want to make it clear that this is here now. If every letter banning AI goes through and no more AI is developed, we’ll still see its profound effect on how we work and learn.
+
+## AI Capabilities in the Workplace
+
+MARY MELTON: You’ve stated that we should think of AI as a person, not a software. Can you elaborate?
+
+ETHAN MOLLICK: Let’s talk about what AI is because it means a lot of different things. Most people think about sci-fi robots, but that’s not the scope of AI in business today. Large language models predict the next word in a conversation much like fancy autocompletes. When they consist of enough parameters, they exhibit a large illusion of reasoning and creativity. So when I say “work with them like humans,” I mean it’s useful to think about their strengths rather than understanding them like traditional software.
+
+MARY MELTON: What are some common mistakes people make with AI?
+
+ETHAN MOLLICK: The first mistake is thinking it works like traditional search. The AI will make errors. The second is trying to treat it like a fun conversation partner, which can lead to frustration. The third is making it about them personally when it offers hallucinations—essentially making up information when it doesn't know the answer. Rather, it’s more effective to think of it like an intern you delegate tasks to. 
+
+## Implementing AI in Education and Work
+
+MARY MELTON: What have you learned from bringing AI into the classroom that may guide managers and leaders?
+
+ETHAN MOLLICK: Yes, we are seeing 30 to 70 percent performance improvements across different studies. Put that in context with steam power, which saw a peak of 18 to 22 percent. This warrants attention from every organization. Every employee needs exposure to AI technology—making it mandatory can yield great improvement and lead to innovative practices.
+
+MARY MELTON: You’ve said that AI in classrooms will be undetectable, ubiquitous, and transformative.
+
+ETHAN MOLLICK: The quality of ideas has definitely improved as students can bounce ideas off more people, leading to more complex projects. 
+
+MARY MELTON: What is the transfer problem?
+
+ETHAN MOLLICK: There’s a general problem where people struggle to apply classroom knowledge to real-world situations, known as transfer. AI has positive implications for helping with this through various methods, including detailed adaptations and simulations.
+
+## The Future of AI
+
+MARY MELTON: Is there a possibility of a democratized education through AI?
+
+ETHAN MOLLICK: Absolutely. The hidden Einstein problem means that talent is more common than opportunity. AI can act as a universal learning assistant across the globe, offering adaptive education at scale.
+
+MARY MELTON: You’ve talked about rethinking systems rather than job roles. Can you elaborate?
+
+ETHAN MOLLICK: Jobs are bundles of tasks, and AI will alter how we approach if we want to improve productivity—this calls for changing the systems of work itself. Many established practices will need re-evaluation, including standard project management strategies.
+
+MARY MELTON: You’ve said that AI is an amazing co-founder. Can you explain this?
+
+ETHAN MOLLICK: A third of Americans have ideas for startups but often face barriers. AI can ease the process by helping to generate ideas, creating business plans, and suggesting details. 
+
+MARY MELTON: What advice do you have for business leaders who are hesitant about AI?
+
+ETHAN MOLLICK: The only way out is through. Start using AI. It’s essential to create an organizational culture that embraces AI, as this technology is as impactful as any previous organizational change. 
+
+## Conclusion
+
+MARY MELTON: Thank you so much, Ethan Mollick, for sharing your insights on the future of work and AI. 
+
+ETHAN MOLLICK: Thank you for having me.
+
+MARY MELTON: If you have questions or want to engage with us further, drop us an email at worklab@microsoft.com. And don't forget to check out the WorkLab digital publication for more insights from our episodes at Microsoft.com/WorkLab. 
+
+The WorkLab podcast is produced by Microsoft. Thanks for listening.

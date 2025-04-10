@@ -1,0 +1,83 @@
+file name: www.microsoft.com#en-us#worklab#an-ai-first-data-scientist-on-current-limits-and-future-potential-of-ai.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work—from how to use AI effectively to what it takes to thrive in the digital age. Today, I’m talking to Kevin Novak. He’s the founder of Rackhouse Ventures, a venture firm focused on opportunities in the AI space, giving him a unique perspective on how AI-native organizations are changing the game.
+
+## Kevin's Insights on AI and Data Science
+
+**MOLLY WOOD:** Kevin, thanks so much for coming on WorkLab.
+
+**KEVIN NOVAK:** Thank you for having me.
+
+**MOLLY WOOD:** You are a self-described data nerd. Can you tell us a bit about your career journey as a data nerd?
+
+**KEVIN NOVAK:** Sure! I’ve been a data nerd basically my whole life; it’s just that these days I get paid for it. I had an academic start in nuclear physics but transitioned into data science in the late 2000s. I jumped into startups, was a very early employee at Uber, served as chief data officer for a couple of startups, and even had a few failed companies. Ultimately, I got interested in investing in data companies, which led to launching Rackhouse in the fall of 2020.
+
+## Changes in the Data Science Field
+
+**MOLLY WOOD:** So, what are the transformative changes you’ve seen in the field of data science with the rise of large language models (LLMs)?
+
+**KEVIN NOVAK:** I think transformers and large language models have gone from "wow, this is impossible" to almost commoditized. This is crucial because many day-to-day jobs in a modern workplace—particularly in the knowledge industry—produce deliverables like reports and PDFs, traditionally driven by human effort. The balance is starting to shift towards automation with AI.
+
+**MOLLY WOOD:** Could you clarify the term "transformers" and its relation to LLMs?
+
+**KEVIN NOVAK:** A transformer is the fundamental building block of a large language model. Products like Copilot are examples of specific, trained models built on these foundations.
+
+## Evaluating AI Startups
+
+**MOLLY WOOD:** How do you evaluate the landscape around AI startups, especially in such a rapidly evolving field?
+
+**KEVIN NOVAK:** We’re in an exciting yet chaotic time for AI investment—a gold rush of sorts. I noticed throughout my career that the peaks and valleys in data science and AI felt very pronounced. For instance, I remember when the "data scientist is the sexiest job of the 21st century" article came out. So, my contrarian take is to remain steady and check in over a longer timeframe—to invest wisely while managing the hype.
+
+**MOLLY WOOD:** What key factors do you look for in industries ripe for AI transformation?
+
+**KEVIN NOVAK:** When speaking with founders, I look for their ability to clearly articulate their core idea and quickly identify their customer. I value founders who are customer-obsessed and industry-focused, especially if they have a solid AI-powered product.
+
+## Understanding AI-native Thinking
+
+**MOLLY WOOD:** How do you describe the mindset of AI-native companies and thinkers?
+
+**KEVIN NOVAK:** I tell founders to avoid complicating things. They need to have conviction about their product without being overly opinionated. The best AI products meet customers where they are and integrate smoothly into their existing processes without forcing clients to radically change their operations.
+
+**MOLLY WOOD:** So, it’s essential for AI-native companies to provide better tools rather than presenting completely new solutions that could intimidate risk-averse corporations?
+
+**KEVIN NOVAK:** Exactly! Current AI solutions should align closely with traditional methods, providing intuitive one-to-one replacements for existing workflows.
+
+## The Role of AI Agents
+
+**MOLLY WOOD:** What role do you see for AI agents in transforming work?
+
+**KEVIN NOVAK:** AI agents can handle complex tasks requiring detailed planning and contingency management. For instance, creating new rules for a combination sport involves several steps—this is where AI shines in managing complexities.
+
+## Data Integrity Concerns
+
+**MOLLY WOOD:** What about data integrity? How critical is it for the successful rollout of AI tools?
+
+**KEVIN NOVAK:** Data integrity is a critical area of innovation. Companies must ensure that AI systems access the right information while avoiding data they shouldn't have access to. Ensuring factual accuracy and proper access permissions is paramount.
+
+## Redefining Decision-Making with AI
+
+**MOLLY WOOD:** How is AI reshaping decision-making in business?
+
+**KEVIN NOVAK:** AI streamlines decisions, particularly strategy decisions without clear right or wrong answers. The blending of AI with human judgment will remain essential for the foreseeable future. For example, automating the assessment of founding teams' leadership experience allows for deeper, complex fact management during decision-making processes.
+
+## Embracing AI in Organizations
+
+**MOLLY WOOD:** What advice do you have for business leaders in developing a mindset receptive to AI opportunities?
+
+**KEVIN NOVAK:** Cultivating a culture of openness, experimentation, and engagement is crucial. Companies that develop these capabilities and begin automating processes will see compounding benefits. The current debate around AI features an abundance narrative versus a dystopian one, but it’s vital to recognize that well-executed AI initiatives can enhance customer experience and overall operational efficacy.
+
+## The Future Outlook on AI
+
+**MOLLY WOOD:** Looking three to five years ahead, what do you anticipate will be the most profound change in the way we work?
+
+**KEVIN NOVAK:** I think a double-digit percentage of internet traffic will be tailored through AI. For instance, AI will interact with e-commerce in ways that challenge current advertising norms—an ecosystem where some users do not process information in the same way human beings do.
+
+## Conclusion
+
+Thank you again to Kevin Novak for sharing his insights. If you have questions or comments, please email us at worklab@microsoft.com and check out the WorkLab publication for more discussions on the evolving nature of work and AI. Please subscribe and leave us a review; it helps us a ton! 
+
+WorkLab is a platform for expert insights and diverse opinions. The views expressed by guests may not reflect Microsoft’s positions. 
+
+---

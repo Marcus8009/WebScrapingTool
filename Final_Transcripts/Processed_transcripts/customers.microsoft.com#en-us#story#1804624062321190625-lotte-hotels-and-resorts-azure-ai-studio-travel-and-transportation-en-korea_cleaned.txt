@@ -1,0 +1,51 @@
+file name: customers.microsoft.com#en-us#story#lotte-hotels-and-resorts-azure-ai-studio-travel-and-transportation-en-korea.txt
+
+## Introduction
+
+Lotte Hotels & Resorts, including Signiel, is the largest hotel and resort company in Korea, leading the country’s hotel and resort culture. With a growing influx of domestic and international tourists, the company provides quality services and facilities as a global chain hotel, courtesy of the hard work of its dedicated employees. Recently, Lotte Hotels & Resorts adopted Microsoft Power Platform to create an automated work environment that enhances efficiency and allows staff to focus on their core work tasks.
+
+## Automation Through Microsoft Power Platform
+
+Lotte Hotels & Resorts has introduced Microsoft Power Platform to automate tasks without the need for professional developers. Employees can now automate repetitive tasks through simple training, effectively utilizing AI-powered robots for mundane processes.
+
+"Automation services through RPA have been a topic of continued interest. RPA was introduced to some services, and we applied automation to room reservations, which resulted in amazing outcomes. RPA also refined databases, allowing over 50,000 pieces of data to be processed automatically in a short time. In the past, 25 people worked on it for nearly a month, but automation made the work more efficient, and the accuracy was satisfactory."
+
+The company recognized the potential of RPA for alleviating bottlenecks in various tasks and aimed to scale it across the organization for increased productivity, focus, and job satisfaction. However, the technical and financial burdens associated with RPA implementation were significant, as operating costs and the need for continuous adjustments added to the complexity.
+
+## Choosing Microsoft Power Platform
+
+In light of these challenges, Lotte Hotels & Resorts began exploring Microsoft Power Platform. This low-code environment empowers users to create applications and services for their tasks without requiring extensive development knowledge. The company found benefits in utilizing Power Automate, which had already been deployed in local data centers in Korea, ensuring security and high availability.
+
+The existing service license with Microsoft allowed for easy access to Power Platform. Only a few advanced users required additional licenses, facilitating an environment conducive to quick RPA implementation at minimal cost. This was a significant shift from traditional RPA models that required licensing for each unit.
+
+"We have determined that it is much better to replace the efforts and costs of continuous development and operation with internal training. We expect that the overall work efficiency would increase greatly if employees who know how to use Excel could create RPA models they need through simple training."
+
+## In-House Training and RPA Council
+
+Lotte Hotels & Resorts partnered with Lotte Data Communication and DEX Consulting to build the Power Platform environment and conduct an in-house training program. Employees interested in RPA across various departments underwent an eight-week curriculum to create and operate their RPA solutions.
+
+Not all employees displayed initial enthusiasm for RPA. Therefore, the company leveraged word-of-mouth promotion, encouraging sharing of success stories among staff. 
+
+"Due to the nature of hotel operations, each chain of the hotel operates independently. When a hotel's reservation department leverages RPA, other hotels' reservation departments can take the scenario or improve it to create a better automation experience."
+
+Currently, 17 hotel properties have established an RPA council to exchange experiences and knowledge. The hotels share their unique approaches to RPA, host competitions, gather ideas, and recognize employees for their contributions to efficiency.
+
+## Impact on Reservation Systems
+
+Implementing RPA has notably improved the hotel reservation processes, particularly since many domestic hotels struggle to integrate with OPERA, the leading global hotel reservation system. Previously, reservation staff had to manually enter data from domestic platforms into OPERA, leading to potential errors. RPA effectively eliminated these human errors, allowing staff to redirect their time towards enhancing customer service.
+
+Following the introduction of Power Platform, a systematic approach was established to instantly confirm and input reservations into Lotte Hotels & Resorts’ reservation system, streamlining the process. As a result, the company can save around 10,000 work hours annually across 17 hotels through this automation while maintaining data security.
+
+## Future of Work at Lotte Hotels & Resorts
+
+Lotte Hotels & Resorts anticipates a cultural shift as automation replaces repetitive tasks. This will allow staff to address issues and reduce the need for outsourcing and late hours.
+
+"The intent of RPA (and the Microsoft Power Platform that encompasses it) is to bring individual ideas into software to increase efficiency. By removing manual entry from reservation work, employees can focus more on customer service, their main area of work. This will ultimately lead to higher quality service."
+
+Kim Jun-woo, Digital Strategy Team Leader at Lotte Hotels & Resorts, shared, "Employees are highly satisfied. The use of Power Platform represents a shift in work skills. They find ways to work more effectively, and Power Platform turns those ideas into reality. It’s spreading rapidly within the company, rooting in the corporate culture, despite some employees not being fully engaged."
+
+## Conclusion
+
+Microsoft aims to empower everyone to work better with AI and the cloud. Through Power Platform, employees can enhance their productivity whether or not they have coding skills. Lotte Hotels & Resorts is considering further expanding the use of Power Platform for application and website development, leveraging various Microsoft AI technologies. 
+
+The company believes that fostering independence among employees will cultivate a virtuous cycle of innovation and efficiency in its operations. While still in the early phases of this journey, Lotte Hotels & Resorts is on track to create a natural work culture that integrates automation as a standard practice.

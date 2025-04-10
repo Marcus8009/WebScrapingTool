@@ -1,0 +1,37 @@
+file name: customers.microsoft.com#en-us#story#1825622008619351392-zshlavkova-microsoft-365-a3-primary-and-secondary-eduk-12-en-czechia.txt
+
+## Introduction 
+
+Základní škola Aš Hlávkova, a primary school in Czechia, sought to enhance efficiency across teaching and administrative tasks while preparing students for a future filled with technology and AI.
+
+## Adoption of Microsoft 365 Copilot
+
+By adopting Microsoft 365 Copilot across applications such as Outlook, Word, and Forms, the school optimized both classroom preparation and administrative work, giving teachers more time to collaborate, engage with students, and tailor lessons to diverse needs.
+
+The significant impact of this adoption is clear, with the school reporting a 60% improvement in handling administrative documents. Lesson preparation time decreased from hours to just a few minutes, which increased inclusivity and improved communication with students and parents. 
+
+Petr Mach, the school principal, noted, “I’ve been thinking about how AI will impact education. When I heard about the launch of Microsoft 365 Copilot, I realized it was a new opportunity for the school to advance efficiency.”
+
+## Enhancing Teacher Efficiency
+
+Since the school had already been using Microsoft 365 A3 solutions, benefiting from desktop apps, advanced security, and analytics, the addition of Copilot seemed like a natural next step. At the beginning of 2024, the school began training around 30 teachers to work with Copilot.
+
+Tomáš Glazer, the IT and English Teacher at Základní škola Aš Hlávkova, shared the immediate benefits of Copilot: “Normally, class preparation would take hours. But with Microsoft 365 Copilot, I’m able to get ready in one hour or even a few minutes.” This efficiency allows teachers to spend more time developing interactive exercises for students, making classes more engaging.
+
+Teachers also use Microsoft 365 Copilot on Forms to create assignments. Glazer mentioned, “For example, I asked Copilot to create a 200-word text filled with verbs in the past simple tense for my English class, which was ready almost instantly.” The tool can also generate quick tests in Forms with the correct answers, allowing teachers to focus on refining the content instead of spending hours creating quizzes.
+
+## Improvements in Teaching Methods
+
+Interestingly, Microsoft 365 Copilot also aids teachers in improving their teaching strategies. Glazer explains, “Sometimes, when students don’t understand a concept, like a grammar point, and I’m unsure how to help them, I use Copilot to suggest different teaching methods.” Copilot provides multiple strategies when requested, enriching the teaching process.
+
+## Document Management and Inclusivity
+
+Another area where Copilot proved helpful is in managing large documents. Mach noted, “Some of the documents we handle are 30 pages or longer, full of regulations and legal terminology. Copilot summarizes complex documents efficiently, saving up to 60% of the time typically spent sorting through such information.”
+
+Copilot’s translation capabilities have also created a more inclusive environment, particularly since around 15% of the school’s students come from abroad, including Afghanistan, Ukraine, Mongolia, and Vietnam. Glazer explained, “We use Microsoft 365 Copilot’s translation capabilities to communicate better with students and their parents, ensuring that each student receives the support they need.” For instance, they can now translate school policy documents without relying on costly translators.
+
+## Conclusion
+
+Overall, Microsoft 365 Copilot has allowed both teachers and administrative staff to focus more on education, building relationships, and improving teaching processes. Glazer remarked, “Interestingly, we have more personal contact between teachers because routine tasks like lesson preparation take less time, allowing us to collaborate more.”
+
+Looking ahead, Základní škola Aš Hlávkova plans to expand its utilization of Microsoft 365 Copilot and include more teachers. Glazer stated, “We want to expand our use of Copilot in Teams, Whiteboard, and OneNote, and explore new features in Forms.” The school also aims to introduce students to Copilot to enhance personal learning, preparing them for a future where AI plays a pivotal role. Mach concluded, “AI is the way of the future.”

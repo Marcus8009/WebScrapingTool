@@ -1,0 +1,33 @@
+file name: microsoft.com/worklab/podcast/want-real-ai-transformation-focus-on-people-and-processes.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age.
+
+## Guest Insight: Delphine Zurkiya
+
+In this episode, we welcome Delphine Zurkiya, a partner at McKinsey & Company, who shares how she helps companies leverage AI to reinvent their operations and unlock growth opportunities. Zurkiya advises CEOs to focus on essential questions when mapping their AI adoption journeys: 
+
+“A lot of pilot programs really don’t scale because, in the enterprise, it’s all about changing people and processes. The technology won’t work if that’s not put in place.”
+
+Zurkiya's extensive experience includes leading generative AI initiatives for McKinsey's Technology Council and assisting medical and life sciences firms with AI transformations.
+
+## Key Takeaways
+
+1. **Defining Your AI Strategy**  
+   To determine your AI strategy, it’s crucial to start with fundamental questions. Zurkiya notes that many leaders have moved beyond the initial phase of questioning the relevance of technology to actively seeking actionable strategies. She emphasizes that CEOs need to define their problems clearly: 
+   “What is it you’re trying to solve? What’s your strategy? What’s your business problem? And then we can think about how AI can support that.”
+
+2. **Eliminating Data Silos**  
+   Zurkiya stresses the importance of addressing data silos as part of your AI adoption strategy. Conducting a thorough data inventory can aid this process. She illustrates the issue: 
+   “We initially thought we had access to all the data, but it turned out that people have plenty of data on various repositories, SharePoints, et cetera that we didn’t know existed.” Overcoming reluctance to share data is essential for effective information usage at a company.
+
+3. **Transparency in AI Usage**  
+   Being transparent about AI usage is vital. Some employees may think of AI as a secret tool or even a crutch. To harness the full potential of AI, it's crucial to be open about how it’s used. Zurkiya shares an example of showing a client how AI helped her quickly find specific information based on a vague description: 
+   “It’s important to just be a role model, and to explain to people this is really the way you change your workflow.”
+
+## Conclusion
+
+WorkLab serves as a platform for experts to explore and share insights about the evolving landscape of work. Microsoft values diverse voices in this discussion, recognizing that the opinions and findings of the experts we interview represent their views and do not necessarily reflect Microsoft's research or opinions.
+
+Be sure to follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts for ongoing conversations about the future of work.

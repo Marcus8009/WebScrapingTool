@@ -1,0 +1,99 @@
+file name: microsoft.com#en-us#worklab#how-leaders-will-use-ai-to-unleash-creativity.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Elise Hu. On WorkLab, we hear from leading thinkers on the future of work—economists, designers, psychologists, technologists. They all share surprising data and explore the trends transforming the way we work. In this episode, we continue our exploration of large language model AI, or LLM AI.
+
+## Guest Introduction: John Maeda
+
+On today’s show, we have John Maeda, who is a Vice President of Design and Artificial Intelligence at Microsoft. His richly varied career includes roles as a professor, author, college president, and business executive. His digital artwork, books, lectures, and research have explored how digital technology can empower creativity. We have a wide-ranging chat about AI and its implications.
+
+## Early Career and Move to Microsoft
+
+ELISE HU: Thanks for coming on the show.
+
+JOHN MAEDA: Glad to be here.
+
+ELISE HU: You recently made a big career move to join Microsoft.
+
+JOHN MAEDA: Well, when I was in high school, I tried to apply for an internship at Microsoft, and I didn’t get in. So luckily, they didn’t ask me the same questions decades later!
+
+## The AI Inflection Point
+
+ELISE HU: There’s so much to talk about when it comes to AI, especially recent breakthroughs in large language models. It's being called an inflection point or a Cambrian explosion. So why?
+
+JOHN MAEDA: I chuckle at terms like inflection or Cambrian explosion. They describe a massive shift. It’s a perfect example of Moore’s Law, where the doubling effect becomes significant over iterations. The implications are exciting; this technology is kind of useful.
+
+## Return to Command Line
+
+JOHN MAEDA: The experience is reminiscent of the command line operations of the '70s and '80s, which have democratized access. Ironically, we are moving back toward a command line approach to interact with AI, similar to the WeChat experience in China. It was inevitable.
+
+## Human-Machine Interaction
+
+ELISE HU: Can you elaborate on this return to the command line?
+
+JOHN MAEDA: I spent six years writing a book called *How to Speak Machine*. The main thesis was understanding the mechanics of AI, but it ended up being about how to speak human. We now interact with machines in natural languages.
+
+## Design Community Perspectives on AI
+
+ELISE HU: How is the design community viewing the potential and pitfalls of AI?
+
+JOHN MAEDA: Design today will play an important role in this LLM AI world. Ethical considerations and trust are vital. Design has to focus not only on aesthetics but also on the ethical dimensions of technology.
+
+## Ethical Concerns
+
+ELISE HU: What pressing questions must researchers and designers address regarding AI?
+
+JOHN MAEDA: One critical aspect is transparency. Understanding how LLM AI works remains a challenge, not only for scientists but also for the general public.
+
+## Leveraging AI for Creativity
+
+ELISE HU: How can people use AI to enhance creativity and productivity?
+
+JOHN MAEDA: In the age of AI, consider what tasks you dislike. AI can handle drudgery, allowing you to focus on what excites you. This increases productivity by letting you do more of what you enjoy.
+
+## The Scissors Metaphor
+
+ELISE HU: You mentioned a scissors metaphor regarding AI. Can you explain?
+
+JOHN MAEDA: This metaphor originates from Herbert Simon, who described intelligence as having two blades: cognition and context. Large language model AI brings together these aspects to create a sense of intelligence.
+
+## Creativity and AI
+
+ELISE HU: Is AI capable of creativity itself?
+
+JOHN MAEDA: AI can’t create independently; it's like a highly capable parrot. It can accelerate human creativity by exposing users to new information, enabling innovative thinking.
+
+## Personal Use of AI
+
+ELISE HU: What’s your experience with AI in your daily work?
+
+JOHN MAEDA: I often leverage AI's capabilities for tasks I previously handled through programming, streamlining user research studies and idea generation.
+
+## Future of AI and Leadership
+
+ELISE HU: What could organization leaders do to harness AI's potential?
+
+JOHN MAEDA: Leaders should listen broadly. The traditional one-on-one meetings don’t scale. Effective leaders connect with everyone, creating bonds of trust that enhance organizational agility.
+
+## Learning from Entrepreneurs
+
+JOHN MAEDA: Both large corporations and startups can learn from each other. Startups have a closer proximity to customers and can teach larger organizations about effective communication and customer empathy.
+
+## Getting Started with AI
+
+ELISE HU: For listeners interested in AI, where should they start?
+
+JOHN MAEDA: Start experimenting with AI tools. Understand how they work, break down transparency barriers, and adapt to changes just as we did with the emergence of the World Wide Web.
+
+## AI and Accessibility
+
+ELISE HU: You are neuroatypical, and many people are. What potential do you see for AI in accessibility?
+
+JOHN MAEDA: AI serves as an incredible translator and interpreter, especially for those who struggle with reading emotions or social cues. It can make complex information more accessible.
+
+## Conclusion
+
+ELISE HU: That’s it for this episode of the WorkLab podcast from Microsoft. Please subscribe and check back for the next episode. If you have questions for leaders, email us at worklab@microsoft.com. Check out the WorkLab digital publication for transcripts and thoughtful stories on modern work.
+
+The WorkLab podcast is produced by Microsoft. I'm your host, Elise Hu. Until next time.

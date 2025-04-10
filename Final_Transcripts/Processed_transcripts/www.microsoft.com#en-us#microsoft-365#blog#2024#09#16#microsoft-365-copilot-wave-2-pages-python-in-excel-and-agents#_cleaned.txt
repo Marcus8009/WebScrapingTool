@@ -1,0 +1,80 @@
+file name: www.microsoft.com#en-us#microsoft-365#blog#2024#09#16#micorosoft-365-copilot-wave-2-pages-python-in-excel-and-agents.txt
+
+## Introduction
+
+We’re launching the next wave of Microsoft 365 Copilot, bringing together web, work, and Pages as a new design system for knowledge work.
+
+## Microsoft 365 Copilot Updates
+
+First, we’re announcing **Copilot Pages**—a dynamic, persistent canvas designed for multiplayer AI collaboration. It’s the first new digital artifact for the AI age.
+
+Second, improvements to Copilot in the Microsoft 365 apps are underway. Customers tell us that Copilot in Microsoft Teams has changed meetings forever. In fact, it’s the number one place where they see value. We plan to extend these advancements to advanced data analysis in Microsoft Excel, dynamic storytelling in PowerPoint, managing your inbox in Outlook, and more.
+
+Third, we’re introducing **Copilot agents**, making it easier and faster than ever to automate business processes on your behalf, enabling you to scale your team like never before.
+
+## Customer Feedback and Enhancements
+
+Nearly 1,000 customers have provided feedback on their use of Copilot and its impact. Based on this feedback, we have made more than 700 product updates and introduced over 150 new features this year. With the incorporation of GPT-4o and enhanced orchestration, Copilot responses are now more than two times faster on average, and response satisfaction has improved by nearly three times.
+
+Copilot is the new UI for AI, starting with **Business Chat (BizChat)**, a central hub that integrates web data, work data, and line of business data, facilitating better collaboration.
+
+## Copilot Pages
+
+Pages transform AI-generated content into a durable format, allowing users to edit, add to, and share their work with others. This creates a multiplayer, human-to-AI-to-human collaborative environment. 
+
+For Microsoft 365 Copilot customers, Copilot Pages will start rolling out today and will be generally available later in September 2024.
+
+In the coming weeks, **Copilot Pages** will be accessible to the more than 400 million users of the free Microsoft Copilot when signed in with a Microsoft Entra account.
+
+## Enhancements in Microsoft 365 Apps
+
+### Excel
+
+Copilot in **Excel** is now generally available and supports more advanced functionalities. Users can now work with data not formatted as a table, use formulas like XLOOKUP and SUMIF, and even perform advanced analysis with the new **Copilot in Excel with Python**, which is in public preview. This feature allows users to conduct forecasting, risk analysis, and data visualization using natural language, without requiring any coding skills.
+
+### PowerPoint
+
+The **Narrative builder** in **PowerPoint** is now generally available, enabling users to iteratively build presentations with Copilot. Upcoming features will allow users to add files for grounding topics and utilize company-branded templates for presentations.
+
+### Teams
+
+With **Copilot in Teams**, users can now analyze both the meeting transcript and chat. This feature enables users to ask Copilot about any unanswered questions during meetings, ensuring no contributions are overlooked. This feature will be generally available in September 2024.
+
+### Outlook
+
+To address email overload, **Copilot in Outlook** includes features such as **Prioritize my inbox**, which analyzes email content and context to highlight important messages. Users will soon be able to teach Copilot to prioritize specific topics or individuals. These features will be in public preview starting late 2024.
+
+### Word
+
+In **Word**, Copilot enhancements include quick referencing of web and work data, enabling faster drafting and collaboration inline. New features include an on-canvas start experience with suggested prompts and improved collaboration capabilities, both generally available.
+
+### OneDrive
+
+**Copilot in OneDrive** offers quick access to relevant information across files, providing summaries and insights without needing to open each document. This feature will be generally available by the end of September 2024.
+
+## Introducing Copilot Agents
+
+**Copilot agents** are AI assistants designed to automate business processes, operating seamlessly in the background. They range from basic prompt-and-response to fully autonomous agents. Copilot agents can be managed securely within the Microsoft 365 service.
+
+We also introduce **agent builder**, simplifying the process of creating Copilot agents directly in BizChat or SharePoint, leveraging organizational knowledge effectively.
+
+Copilot agents and agent builder will roll out in general availability over the coming weeks. 
+
+## Impact and Customer Success Stories
+
+Adoption of Copilot has surged, with customer usage growing more than 60 percent quarter over quarter. Notable user stories include:
+
+- Vodafone's investment in Copilot for 68,000 employees.
+- Amgen’s use of Copilot to accelerate rare disease research.
+- Teladoc's customer service agents saving five hours weekly.
+- Finastra’s marketing teams speeding up content production by 75 percent.
+
+Joerg Klueckmann, Head of Corporate Marketing and Communications at Finastra, stated, “In the past, if we were building a major campaign like the Finance is Open campaign, it would’ve taken us three months to generate the content. We can do that now with Copilot in less than one.”
+
+## Conclusion
+
+This is just the beginning of Wave 2 of Copilot innovation. In the next two months, we’ll share more about how Copilot is supercharging productivity and accelerating business value for every customer. 
+
+To start using Copilot, visit Microsoft365.com/copilot or download the Microsoft 365 app on your mobile device.
+
+For the latest insights on the future of work and generative AI, visit WorkLab.

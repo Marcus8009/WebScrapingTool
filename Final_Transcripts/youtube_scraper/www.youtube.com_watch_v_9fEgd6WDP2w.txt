@@ -1,0 +1,24 @@
+Copilot in Outlook
+can now help you manage your inbox
+like never before.
+Introducing Prioritize my inbox.
+It analyzes all your emails using both
+the content of your messages
+and the context of your job,
+to highlight what's most important.
+You can then sort by priority
+based on Copilot's analysis.
+Let's look at this email
+from a new customer.
+When you select it,
+Copilot shows you why it thinks it's significant,
+and highlights what action you need to take.
+This customer is important this quarter,
+so you teach Copilot
+that all emails mentioning them
+are top priority.
+Now Copilot knows to prioritize
+any email from them.
+Copilot is your partner -
+helping you manage your inbox,
+so you don't miss what's most important.

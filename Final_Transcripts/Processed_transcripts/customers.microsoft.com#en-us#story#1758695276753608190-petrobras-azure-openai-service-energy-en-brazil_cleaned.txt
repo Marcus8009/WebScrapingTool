@@ -1,0 +1,37 @@
+file name: https://customers.microsoft.com/en-us/story/1758695276753608190-petrobras-azure-openai-service-energy-en-brazil.txt
+
+## Introduction
+
+Brazilian oil, natural gas, and energy corporation Petrobras utilized the Azure OpenAI Service to develop ChatPetrobras, a text generation tool designed to enhance workflows, reduce manual tasks, and summarize reports for 110,000 employees.
+
+## Company Overview
+
+Petrobras is the largest company in Brazil, directly controlled by the Brazilian federal government, and employs around 50,000 people, including a significant IT department of 2,000 employees. With a 70-year legacy of innovation, Fernando Carneiro, AI & Data Science Manager at Petrobras, emphasizes the importance of digital transformation, stating, “We believe that digital transformation is not only a matter of technology but also process and culture.” He adds that the current emphasis on technology is largely AI-driven, as there is a strong push to integrate AI into business operations.
+
+## AI Implementation
+
+Starting in November 2022, Petrobras began using AI services to assist with office tasks, such as summarizing and rewriting reports and crafting messages for Microsoft Teams. Given the company's established history of employing AI in oil production technology, the IT department sought to create a secure AI tool that safeguards corporate data in light of stringent compliance standards and regulations.
+
+ChatPetrobras serves as an internal generative AI tool for summarizing reports and translating text in documents, emails, and internal messaging systems like Teams. Accessible through an employee portal, it integrates with Azure infrastructure and leverages Azure OpenAI Service technology to support users in developing their own generative AI applications while ensuring data privacy. The Microsoft Industry Solutions and Delivery team assisted in building this tool to meet Brazilian government information security, data protection, and compliance standards. During its launch, a live presentation provided onboarding instructions, as different business areas had varied levels of understanding. Fernando Carneiro noted, “The tool is pretty intuitive and easy to start using.”
+
+## Partnership with Microsoft
+
+Petrobras has had a long-standing partnership with Microsoft, utilizing various Microsoft and Azure services. The company established an AI Center of Excellence to guide employees in using AI effectively while adhering to company policies, fostering innovation, and ensuring safe experimentation. Carneiro remarks, “It was easy to partner with Microsoft because Microsoft has invested a lot in AI, and with that, you have exclusive use of its Azure OpenAI models.”
+
+## Tool Functionality
+
+“Employees use ChatPetrobras to create emails, posts for Teams channels, and to summarize meeting content,” Carneiro states. The chatbot was designed with strict parameters to prevent the disclosure of confidential information, a crucial requirement in the oil and gas industry. Beyond summarization and translation, the tool generates code for new applications, especially for the IT department, aiding developers in writing, debugging, and deploying code more efficiently. According to Carneiro, “We’ve received a vast majority of positive feedback, because we can do everything that we did with AI previously but with corporate data privacy and security guaranteed.” The tool has significantly reduced the time employees spend on tasks, minimizing manual labor while ensuring corporate data is secure.
+
+## Development Experience
+
+The Petrobras IT department reported a constructive collaboration with the Microsoft Industry Solutions Delivery team. Carneiro expressed appreciation for the team's expertise, stating, “I was lucky to be provided a team of engineers that knew exactly what they were building. They have excellent technical skills and that’s why we decided to work with the team again for the second phase of developing ChatPetrobras.” The deployment process at the company took an anticipated five months.
+
+## Future Outlook
+
+Petrobras plans to explore the capabilities of ChatPetrobras further, aiming to enable the tool to answer questions based on internal data and test different model versions for optimal results, all contributing to its mission of democratizing AI use. The company intends to launch a question-and-answer service shortly, leveraging retrieval-augmented generation (RAG) and large language model (LLM) architectures. Employees have expressed satisfaction with the tool’s functionality, security, and productivity enhancements. Carneiro summarizes, “ChatPetrobras is fast and very simple. It replicates our previous AI experience with new, industry-specific added functionalities and privacy and security.” In doing so, Petrobras continues its 70-year innovation legacy, positioning itself as a significant player in the AI sector.
+
+### Quotes
+
+“We’ve received a vast majority of positive feedback, because we can do everything that we did with AI previously but with corporate data privacy and security guaranteed.”
+
+— Fernando Carneiro, AI & Data Science Manager of the Center of Excellence in Analytics and Artificial Intelligence, Petrobras

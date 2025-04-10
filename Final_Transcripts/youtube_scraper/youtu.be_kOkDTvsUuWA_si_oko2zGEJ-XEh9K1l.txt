@@ -1,0 +1,1184 @@
+Good morning, it's fantastic
+to be back in London and in the UK.
+And, especially at a time like this,
+when there's a new tech platform
+being born, it's exciting to be able to
+sort of talk about it and see its impact
+in, the UK and, and talk about
+sort of that,
+that vibrancy that comes,
+with these platform shifts.
+In fact, I was just
+recounting this morning.
+I mean, Microsoft's been in the UK
+for four decades.
+I myself, have been coming
+to the United Kingdom
+for the last three decades across
+I think I first, in fact,
+I was thinking about it,
+the first keynote,
+obviously, I didn't do the keynote,
+I did a breakout session
+back in the early 90s,
+was I think Excel
+was what I did.
+It's sort of fascinating.
+I came here when
+the PC client server was being born
+and then went through
+the web and the internet,
+and then cloud and mobile.
+And now here we are,
+at the very beginning
+of what's, at least,
+this new tech shift to AI.
+And I think it's always helpful,
+and I've found it very helpful
+to ground myself in
+what's the core driver, right?
+I remember even joining
+Microsoft back in '92,
+the implicit sort of understanding
+I had, at least of the tech arc,
+was all Moore's Law.
+Basically, all I had to do -
+I, in fact,
+I remember going to the PDC
+in '91 and saying,
+"Wow, it's so clear
+what's going to happen next,
+which is x86
+and the PC architecture
+will not just win the PC,
+but it's going to
+basically win the server."
+And it just sort of was the case
+by even the end of the '90s.
+And the same thing is happening,
+in some sense, in terms of a new law
+that I think we can all track,
+which is the scaling laws
+as people describe them in AI.
+It's an empirical law, right?
+Like Moore's Law
+was also not a physical law,
+it was just an empirical observation
+that we talked about it
+as if it was a law.
+But it held true,
+and similarly, the scaling laws
+basically are showing that
+every six months or so,
+we now have doubling of capacity.
+In fact, one of the things
+that I think a lot about
+is performance,
+you can even say tokens,
+per dollar per watt.
+That's the new sort of currency.
+And you measure it by that
+every six months we have doubling,
+and some of it comes
+because of compute power.
+A lot of it actually comes from
+just better techniques around
+how to use data, and algorithms.
+And so this is something that's
+inflected, right?
+You could say this began
+at the beginning of the DNN era
+in the early 2010's, but 2018,
+2019, with the LLMs and the
+transformers, they inflected.
+And it's sort of continues.
+It manifests in three fundamental ways.
+The first thing is,
+I think computing interface,
+as we know of it,
+is fundamentally changing, right?
+Once you have a natural language,
+which is multi-modal even,
+there is image, speech,
+text, video, in and out.
+That means every computer interface
+is going to change.
+You have increasing
+reasoning capabilities.
+If you look at even
+what just came out with o1,
+it just gives you whether it's planning,
+reasoning capabilities, right?
+For 70 years of computing,
+history has been about digitizing
+people, places and things
+and making sense of it.
+We now have a new reasoning engine
+to make sense of it.
+And then lastly, you can feed it
+more context, more memory.
+So you put all these three things
+together, you're building out
+a very rich AI or agentic world,
+in which you are going to have these
+AIs or agents, right?
+There will be some AIs and agents
+that are personal agents.
+They will be things that will work
+in the context of a team,
+in the context
+of an organization or business process,
+or even cross-organization.
+So this rich tapestry
+of AI agents that augment,
+everything else that we built, right.
+So that's the other part.
+The entire digital infrastructure
+and tools that we today have,
+get augmented
+in this agentic world,
+with all these AI agents
+that we build,
+using the scaling laws
+as the underlying force.
+Now, of course, it's great
+all this technology is going to be there.
+The question is, what do we do?
+And it's how do we, most importantly,
+parlay this, translate this
+into the most important mission
+that we have,
+as a company, as individuals
+and organizations,
+is to be able to empower people,
+to do things
+that they couldn't do previously
+with any other previous technology era.
+So to me, that's the ultimate test,
+which is can we use -
+Clare started by talking
+about how right here
+in this country,
+some of the most seminal technologies
+of the industrial era
+and the Industrial Revolution
+were all created.
+And the question is, can we now
+go back to that
+and really have that type
+of profound impact in
+human life and, condition?
+But really
+whether it's scientific discovery
+or whether it is productivity,
+can we see that flourishing
+of innovation, because of technology?
+And so that's our goal,
+that's our mission
+to empower every person
+and every organization right here
+in the UK to achieve more,
+whether it's small businesses
+becoming more productive,
+large multinationals right here
+becoming much more competitive globally,
+public sector becoming more efficient,
+health outcomes, education outcomes.
+So that's really, what this is all about.
+Now, to us,
+to achieve that, we are
+building three platforms.
+The first is Copilot.
+To us, you should think of Copilot
+as the UI for AI.
+That's the simplest way I think of that.
+We then have the Copilot and AI stack.
+So to be able to -
+for you to build your own AIs
+and AI agents and copilots,
+we have a full stack.
+And then lastly,
+this new set of devices,
+which are these Copilot devices.
+And so I want to talk about
+each of these platforms,
+starting with Copilot.
+Now, as I said,
+if you start with this idea that
+this rich agentic world,
+ultimately, does need to meet us
+and we need to meet it,
+that means you need a
+UI interface, right?
+Just like the PC
+or the phone was the user interface,
+or the apps on a phone
+or a PC with the interface,
+to essentially digital technology.
+These Copilots -
+and Copilot is the UI
+for all of this AI, right?
+Even in a world where
+there are a lot of agents
+that are working autonomously,
+they do need to raise exceptions,
+get permissions from us,
+and the question is
+how does that happen?
+It happens through this
+new organizing layer
+for how, in particular, work gets done.
+in fact, work,
+work artifact, and workflow
+is going to change.
+A great example of this is
+just a couple - a month ago,
+we launched something called Pages.
+Just like, say,
+back in the day in the '90s,
+we launched Excel or Word,
+which were basically editors
+to create new artifacts.
+Pages is the first, I would say,
+user experience
+to create new AI-first artifacts.
+I can search the web or my work
+for retrieving information,
+and then I can put it into Pages,
+and it's a document
+that I can then share
+across the organization,
+and I can work with AI and humans.
+In fact, I sort of say,
+the metaphor I use is,
+I think with AI
+and work with my colleagues at work.
+That's the new workflow.
+What was the previous workflow?
+I thought on my own.
+I created artifacts
+and I shared it across the organization
+and collaborated.
+But now, I not only
+have a cognitive amplifier
+effectively with AI,
+where I do my work,
+and then I create artifacts
+and I collaborate with my colleagues
+in order to get things done.
+And so that's really the beginning
+of this Copilot era,
+where it's just not about
+a chat interface,
+but it shows how chat is
+just one modality
+of being able to retrieve information,
+but it does lead to more
+sophisticated workflows and collaboration.
+Now, you extend -
+So the other thing is that
+this is not just about
+any particular artifact,
+edit, or workflow we created,
+but you can extend Copilot
+with any agent you build.
+In fact, Copilot Studio
+is a low-code, no-code
+way for you to be able to build agents.
+And these agents
+are really grounded
+in a rich set of data sources
+starting with, in fact,
+the most important database
+in most organizations
+is the database
+that contains
+all your office information, right?
+Who works for whom?
+Who are my colleagues on this project?
+What documents are there
+related to a particular team
+or a project?
+What is the relationships
+between all of these documents
+and people and projects?
+All of that
+and all the emails you've had,
+Teams conversations you've had,
+that's all, in fact,
+in a first-class database
+called the Graph,
+or the substrate that is now exposed
+through a Graph in M365.
+You combine that with Dataverse,
+which is all the business process data,
+data that you may have collected
+into something like Fabric,
+all that's available for these agents.
+In fact, a great, simple,
+example of this,
+is let's say you wanted to build
+a field service agent
+that you want to interface into Copilot.
+All you got to do
+is give it a system prompt, tell it that
+"Hey, I want you to be
+a field service agent",
+point it to a SharePoint site
+where there's a bunch of documents
+related to field service,
+add to it even additional data sources,
+in this case,
+their dynamics,
+as the system of record
+for field service.
+And you have an output
+which is essentially
+a field service agent,
+which now you can talk to,
+and have a conversation
+with, just like you would
+with any other regular
+copilot conversation.
+So that simplicity,
+it's kind of like back in the day,
+we just created an Excel spreadsheet.
+It's no more mystical than that.
+Just like how you could create
+an Excel spreadsheet
+that was a forecast,
+you can now create AI agents
+using a low-code, no-code tool
+like Copilot studio,
+put it into a copilot.
+You can even think of these
+as the new form of applications,
+and that any one of us can create.
+So it's not even,
+that you have to wait for someone else
+to create this application for me
+to use it.
+So, that's -
+the Copilot and Copilot plus agent
+ecosystem that we're building out.
+The impact of this is tremendous.
+In fact, right at Microsoft,
+if I look at it,
+if you take functions like,
+let's say sales and marketing,
+we now have quantitative results
+which are double-digit increases,
+in throughput, effectively.
+So this is top-line impact.
+You take something like
+customer service helpdesk,
+IT helpdesk, HR helpdesk.
+That's where, again,
+our employee engagement,
+our employee satisfaction,
+our customer service
+agent satisfaction is going up
+and the waste in costs are coming down.
+Same thing with legal,
+same thing with finance.
+So we now have at-scale evidence
+of how these tools
+are fundamentally changing.
+I would sort of say increasing value
+and reducing waste.
+So what industrial companies in the past
+have done with things
+like lean is happening
+finally with cognitive work at scale.
+And it's also happening
+right here in the UK.
+In fact, I had a chance,
+to see customers
+who are already using this
+across the board,
+and it's fantastic to see the local
+Copilot examples.
+I had a chance to meet
+with Clifford Chance,
+which is a legal firm.
+and, they are doing very -
+They explain the workflow that happens,
+around M&A transactions,
+and it turns out that using things
+like Copilot and Copilot Studio,
+you can create these agents
+that streamline that entire process.
+I also had a chance
+to meet with Unilever.
+I had not realized this, but for
+an organization like Unilever
+that has a lot of top-line
+marketing spend
+because after all, they reach
+3+ billion users around the world
+with multiplicity of products.
+One of the biggest things they do
+is these creative briefs.
+And the creative brief,
+the fidelity of it is so critical
+for them to be able to then
+and have the marketing impact.
+But the point is
+the drudgery involved
+in creating the creative brief
+or the efficiency or the,
+you know, all the accuracy of it,
+that's where they've gone to work
+and created this fantastic tool
+that it's just changed the -
+Both the prep of it and the quality of
+these marketing briefs.
+So these are just two examples of -
+customers of ours
+who are already deploying
+these AI agents and copilots to drive,
+real high-impact productivity inside
+of their organization.
+And of course, today,
+the exciting thing for us
+is that we are making the announcement
+with the government
+of the United Kingdom
+to really ensure
+that this diffusion of tech happens
+not just in the private sector,
+but happens across the public sector,
+because at the end of the day,
+I think perhaps
+one of the biggest pieces of impact
+we'll have is in the services
+that governments offer,
+whether it's in health,
+whether it's in education,
+whether it's in energy,
+or any sector of the government
+that would be transformed
+using this technology.
+And it starts by actually putting this
+in the hands of civil servants all over,
+and for them to be able
+to use it in their own work,
+because after all, when I talk about
+reducing the drudgery,
+improving productivity,
+which then impacts the services
+our citizens get,
+this is the place to have impact.
+And so we are very excited
+about this announcement.
+And in fact, talking about the skilling -
+The UK, the skills around AI,
+this is LinkedIn data -
+I saw this last night,
+it was fantastic to see how
+we now have the monotonic increase
+in the total number
+of people who are taking credit
+for all the credentials
+they've gotten around AI skills.
+And when you see something
+that's grown by 88% since 2019,
+it speaks a little bit
+to what Clare said
+in the opening remarks
+about the structural advantage
+of this economy.
+Because the human capital and
+the rest of the infrastructure
+that's already getting built,
+I think can catapult the United Kingdom
+in terms of what it can do in the AI era.
+And it's fantastic to see.
+And of course, we're not, stopping here.
+What we are really excited about is
+what's coming next.
+I'm very, very pleased
+to announce today, for the first time,
+that we are taking the next big step
+in the AI platform
+with the announcement around
+autonomous agents that you can create.
+In fact, today
+you will see us
+both make announcements around tools
+that are going to help
+create these autonomous agents,
+but more importantly, the agents themselves
+that we are building for products
+like Dynamics 365,
+which ultimately can dock to
+something like Copilot
+when it needs a UI for human connection,
+but also can stand alone.
+And to show you all of this,
+I wanted to introduce up on stage
+my colleague Jared Spataro, Jared.
+Thank you, Satya.
+I'm sure many of us are familiar
+with McKinsey and Company,
+one of the most successful management
+consulting firms on the planet.
+Now, for McKinsey,
+client experience is literally everything,
+and they're always working hard
+to ensure that they're streamlining
+and improving every touch point
+with their clients.
+So imagine our delight
+when they agreed to partner
+with us to use Copilot Studio
+to create an autonomous agent
+to streamline a portion
+of that client experience.
+Let's take a look.
+It all starts with an incoming email
+from a prospective client,
+much like you see on the screen right here.
+Now, previously they had had people
+on the back end essentially
+receiving these emails, parsing
+through them and figuring out what to do next.
+Who should it be routed to,
+what expertise did they have in the firm?
+But this is where
+the autonomous agent comes in.
+Now, an email comes in
+and the agent springs into action.
+What you see here is
+that it will begin to parse out the email,
+moving through the ambiguity
+of human language to, for instance,
+find out what the engagement is about,
+to check the engagement history,
+to also map it to their industry
+standard terms,
+and then finally
+to try and find the right person
+to take the next step within the firm.
+With all of this information in hand, the agent
+then goes about writing an email
+that takes all of this information
+and summarizes it for the receiving partner.
+And what you see on the screen is exactly that.
+In comes a whole bunch of human written email.
+The agent processes it, summarizes it,
+and sends it to the right partner
+in the firm to take that very next step.
+Now, it's worth pausing for just a moment here
+to reflect on what you're seeing.
+It happened so fast you might miss it.
+But essentially, this agent
+has been given a loose set of instructions,
+kind of like you would to a human, and it deals
+with all of the messiness
+of human communication,
+figuring out
+what the right next
+touch point is for the customer.
+Now, this is magic.
+But it's only half of the magic
+because now, we're going
+to go behind the scenes to see how easy it is
+to actually create an agent just like this.
+For this, we will move over into Copilot Studio.
+Here, you see that
+we have programmed up with McKinsey,
+the agent, but not using a sophisticated
+programming language,
+instead using natural language.
+The same way that you would tell a colleague
+to get ready to do this task.
+You also see that what makes this agent
+autonomous is that we can set
+what's called a trigger.
+In this case,
+the trigger is set to watch an email address
+and to react immediately
+when an email comes in.
+But in fact, you can set it to look for events
+across a whole wide range of systems.
+Sitting there working for you 24/7,
+waiting for an event
+to come that gets it going.
+You also, just like a regular human colleague,
+add knowledge.
+Here we see a Word document,
+a SharePoint site
+and a database about engagements,
+but of course you can add
+additional knowledge sources. That includes
+line of business systems
+like SAP, or ServiceNow, or even databases.
+And finally, to finish up
+what you give this agent to do its work,
+you give it a set of actions.
+And we saw those in the flow.
+These are actions that include things
+like pulling out the relevant
+information or summarizing
+what a human has written.
+All of this together makes the agent powerful
+because it can deal, again,
+with all of that ambiguity
+that a human throws at it.
+Now, what we saw was one email coming in
+about one new client engagement.
+But the exciting thing here
+is that this scales.
+How does it scale?
+Well, to see that we’ll
+go over to the activity pane,
+where we can
+look at the long list of engagements
+that it's working on.
+Zooming in up top, for instance,
+we can see that
+it's worked on over 1,300 engagements
+and there are 33 in progress.
+If we want more details,
+we can go into the Analytics tab.
+What this means is that
+this agent is always
+working on behalf of the firm
+and that's very exciting for us.
+Now, from here we also see that,
+although the agent’s amazing,
+it does sometimes need some human help.
+So we're going to jump into a case,
+the second from the top here,
+where we will see that
+it gets a little bit stuck.
+As you look, it's gone through those steps
+that we saw previously, but it's stuck here
+at that one where it's looking for the partner.
+And if we zoom in, we can see why.
+Here, for instance,
+we see that it's picked the right partner,
+but that partner has now left the firm.
+It has an instruction that says
+if that's true,
+it needs to escalate to a human manager
+to give it someone else to go to.
+Now, to see what that looks like,
+we're going to switch over to Copilot
+and see that interface
+with that human manager.
+Here at the bottom right, you will see
+that a notification pops up in Copilot.
+Then the manager gets all the information
+he or she needs
+and can provide the right person to route
+the email to.
+Back at the ranch, going back to our agent,
+we can see that
+it takes that information
+and fills out what it needs to do.
+Now, we're excited about this
+because of the business value it can drive.
+McKinsey, in its trials has shown
+that it can reduce lead time by 90%, reducing
+administrative overhead by 30%.
+And as you look at this list,
+what we envision is an orchestration layer,
+just a bunch of agents
+that can be out there
+helping individuals,
+teams, and entire functions to streamline
+and automate their processes,
+no matter what industry they're in.
+They're so easy to make, anyone can do it.
+You design and set these Copilots out
+to work in Copilot Studio.
+You interact with them in Copilot.
+We're very excited about the technology
+and to give you a sense for how it's
+already being used,
+why don't we roll the film
+and see a couple of our customers?
+Alright.
+So hopefully that gives you
+a bit of a feel for how Copilot
+is evolving to becoming
+this organizing layer
+for work, workflow, and work artifacts
+and Copilot Studio plus agents
+is really this orchestration layer
+that docks with the copilot in helping
+all these agents work together
+in the context
+of whether it's individuals' work
+or organizational work
+or business process.
+So that's really
+how all of this comes together.
+So now I want to move
+to the next platform,
+which is the Copilot plus agent stack
+or the AI platform.
+Now, ultimately,
+you want to be able
+to have every layer
+of the technology stack underneath
+what we have done
+with Copilot and Copilot Studio
+and the agents that you just saw,
+all available to every software
+developer to be able to build
+any AI system of their own.
+And it starts
+with having the widest,
+broadest footprint of raw infrastructure.
+So when we sort of
+think about Azure,
+we think about Azure
+as the world's computer.
+And we're building this out
+in 60+ regions
+right here in the United Kingdom,
+we have UK West, UK South.
+In fact, last year we were excited
+about the announcement
+on expanding this
+with two and a half
+plus billion dollars of investment.
+And this is going to be ongoing.
+We're going to bring the best
+infrastructure to the UK,
+both traditional compute and AI compute,
+so that you have
+the base infrastructure available.
+And we're doing a lot to make sure
+that this infrastructure
+is optimized for AI workloads.
+Starting right from silicon,
+whether it's the work
+we're doing with NVIDIA.
+In fact, I was just looking at
+even the GP-200s
+that are coming on -
+I mean, in pilots,
+with all the liquid cooling
+that goes with it.
+In fact, we borrowed some of
+the liquid cooling work
+because we were doing it
+for our own silicon with Maia,
+and that's what's available now,
+even across different silicon.
+We're working with AMD,
+and so we have fantastic partnerships
+on the silicon layer.
+You then parlay that, by really building
+the best optimizations,
+whether it's for training
+or for inference,
+so that you can then build your copilot.
+So a lot of work going on
+in core infrastructure.
+Now, the other very important
+consideration for any developer building
+AI applications is data.
+Because ultimately, whether to train
+or to inference
+and do things like retrieval,
+augmented generation,
+you need to really have your data
+estate in order.
+And in order to do that,
+that means you want to be able
+to bring all your data to the cloud
+and rendezvous with AI, right?
+So in fact, this gravity,
+wherever there is AI compute
+is where data will go.
+And so one of the things that
+we are doing is whether it's
+your Oracle estate,
+whether it's your Snowflake estate,
+whether it is anything else,
+you should be able to bring that
+to the cloud.
+And then on top of it,
+we are ourselves building a very
+first-class, I'll call it,
+cloud native infrastructure,
+data infrastructure,
+for everything from OLTP,
+whether it's Cosmos DB,
+whether it's SQL,
+or whether it's Postgres or Fabric,
+which is a first-class
+analytics database built for the AI era.
+So the data estate is in a place
+where perhaps
+some of the best work is happening.
+And in fact,
+thinking about AI plus data,
+there's no such thing
+as an AI application
+that's not stateful, right?
+So AI APIs are stateless,
+but once they meet a real application
+and a real workload,
+they become pretty stateful.
+In fact, ChatGPT, by the way,
+is one of the biggest customers
+or users of something like
+Cosmos DB for example,
+or Azure Search as another example.
+So it just shows
+you like once you sort of
+build an application,
+like Copilot or ChatGPT,
+you need the data estate
+to be robust.
+Now, we are also building an app server.
+So if you set up, you have infra,
+you have data,
+then you have to have
+an application server.
+In fact, I remember even coming
+in previous eras here
+and talking about dot net,
+I think Scott's going to be here
+later talking about AI.
+He's the guy who
+did a lot of our dot net work as well.
+And guess what?
+We're back again
+with another new app server era.
+In this case, by the way,
+the app server we built
+for cloud native applications,
+whether it's containers,
+whether it's app services,
+all of those,
+our AKS and functions are all still needed.
+In fact, again,
+when I look back at, say,
+the architecture underneath ChatGPT,
+what's the base,
+sort of compute provisioning that you do.
+In fact, for every GPU they use,
+they have a ratio
+of how much regular compute
+with AKS provision they have.
+So you start with app servers.
+Then there is a new AI app server,
+and the AI app server in fact starts
+with the broadest model selection.
+We are very excited
+about our OpenAI partners
+with all of the innovation,
+whether even o1, to GPT4o,
+all of the latest frontier models,
+but it's also
+everything in the open source,
+whether it's from Llama and Mistral
+or other closed source
+providers like Cohere.
+So you have the broadest selection
+of models,
+and once you have the broadest selection
+of models,
+the next step in AI app service is
+for you to be able to do
+SFT, or supervise fine-tuning, of it.
+And so you have,
+fine-tuning as a service even,
+on top of all these models.
+So that you can build
+this into your application.
+You have all the tools for things
+like retrieval, augmented
+generation, right?
+So things like Azure
+search help you ground your data -
+Or rather, ground your
+applications and your use of LLMs,
+with data.
+On top of that,
+you even have services
+to be able to make sure
+that you have guardrails
+around your application.
+So we are very excited
+about all of the innovation
+happening across the length
+and breadth of the app server.
+So you have the app server,
+you have the AI app server,
+and then you have the best toolchain.
+The thing that I'm most proud of
+is Microsoft, since 1975 to today,
+gets most excited
+when talking about the tools
+we build for software developers, right?
+That's kind of what is core to us.
+With VS code and GitHub
+and GitHub Copilot,
+there is an absolute new frontier,
+for what a software developer
+can do with this toolchain.
+In fact, one of the coolest things
+I have seen recently is,
+with o1 coming to GPT4o,
+or to GitHub Copilot,
+you can sort of use AI,
+to do the next level of optimization.
+I think what you have on the slides
+behind me is the auto encoder we use
+for GitHub Copilot
+is being optimized by o1.
+So think about the recursiveness of it,
+which is we are using AI to build
+AI tools to build better AI.
+So that's sort of -
+It's just a new frontier,
+and in fact GitHub -
+I think next week or the week
+after is GitHub Universe.
+I can't wait for it
+in terms of what you will see us
+do with even GitHub Copilot Workspace.
+In fact, right here in the UK,
+we now have
+3.7 million GitHub developers.
+It's fast growing.
+It's I think the fifth largest in the world.
+We have, I think, 22% growth.
+It's fantastic to see.
+And I think there's going to be
+a real inflection.
+Because the barrier
+to entry, I always joke now every weekend
+I can go back and code again,
+which is just fantastic just because
+thanks to GitHub Copilot,
+anyone of us can go
+get the repo, clone it,
+and get to work on it
+and actually finish
+a project in finite time.
+And so it's a very exciting stuff.
+And then you can see it right here.
+In fact, this morning
+I had a chance to meet with many
+partners of ours, in fact,
+starting with, British Heart Foundation.
+What they have been doing,
+using machine learning
+and AI for a long time,
+it's been fantastic.
+But even things like using
+Azure Speech Services
+to do simulation
+of these emergency calls,
+I had not realized how important it is
+to actually help people get comfortable
+making even the emergency call.
+So that's just a great example
+of how you empower people
+at crucial times.
+HSBC has taken -
+there are many, many customer journeys,
+but one of the journeys they showed
+is how a relationship manager
+doing credit approvals,
+that entire process
+has been transformed using
+some of the AI tools
+they built effectively,
+their AI agents themselves,
+that intersect with their mobile apps
+as well as the apps applications
+that relationship managers use.
+I used,
+I had a chance to meet
+the developers on Mondra
+who are doing things
+which are pretty unbelievable.
+They are building an entire digital twin
+for the food safety and food supply chain
+for every retailer in the UK
+and beyond,
+in order to be able
+to improve the sustainability of it.
+So the the real world impact
+that this product is going to have,
+is fantastic to see.
+And one of the startups out of here
+that I've been excited
+about for a long time, is, we've,
+and Wayve has taken an approach,
+which is an AI-first approach
+to ADAS, right, to how to build,
+really from first principles are very new
+AI-driven,
+way to think about automation.
+So let's roll the video
+to give you a flavor for it.
+So it's fantastic to see again
+that rate of diffusion,
+where it's no longer about,
+hey, this is going to come,
+but you can see
+how already
+some very sophisticated applications,
+and use of these platforms right here.
+So I want to
+then move to the last platform,
+which is the Copilot devices,
+Copilot+ PCs.
+We just launched a little over
+half a year ago.
+We're very, very excited
+about what this means.
+This ushers in a complete new era,
+where you have the CPU,
+the GPU, and an NPU
+all available at the edge.
+Because if you think about it, up to now,
+the scaling laws have worked
+and worked super well in the cloud.
+But I think going forward,
+what's going to happen
+is this AI area is going to be defined
+not just by
+what's happening in the cloud,
+but what's happening in the edge.
+And we will have,
+in fact, fundamental breakthroughs,
+even in some of the model architectures
+which allow for
+this hybrid use of the fabric,
+that gets laid out.
+And so this is not about thinking of this
+as an old world client and server,
+that won't work.
+You've got to think of this as one
+continuous distributed fabric.
+And that's our architectural approach.
+We don't think of the Copilot PC
+standing on its own.
+Of course, you can use it for privacy,
+but more importantly,
+you can use it in conjunction
+with everything that you're
+doing in the cloud.
+And that's sort of
+what these devices will usher in.
+And just to give you a flavor
+for what's happening with these
+devices, let's roll a video.
+It's one of the exciting things,
+for those of you are gamers,
+is going to be
+when you have your GPU in full tilt,
+and then you have all
+your NPU left for
+all the vector operations.
+That's sort of the type
+of application development
+that is coming to life.
+And it's just going to be a new platform,
+just like how people build
+novel new applications for the PC.
+With the GPU,
+you're going to start seeing now,
+people build for essentially
+what is going to be an NPU
+plus GPU plus CPU world.
+And, it's going to be
+a pretty interesting world.
+So I just want to close out
+by talking about
+what perhaps underlies
+all these three platforms,
+which I think is very critical,
+which is trustworthy
+AI and trustworthy privacy
+and trustworthy security,
+because trust in the technology
+ultimately is going to be core
+to all of the diffusion I talked about,
+because if you don't trust it,
+you're not going to use it.
+And that's not going to be any good
+for anyone.
+And so what we are doing
+is pretty straightforward.
+One is first
+have a set of core principles, right?
+Whether it's in security,
+whether it's in privacy or in AI safety,
+have a concrete set of principles.
+But more than just the commitments
+we make,
+the more important thing is what are the,
+the actual capabilities we are building,
+to make progress on the commitments
+we made.
+And in fact, even today,
+when you think about -
+Let's take security,
+you're deploying a new AI model.
+The first thing you want to really do
+with security is to test
+the adversarial attack. Right.
+It's not just finding bugs.
+but it's more about, like,
+something like prompt injection.
+What does it do
+to this model?
+And so to be able to simulate
+the adversarial attack,
+that's an important consideration,
+or things
+that we are doing with confidential
+computing around privacy.
+That's another thing that one has to do
+in conjunction
+with sort of the latest
+and greatest models.
+Same thing around, for example,
+we know LLMs hallucinate, right?
+So when you talk about AI safety,
+one of the things is to, in fact, use
+AI to measure groundedness of any output.
+So these are things
+which are concrete capabilities
+that we are building in
+to our platform as we make progress,
+so that software
+developers have trust
+and people who use products
+that software developers
+build using AI platforms
+have trust in the products
+that they're using.
+So that's, I think, core to us.
+And all of this
+leads back to where I started,
+which is ultimately technology
+has to translate into real world impact,
+one person and one organization
+at a time, right here
+in the United Kingdom,
+for us to be able to drive that
+economic surplus and growth,
+that truly then improves the outcomes.
+in this economy.
+And so I couldn't be more excited
+about what I think all of you
+and your partners will do,
+with all this innovation.
+And I look forward to coming back here
+and seeing some of that innovation
+in the years to come.
+Thank you all very, very much. Thank you.

@@ -1,0 +1,41 @@
+file name: www.microsoft.com#en/customers/story/1703814256939529124-volvo-group-automotive-azure-ai-services.txt
+
+## Introduction
+
+Known for its innovation in support of both employees and customers, Volvo Group, a leading manufacturer of trucks, buses, construction equipment, and industrial engines, aimed to streamline invoice and claims document processing. The organization needed a solution to extract data from images, such as photographs and stamps, and to translate documents into multiple languages. With Microsoft Azure as its enterprise cloud solution, Volvo Group decided to develop a solution utilizing Microsoft Azure AI services and AI Document Intelligence. After a six-week pilot and a four-month production timeline, the solution was launched, simplifying document processing and achieving its objectives of data extraction and translation, resulting in over 10,000 saved manual hours.
+
+## The Challenge
+
+“We chose Microsoft Azure AI primarily because of the advanced capabilities offered, especially with AI Document Intelligence,” states Malladi Kumara Datta, RPA Product Owner at Volvo Group.
+
+Volvo Group co-founders Assar Gabrielsson and Gustaf Larson articulated that “Automobiles are made by and for people.” This guiding principle drives Volvo's mission to empower employees in creating safe, high-quality vehicles that meet evolving customer needs. Annavi Pushpalatha, Head of RPA & Workflow Digitization at Volvo Group, emphasizes, “By using our innovation power to develop new solutions, we strive for a better everyday life for people around the world.”
+
+As a global leader in its industry, Volvo Group harnesses this innovative spirit across all business segments, benefiting everyone from manufacturing and service personnel to customer experience professionals in 190 countries. This innovative approach also aids customers, delivering enhanced driving experiences and tailored financing solutions.
+
+## Implementation of the AI Solution
+
+The company faced two critical scenarios that needed transformation: processing essential internal and customer-facing paperwork, including invoices and credit notes. Datta explains, “The data was complex and came in various forms, including emails, digital and scanned PDFs, and handwritten bills.” Complications arose due to documents containing images or stamps, with many including tables spread across multiple pages, and other types of documentation like freight receipts, contracts, and terms and conditions.
+
+“Our automation team was tasked with developing a solution that could enhance efficiency and better utilize the diverse data we were collecting,” says Datta. A primary aim was to accurately extract data from documents with images and handwritten notes while also translating documents into various languages as needed.
+
+Datta adds that the solution was designed not only to read data but also to make decisions based on it—determining whether translation was necessary and directing data to the right teams or archiving it, depending on the process stage.
+
+## The Role of Microsoft Azure AI Services
+
+Volvo Group sought a flexible platform that could evolve alongside Microsoft Azure AI services and advanced tools like Azure AI Document Intelligence. “We needed advanced capabilities, especially with AI Document Intelligence, to create a solution that extracts data from images, including photographs, stamps, and overwritten text, to gain comprehensive insights from the documents,” explains Datta. 
+
+“The documents are received through Microsoft Outlook, and we utilize Power Automate cloud connector for Office 365 to copy specific PDF files,” states Pushpalatha. “Using Azure Data Factory, we preprocess documents to enhance quality—removing noise from scanned images, rotating and sequencing images, and trimming unnecessary pages. The output is formatted as either an XML or CSV file, depending on the division within Volvo Group that will utilize it.”
+
+Additionally, Volvo Group incorporated Power Automate to maintain a data table in SharePoint, documenting processing times for each document. This data links to a Power BI report to monitor key metrics such as average processing time, throughput time, and automation success rates. “The Azure solution gives us substantial flexibility to innovate,” Datta comments.
+
+## Results and Future Directions
+
+“Working with Microsoft and the Customer Success Unit, we transitioned from a six-week proof of concept to a four-month production timeline,” remarks Pushpalatha. Since its rollout, the solution has been implemented in multiple markets with further expansions planned to enhance the employee experience. Future iterations will introduce additional features to expand pre-processing and automation capabilities.
+
+Since its launch, Volvo Group has saved approximately 10,000 manual hours—over 850 hours monthly. Datta highlights, “The time savings are significant, and automation leads to improved quality. However, our focus is on enhancing both employee and customer experiences through seamless document processing.” 
+
+Pushpalatha echoes this sentiment, stating, “We know this directly impacts the relationships between Volvo Group divisions and customers. Increased employee satisfaction creates a better overall experience.”
+
+## Conclusion
+
+The successful implementation of Microsoft Azure AI services and Document Intelligence has not only improved the efficiency of document processing but also transformed the employee experience at Volvo Group. The positive feedback from employees indicates a shift toward more innovation-focused roles, enhancing engagement and productivity across the organization. For more information about Volvo Group, connect with them on X, Facebook, and LinkedIn.

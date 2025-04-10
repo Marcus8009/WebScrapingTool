@@ -1,0 +1,43 @@
+file name: www.customers.microsoft.com#en-gb#story#teladochealth-power-apps-health-provider-en-united-states.txt
+
+## Introduction
+
+Teladoc Health uses Microsoft Copilot for Microsoft 365 to revolutionize its telehealth operations, automating routine tasks, boosting efficiency, and increasing productivity. This transformation has resulted in considerable time savings, faster client service response times, and streamlined onboarding processes. The interoperability of Copilot has strengthened Teladoc’s operational capabilities and improved leadership engagement and employee satisfaction.
+
+## Impact of Copilot
+
+“Copilot saves us thousands of hours as an enterprise just through eliminating daily processes—it’s driving operational efficiency across Teladoc like a personal assistant that never sleeps,” said Eddie Swafford, VP of Operations at Teladoc Health. Teladoc has been a leader in telehealth for over two decades, providing a wide range of virtual care services, including primary care and chronic condition management.
+
+The COVID-19 pandemic increased the adoption of telehealth, but Teladoc’s comprehensive products and strong reputation set it apart. Taylor Rains-Bown, Senior Manager of Business Transformation, states, “We were one of the first in the digital health space, and our breadth of virtual care products is unparalleled.”
+
+## Challenges Facing Teladoc
+
+Teladoc faces challenges associated with rapid growth and acquisitions that lead to siloed processes. Balancing unification, profitability, and high standards of care is crucial. Rains-Bown notes, “Our biggest competition is ensuring comprehensive and best outcomes.” The company focuses on operational excellence and process automation to maintain its competitive edge.
+
+## Transformation of Internal Processes
+
+The introduction of Microsoft Copilot for Microsoft 365 has catalyzed Teladoc's journey toward operational efficiency. Before the adoption of Copilot, processes were siloed, especially between the commercial client product teams and operations, leading to challenges in integration and communication. Swafford explains how the lack of integration could negatively impact the company’s reputation: “If you’re struggling to keep up with the commitment that was made previously, this makes it more difficult for us to do what we really want to do, which is be a great partner.”
+
+## Enhancing Productivity
+
+Rains-Bown describes how Copilot acts as a personal assistant, handling tasks such as note-taking during meetings and proofreading emails: “Copilot is invaluable in ensuring I don’t miss any critical points, and I can focus more on leading the discussion rather than worrying about documenting everything.” She adds, “With Copilot, our project management team has become significantly more efficient, saving hours each week on meeting notes and follow-ups.”
+
+Heather Underhill, Senior Vice President of Client Experience and Operations at Teladoc Health, notes, “We’re just scratching the surface with onboarding. We envision using Copilot to ingest our desk guides, allowing new employees to ask questions and get immediate answers.” Swafford emphasizes Copilot’s role in improving leadership engagement: “The time it saves me each day translates into better leadership and more strategic focus.”
+
+## Streamlined Client Services
+
+Copilot has also streamlined Teladoc’s processes through its interoperability with Microsoft Power Automate and Power BI. This integration helps categorize and route client member issues automatically, handle tasks, initiate workflows, synthesize reports, and set alerts on key metrics. Underhill explains, “Clients often face issues with member access to care, billing discrepancies, or reporting requests. What I find most helpful is summarizing these complex issues into a business-oriented executive summary.”
+
+Swafford mentions that Teladoc uses a platform called Team Support for managing client issues, enhanced by Power Automate for efficient issue routing: “The real enhancement comes from tying in Power Automate, which is monitoring that inbox and then appropriately routing the issues.” Underhill anticipates that the new system will cut the time to resolve tickets from days to just hours once fully integrated.
+
+## Results and Future Potential
+
+The implementation of Copilot has resulted in tangible benefits for Teladoc, with team members saving up to five hours per week. This translates into thousands of saved hours annually for a company with over 6,000 employees. “Copilot saves us thousands of hours as an enterprise just through eliminating daily processes,” Swafford reiterates.
+
+Underhill affirms, “This is a game-changer for our client experience. The productivity gains we’ve seen with Copilot are remarkable. It’s helping us integrate our processes and reduce waste, which is crucial for our profitability.”
+
+Looking ahead, Teladoc is exploring how AI tools like Copilot can further revolutionize the healthcare industry. Swafford is particularly excited about using Copilot for Data Analysis Expressions (DAX) transcriptions to enhance healthcare documentation: “Copilot could change the game for physicians, reducing the time they spend on documentation so they can focus more on patient care.”
+
+## Conclusion
+
+Teladoc’s experience with Copilot highlights the transformative power of AI in modernizing operations and improving productivity. As the company continues to innovate and integrate these tools, it sets an example for the healthcare industry and beyond. “Copilot is changing the way we work,” Underhill concludes. “It’s not just about saving time; it’s about enhancing the quality of our work, allowing us to focus on what truly matters: delivering exceptional care to our members.”

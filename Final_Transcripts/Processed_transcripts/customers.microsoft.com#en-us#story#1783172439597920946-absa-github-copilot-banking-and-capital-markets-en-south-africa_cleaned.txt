@@ -1,0 +1,49 @@
+file name: customers.microsoft.com#en-us#story#1783172439597920946-absa-github-copilot-banking-and-capital-markets-en-south-africa.txt
+
+## Introduction
+
+The Absa Group, one of Africa's largest financial institutions, has made significant progress in embracing generative AI initiatives by implementing Microsoft Copilot. This technology has been utilized to enhance operational efficiency and customer engagement across various business areas. By adopting this AI-driven tool, Absa's employees have managed to streamline numerous business processes, saving several hours on administrative tasks each day and improving their interactions with colleagues and clients.
+
+## About Absa
+
+Absa is among Africa's largest diversified financial services groups, providing an integrated suite of products and services across personal and business banking, corporate and investment banking, wealth and investment management, and insurance.
+
+## Embracing AI in Banking
+
+Absa recognizes the vital role of AI in transforming its digital business landscape. "The only way to remain competitive in such a dynamic banking landscape is through the right use of technology and changing our ways of working," states Naomi Parsons, Head of Digital Delivery at Absa Corporate and Investment Banking (CIB). She emphasizes that achieving their vision of transforming human experiences and ensuring seamless delivery is more attainable through digital tools.
+
+Elizabeth Schell, Senior Digital Manager at Absa CIB, adds, "The global community is undergoing significant transformation due to AI initiatives. Aligning our organisation with these changes is imperative. Initiating momentum and action, rather than simply preparing, is critical."
+
+## Adoption of Microsoft Copilot
+
+Absa chose to experiment with Microsoft Copilot as an AI assistant and digital tool to empower its employees. "We could’ve opted for a standalone AI tool, but we were already using Microsoft 365, and Copilot is embedded in the Microsoft application stack," Parsons notes. "Using Copilot for Microsoft 365 therefore made perfect sense in adopting generative AI technologies into our daily work."
+
+Parsons further elaborates, "We need to engage with clients and explain complex issues like loan approvals or pricing as effectively as we possibly can. Copilot acts as an enabler towards smoother operations and potentially improving client interactions."
+
+## Impact on Sales and Client Engagement
+
+Previously, Absa’s Sales team invested considerable time analyzing financial documents before client meetings. Copilot has significantly reduced this preparatory phase. "Ordinarily, we’d have to go through the documents line by line. With Copilot, we can summarize massive financial statements and contracts, infer trends, and be in a better position to have more informed conversations with clients, in significantly less time," shares Lindelani Ramukumba, Chief Information Officer, Absa Relationship Banking.
+
+Absa's client-facing teams also began using Copilot to manage administrative tasks more efficiently. "Using a feature such as Copilot summarizing emails or generating a meeting action has been a significant productivity gain," highlights Parsons, noting that "Copilot saves at least two hours per day for some users."
+
+## Enhancing Efficiency and Collaboration
+
+Absa regularly undergoes formal auditing processes for its services and systems, which require precision and accuracy. Ramukumba states, "With Copilot, we can quickly summarize and correlate the evidence to come to a conclusion; there is no ambiguity." Both the Legal and Marketing departments have leveraged Copilot's capabilities effectively. For instance, Schell recalls that the process of reading and summarizing multiple PDF documents for an executive forum took only 20 minutes with Copilot’s assistance.
+
+The Legal team benefitted from Copilot by translating documents from Portuguese for client recommendations, where the AI tool provided core themes that required only minor verification and edits.
+
+## Empowering Users with Advanced Excel
+
+Absa’s Relationship Banking and Insurance teams quickly recognized the value of Copilot in Excel. Teams that typically lacked advanced Excel skills could now create comprehensive reports independently. "With Copilot, even less experienced Excel users can create pivot tables, merge data sources, add formulas, and create graphs," remarks Ramukumba. This empowerment allows them to confidently present analysis to clients without interrupting technically skilled colleagues.
+
+By encouraging the use of advanced features in Microsoft 365, Copilot has fostered a strong learning culture within Absa. Parsons reflects, "By learning from mistakes faster, we can iterate and improve at a pace unmatched by traditional methods." This leads to enhanced efficiency and a more positive workplace culture, where team members enjoy more time for learning, collaboration, and personal development.
+
+## Employee Testimonials and Future Outlook
+
+Employees who participated in the pilot have reported notable improvements in email communication and overall efficiency, leading to considerable time savings. Mariam Kalane, Change Team Lead and Senior Project Manager at Absa Relationship Banking, states, "Using Copilot has really made a difference to my work-life balance. I am now able to end my workday at a reasonable time and fully focus on my family in the evening."
+
+Absa is also incorporating AI through GitHub Copilot, aiming to enhance their coding processes. Parsons emphasizes, "We aim to increase our velocity in producing code and also explore how we can de-risk the code we deliver."
+
+Reflecting on the impact of AI on their operations, Parsons observes that generative AI enhances daily work and values creation for clients. She concludes, "Copilot helps us to be better prepared for meetings, reduces meeting times, and helps free up time usually spent on admin. It redefines productivity for all."
+
+Johnson Idesoh, Group Chief Information and Technology Officer at Absa Group, concurs, stating, "Generative AI plays a key role in our bank’s strategy to deliver a seamless customer experience by being digitally powered. We are excited about what we have achieved with our strategic partner, Microsoft, and we are thrilled about what lies ahead."

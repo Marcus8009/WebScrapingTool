@@ -1,0 +1,47 @@
+file name: www.microsoft.com#en-us#worklab#ai-at-work-in-2025-ai-will-help-us-navigate-uncertainty.txt
+
+## Introduction
+
+My take on 2024’s big advances—and what’s coming for 2025.
+
+Not so long ago, people marveled at AI’s ability to, say, write a Shakespearean sonnet about the Seattle Seahawks. This year they’ve moved beyond the party tricks, as AI became an everyday reality at work, blending into employee habits and bringing real value. As 2024 wraps up, I’ve been reflecting on how quickly this shift has taken hold. The momentum has been remarkable, and in 2025 AI will become essential to every business process, strategy, and innovation.
+
+Here’s my take on the most groundbreaking AI developments of 2024—and what we can expect in 2025, as AI ushers in new opportunities against a backdrop of geopolitical and economic uncertainty.
+
+## Developments in 2024
+
+**Advanced reasoning opened up astonishing new possibilities.**  
+Large language models, for all their capabilities, have long had an Achilles’ heel: they fall short in answering questions that require complex reasoning, especially in math and science. But with OpenAI’s o1 model, we took a giant leap forward with its refined “thinking” capabilities and ability to handle complex tasks with greater precision.
+
+For business leaders, o1 creates new opportunities to apply AI for more accurate and sophisticated problem solving. A retail company can use it to predict consumer behavior and optimize inventory management. Financial institutions can tap it to make complex calculations, assess risks, and forecast market trends. OpenAI released the complete version of o1 just this month, but the company is already hinting at advancements in the forthcoming o2 model.
+
+**Multi-model choice ushered in new flexibility.**  
+This year brought a wave of AI model innovation, including developments in small and large language systems. Advanced users want the ability to toggle between models, so GitHub Copilot began offering access to Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1 and o1-mini. Since the models each have their own strengths, developers have their pick for the task at hand. One model might excel at complex coding while another can process code, images, audio, video, and text simultaneously. A smaller, less resource-intensive model might be right for simpler tasks. This new chapter of flexibility and agility will lead to more refined use cases and problem solving with AI.
+
+**AI agents offered a powerful new twist on AI for business.**  
+While most people are using AI to enhance their personal productivity, many are starting to explore how AI agents can execute business processes. Agents can think or reason, remember, be trained, and even know when to ask for help. An agent, for example, might handle order fulfillment from end to end—taking the order, processing it, making smart substitutions for out-of-stock items, and then handing it off for shipping. Agents gained attention and momentum in 2024, and they’re the next frontier for AI at work.
+
+## Predictions for 2025
+
+Now let’s look to the future. In 2025, I predict AI will get more intuitive and inventive as it helps businesses face new challenges in uncertain times.
+
+**AI will help businesses navigate geopolitical and economic uncertainty.**  
+Every C-suite executive I talk to is bracing for a period of global political and economic instability. Their focus: how to best position their organizations to face a period of uncertainty. The good news for them is that there’s never been a tool more poised to meet the moment than AI.
+
+Right now, for example, businesses worldwide are weighing how potential new US tariffs might shake up their supply chains. AI can be incredibly useful for running “what if” scenarios. It can analyze supply chain data and identify alternative suppliers and routes while helping businesses ensure they’re in compliance with new regulations. AI is the tool businesses will turn to first as they adapt to new realities.
+
+**Business process transformation will be key to unlocking AI’s business value.**  
+If 2024 was the year that proved AI personal productivity gains (some users save more than 10 hours each month with Copilot, based on our research), 2025 is going to be about turning those gains into dollars and cents. And that’s not going to come through individual minutes or hours saved. It will come from business process transformation—marked improvement to repeatable, standardizable processes.
+
+The key to getting there? Agents. Agents will change how we manage end-to-end processes, from sales to supply chains. I anticipate every organization will soon have a constellation of agents, each working in the background 24/7 to execute or automate entire business processes.
+
+The materials science company Dow has shown early promise on this front. Employees used agents to analyze thousands of invoices for shipping in North America, flagging anomalies and highlighting potential savings. Once the system is fully scaled globally, Dow anticipates increased accuracy in logistic rates and billing, which in the first year should result in the company saving millions of dollars in shipping costs. These kinds of process transformations will ripple across global businesses in the year to come.
+
+**We’ll see the first sparks of a new wave of invention.**  
+An explosion of AI-native organizations will deliver new goods and innovative services, reaching wide relevance and vast scale. These inventive startups embed AI in every aspect of their business, from internal processes and the way they interact with customers to the products they sell. AI natives are starting to pop up in almost every industry, in fields as varied as advertising and healthcare. They’re sparking new levels of competition and are always looking out for how AI can solve challenges or create new possibilities. That’s something every company (even large, longstanding businesses) should learn from.
+
+In the coming months and years, AI will lead us to new discoveries of all kinds. Its ability to analyze vast amounts of data, identify patterns, and uncover insights means it can flag solutions and opportunities that were previously unimaginable. In healthcare, for example, AI can analyze medical records to predict patient outcomes and suggest personalized treatments, improving care and reducing costs. In retail, it can analyze customer behavior to optimize inventory and personalize shopping experiences. And in manufacturing, AI can streamline production processes by predicting equipment failures and scheduling maintenance to reduce downtime.
+
+AI will drive advances by helping us create stronger materials, develop more sustainable solutions, and enhance consumer products—groundbreaking discoveries that will translate into valuable results for businesses across every industry.
+
+For more insights on AI and the future of work, subscribe to this newsletter.

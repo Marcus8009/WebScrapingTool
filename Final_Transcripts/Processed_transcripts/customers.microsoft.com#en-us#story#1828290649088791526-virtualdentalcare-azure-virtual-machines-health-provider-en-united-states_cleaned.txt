@@ -1,0 +1,39 @@
+file name: customers.microsoft.com#en-us#story#virtualdentalcare-azure-virtual-machines-health-provider-en-united-states.txt
+
+## Introduction
+
+Dental technology solutions provider Virtual Dental Care (VDC) aims to assist dentists in detecting potential health issues through photos and X-rays while expanding dental care access in underserved communities.
+
+VDC developed an AI application called Smart Scan within the Microsoft Azure ecosystem, which was trained by dentists to help identify common dental issues. Smart Scan offers AI-powered dental screenings for early detection, significantly reduces paperwork for mobile dental clinics in schools by 75%, and allows dentists to devote more time to patient care.
+
+## Company Background
+
+Founded in 2016, VDC is based in California and is focused on AI adoption in dentistry to reach more patients and enable earlier diagnosis of dental issues, particularly among children. “The biggest problem in the dental industry in our country is that access to dental care is limited,” says William Jackson, Doctor of Dental Surgery and Chief Operations Officer at VDC. “About 60% of people in the United States don’t go to the dentist on a regular basis.”
+
+The emphasis on early detection and prevention can enhance patient outcomes, and healthcare providers across the industry are beginning to adopt this proactive mindset. Patients who face geographical or financial barriers to dental care often only seek help when problems escalate. “Today, you only know you need dental care if you’re going to the dentist, and that is the first barrier we wanted to break down,” Jackson explains. “We wanted to give people tools at home to begin to analyze their oral wellness.”
+
+## Technology and Compliance
+
+VDC places high importance on security for protecting patient information and treatment plans and values the Microsoft Azure ecosystem for its compliance with Health Insurance Portability and Accountability Act (HIPAA) regulations. The teledentistry provider has utilized Microsoft services from its inception, creating a secure AI-powered technological solution via Azure. “One of the things I like about Azure is that we can apply a standard like HIPAA to our entire setup, and Azure helps us identify changes we need to make to reach that compliance standard,” says Dean Gutierrez, Senior Software Development Engineer at VDC.
+
+## Smart Scan Technology
+
+Focusing on wellness and preventative care, VDC recently trained an AI application to evaluate a secure repository of dental images and X-rays. By employing Azure Machine Learning, the technology supports the high-performance computing requirements essential for Smart Scan's development and deployment. With this system, patients can take five photographs with a smartphone or camera and submit them to VDC, where AI algorithms trained by dentists detect common issues, including decay, broken restorations, broken teeth, plaque accumulation, and gum inflammation.
+
+The scalability of Azure allows VDC to efficiently accommodate large group dental screenings, particularly in school districts using mobile dentistry clinics. “Before, when we used a data center, scaling up was very expensive because we had to buy additional hardware and licenses,” Gutierrez notes. “Now, VDC can increase its capacity in Azure SQL and Azure Virtual Machines with just a few clicks.”
+
+## Streamlined Processes
+
+To further simplify large group dental screenings, VDC automated the administrative paperwork typically required. In school settings, parents can complete online registration and permission forms while learning about the benefits of early disease detection. This streamlined process not only simplifies student admission but also creates a digital patient record, minimizing paper management. The electronic medical records facilitate comprehensive assessments of potential health risks and promote a preventive healthcare approach.
+
+In 2024, VDC participated in an academic study in Northern California, where it scanned several hundred students using Smart Scan technology. This effort coincided with California Assembly Bill 1433, which mandates that parents submit an oral health examination for incoming public-school students, yet many families lack the resources for compliance. The study revealed that VDC's automated processes cut administrative paperwork by 75%, enabling better access to dental care and allowing dentists more quality time with patients.
+
+## Future Developments
+
+VDC continues to explore new Microsoft technology solutions to enhance patient data connectivity, leveraging AI to improve patient experiences by simplifying routine tasks and enhancing collaboration among dental teams. “On the image side, we’re working on showing patients how their teeth will look after a certain treatment and how that improves their oral health,” mentions Nishank Singhal, AI Software Engineer at VDC.
+
+The company regards its collaboration with Microsoft as a long-term partnership that enables VDC to utilize the latest technological innovations in a secure, cloud-based framework. “I’ve always appreciated that any time I’m stuck, I can reach out to Microsoft for support. Even better, our dedicated Digital Cloud Solution Architect, Devonte Sykes, has helped us tremendously and has been a valuable asset as we continue to grow and scale with Microsoft,” Gutierrez states. “Microsoft always has top-of-the-line tools when it comes to development and makes it a lot easier to develop applications. That’s why we so heavily favor Microsoft.”
+
+## Conclusion
+
+Virtual Dental Care is redefining dental care access through innovative technology and partnerships, demonstrating a commitment to enhancing patient outcomes and improving the overall dental care infrastructure.

@@ -1,0 +1,41 @@
+file name: how-virgin-atlantic-is-flying-higher-with-copilot.txt
+
+## Introduction
+
+As an early adopter of Microsoft Copilot for Microsoft 365 and GitHub Copilot, Virgin Atlantic is off to a flying start. The widespread roll-out of generative AI is already delivering real business benefits, including productivity improvements, enabling new ways of working, and generating a groundswell of excitement throughout the team.
+
+Find out more about how Virgin Atlantic adopted and developed Copilot in the four chapters below.
+
+## Chapter 1: The Excitement
+
+Virgin Atlantic, one of the UK’s most exciting brands, is no stranger to the concept of a ‘copilot’. It seemed natural for the airline to explore the possibilities and innovative ways of working enabled by Microsoft’s generative AI tool, Microsoft Copilot.
+
+“Technology plays a fundamental part in every travel company now,” says Gary Walker, Virgin Atlantic’s VP of Technology & Transformation. He believes that excelling early in its use of AI will give the airline a tangible competitive advantage.
+
+Suzy Wardle, the company’s Technology Transformation Lead, adds, “It’s a really exciting moment in terms of generative AI… People are talking about it and focusing on it – I can see lots of opportunity for us.”
+
+## Chapter 2: Getting Data Ready
+
+The technology transformation team at Virgin Atlantic made several recommendations for businesses wishing to access the benefits of deploying Copilot. These include focusing on data and security principles first, getting permissions right, raising awareness with staff about potential use cases, and offering advice on mastering prompt engineering.
+
+“Then apply Copilot over the top of that,” advises Gary.
+
+## Chapter 3: The Use Cases
+
+Following the successful roll-out of the first 300 licenses, Virgin Atlantic plans to expand Copilot for Microsoft 365 across the wider business. This will enable new ways of working, support people in their existing roles, and make their lives easier, allowing more time to express the creative flair that sets the Virgin Atlantic brand apart.
+
+“We’ve been finding the email generation tool really useful and interesting,” says Suzy, highlighting one use case of Copilot for Microsoft 365.
+
+## Chapter 4: The Results
+
+After its successful start with Copilot for Microsoft 365 and GitHub Copilot, Virgin Atlantic is increasingly ambitious about using AI to power the business forward.
+
+“GitHub Copilot is an absolute time-saver,” says Neal Letchford, VP of Digital Engineering. “We immediately see the benefit for the team in our day-to-day roles. We’re certainly seeing much more innovation in the way we’re approaching solving problems.”
+
+Looking to the future, Suzy Wardle states, “When people become comfortable with it, it will become the new norm. We need to be thinking about what’s next. How can we really start to leverage this to use our position as a challenger brand to change the game?”
+
+## Useful Links
+
+- [More information on Copilot for Microsoft 365](#)
+- [More information on GitHub Copilot](#)
+- [Copilot tips and tricks](#)

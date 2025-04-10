@@ -1,0 +1,35 @@
+file name: www.microsoft.com#en-us#worklab#with-copilot-every-meeting-is-a-digital-artifact.txt
+
+## Redefining Meetings in the Digital Age
+
+Over the past few years, flexible work and innovations in digital meetings have reshaped the way we collaborate. We can meet across locations and time zones, allowing us to include people who otherwise would have been left out. We can dig through a transcript to refresh our memory of a conversation. Now, generative AI is driving another fundamental shift, changing what a meeting is in the first place.
+
+A meeting is no longer an ephemeral, one-time event. Think of it instead as a “digital artifact” that you can interrogate in powerful ways. 
+
+“A meeting has become less a point in time and almost a knowledge object that I can query, that I can ask questions of,” says Jared Spataro, Corporate Vice President of Modern Work & Business Applications at Microsoft. “It’s a whole new way of thinking about human interaction.”
+
+This comes at a critical moment: Since February 2020, people are in three times more Microsoft Teams meetings and calls per week. According to Microsoft’s 2023 Work Trend Index, inefficient meetings are seen as the top productivity disruptor.
+
+## Enhancing Current Meetings with AI
+
+With Copilot in Teams, people can consult a meeting and interact with it after the fact—even if they couldn’t attend—allowing everyone to reclaim time for creative and focused work so they can truly thrive. 
+
+Generative AI lets you extract more intelligence from a meeting that’s happening right now. In real time (as long as the meeting is being recorded), you can ask Copilot to analyze, organize, and synthesize the discussion, doing so in a chat interface visible solely to you.
+
+For instance, if you’re having challenges jumping into the conversation, you might ask Copilot, “Rephrase what she just said, I didn’t quite understand it,” or “What would be a good question to ask this presenter?” If you were multitasking and missed something, you can ask Copilot to repeat it. If you need a table with the ideas discussed and their pros and cons, or a list of action items, Copilot can generate one.
+
+Copilot can also help ensure that everyone is included. If you’re the meeting host, you can ask Copilot, “Who hasn’t had a chance to speak?” or “Who was cut off?” In short, it opens up new ways to actively engage with a meeting in progress and helps you see the bigger picture.
+
+## Catching Up on Missed Meetings
+
+Most of us can’t attend every meeting we’re invited to. Sometimes two meetings are scheduled at once, or you're on vacation or picking up your kids from school. Right now, when you have to miss a meeting, you might catch up by reading through the transcript or watching the recording. Copilot takes you a step further, allowing you to interact dynamically with the digital record of the conversation to get answers to what you need to know, faster.
+
+Copilot can provide a full recap or answer specific questions like, “What topics did people discuss?” “What decisions did they make?” and “Did anyone mention my name?” It can also analyze and report on mood and sentiment, asking, “Was that an easy decision?” “How did the group feel about that?” or “Did anybody dissent?”
+
+“You can get such a fine-grained analysis of human interactions that it really opens your eyes,” Spataro says. “It used to be that a meeting happened, and it was over, and people maybe took sketchy notes. These days, that very full interaction can be looked at from many different angles.”
+
+## The Future of Meetings
+
+Humans have gathered together to share information, generate ideas, and make decisions for thousands of years. Copilot will unlock a new level of efficiency and awareness: people can design meetings that work for the way they work now—and leaders everywhere can empower their teams to make the most of this transformative technology.
+
+Stay updated on AI with WorkLab by signing up for the newsletter to get the latest research, insights, and trends delivered straight to your inbox.

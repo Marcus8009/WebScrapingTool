@@ -1,0 +1,37 @@
+file name: 1744468024452864249-kantar-windows-11-professional-services-en-united-kingdom.txt
+
+## Introduction
+
+Kantar, a data, insights, and consulting company based in the United Kingdom, aimed to modernize its legacy infrastructure to provide an employee experience comparable to leading consumer technology. To achieve this, the company transitioned from on-premises management to cloud-based Intune endpoint management, preparing for the deployment of Windows 11 Enterprise along with the use of Windows 365 Cloud PCs and generative AI with Copilot. This transformation has not only reduced costly IT processes but also enhanced employee productivity, benefiting their clients.
+
+## Background
+
+After separating from WPP in early 2020, Kantar recognized the need to revamp its IT strategy in order to stay competitive. Prab Greenwood, the Head of Digital Workspace, identified this corporate realignment as an opportunity to modernize their IT infrastructure. “We wanted to move to modern management with Intune, be fully Entra ID-joined, and implement zero-touch provisioning with Windows Autopilot,” explains Greenwood. Instead of continuing with Windows 10, they decided to leverage the full capabilities of Windows 11.
+
+## Challenges with Legacy Systems
+
+Previously, Kantar faced significant challenges with its manual provisioning process, which required extensive IT engineering hours per device. This was particularly burdensome for employees at locations without regular IT support. “Our goal was to create a foundation that would set the company up for success for the next decade,” asserts Alex Edwards, a Modern Workplace Consultant at Kantar. Transitioning from a legacy system to a cloud-based management approach with Windows 11 was seen as crucial, particularly with Windows 10 reaching its end of support in 2025.
+
+## Modernizing IT Infrastructure
+
+Kantar began deploying Windows 11 Enterprise in 2023, with a phased rollout expected through 2024. By moving endpoints to Intune and Entra ID, Kantar improved device management and support. Edwards notes that, “Transitioning to the cloud means you’re always connected and can deploy and manage devices anywhere with ease.” The move to zero-touch provisioning with Windows Autopilot has further streamlined the onboarding process, allowing devices to be ready for setup upon arrival at employees' homes.
+
+## Enhancements in Security and User Experience
+
+Kantar's focus on optimizing its existing Microsoft E5 license has allowed the organization to enhance security. Edwards emphasizes the importance of getting maximum value from their Microsoft investments, highlighting features like Microsoft Defender for Endpoint and Windows Hello for Business, which offers more secure login methods. The shift to Windows 11 Enterprise has also led to a more frictionless experience for employees, increasing satisfaction and productivity. “Teams integrations into the desktop and snap features really make it a more productive and personalized experience for our colleagues,” shares Greenwood.
+
+## Financial Implications and Investment Strategy
+
+The modernization efforts have resulted in significant operational efficiencies, reducing IT workload and providing financial benefits. Edwards explains that the money saved from a streamlined provisioning experience has been redirected towards upgrading employee devices, leading to a higher-spec laptop and lower total cost of ownership. 
+
+By the end of 2023, Kantar had upgraded to Windows 11 Enterprise and initiated the deployment of 1,000 Windows 365 Cloud PCs, preparing for a larger technological evolution by replacing a substantial portion of their global device fleet.
+
+## Adoption of Innovative Technologies
+
+Kantar’s transition to Windows 11 Enterprise has also positioned the company to better adopt emerging technologies. Sally Penson, Head of Transforming Delivery – UK Insights, notes the value of using Microsoft Copilot for various tasks that require analysis and reporting. “Copilot’s ability to call out key actions and summarize content has been transformational. It frees up my time to use my expertise to create more value and focus on high-impact activities.”
+
+Greenwood sums up Kantar’s approach: “It’s all about the art of the possible. By equipping our teams with the best tech, we’re amplifying what already makes us a world leader in brand insights.”
+
+## Conclusion
+
+Kantar’s modernization journey highlights the significant impact of moving to cloud-based solutions and modern IT strategies. By leveraging Windows 11 Enterprise and complementary technologies, Kantar has enhanced both employee experiences and operational efficiencies, positioning itself for future success amidst an ever-evolving digital landscape.

@@ -1,0 +1,39 @@
+file name: what-can-ai-native-startups-teach-the-rest-of-us.txt
+
+## Introduction
+
+This new wave of companies can show all organizations a clear path to reinvention. In my series on AI-native organizations, Part 1 uncovers the core principles of AI natives, Part 2 zooms in on one business in detail, and Part 3 looks at how every company can start using these insights.
+
+AI natives are startups that embed AI in every aspect of their business, from processes and products to sales and customer service. They are akin to internet-native companies of a generation ago, leveraging the latest technology to reduce costs and expedite time to market. Many operate with remarkable efficiency, with some having only a single employee, yet with AI, it doesn't feel that way.
+
+## Discovering AI Native Principles
+
+To discover what makes these companies tick, my team and I have been speaking with leaders at AI-native startups across various industries and locations. Here are four essential ways that all organizations can start to work like AI natives:
+
+### 1. Use AI on Both Offense and Defense
+
+One market research startup we spoke to utilizes AI for both mundane internal tasks and as a distinctive feature of its product. By employing AI-generated participants in its research studies, the company enhances both efficiency and scale. The CEO mentioned that due to this approach, the firm is not seeking VC funding, having become self-sustaining more quickly with less investment.
+
+AI-native companies apply AI for defensive moves, such as outsourcing everyday tasks like drafting HR policies and managing payroll, while also leveraging it for offensive strategies to unlock new business opportunities and enhance customer value.
+
+### 2. Democratize Expertise Across the Organization
+
+Just as the PC democratized knowledge, AI democratizes expertise—empowering individuals to apply knowledge to solve problems. 
+
+For instance, an AI-native ad agency integrated over two decades of research on advertising effectiveness into its platform. With AI and data, even entry-level employees can access a strategist's expertise, enabling them to work more efficiently and effectively. AI scales the organizational expertise, making knowledge accessible across teams.
+
+### 3. Never Leave Data on the Table
+
+A healthcare startup we encountered employs AI to personalize patient care by analyzing up to 200 factors influencing health, as opposed to the typical electronic health record, which covers only about 10 percent of relevant data. AI simplifies the synthesis of complex data into actionable insights, making it accessible and useful.
+
+Additionally, some AI startups mine publicly available information, transforming dense documents into valuable insights that can benefit government officials, real estate developers, and citizens.
+
+### 4. Build Organizations That Are Flatter and More Fluid
+
+AI-native startups enable efficiency that allows them to punch above their weight. One venture capitalist mentioned a firm that opted for a junior marketer capable of leveraging AI for full-stack marketing instead of hiring a CMO.
+
+These startups are generally less hierarchical, with every employee managing AI, allowing for strategic roles even among junior staff. Moreover, organizational structures adapt based on business needs, focusing on projects rather than traditional functions like marketing or HR.
+
+## Conclusion
+
+AI-native companies suggest a future with less hierarchical structures, democratized expertise, and a recognition that all data represents an opportunity. Business leaders should not be misled into thinking they need an AI strategy per se. The first step should be identifying a business problem and then considering how AI can help solve it—this is the path to reinvention that AI natives illuminate.

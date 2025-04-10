@@ -1,0 +1,51 @@
+file name: www.linkedin.com#pulse#when-comes-ai-its-system-model-matters-jared-spataro-l90jc.txt
+
+## Understanding AI's Structure
+
+Welcome back to AI at Work, a newsletter and video series that decodes the future of business.
+
+If you’re struggling to understand what AI can do for your business, I’d argue the place to start is understanding the most powerful tool in your toolbox. My job involves helping businesses successfully bring AI to work, and I talk to customers every day. In these conversations, many of the folks I speak with focus on foundational models, typically the large language models (LLMs) that help power AI assistants.
+
+But LLMs—which have received most of the attention in the public conversation around AI—are just one element of a broader AI system. If the system is a car, think of the LLM as the engine. But a car can’t hit the road without a few other key elements, like wheels, steering, fuel, and more.
+
+Let’s look under the hood to see how AI systems work—and in the process, hopefully inspire you to see new ways of applying AI to your own business.
+
+## The Role of AI Assistants
+
+Since AI assistants work alongside us, we think of them as copilots—in fact, that’s why we call our own AI assistant Microsoft Copilot. But every AI system, whether it’s from Microsoft, ChatGPT, Google, or any other provider, has some universal key parts.
+
+Sometimes you can get what you need from a system that has only these core elements. Ask something straightforward, like “What’s a great starter car for a new driver?” and you’ll get helpful and specific suggestions. But you can also try more unexpected questions, like “Could an elephant pull my Tundra?” The copilot can pull together what the LLM knows about various topics and then apply reasoning based on all that data.
+
+When I asked Copilot that question, the system correctly inferred that I was talking about my Toyota Tundra. It answered, “Theoretically, an elephant could pull your Tundra,” and spelled out its reasoning: Asian elephants are known to pull weights heavier than a Tundra. It also offered a do-not-try-this-at-home message: “This isn’t a practical or humane use of an elephant’s strength.”
+
+## Limitations of Foundational Models
+
+That’s an impressive start, but it’s more akin to a party trick than a business solution. In a work setting, you need a more complete system. The core elements of a copilot are good at reasoning across general knowledge—but they’re not enough when it comes to bringing in specific knowledge and skills that can set your business apart.
+
+Foundational models have a key limitation—they’re trained on a finite set of information. So, if your question relates to something not included in their training data, they come up short. 
+
+However, there are ways to work around that limitation. You can give the orchestrator access to new knowledge or data sources. For example, when the orchestrator can draw from your work data—emails, files, meetings, etc.—it’s infinitely smarter about your business and its needs.
+
+## Enhancing the Copilot's Abilities
+
+Let’s say you’re an automotive marketer. You can ask Copilot a question like, “I’m a marketer leading the launch of a new electric SUV, and I need to draft a creative brief for our agency to develop a national television ad campaign. One idea is to feature wild animals, including elephants.” 
+
+When you point the system to your product photos, files that describe its specific specs, and other inputs, it understands the subject more broadly and deeply. If you include those resources, you get a very different result. The critical pattern in using copilots in business right now is grounding the LLM in your own very particular data.
+
+With a prompt like this, the orchestrator can bring together general know-how from the LLM and knowledge specific to your company. Every time your copilot pulls from deeper or more specific wells of knowledge, it gives you better, more accurate, and actionable responses.
+
+## Expanding Skills and Capabilities
+
+Most foundational models come with inherent capabilities, like the ability to summarize information or write new content. However, they aren’t as good at important skills, like math, drawing, or design—all things that humans do every day at work. To broaden your copilot’s capabilities, you need to give it some added skills.
+
+Let’s say you’re a creative leader at the ad agency working on that campaign for the electric SUV. Within the Microsoft ecosystem, you could ask Image Creator from Designer for help storyboarding a concept. You might start your prompt with, “Create a series of images for a TV ad featuring an electric SUV driving through the savanna at sunset…”
+
+In other words, your copilot can help you come up with rough storyboards instantly—and you might create them during a meeting to bring your concept to life while everyone is brainstorming. This allows you to get weak ideas out of the way quickly and focus on the strong ones.
+
+Image creation is just one example of a copilot skill. The ability to code, automate complex business processes, and make large databases of information instantly accessible with AI are new skills you can turn on for your copilot.
+
+## Conclusion
+
+There’s a lot of hype around foundational models, and much of that hype is well-deserved. They are the technology that has opened this new chapter in AI innovation. However, while they’re an important part of the system, they’re just one part. By carefully orchestrating the interactions between the user, knowledge, skills, and foundational models, the copilot becomes even more powerful than the sum of its parts. That’s the real unlock that will add value to the work you do every day—so that when you step on the accelerator, you’ll end up exactly where you need to go.
+
+For more insights about AI and the future of work, subscribe to this newsletter.

@@ -1,0 +1,37 @@
+file name: customers.microsoft.com#en-us#story-1837367358659329204-hollandamerica-microsoft-dataverse-travel-and-transportation-en-united-states.txt
+
+## Introduction
+
+Holland America Line aimed to enhance customer support by providing faster, personalized assistance without increasing call center volumes or utilizing a traditional chatbot. To achieve this, they developed a virtual agent, a digital concierge named "Anna," using Microsoft Copilot Studio. 
+
+## Development of the Virtual Agent
+
+The virtual agent acts as a support tool for both new and existing customers, as well as travel advisors, and is currently handling thousands of conversations each week. The analytics indicate that Anna will decrease the number of basic informational queries directed to call center agents.
+
+Scot Pettit, Sr Director of E-commerce at Holland America Line, states, “With so many stateroom options and packages, booking a cruise can be a complicated process, and once you're booked, it's not always easy to understand how to prepare for a cruise and add additional services.” This sentiment drove Holland America Line to simplify the customer journey.
+
+While the company already had a live chat and call support system, they sought to implement a solution that surpassed traditional chatbots with limited responses. Thus, they partnered with Microsoft Copilot Studio to create an advanced conversational experience. Anna, accessible from the website, has improved user interactions significantly.
+
+## Customer Engagement and Performance
+
+Pettit notes, “What we’re finding is that when customers engage with Anna, they are more likely to find the right cruise that fits their needs than if they do not engage at all.” 
+
+The minimal viable product (MVP) was developed within three months, and Holland America Line recognized the speed and ease of utilizing Microsoft Copilot Studio for complex, AI-driven agents. Anna was designed to assist with three core scenarios: booking new cruises, adding products and services to bookings, and answering general queries. Pettit elaborates, “We get an incredibly diverse number of questions—from basic cruise and booking requests to travel documentation needed for specific routes, even what to wear on specific dates and destinations.”
+
+Integration with back-end systems, including the company's CRM and booking systems, ensures that Anna provides accurate and timely information. Furthermore, the use of Bing Search APIs allows seamless access to website content.
+
+## Testing and Refinement Process
+
+To ensure a high-quality customer experience, Holland America Line conducted a multi-phase, three-month rollout for Anna. Initially used by call center agents, it was later tested internally before being made available to customers in stages — first to 5%, then 50%, and finally to 100%.
+
+Performance monitoring of Anna relies on built-in analytics in Microsoft Copilot Studio and integration with various analytics platforms. Pettit explains that this setup allows for effective feedback, as customer conversations are logged, and insights are derived from tools like Adobe Analytics and Azure Application Insights.
+
+## Continuous Improvement and Future Plans
+
+The feedback loop facilitated by Microsoft Copilot Studio enables rapid refinements of Anna's responses. As Pettit describes, “With Microsoft Copilot Studio, we are able to quickly assess what was answered and not answered by Anna; then organize responses into clear topics and categories, so we know exactly where to focus our time on content updates.”
+
+Thanks to this monitoring and training process, Anna has shown strong resolution rates and is currently addressing thousands of customer queries. This efficiency is reflected in the business outcomes; customers engaging with Anna are more likely to secure the right cruise tailored to their preferences.
+
+Holland America Line plans to expand Anna's capabilities beyond the initial MVP, with future rollouts set for Australia, Canada, and the UK, incorporating local cruise and booking data. They are also evaluating the integration of additional features to assist guests with onboard services.
+
+Pettit concludes, “With Microsoft Copilot Studio, we have an effective platform for delivering the benefits of generative AI to our customers, providing them with faster service and an even better overall cruise experience.”

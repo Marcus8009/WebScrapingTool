@@ -1,0 +1,47 @@
+file name: 1835402038421112318-zurich-azure-openai-service-insurance-en-switzerland.txt
+
+## Introduction
+
+Zurich Insurance Group recognized the challenge of translating unstructured data into a rules-based environment, with customers describing their needs in images, emails, and reports using their local languages. To address this, Zurich turned to Microsoft Azure OpenAI Service for its advanced language AI, text-to-speech models, and highly secure, enterprise-grade features.
+
+## Transforming Risk Management
+
+Zurich Insurance Group is developing advanced AI applications that lead to more accurate and efficient risk management evaluations. This acceleration of the underwriting process reduces turnaround times and increases customer satisfaction.
+
+Insurance provides individuals, small businesses, and multinational organizations protection—a safety net customers hope they never need. Thus, the future of insurance demands simplified, flexible, and meaningful services. Zurich aims to be one of the most responsible and impactful businesses globally, working to identify and address risks in collaboration with its customers.
+
+Christian Westermann, Group Head of AI at Zurich, states, “Our work goes beyond traditional protection. Insurance today is generating predictions based on sheer amounts of data, helping customers see around corners and increase resilience.”
+
+## Underwriting Efficiency
+
+When seeking coverage, insurance customers often describe their situations with images, often in their local languages. This can make it challenging to translate unstructured data into a rules-based environment. As a leading global insurer, Zurich constantly seeks ways to boost operational efficiency, especially in the underwriting process.
+
+“Underwriting is the core of what we do. It’s all about making decisions based on risk, and it can be pretty intricate and time-consuming. To deliver even more value to our customers, we have been speeding up our processes and anticipating customer needs through data insights,” says Penny Seach, Group Chief Underwriting Officer at Zurich.
+
+To achieve faster access to information, Zurich is transforming how quickly it serves its customers, making real-time access to data and analytics critical to its mission.
+
+## AI Innovation
+
+Zurich continuously innovates, and by deploying AI across its value chain, the organization improves risk assessment and personalization. Collaborating closely with Microsoft, Zurich is making a significant impact across its global, decentralized footprint, setting new standards in a secure, trusted, and scalable environment.
+
+One of the key areas of Zurich's AI efforts is underwriting. By adopting tools like Microsoft Azure OpenAI Service, Zurich develops advanced AI applications that lead to more accurate and efficient evaluations, improving the quality of risk assessments and accelerating the underwriting process. This results in reduced turnaround times and increased customer satisfaction.
+
+Westermann adds, “The new GenAI capabilities allow us to build bespoke, multimodal tools that benefit our underwriters and customers. But even beyond helping underwriters, we are driving GenAI adoption throughout the insurance value chain, ultimately supporting our customers to become more resilient.”
+
+## Multimodal Understanding
+
+With the insurance industry being inherently language-heavy and multimodal, Zurich employs Azure OpenAI Service to understand the many languages within its global footprint. 
+
+“We provide insurance to our customers in locations all over the world, and they often give us a lot of different data: reports, images, emails—all in different languages and formats. By embracing tools like Azure AI, we're able to make better sense of a complex world,” says Westermann.
+
+Through its longstanding collaboration with Microsoft, Zurich continues to set benchmarks for innovation, efficiency, and customer satisfaction. Currently, Zurich has more than 200 AI tools deployed.
+
+## AI as a Coach
+
+“Azure AI can act like a coach, guiding our underwriters across the globe. Underwriters become the best at what they do with experience, and we're seeing AI help them gain that experience. They're asking better questions, understanding their customers more quickly, and driving customer satisfaction to new heights,” states Seach.
+
+Zurich remains committed to pushing the boundaries of what's possible, delivering exceptional service and driving positive change in the industry. Whether serving a global corporation, a small company, or an individual, Zurich helps its customers anticipate and adapt.
+
+Westermann concludes, “Collaborating with companies like Microsoft helps us ensure our customers feel even more valued and understood. This isn't just innovation; it's a transformation. And we're not just keeping up with change in our industry—we're leading it.”
+
+Discover more about Zurich Insurance on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.

@@ -1,0 +1,43 @@
+file name: www.microsoft.com#en-us#worklab#3-proven-ways-to-make-ai-usage-stick.txt
+
+## Introduction
+
+We’ve spent the past 18 months helping both our customers and our own employees develop Copilot as a daily habit. Here are some adoption accelerants that worked.
+
+## The Importance of Widespread Adoption
+
+One thing we’ve learned about AI at work is that for true business transformation to occur, a critical mass of an organization needs to use the technology daily. Encouraging dozens, hundreds, or thousands of people to form entirely new habits can be a start-and-stop process. “Sure, you’ll always have early adopters,” says Jared Spataro, Microsoft’s Corporate Vice President of AI at Work, “but they’re not enough to drive widespread adoption.”
+
+At Microsoft, we’ve tested AI adoption strategies internally for 18 months, expanding our focus beyond early adopters to ignite the AI habit across every team and function. During this process, we’ve identified several effective tactics such as contests, prompt libraries, and dedicated learning weeks that significantly enhance usage.
+
+## Share the Lightbulb Moments
+
+To kick off AI adoption, our Corporate External and Legal Affairs (CELA) team launched a program called “What a Great Idea” to solicit and share employee tips for maximizing AI’s capabilities. They received over 250 ideas designed to enhance advisory services, simplify transactions, create efficiencies in regulatory work, strengthen compliance, and more.
+
+The CELA team showcased early adopters and others working on AI projects at a global legal summit last October. They now host a Copilot prompt library, with AI use cases and monthly tips highlighted in newsletters and videos shared across the team. “It’s about encouraging those lightbulb moments that help colleagues realize AI is truly transformative,” says Lydia Petrakis, Microsoft Assistant General Counsel and Digital Strategist. As employees experience the tangible benefits of AI, an organic spark to keep experimenting and sharing is created. 
+
+The efforts have been fruitful: After CELA hosted a two-month skills-building series on Microsoft 365 Copilot, they recorded nearly a 50 percent uptick in monthly active usage for some Microsoft 365 apps. “Creating time and space for skill-building and exploration is crucial,” Petrakis explains. “When learning is framed as an achievement and integrated into the culture, people become invested and want to participate in the transformation.”
+
+## Let the Games Begin
+
+Our sales team discovered that making AI experimentation fun encourages greater engagement with Copilot. “We’ve all got enough serious meetings, so we wanted to bring some joy to using AI day to day,” says Susan Neece Robien, Microsoft Senior Director of Digital Enablement. They devised a series of Copilot-focused activities that gamify AI learning, allowing the field sales team to participate in virtual scavenger hunts, quiz- and bingo-style games, and speed challenges to win prizes.
+
+The sales team actively tracks three user metrics: monthly, weekly, and daily. They’ve observed that Copilot adoption occurs in stages, with notable increases in monthly and weekly active usage indicating awareness and regular adoption. “Most encouraging is the 31.7 percent spike in daily active usage, which signifies a mindset shift—that’s the true transformational measure,” says Neece Robien.
+
+Currently, she is developing new global challenges for the next fiscal year. “We’re planning exciting adjustments for the next version, maintaining deeper learning throughout the year as new Copilot features are released.”
+
+## Rally the Team
+
+Learning is most effective when teams engage collaboratively, particularly in person, according to Jamie Reimche, Microsoft Director of Community Engagement. She is helping Customer Service and Support (CSS) energize its Copilot rollout with immersive events known as Spark Weeks, where teams come together to share “quick learning bites.” 
+
+This approach emphasizes community input, often resulting in broader organizational buy-in rather than relying solely on top-down directives. By conducting focus groups and peer-led how-to sessions, these in-person engagements accelerate deployment. Participants report feeling heard, and by encouraging tailored use of Copilot, the program ensures commitment and involvement from all members.
+
+The gatherings have also proven to be excellent for community building. For instance, in Japan, live translation and native materials allowed CSS team members to engage and provide candid feedback, improving Copilot for everyone. Remarkably, 95 percent of the CSS team in Japan attended, fostering an environment where employees felt comfortable sharing their experiences.
+
+To date, the group has hosted 10 events with 2,730 attendees worldwide. The CSS team saw an average 8 percent increase in the use of Copilot’s “Draft an Email” feature following Spark Week; at one site, this increase reached 14 percent.
+
+## Conclusion
+
+Adopting an AI system like Copilot is not a one-time event; it requires cultivating a culture that celebrates learning and innovation every day. The right strategies can transform curiosity into action. Whether through friendly competitions, hands-on events, or highlighting impactful ideas, effective accelerants can drive AI adoption forward. 
+
+To accelerate Copilot adoption in your organization, leverage resources from our sales team and Microsoft Digital. We look forward to hearing from you about the adoption efforts that have been successful in your organization—reach out to us at WorkLab.

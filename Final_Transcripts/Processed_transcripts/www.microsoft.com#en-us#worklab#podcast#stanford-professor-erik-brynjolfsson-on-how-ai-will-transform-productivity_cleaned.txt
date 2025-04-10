@@ -1,0 +1,32 @@
+file name: microsoft.com#en-us#worklab#stanford-professor-erik-brynjolfsson-on-how-ai-will-transform-productivity.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Elise Hu. On WorkLab, my co-host Tonya Mosley and I hear from leading thinkers on the future of work. They share surprising data and explore the trends transforming the way we work. This season, we’ll focus on the recent breakthroughs in artificial intelligence. As we enter this new era of AI, more people are discovering its potential to boost their productivity and take care of the more tedious tasks.
+
+## Guest Overview
+
+Erik Brynjolfsson has said, “AI won’t replace managers, but managers who use AI will replace those who don’t.” Brynjolfsson is a researcher, author, professor, senior fellow at the Stanford Institute for Human-Centered AI, and director of the Stanford Digital Economy Lab. For the better part of four decades, Brynjolfsson has been researching and writing about the ways digital technology is transforming business strategy, productivity, and digital commerce.
+
+He joined WorkLab to offer business leaders an overview of how AI will transform productivity: augmenting what we can accomplish at work, reducing the frustrations and disconnections of the hybrid era, and creating new careers and economic opportunities.
+
+## Key Insights
+
+Brynjolfsson is the first guest for season 4 of Microsoft’s WorkLab podcast, where hosts Elise Hu and Tonya Mosley speak with economists, designers, psychologists, and technologists who explore the data and insights into why and how work is changing. 
+
+### Major Takeaways
+
+1. **Transformation of the Economy**  
+   Brynjolfsson is optimistic about the potential of recent breakthroughs in large language model AI. “They’re affecting almost every part of the economy,” he says. “I think these tools can and hopefully will lead to more widely shared prosperity. If we play our cards right, the next decade could be some of the best 10 years ever in human history.”
+
+2. **AI as a Complement to Humans**  
+   He believes that we will unleash the real power of AI when we use it to complement what humans do, rather than simply automating tasks. “Many people, I think, have a failure of imagination and assume we’ll use AI to produce the same things but with fewer workers. In fact, if you look through history, most technologies have ended up complementing humans rather than substituting for them.”
+
+3. **Impact on Education**  
+   Brynjolfsson notes that AI chatbots have already transformed the way he does his job. “I find that it’s already affecting the way I assign homework and the way that students do their homework,” he explains. “When I’m teaching my class in the spring, I’m going to tell the students, go ahead and use the technology. But I expect your essays to be that much better than the kids’ last year. In fact, I’ve already put the questions through the ChatGPT and the other tool, so I know what a conventional answer would be. That’s your starting point.”
+
+## Conclusion
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions. 
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.

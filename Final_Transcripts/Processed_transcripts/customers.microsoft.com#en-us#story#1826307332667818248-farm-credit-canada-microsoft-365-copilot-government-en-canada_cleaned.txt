@@ -1,0 +1,37 @@
+file name: https://customers.microsoft.com/en-us/story/1826307332667818248-farm-credit-canada-microsoft-365-copilot-government-en-canada.txt
+
+## Introduction
+
+Farm Credit Canada (FCC), an agricultural and food lending corporation in Canada, sought to boost employee productivity, enhance customer service, and stay at the forefront of technology adoption in the sector.
+
+## Implementation of Microsoft 365 Copilot
+
+In 2024, FCC rolled out Microsoft 365 Copilot to 300 employees to improve productivity on routine tasks, allowing employees to spend more time on meaningful work. This initiative quickly expanded, with Copilot access growing to 1,000 employees within six months.
+
+Reported outcomes from the rollout indicate time savings for 78% of users performing routine tasks with Copilot. Specifically, 30% of users experienced time savings of 30-60 minutes per week, while another 35% saved more than an hour per week. FCC has recognized that Copilot helps create opportunities for employees to concentrate on value-added tasks.
+
+## Culture of Innovation
+
+A large agriculture and food lending corporation, FCC embraces technology to enhance its support of Canadian producers and agribusinesses. The organization emphasizes a culture of experimentation with new technology, which is crucial to its adoption of Copilot. Chris Schwan, Product Analyst in IT Customer Service at FCC, highlighted this cultural trait by stating, "A big part of the culture at FCC is a willingness to experiment with new technology."
+
+Travis Asmundson, Executive Vice President and Chief Information Officer at FCC, expressed confidence in the decision to integrate Microsoft technologies: "At the end of the day, Microsoft was the best ally with the best solution and a cloud-based focus."
+
+## Employee Training and Support
+
+To facilitate the transition to Copilot, FCC prioritized ongoing education and collaboration. This involved establishing small consultation groups and an internal collaboration channel in Microsoft Teams to share solutions. Regular "Tech Tuesday" sessions highlighted Copilot capabilities, providing employees with direct access to consultation and advice.
+
+Storytelling played a key role in FCC's rollout strategy. Employees shared success stories internally, demonstrating innovative uses of Copilot and inspiring others in the organization to adopt the technology.
+
+## Results of Copilot Adoption
+
+Within just six months, user numbers grew from 300 to 1,000, with plans to further educate employees on how Copilot could assist in specific job functions. Asmundson mentioned, "We can really leapfrog certain functions forward."
+
+The adoption of Copilot significantly influenced employee productivity, with multiple employees reporting time saved on tasks such as creating presentations and compiling reports. Edward Mulrooney, Director of IT Shared Services, remarked, "We’re empowering employees with this technology, not just giving them a tool to work with."
+
+Moreover, one employee overcame language barriers with Copilot's assistance, enhancing communication and participation within their team. Schwan noted the profound impact this had, stating, "It’s a simple thing but a super powerful moment."
+
+## Looking Forward
+
+FCC's early productivity and employee satisfaction gains indicate a successful deployment of Copilot. Teams are discovering new applications for the technology as users become more knowledgeable. Alan Bigelow, Senior Product Owner for Productivity and Collaboration at FCC, stated, "We feel that the deployment was a success because our end users are starting to teach us new applications."
+
+FCC has carved out a role as a technological leader in agricultural finance, exemplifying how firms can streamline operations, boost productivity, and improve customer service through generative AI adoption. As Asmundson concluded, "It takes a team... to meet the business’s needs."

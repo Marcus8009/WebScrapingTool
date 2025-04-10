@@ -1,0 +1,43 @@
+file name: www.microsoft.com#en-us#worklab#5-new-habits-will-help-you-get-the-most-out-of-ai-in-2024.txt
+
+## Introduction
+
+By now, almost everyone has experimented with generative AI. As leaders commit to rolling out Microsoft Copilot across their workforces, the individual productivity gains and organization-wide effects will be unmistakable. If 2023 was all about the promise of AI, 2024 will be about the proof.
+
+To build an AI-powered organization where new technology supports human ingenuity at every level, leaders need to help their teams embrace new mindsets and habits. As 2024 opens, here are five habits to hone as you guide your teams through the transition.
+
+## 1. Generative AI Gives People Time Back—Use It Well
+
+When people get things done faster with Copilot, over half say they use that extra time for focus work, according to data from our latest Work Trend Index Special Report. This is a promising productivity trend, but about one in six people say they use it to attend extra meetings, which could be counterproductive if they are already spending long hours on calls. 
+
+“As leaders, we have a responsibility to help people redeploy the time savings from generative AI to other high-value work,” says Colette Stallbaumer, General Manager of Microsoft 365 & Future of Work. 
+
+Be intentional about that new space on your calendar, and encourage your teams to do the same. Reflect on the priorities of your role and your wider organization, and think about how you can empower people to do work that energizes them and drives the business forward. 
+
+## 2. People Skills Matter More Now, Not Less
+
+For employers, the most in-demand skill is management, followed by communication, leadership, and teamwork. So-called “soft skills” matter a lot in the age of generative AI. As AI continues to transform work, LinkedIn VP Aneesh Raman envisions “a world of work that’s more human, not less.” 
+
+“People skills are going to come more to the center of individual career growth, and people-to-people collaboration is going to come into the center more for company growth,” he states. Employers must start by communicating clearly, compassionately, and empathetically with their teams.
+
+## 3. With Copilot, There’s Really No Such Thing as a Stupid Question
+
+In Microsoft Teams meetings, think of your private side chats with Copilot as a judgment-free zone and encourage your employees to see it that way too. If they lose track of the conversation, they can enlist Copilot’s help to catch up. According to Alexia Cambon, a Senior Director at Microsoft, “One thing I’m hearing from customers is that Copilot gives them a feeling of psychological safety. It’s a support system that’s there for you.” 
+
+This support can be particularly comforting for participants in meetings conducted in their second or third language or for neurodivergent attendees. Vicki Holman, Collaboration Platform Owner at Hargreaves Lansdown, notes, “The positive impact we’ve seen on people who’ve got workplace accessibility needs has been incredible. When they get a recap or notes from Copilot, it helps people review information and overcome their anxiety around meetings.”
+
+## 4. Spend Less Time Searching for Stuff
+
+Many employees spend a significant amount of their day tracking down information. A global survey indicated that respondents spend more time searching for information (27% of their day) than they do creating (24%), communicating (24%), or consuming it (25%). 
+
+Leaders should encourage managers and employees to start every search by using Copilot, which scans the entire data universe to find what they’re looking for. This can significantly ease the pain of searching for data points and ensure information is readily available.
+
+## 5. Reset Your Brain from “Command Mode” to “Conversation Mode”
+
+As generative AI changes the way we work, it is essential to relearn the art of conversational back-and-forth. A.J. Brush, a researcher on human-computer interaction at Microsoft, emphasizes the power of follow-up questions. “If you're not getting what you want, drop in more context: ‘I’m trying to do X. Can you help me Y?’”
+
+Microsoft CVP and Deputy CTO Sam Schillace adds, “If you want to get a better answer, you have to know how to ask a better question.” Working with Copilot is like having an endlessly patient assistant to help manage the pace and volume of work.
+
+## Conclusion
+
+Adjusting to these habits involves flexing new muscles and building new practices. As leaders embrace this moment, a focus on exploration, empathy, and humanity will be essential for successfully integrating AI into the workplace.

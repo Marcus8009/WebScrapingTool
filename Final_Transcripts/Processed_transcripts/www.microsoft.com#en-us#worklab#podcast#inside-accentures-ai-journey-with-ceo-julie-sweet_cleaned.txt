@@ -1,0 +1,77 @@
+file name: microsoft.com/worklab/podcast/inside-accentures-ai-journey-with-ceo-julie-sweet.txt
+
+## Introduction
+
+This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use generative AI effectively to what it takes to thrive in our new world of work.
+
+Today, I’m talking to Julie Sweet, chair and CEO of Accenture, a global professional services company that helps businesses, governments, and other organizations build their digital core, optimize operations, accelerate revenue growth, and enhance citizen services. Julie joined Accenture as general counsel after a long career in law, and in 2019, she became the firm’s first female CEO in its 35-year history. Last year, Accenture announced it was investing $3 billion into AI over the next three years, and said it would increase the number of staff in its data and AI practice to 80,000 people. 
+
+Here’s my conversation with Julie.
+
+## Investment in AI
+
+MOLLY WOOD: Let’s jump right into the conversation about the investment in AI. Just last year, Accenture announced its commitment to invest $3 billion into artificial intelligence and double its AI-focused staff to 80,000 people, which is significantly more than most companies even employ. Those are obviously really big numbers, and so let’s start off with, why this big bet?
+
+JULIE SWEET: I’d answer it in two ways. First, from the individual perspective, and then from the company perspective. The impact on our employees and their productivity is akin to a "PC moment." It really rewires how individuals work, which requires substantial investment from us and helps our clients navigate this change. As a business, I've never been able to tell a CEO that one single technology will positively impact every part of their enterprise until now with generative AI.
+
+## Compressed Transformation
+
+MOLLY WOOD: Wow. 
+
+JULIE SWEET: The power of gen AI only seems possible if companies rethink how they work. Many clients tend to see their processes in silos rather than holistically. Compressed transformation involves understanding each component needed to rewire a company for the new outcomes we envision.
+
+## AI-Focused Staff
+
+MOLLY WOOD: I want to go back to the hiring and the people investment that you have made, this 80,000 AI-focused staff. What does AI-focused mean at Accenture?
+
+JULIE SWEET: The AI-focused staff are those who are actively helping our clients establish the right data foundation and understand AI from a technical standpoint while also integrating with our industry and functional specialists. This collaborative approach allows us to explore possibilities and redefine the business landscape, ultimately enhancing our service delivery.
+
+## Training and Development
+
+MOLLY WOOD: There are over 700,000 people at Accenture. How do you train everyone?
+
+JULIE SWEET: We started training on traditional AI back in 2019, emphasizing a “work and learn” fusion approach. It’s crucial that people don’t just learn theoretically but apply new technologies in practical contexts. Currently, we’re rolling out training for generative AI and ensuring all our staff understands its applications.
+
+MOLLY WOOD: Can you explain the role of Microsoft Copilot in your AI training?
+
+JULIE SWEET: Yes, we rolled out Microsoft Copilot to our most senior leaders first. We believe leaders must deeply understand the technology to guide their teams effectively. Microsoft Copilot enhances productivity and aids in our transformation efforts; it’s not just about individual productivity but about reorganizing and redefining work processes.
+
+## The Nature of Change
+
+MOLLY WOOD: You’ve mentioned that using AI isn’t just about individual productivity; it’s about reinventing processes. How does this create a feedback loop with your clients’ needs?
+
+JULIE SWEET: For instance, in consumer goods firms with field sales teams, a large part of their time is spent on administrative tasks. By utilizing AI, salespeople can access personalized pitches that factor in historical data, significantly improving efficiency and relationship-building while allowing companies to shift their hiring focus from administrative skills to more strategic capabilities.
+
+## Hiring Process at Accenture
+
+MOLLY WOOD: How are you leveraging AI in your hiring processes, considering you receive roughly 6 million resumes a year?
+
+JULIE SWEET: AI helps us sift through resumes efficiently, identifying candidates suited for various roles. While AI assists in this process, hiring decisions are still made by trained professionals. This approach enabled us to grow from 500,000 to over 700,000 employees during one of the toughest hiring climates.
+
+## Skills and Learning Mindset
+
+MOLLY WOOD: What skills do you look for, and how is that evolving?
+
+JULIE SWEET: Two crucial skills are a willingness to learn and excellent communication abilities. We focus on cultivating a culture of learning where everyone must embrace change and effectively communicate in a continuously evolving business landscape.
+
+## Diversity in Hiring
+
+MOLLY WOOD: How do you approach diversity in talent acquisition?
+
+JULIE SWEET: We’re committed to broadening pathways for individuals from diverse backgrounds. For example, about 20% of our entry-level hires are apprentices from non-traditional backgrounds. We believe in leveraging generative AI to enhance our training tools, thus opening more opportunities for learning and development.
+
+## Responsible AI
+
+MOLLY WOOD: How does Accenture address data inequalities in recruitment?
+
+JULIE SWEET: Responsible AI is crucial. Just as we have compliance programs for other areas, we manage AI's potential risks through our responsible AI initiatives, overseen by our board’s audit committee. 
+
+## Leadership Advice
+
+MOLLY WOOD: What advice do you have for business leaders navigating AI in 2024?
+
+JULIE SWEET: Take a deep breath. There’s no playbook for this evolving landscape. Business leaders must genuinely grasp AI technology to fully leverage its potential; it's about the synergy of business and technology to create value.
+
+## Conclusion
+
+Thank you again to Julie Sweet, Chief Executive Officer at Accenture. For our next episode, I’ll be speaking to Michael Platt, Director of the Wharton Neuroscience Initiative, about decision-making and leadership. For more, check out Microsoft’s Work Trend Indexes. Please rate us, review us, and follow us wherever you listen. Thank you for tuning in to WorkLab.

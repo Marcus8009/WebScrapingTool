@@ -1,0 +1,39 @@
+file name: www.microsoft.com#en-us#worklab#learn-from-ai-native-firms-or-get-left-behind.txt
+
+## Introduction
+
+Lessons from the new wave of companies with AI at their core.
+
+If you want to understand the future of work, look at the companies that are embracing AI. Jared Spataro, Chief Marketing Officer of AI at Work at Microsoft, tasked his team to explore AI-native startups that integrate AI into all aspects of their businesses—from processes and products to customer service. As Spataro states, they are “using AI at the core of everything they do.”
+
+Recently, Spataro spoke with Nicholas Thompson, CEO of The Atlantic, during The Atlantic Festival, where they discussed what AI-native firms do differently and what businesses of all sizes can learn from them.
+
+## Key Insights from AI-Native Firms
+
+Spataro articulated that AI-native firms are indicative of future work trends, saying, “You’re either going to become an AI-native firm, or you’re going to be beaten by one.” 
+
+### AI Natives Show All Companies a Path to Reinvention
+
+Spataro and his team engaged with leaders of various AI-native startups across industries such as marketing, healthcare, and legal. They found these companies leverage AI to unlock new business opportunities and create more efficient processes. He explained, “When you’re AI-native, you’re using AI for what I call offense (to create new value) and for defense (to reduce costs).”
+
+One example from a legal startup revealed how AI can handle tasks like analyzing contracts and answering basic questions for free before referring clients to lawyers, demonstrating AI's potential to not only cut costs but also create customer value.
+
+### Embracing AI in Established Companies
+
+All companies, even those long-established, can adopt AI-native approaches. When Thompson asked Spataro about starting with AI, Spataro advised to begin small with a pilot program, ensure human oversight, and course-correct as necessary.
+
+### Managing Humans and AI Together
+
+Thompson inquired about job changes due to AI, specifically if it affected coders. Spataro agreed but highlighted that managers will experience fundamental changes too. "Many managers are not only going to be managing humans, but they’re also going to be managing AIs," he noted. 
+
+He emphasized that people skills essential for managing teams are equally important for collaborating with AI, stating, “People who do the best with AI are people who have managerial experience.” He recommends treating AI like a colleague, with conversational back-and-forth and iteration to foster collaboration.
+
+### The Unique Value of Human Insight
+
+While AI can perform proficiently, it cannot replace human insight and judgment. Spataro described AI as "usefully wrong," emphasizing the necessity of having a human vet AI outputs. He warned that expecting a finished product from AI could lead to disappointment but suggested viewing it as a fantastic first draft can yield positive results.
+
+## Closing Thoughts
+
+As the session concluded, Thompson asked Spataro for AI advice for company leaders. Spataro reflected on the common refrain about developing a business case for AI. He praised the importance of doing so but stressed the need to take action, saying, “This isn’t an incremental improvement. This is literally a step function change, and you need a vision for how you can change your business.”
+
+For further insights from Jared Spataro, you can subscribe to his LinkedIn newsletter, “AI at Work.”

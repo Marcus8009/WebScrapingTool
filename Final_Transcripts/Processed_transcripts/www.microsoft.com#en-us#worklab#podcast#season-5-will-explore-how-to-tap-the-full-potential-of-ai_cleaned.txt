@@ -1,0 +1,31 @@
+file name: microsoft.com#en-us#worklab#podcast.md
+
+## WorkLab Podcast Overview
+
+Join host Molly Wood to learn how organizations can thrive in the digital age. 
+
+### Introduction
+
+The AI era of work isn’t coming—it’s here. How can you stay ahead of the curve and ensure your employees and your organization are using AI to its fullest potential? In Season 5 of the WorkLab podcast from Microsoft, we will explore what leaders need to know to prepare their organizations for the innovations and disruptions transforming the way we work.
+
+### Host Background
+
+New host Molly Wood brings over 20 years of experience covering technology and business as a writer, podcaster, and broadcaster. She has developed and launched video series and original podcasts at CNET/CBS, The New York Times, and Marketplace. Her work has also appeared in WIRED and The Atlantic.
+
+### Season Insights
+
+In this season of WorkLab, Molly will engage with executives, educators, technologists, and researchers to explore data and offer insights about the work trends leaders need to know. 
+
+Season 5 of the WorkLab podcast debuts on September 20. You can follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+### Season 5 Trailer
+
+Hey there, I’m Molly Wood. I’ve spent more than 20 years covering technology and business as a journalist, reporter, and podcaster. You might know me from CNET if you’re really old school, my stories on personal technology and tech trends in The New York Times, or the business of the tech economy on public radio’s Marketplace. As the new host of WorkLab, a Microsoft podcast for business leaders, I’m here to help you make sense of the topic on everyone’s mind. AI isn’t coming; it is here now, and it’s radically transforming the way we work. Some experts say it’s the biggest thing to happen since the computer.
+
+What is AI? What is it not? Why does it matter? How can you stay ahead of the curve and ensure your employees and your organization are using it to its fullest potential? On WorkLab, we explore all of these questions and more. Each week I talk to a new expert about the work trends and insights that business leaders need to know to thrive in today’s digital world. AI is our top focus, but we also cover flexible work, productivity, and innovation. 
+
+Season 5 launches on September 20. I hope you’ll join me as I explore the science of work and ingenuity. Catch you then.
+
+### Expert Discussions
+
+Business leaders should be using technology and require their teams to do the same. Microsoft leaders Jared Spataro and Colette Stallbaumer discuss the company’s latest research on the key challenges with how we work and share their thoughts on how AI can help.

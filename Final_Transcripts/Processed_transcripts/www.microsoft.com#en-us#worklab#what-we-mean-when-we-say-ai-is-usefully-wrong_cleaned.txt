@@ -1,0 +1,19 @@
+file name: what-we-mean-when-we-say-ai-is-usefully-wrong.txt
+
+## AI: Usefully Wrong
+
+Sometimes Copilot is right, and sometimes it’s usefully wrong. Either way, it puts you further ahead.
+
+This article first appeared in the WorkLab newsletter. Be the first to get our updates by subscribing here.
+
+When you brainstorm with a person, their throwing-spaghetti-at-the-wall suggestions aren’t usually definitive but rather ideas and points of view—puzzle pieces that may fit together or may not. They stimulate your creative juices, helping you get to the final solution. The same is true of AI: Ask Copilot for 20 suggestions for a catchy presentation title, and bam! You have a list of relevant suggestions in seconds. Not all of them will be the perfect fit, but often one or two will inspire you, leading to a title you wouldn’t have come up with on your own.
+
+At Microsoft, we like to say that this is when AI is “usefully wrong.” This approach fosters a more collaborative way of working with technology and challenges our long-held assumptions about computer interactions. Traditionally, we give a query to a computer and receive an answer. With AI, the answer is not the final word; the value is in the dialogue and the back-and-forth exchange. It’s up to individuals to build on, combine, or transform the AI-generated content into something original and meaningful.
+
+Wharton professor and AI expert Ethan Mollick refers to generative AI as “alien intelligence.” By synthesizing ideas and information in novel ways, it can propose unconventional ideas. To harness this divergent thinking, one must remain open-minded and curious. AI can present unexpected, surprising, or even bizarre suggestions. Instead of shying away from these challenges, embrace the opportunity to approach problems from different perspectives.
+
+However, it’s crucial to verify that any AI-generated content is complete and correct. AI should not be seen as a replacement for your creativity or judgment; rather, it is a tool designed to enhance and augment these inherently human skills. It’s important not to blindly accept AI suggestions; instead, evaluate them carefully and objectively. Ask yourself: Is this content relevant and appropriate? How can I improve or refine it? How can I add my own voice or style?
+
+AI’s suggestions are akin to a puzzle that’s nearly finished—it just needs your expertise to complete it.
+
+Stay in the AI know with WorkLab by signing up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
