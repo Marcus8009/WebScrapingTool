@@ -16,7 +16,7 @@ A robust web scraper built with Selenium and undetected-chromedriver that handle
 
 1. Install Python dependencies:
 ```bash
-pip install selenium undetected-chromedriver
+pip install requirements.txt
 ```
 
 2. Ensure Google Chrome is installed on your system
@@ -24,7 +24,7 @@ pip install selenium undetected-chromedriver
 
 ## URL Configuration
 
-Create a `urls.py` file based on the template `urls215archive.py`. Structure your URLs as follows:
+Create a `urls.py` file based on the template `templateurls.py`. Avoid grouping your website like in `badtemplateurls.py`. Structure your URLs as follows:
 
 ```python
 urls = [
