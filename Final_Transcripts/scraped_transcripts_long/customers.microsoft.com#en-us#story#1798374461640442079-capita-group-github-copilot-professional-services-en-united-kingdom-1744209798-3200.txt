@@ -1,0 +1,81 @@
+URL: https://customers.microsoft.com/en-us/story/1798374461640442079-capita-group-github-copilot-professional-services-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 1416
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1413
+
+Capita began looking at the potential of GitHub Copilot to enhance its software development in 2024. It had great success during an early proof of concept in 2023 and acted swiftly to promote wider adoption of GitHub Copilot across its software development team. Capita expects productivity improvements as well as improvements in developer satisfaction, recruitment and retention. The business can now deliver faster for its customers, helping to drive faster time to value and satisfaction.
+
+Capita is building a strategy to use next-generation technology innovation to improve productivity, deliver better service for clients, and unlock growth.
+
+It began looking at GitHub Copilot in 2023. The team was excited by the potential of using GitHub Copilot to automate the repetitive and mundane elements of writing code, thereby freeing Capita developers to work on more complex, more interesting and higher value elements.
+
+“We use GitHub Copilot to drive velocity, speed, accuracy and quality,” states Michael Noonan, Managing Director of Software Solutions at Capita. “We saw the potential to create a better experience for our customers, boost loyalty and drive more revenue and growth for Capita.”
+
+Capita’s exploration of GitHub Copilot was part of a wider interest in prompt-based engineering” Manpreet Singh, CTO, Capita, explains, “Microsoft is our biggest tech stack, and we have a great relationship, so it made sense to work with Microsoft on this. We are very practical about the way we embrace new technologies. We want to see proven benefits, not hype.”
+
+Capita could see a clear use case from day one. Manpreet explains, “When developers have a problem with coding, they will search code libraries for assistance. We see GitHub Copilot as a way to streamline that type of search.”
+
+Capita first needed to satisfy stringent data and privacy needs for using large language models. These included ensuring that no Capita code was exported from Capita’s code base to Microsoft. Additionally, some code used by certain parts of the organisation cannot be exposed for training the model for external use.
+
+“We must protect our intellectual property (IP),” explains Manpreet Singh. “We worked with our data privacy team and Microsoft’s data privacy team to get answers to these questions. The answers from Microsoft were very clear for our legal and data teams.”
+
+Reassured by those answers, Capita began a three-month trial.
+
+Senior technical colleagues at Capita worked closely with Microsoft to plan a proof of concept. This involved 40 developers working over different projects and with different programming languages, where the IDE’s (integrated development environments) are supported by GitHub Copilot.
+
+“We worked alongside Microsoft on this feasibility study as a single team,” says Michael Noonan. “Microsoft was ready to help with training and answering our queries as quickly as possible. In particular, they gave us a lot of guidance and helped train our teams with how to use prompts.
+
+“As part of this initial rollout we established a knowledge base by creating our own Microsoft SharePoint site dedicated to the rollout of GitHub Copilot. We also created a collaborative channel in Microsoft Teams and collected feedback through Microsoft Forms and a training module for developers.”
+
+In this way, the Capita team shared best practice and learnings, especially around developing their new skill in using prompts.
+
+The developers’ use of GitHub Copilot has boosted their productivity across the areas where it is implemented. Capita expects to see productivity savings over the first 18 months of use.
+
+Notably, the rate of productivity improvement varies, depending on the type of work. The greatest improvements are seen in new code generation.
+
+Modifying code to update existing features to an existing solution is a more complex task. Even using the same language, each code base has its own parameters and syntax. Yet, even in these more complex tasks, Capita developers are enjoying a 15 to 25 percent productivity improvement when using GitHub Copilot.
+
+The Capita team measures these productivity improvements in more than cost efficiency value.
+
+“Developer productivity is about more than speed,” asserts Michael Noonan. “Our developers feel more fulfilled and less frustrated when coding and that’s a big win.”
+
+“GitHub Copilot helps developers stay in the flow by offering coding solutions without context switching or searching the web or other tools,” he explains. “We can use GitHub Copilot to avoid the interruptions that can ruin the developer’s focus. In this way, GitHub Copilot helps a developer to conserve mental energy which is critical for doing our best quality work and feeling good about what we do.”
+
+With feedback from the proof of concept so positive, Capita began rolling out GitHub Copilot to its wider development teams in December 2023. With more than 200 users and more onboarding all the time, Capita says its use of GitHub Copilot is now part of business as usual.
+
+“If and where we can use GitHub Copilot, we will,” says Michael Noonan. In all teams using the modern coding languages supported, every developer now has access to GitHub Copilot. The knowledge bases in SharePoint and Teams established during the proof of concept aided wider adoption.
+
+“Our earlier support meant that we were able to move to the rollout phase without blockage. Our knowledge base and training were already established and we continued to benefit from Microsoft support too.”
+
+Michael Noonan adds, “The beauty of it is that it’s been so quick to rollout. GitHub Copilot has proved easy and intuitive for the teams to pick up.”
+
+Using generative AI and prompt-based engineering is a real draw for developers – and gives Capita another competitive advantage in talent recruitment and retention.
+
+“Getting top talent through the doors can be very difficult,” states Michael Noonan. “Having GitHub Copilot as an assistant helps us to retain and attract developers because we’re using the latest modern techniques and developers can focus on more complex areas than typing large amount of simple code. It’s part of our value proposition.”
+
+Capita expects GitHub Copilot to be an existing addition to its graduate training programme. Michael Noonan believes that it will make a huge difference to onboarding times. He says, “Graduates’ speed to competency will be much faster.”
+
+A faster speed to competency is something the Capita team is already experiencing when developers begin working with programming languages with which they haven’t previously had a lot of experience.
+
+Michael Noonan explains, “When a developer starts working on something new, we usually pair them with a colleague who already has experience with it. Now, using GitHub Copilot, the developer can gain knowledge of the existing code base without such extensive help from their buddy. The time spent by the existing team on buddying and coaching has been streamlined. Any assistance they need to give tends to be reactive rather than proactive.”
+
+Capita’s experience is that once a developer has used GitHub Copilot, they do not want to stop. Manpreet Singh recalls, “When we demonstrated GitHub Copilot in our Digital Development Centre in Pune, people were lining the corridors to see it. There was a lot of excitement. Now it’s in their hands, the developers do not want to lose it.”
+
+Capita wants to extend GitHub Copilot use cases to gain maximum benefit. “There are some really good things we’re looking at doing,” reports Manpreet Singh. “Creating automation test scripts, for example, could have huge impact. We could bring in a much more accurate and faster way to test.”
+
+Manpreet Singh also wants to explore how Capita’s use of GitHub Copilot can be widened further, even going as far as assisting with legacy code where feasible. With Microsoft Azure OpenAI, he sees the potential in building your own Copilot and generative AI applications.
+
+“There is a lot of excitement in the business about the potential – not just of GitHub Copilot but also some of the other, more customer-facing generative AI tools, such as Copilot for Microsoft 365,” explains Manpreet Singh. “It’s enabling us to review how effective and how efficient we can be and how we can deliver projects much faster.”
+
+“I can see this will only continue to improve and help us drive value, productivity and speed. We’re going to be delivering more for our clients in each sprint. We can unlock value for our clients faster. That’s where the value really changes for Capita and our clients.”
+
+“There is a lot of excitement in the business about the potential – not just of GitHub Copilot but also some of the other, more customer-facing generative AI tools, such as Copilot for Microsoft 365.”
+
+Manpreet Singh, CTO, Capita

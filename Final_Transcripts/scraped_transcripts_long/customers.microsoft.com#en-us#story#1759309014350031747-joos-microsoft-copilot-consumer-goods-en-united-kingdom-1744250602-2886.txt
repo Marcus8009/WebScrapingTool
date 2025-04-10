@@ -1,0 +1,51 @@
+URL: https://customers.microsoft.com/en-us/story/1759309014350031747-joos-microsoft-copilot-consumer-goods-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 1307
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1304
+
+Joos, a supplier of mobile charging stations, is expanding beyond the UK and must communicate and collaborate efficiently across time zones. Using Copilot for Microsoft 365, Joos has streamlined meetings, optimized presentations, and improved communication. Joos plans to use Copilot for Microsoft 365 as it expands in North America and Europe.
+
+“The fact that Copilot quickly generates meeting recaps with notes and action items has actually changed the way we structure our meetings. We can review the recaps and see where we’ve veered off topic, so we’ve streamlined our agendas to be more effective and skip over the redundancies.”
+
+Jeannette Ikonga, Head of Client Success & Customer Experience, Joos
+
+Joos, established in London in 2018, was founded with the core principle of providing innovative power solutions to consumers during their time of need. Initially, the company focused on solving phone battery anxiety for users by offering rental power banks to charge customers' devices on the move. Customers can conveniently rent a power bank, charge their devices while on-the-go, and return it to any Joos station within the network. This unique approach propelled Joos to become a market leader in the power bank sharing industry, expanding its reach into crucial sectors like healthcare, transportation, retail, and hospitality.
+
+Extending beyond phone charging, Joos has now diversified its offerings to encompass off-grid solar solutions, ranging from solar car ports to smart battery storage systems. This expansion aims to reduce the strain on national power grids while simultaneously fostering the transition towards renewable energy sources. By leveraging cutting-edge technologies, Joos empowers businesses to embrace sustainable practices and contribute to a greener future.
+
+Being a leader of a small business brings unique challenges. Joos has around 45 employees across Europe, North America, Ghana, and China, the latter being where its technical team is located. “At Joos, one of the main challenges we face is working across time zones—some team members are 13 hours apart!” says Dominic Comley, Director of Global Operations at Joos. To accommodate the gap in time zones, Joos employees took detailed meeting notes so colleagues could stay up to date without joining every meeting. However, because of the team’s small size, senior members often had to manually take the notes themselves. “We rotated writing minutes between employees. But when it’s your turn, you’re not able to participate as effectively when you’re concerned with getting all that information down,” says Comley.
+
+Joos also had to navigate the barrier of employees speaking different languages, which required translating documents, meeting notes, and general communications between English and Chinese. “We would use transcription services, which was a manual process and therefore extremely time-consuming. It also struggled with the complexity of the Chinese language, often producing inaccurate translations” Comley explains.
+
+In addition, as Joos worked to expand its business, the team needed to pitch to new customers and foster relationships. But creating custom sales pitches, doing market research, or creating new marketing materials could take hours. “Pitch materials can take several hours per week as we always held sessions to onboard feedback and create bespoke pitches for clients within each of our sectors,” explains Comley.
+
+Looking to improve efficiency without sacrificing innovation or customer engagement led Joos to adopt Copilot for Microsoft 365 as a solution.
+
+The team at Joos had experimented with various AI tools beforehand but wanted a unified solution that integrated with the Microsoft 365 toolset and had powerful generative capabilities. Joos employees immediately started using Copilot in PowerPoint to create branded sales pitches.
+
+Now, employees use quick content editing and rephrasing to keep each presentation feeling unique and add branded elements automatically rather than having to search through asset libraries. “Being such a small team, we don’t have a dedicated marketing department. We all pitch in to take on that role,” says Jeannette Ikonga, Head of Client Success & Customer Experience. “Having Copilot link to our SharePoint makes it so much easier to draft marketing articles, press releases, and social media content.” It also helps Joos with outreach to prospective customers in new industries. Using Copilot, Joos employees can research new industries and clients in a fraction of the time it took before. “If I’m crafting a sales page for hospitals, I can ask Copilot for the pain points in particular environments, and it will search the internet for me,” Ikonga explains. “It’s helping me do research and create my presentations at the same time.”
+
+Employees also use the Draft an Email feature for Copilot in Outlook to quickly and effectively write emails to customers by summarizing important points automatically. They’re also benefiting from email coaching to help ensure that they can keep a friendly and genuine tone even while working quickly. “Since integrating Copilot, our customers have benefitted from faster email responses and more personalized interactions, as Copilot enables us to better understand and anticipate our customers’ needs,” says Ikonga. “We don’t have to spend nearly as much time preparing because Copilot has given us so much time back.”
+
+The integration with Copilot in Microsoft Teams has been a massive game-changer for collaboration and sharing across the company. “The fact that Copilot quickly generates meeting recaps with notes and action items has actually changed the way we structure our meetings,” says Ikonga. “We can review the recaps and see where we’ve veered off topic, so we’ve streamlined our agendas to be more effective and skip over the redundancies.” And after their meetings, the team uses the automatic translation function to localize those recaps into other languages. “Being able to immediately communicate with our team in China, without hiring a translator, is a great benefit,” says Comley.
+
+Joos is also using Copilot to summarize long documents in the onboarding process. “I use Copilot to tailor onboarding to the specific role we’re hiring for,” explains Ikonga. “If I’m hiring someone in operations, rather than slam them with the 50-page manual, I have Copilot summarize it down to a page and a half of key points relevant to their role.” This has cut down the time for both onboarding meetings and trainings at the company.
+
+Another unexpected benefit of Copilot: finding revenue-saving insights hidden in data. While upgrading to a new interactive BI system, Joos has used Microsoft Excel to track thousands of active power bank stations in its network. “Trawling through data to understand the insights can be a very time-consuming process,” says Comley. “By having Copilot in Excel analyze our data, I’ve actually been able to highlight key performance indicators such as which stations are underperforming from previous months, which usually means it’s offline or has been moved.” From those easily retrieved insights, Joos can prioritize which stations to inspect, saving time and money.
+
+Since implementing Copilot, Joos has significantly improved team collaboration and efficiency. The company is actively working on its expansion across North America and Europe. “Since Copilot helps us communicate so well across time zones and languages now, we have a foundation for expanding into Canada,” explains Comley. Instead of encountering new potential linguistic and time zone barriers, Joos already has the framework with Copilot to foster a team among French-speaking Canadian customers and co-workers.
+
+The Joos leadership team has already seen the transformative value of Copilot within its small team. “If you have gaps in your systems, you can find creative ways to plug them using Copilot. It’s been incredibly helpful for us,” says Comley. Just like Joos is all about powering people on the go, Copilot gives the company the power to fuel collaboration, efficiency, and creativity amidst its global expansion.
+
+Find out more about Joos on Twitter, Facebook, and LinkedIn.
+
+“By having Copilot in Excel analyze our data, I’ve actually been able to highlight key performance indicators such as which stations are underperforming from previous months, which usually means it’s offline or been moved.”
+
+Dominic Comley, Director of Global Operations, Joos

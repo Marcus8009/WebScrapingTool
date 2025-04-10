@@ -1,0 +1,209 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-is-already-changing-work-microsoft-included
+Source: microsoft.com/worklab
+Total Word Count: 811
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 808
+
+AI Is Already Changing Work—Microsoft Included
+
+Seven functional leaders share data and insights on what they’re learning—and how AI can help future-proof any organization.
+
+Meet Our Leaders
+
+Customer Service
+
+Mala Anand
+
+Corporate Vice President
+
+Sales
+
+Sandeep Bhanot
+
+Corporate Vice President
+
+Marketing
+
+Jessica Daughetee
+
+Vice President
+
+Human Resources
+
+Christopher Fernandez
+
+Corporate Vice President
+
+Finance
+
+Cory Hrncirik
+
+Director
+
+Legal
+
+Hossein Nowbar
+
+Chief Legal Officer and Corporate Vice President
+
+IT
+
+Nathalie D’Hers
+
+Corporate Vice President
+
+What business goal is Copilot helping you achieve?
+
+Sales
+
+Sandeep Bhanot
+
+Marketing
+
+Jessica Daughetee
+
+Finance
+
+Cory Hrncirik
+
+Christopher Fernandez
+
+Human Resources
+
+What’s the most important process your function is improving with Copilot today?
+
+Finance
+
+Cory Hrncirik
+
+Sales
+
+Sandeep Bhanot
+
+Legal
+
+Hossein Nowbar
+
+Jessica Daughetee
+
+Marketing
+
+Where are you seeing the biggest business value of AI?
+
+Sales
+
+Sandeep Bhanot
+
+Legal
+
+Hossein Nowbar
+
+Marketing
+
+Jessica Daughetee
+
+Sandeep Bhanot
+
+Sales
+
+Now that you’re well into this process of AI transformation, what is the top takeaway you’d want to share with other business leaders?
+
+IT
+
+Nathalie D’Hers
+
+Finance
+
+Cory Hrncirik
+
+Sales
+
+Sandeep Bhanot
+
+Hossein Nowbar
+
+Legal
+
+What will be the biggest impact of Copilot and agents in the next few years?
+
+Legal
+
+Hossein Nowbar
+
+Sales
+
+Sandeep Bhanot
+
+Human Resources
+
+Christopher Fernandez
+
+1
+Internal CSS experiment conducted by Microsoft; 600 participants using Copilot Q&A function, Azure Core team; Nov. - Dec. 2023. These results are statistically significant at the 95th percent confidence interval.
+
+2
+Internal Microsoft sales team data based on 687 sellers of Microsoft 365 Copilot from Jan. - June 2024, as compared with sellers with low usage of Copilot. Regular usage of Copilot means sellers who use Copilot daily at least 50% of the time during the testing period.
+
+3
+Internal Microsoft marketing team data. June - Sept. 2024. Conversion means initiating the free account sign up process on Azure.com.
+
+4
+Internal HR experiment conducted by Microsoft, 33 participants, Oct. 2024. These results are statistically significant at the 95th percent confidence interval.
+
+5
+Internal Microsoft Finance data, Oct. 2023 - Aug. 2024.
+
+6
+Projected numbers based on internal Microsoft legal team study. 56 participants. May 2024. These results are statistically significant at the 95th percent confidence interval.
+
+7
+Internal Microsoft IT experiment. 46 employee participants. Sept. 16-27, 2024. Success rate means: use of self-help resources through to resolution without contacting an agent. These results are statistically significant at the 95th percent confidence interval.
+
+8
+Internal Microsoft IT experiment. 46 employee participants. Sept. 16-27, 2024. These results are statistically significant at the 95th percent confidence interval.
+
+9
+Internal Microsoft sales team data based on 687 sellers of Microsoft 365 Copilot from Jan. - June 2024, as compared with sellers with low usage of Copilot. High usage of Copilot means sellers who use Copilot daily at least 50% of the time during the testing period.
+
+10
+Internal Microsoft sales team data based on 24,000 sellers. Oct. 2023 - June 2024. As compared with sellers with low usage of Copilot. Regular usage of Copilot means sellers who use Copilot daily at least 50% of the time during the testing period.
+
+11
+Internal Microsoft legal team study. 56 participants. May 2024. [These results are statistically significant at the 95th percent confidence interval].
+
+12
+Projected numbers based on internal Microsoft experiment of 56 participants from May 2024. Increased capacity means increasing the capacity for our legal professionals to meet the exponentially growing regulatory and compliance demands without a corresponding increase in resources (e.g., people and budget resources staying similar/flat).
+
+13
+Internal Microsoft marketing data based on use of Azure AI from a team that manages 35 commercial Microsoft web properties. Sept. 2024. Digital content creation process means brief creation, copywriting, web page creation, and sign-off.
+
+14
+Internal Microsoft marketing team data. June - Sept. 2024. Conversion means initiating the free account sign up process on Azure.com.
+
+15
+Internal CSS experiment conducted by Microsoft; 600 participants using Copilot Q&A function, Azure Core team; Nov. - Dec. 2023. These results are statistically significant at the 95th percent confidence interval.
+
+16
+Office of Chief Economist, Wave 2.5 Study results of internal use of Copilot in Dynamics 365 Customer Service among Microsoft commercial business support engineers. Outcomes reflect results from 9,900 agents from a specific five-month period (April-September 2023). Findings were evaluated at the business unit level, not across the entire CSS organization
+
+17
+Internal HR study conducted by Microsoft, 33 participants, Sept - Oct 2024. These results are statistically significant at the 95th percent confidence interval.
+
+18
+Internal Microsoft Finance data, Oct. 2023 - Aug. 2024.
+
+19
+Internal Microsoft IT experiment. 46 employee participants. Sept. 16-27, 2024. Success rate means: use of self-help resources through to resolution without contacting an agent. These results are statistically significant at the 95th percent confidence interval.
+
+20
+This is a projected number based on user testing of DACA Copilot and the 12-year long-standing DACA clinic metrics.
+
+Working Better
+
+AI at Work

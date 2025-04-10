@@ -1,0 +1,39 @@
+URL: https://www.microsoft.com/en-us/worklab/how-we-measure-the-value-of-ai-at-work
+Source: microsoft.com/worklab
+Total Word Count: 736
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 733
+
+Our new metric can help business leaders track their organization’s AI trajectory.
+
+Our 2024 Work Trend Index Annual Report found that while 79 percent of leaders agree that AI is crucial for business, 59 percent are worried about quantifying the productivity gains of AI. As we all move from AI experimentation to real business transformation, leaders everywhere are wondering: How can I tell if this is actually making work better for people?
+
+To start to answer that question, we developed a new metric: Copilot Assisted Hours. It’s a first step in helping leaders understand how Copilot improves work for employees across the organization—and not just by saving them time.
+
+“While time savings are important, Copilot’s value goes far and above people saving time,” says Peter Bergen, Principal Project Manager for Copilot Reporting, who helped develop the metric. “It impacts the quality of their work, it impacts the amount of effort that they have to put into things, it impacts their creativity.”
+
+Measuring the benefits of AI 
+To zero in on how we could tangibly measure Copilot’s value, our research, product, and marketing teams looked to develop a composite score that reflects key data from our telemetry: meeting hours summarized by Copilot; Copilot chat searches; summaries of email threads, documents, and presentations; and the creation of emails, documents, presentations, Excel calculations, and more.
+
+“It’s all about how you can make your investment in your employee go farther,” says Shamsi Iqbal, a Microsoft researcher who worked on the metric. “How can you help them deliver better quality work with less effort?”
+
+Meetings are a great place to start seeing the value of AI—the Work Trend Index also shows that time in meetings is holding steady at its post-pandemic highs. When you ask Copilot for a summary of an hourlong meeting, that counts as one Copilot assisted hour. According to our research, Copilot users were able to retrieve information across files, emails, and calendars six minutes faster with Copilot versus without. That’s why searching for information, like when you ask Copilot to locate that deck your boss shared in a meeting earlier this week, counts for six minutes of Copilot assisted time. And using Copilot to make something from scratch—say, writing a blog post or creating a slide deck—also counts for six minutes, based on our research on how much more quickly Copilot users work than non-users. (Creation, our researchers note, is especially difficult to measure in a single number, so this part of the metric is a broad estimate that likely undercounts Copilot’s time savings. As research improves, we will adjust our methodology.)
+
+How to use the metric 
+Leaders can view their organization’s unique number—which reflects the last 28 days with Copilot—in their Copilot Dashboard, filtering different organizations, scopes, and job functions to drill down on smaller groups. Customers tell us that these privacy-protected insights help them better understand how Copilot enriches collaboration and productivity in specific functions.
+
+In the dashboard, you can see the breakdown of how your workforce is using Copilot, from meetings summarized to email drafts generated. If your org is lagging behind on, say, document editing, that can point to opportunities for specific training and skilling in Word. (Copilot Academy in Viva Learning and Copilot Lab are excellent places to start.)
+
+Remember, too, that using AI is a completely new way of working for most people, and it takes time to build the habit. Our research found that the magic formula for unlocking Copilot’s value is what we like to call the 11-by-11 tipping point—that is, 11 minutes of time savings per day over 11 weeks of usage. It’s essential to give your people that trial period—which comes out to a little less than a business quarter—before reading too much into your number. Make sure, too, that you roll it out with intention.
+
+While the role of AI is expanding from individual productivity to broader business problem solving—especially as we look toward a future of AI agents that can act on behalf of their companies—we’re just starting to understand how it will transform work for every employee. Copilot Assisted Hours is an important step in doing that, and as we learn more, our methodologies will get more refined. By working to increase your number, you’ll see the benefits to individual productivity ripple across the organization, along with innovation, creativity, and ultimately, the bottom line.
+
+2024 Work Trend Index Annual Report
+
+Findings

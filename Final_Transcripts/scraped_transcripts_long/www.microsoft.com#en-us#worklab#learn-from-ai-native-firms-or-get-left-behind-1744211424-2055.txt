@@ -1,0 +1,61 @@
+URL: https://www.microsoft.com/en-us/worklab/learn-from-ai-native-firms-or-get-left-behind
+Source: microsoft.com/worklab
+Total Word Count: 879
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 876
+
+Lessons from the new wave of companies with AI at their core.
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+Photo credit: Getty Images for The Atlantic
+
+If you really want to understand the future of work, look at the companies that are going all in on AI. That’s what Jared Spataro, Chief Marketing Officer of AI at Work here at Microsoft, tasked his team to do. What they found: AI-native startups fold the technology into all aspects of their businesses, from processes and products to customer service. As Spataro says, they’re “using AI at the core of everything they do.”
+
+Recently, Spataro spoke with Nicholas Thompson, CEO of The Atlantic, at The Atlantic Festival. In an onstage Q&A, they explored what these AI natives do differently—and what companies of all sizes need to learn from them.
+
+“AI-native firms, in many ways, are a crystal ball for the way work will go,” Spataro told the audience. “We would think of it this way: You’re either going to become an AI-native firm, or you’re going to be beaten by one.”
+
+Three takeaways from the conversation:
+
+AI natives show all companies a path to reinvention 
+Spataro and his team spent months talking with leaders of these AI-native startups, which operate across industries like marketing, healthcare, and legal. They discovered that these companies use AI to unlock new business opportunities and build more efficient processes. As he explained, “When you’re AI-native, you’re using [AI] both for what I call offense (to create new value) and for defense (to reduce costs).”
+
+A legal startup they talked to recognized that AI could analyze contracts, documentation, and other inputs to answer people’s questions for free before referring them to a lawyer if needed. “That’s a broader example of how people are using AI not just to cut costs, but also to actually create value for customers,” Spataro said.
+
+All companies, even long-established ones, can begin to work like AI natives: Thompson adopted the perspective of a company just getting started with AI and asked, “What are the particular guardrails I should put up so that we don’t mess things up?” Spataro’s advice was to start small with a pilot AI program, ensure it has human oversight, and course correct as needed.
+
+Your teams will include humans and AI—and you’ll have to manage both 
+Thompson asked Spataro about whose jobs are changing most because of AI, guessing, “Coders?” Spataro agreed, adding: “Beyond that, it’s managers. The managerial science is changing the most, because we’re learning that many managers are not only going to be managing humans, they’re going to be managing AIs as well.” At AI-native startups, that’s already happening.
+
+Happily, it’s a job managers should be well suited for. Many of the people skills required for managing teams are crucial for working with AI. “People who do the best with AI are people who have managerial experience,” Spataro said. “They understand what it looks like to break up a task and parcel that out, to then exercise judgment over what is coming back and say, hey, I need to see a different input.”
+
+Spataro recommends collaborating with AI like you’d work with a colleague, through conversational back-and-forth and iteration. That way, you’re “co-creating” with AI instead of giving it commands and expecting a perfect answer on the first go. “It’s kind of a counterintuitive thing, but it’s really about working with AI as a partner, as opposed to a machine,” he said.
+
+Understand (and appreciate) the tasks that only humans can do 
+AI can do a lot of things extremely well, but it can’t replace human insight and judgment. “AI can be what we call ‘usefully wrong,’ meaning it’s just not always right, and you do have to have a human in the loop to check its work,” Spataro said. When AI’s response isn’t quite right, it still might lead you down a useful new path or help you get closer to your desired outcome.
+
+Thompson asked Spataro about where he’s seen an AI-first approach fall short. “If you think you’re going to get a finished product from AI, then it will go wrong,” Spataro said. “But if you think you’re going to get a fantastic first draft, a start at what you’re doing, you’re going to be very positively surprised.”
+
+Closing thoughts 
+As the conversation wrapped up, Thompson asked Spataro what AI advice he gives people managing companies or teams. “The phrase you hear the most [from companies] is, ‘Oh, we’re working on the business case for AI.’ I love business cases! You should do that,” Spataro said.
+
+But that shouldn’t be an excuse to delay movement at a time when standing still means falling behind. “You need to understand this isn’t an incremental improvement on what’s happening. This is literally a step function change, and you need vision for how you can change your business.”
+
+For more actionable insights and thought leadership from Jared Spataro, subscribe to his LinkedIn newsletter, “AI at Work.”
+
+Recently, Spataro spoke with Nicholas Thompson, CEO of The Atlantic, during an underwriter session produced by Microsoft at The Atlantic Festival.
+
+AI at Work
+
+Results

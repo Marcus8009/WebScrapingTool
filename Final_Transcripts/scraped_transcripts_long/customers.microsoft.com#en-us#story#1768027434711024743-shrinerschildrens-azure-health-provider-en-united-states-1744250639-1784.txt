@@ -1,0 +1,65 @@
+URL: https://customers.microsoft.com/en-us/story/1768027434711024743-shrinerschildrens-azure-health-provider-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 1078
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1075
+
+Healthcare professionals diagnose and treat patients based on information gathered in clinical notes. But oftentimes, these notes are housed in outdated systems. Some are even handwritten and, therefore, difficult to comprehend. For clinicians to treat patients promptly, there must be a more efficient solution and one that minimizes errors.
+
+Shriners Children's is an international healthcare system offering patient-centered care. But, to do this, it knew it had to house all clinical notes in a secure, cloud-based infrastructure.
+
+Fractal, a pure-play analytics company, focuses on data engineering, AI, and design to help its customers across industries. Fractal was tapped to help with next-generation research data systems and processes. It developed an AI platform for its customer, Shriners Children’s. Now, clinicians can easily and securely navigate patient data in a singular location.
+
+Fractal’s vision is to empower people with the necessary tools to escape the patterns of monotonous work.
+
+Shriners Children’s offers patient care to as many children as possible. Before its solution, the organization had to rely on the analytics team to provide them insights from patient clinical notes and history. This process was time-consuming and inefficient.
+
+“They were facing challenges with respect to the researchers not finding information that was buried deep into clinical notes. So, for all of the information needs that they had, they had to specifically [reach out] to the clinical informatics team. And the process was manual. These were some of the challenges that they wanted to see if technology could help them [with],” Kishore Bharatula, Client Partner, Fractal, said.
+
+Shriners Children’s also wanted to pursue a new opportunity within the technology space.
+
+“The foundational models and user-friendly bot interface utilized by ChatGPT and similar tools increased buy-in to AI technologies in an incredible way. We were intrigued in taking these tools that were designed for general use by the public and utilizing them in a more specific use case for our research and clinical practices. So, we set out to use natural language processing to gather valuable insights from our clinical notes,” Jason Woloff, Research Informatics Associate, Shriners Children’s, said.
+
+Fractal decided to work with Microsoft Azure to build Shriners Children’s solution because of its long-standing partnership, use of state-of-the-art technology, and security. Azure provided all the necessary services within one ecosystem. Fractal also had early access to Azure OpenAI Service and used a wide variety of Azure services to develop and deploy the solution. Fractal began to develop a solution that would help Shriners Children’s in the long run.
+
+Fractal knew that an Azure OpenAI–powered, self-serve solution would be the best approach, so it leveraged Azure OpenAI Service in addition to:
+
+“The objective of this was to try and enable a chat-like experience where research assistants could come in, ask questions based on the patient clinical notes, and try and find patient symptoms conditions, among other things, and the Azure service could potentially give that information without necessarily needing anyone else to be involved. So, this was helping them mine information from the vast amount of data themselves without having dependencies on anyone else,” Bharatula said.
+
+During the data migration process, Fractal used Azure services like Azure Storage service encryption. This allowed only people with security clearance to access the data.
+
+Fractal enabled a solution called ShrinersGPT in the Shriners ecosystem. The solution enabled the creation of a chat board with the Shriners Research doctors, eliminating the manual clinical notes process. Fractal built the solution based on Azure OpenAI Service, ShrinersGPT, in under four weeks.
+
+Microsoft Fabric also played a huge role.
+
+“[Microsoft] Fabric also fosters collaboration by allowing users to share data insights, reports, and dashboards seamlessly across teams. As business needs grow, Fabric can be scaled to handle increasing data volumes without compromising performance,” Jann Skotdal, Senior Lead Marketing Manager, Cloud Partnerships at Fractal, said.
+
+Now, clinicians and researchers can leverage generative AI to easily and quickly search through a vast library of notes to accelerate their research interactively and powerfully. The ShrinersGPT solution:
+
+“... We did gain a few important insights. Some of these key points included the need for solidifying our infrastructure for the foundation of these more fun projects and having some form of organizational guidelines. I believe this is a shared focus in the industry, as accuracy is a concern of large language models and similar tools,” Woloff said.
+
+Now, patients with scoliosis, for example, can continue to get the best care possible.
+
+“Well, scoliosis, one of the conditions that we see frequently at Shriners [Children’s], is able to be broken down into different subtypes, and each subtype has different treatment pathways,” Woloff said.
+
+Before the solution, it was challenging to create a treatment plan, but with ShrinersGPT, these decisions are well-informed and backed by easily accessible data.
+
+“Therefore, a valuable question is going to be more complex than, 'How do I treat scoliosis?' This actually comes back to the concept of what I mentioned before and our interest in incorporating clinicians and hospitals in this generation of these technologies. By having those players incorporated in the generation, we can make sure that the tools are better prepared for and we have users capable of asking more complex questions. Here, we can increase clinician trust in these technologies, increase engagement, and collectively push forward towards improving patient care,” Woloff said.
+
+“Fractal delivered a solution based on enterprise Azure OpenAI to help Shriners [Children’s] academic researchers self-serve and find the answers they were looking for from clinical notes for themselves,” Bharatula said.
+
+Shriners is now looking to expand to other doctors in their ecosystem and enhance the chatbot to answer a wider variety of health questions.
+
+Next, Fractal will continue to work with Shriners Children’s to incorporate Microsoft Fabric within ShrinersGPT. Microsoft Fabric’s comprehensive set of analytics experiences are designed to work together seamlessly and can help Shriners doctors and researchers tailor insights to a specific persona and a specific task.
+
+“Moving forward, Fractal will continue to help customers use Microsoft Fabric to empower them to take control of their data to make informed decisions. This will lead to greater efficiency, allowing teams to save time by generating reports and insights without relying on IT,” Skotdal said.
+
+“The foundational models and user-friendly bot interface utilized by ChatGPT and similar tools increased buy-in to AI technologies in an incredible way ... So, we set out to use natural language processing to gather valuable insights from our clinical notes.”
+
+Jason Woloff, Research Informatics Associate, Shriners Children’s

@@ -1,0 +1,80 @@
+URL: https://www.microsoft.com/en-us/worklab/there-are-no-shortcuts-to-high-performance
+Source: microsoft.com/worklab
+Total Word Count: 876
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 873
+
+New research shows the value of investing in the challenging, yet important, conditions that impact performance—and AI can help
+
+This article first appeared in the WorkLab newsletter. Be the first to get our updates by subscribing here.
+
+In business, there are no shortcuts to high performance. And new research shows that performance is all about putting in the hard work where it matters most.
+
+In a Viva People Science survey of 1,100 external leaders from various industries around the world, we asked what factors leaders considered most important to high performance. Topping the list are human ones: effective managers who empower teams, along with good communication across those teams, inspiring leaders, and an inclusive culture that supports wellbeing.
+
+Here’s the rub: leaders said that these human factors are the hardest things to get right.
+
+But getting them right really pays off. Our survey found that these challenging yet important capabilities are where organizations should focus time and energy to take performance to the next level—and where investments in technology can have the biggest impact.
+
+Managers really matter
+Leaders said that having effective managers who empower others was the single most important factor associated with high performance.
+
+It’s not hard to see why: managers are the gateway to your workforce, and effective managers are key to harnessing the value of your people.
+
+But the leaders we surveyed said that developing effective managers is the most difficult thing for organizations to do. Likewise, effective communication across teams and clarity around performance expectations—which are crucial to getting the best out of teams—are seen as both key to performance and especially challenging.
+
+This is where organizations should focus, and they should lean on technology to help. AI can reduce the burden on managers, allowing them to focus on empowering teams, improving communication, and ensuring alignment on goals and expectations.
+
+Use technology to simplify easier tasks so you can focus on the performance drivers that are important but difficult to achieve.
+
+Facilitate tough but meaningful collaboration
+The survey results showed that when leaders collaborate with other leaders they’re most often engaging in positive, low-conflict connections, like building strong relationships and celebrating each other’s wins.
+
+The types of collaboration that leaders tend to engage in less often are the more difficult ones, like constructively debating disagreements, co-deciding on investments, and sponsoring one another’s initiatives.
+
+That’s particularly concerning when it comes to HR and IT—departments that need to work together to adopt technologies that address the human factors that matter most.
+
+But when it comes to making decisions on technology investments, most IT leaders said they most frequently collaborated with their own teams (88%), and just 29 percent said they work closely with HR to make investment decisions.
+
+Similarly, HR leaders said their own teams were their most frequent collaborators (78%), and just 47 percent said they work with IT to make decisions about technology investments.
+
+IT and HR need each other, but they don’t always speak the same language. That means IT teams may work hard to deliver a product that doesn’t account for human factors, which could affect its success.
+
+To solve this problem, many organizations have created roles for Digital Experience or Digital Transformation leaders who focus on aligning technologies with human-centered needs and values. As such, they act as the glue between IT and HR, serving as both mediator and translator.
+
+AI is essential to overcoming performance hurdles 
+A critical priority for these digital transformation leaders is empowering people with AI tools. Take the following all-too-familiar challenges that leaders cited as barriers to high performance:
+
+Burned-out and disengaged employees
+
+Inefficient work culture, which included endless meetings and excessive working hours
+
+Overburdened managers
+
+Accumulation of tedious tasks
+
+When asked which barriers AI had the best potential to address, leaders cited the same issues, showing that AI capabilities are uniquely well suited to helping organizations overcome the barriers to high performance. Leveraging AI to reduce the burden of rote work, create efficiencies, and give employees time to focus on the work that’s meaningful to them is essential for organizations looking to surmount the barriers to high performance.
+
+AI capabilities are uniquely well suited to overcoming the barriers to high performance.
+
+Source: Microsoft, The High performing Organization Survey. September 2023.
+
+Survey questions: Which of the following barriers are slowing your organization's progress toward high performance? (Select all that apply.); Which of the following barriers do you believe AI has the greatest potential to assist your organization with? (Select all that apply.)
+
+In fact, leaders who reported consistently strong performance across a range of indicators said that their organizations were further along in AI adoption than their peers, and they were more likely to have invested in AI for specific employee experience use cases.
+
+When it comes to performance, the easy path may not be the best route, and AI is particularly good at helping organizations tackle the challenges that matter most. Facing the hard stuff head-on—and using technology to make challenges less formidable—is what makes the difference between a high-performing organization and one that is simply doing fine.
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+AI Tips
+
+Instant Insights

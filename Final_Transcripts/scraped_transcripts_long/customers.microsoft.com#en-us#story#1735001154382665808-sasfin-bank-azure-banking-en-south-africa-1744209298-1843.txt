@@ -1,0 +1,41 @@
+URL: https://customers.microsoft.com/en-us/story/1735001154382665808-sasfin-bank-azure-banking-en-south-africa
+Source: customers.microsoft.com
+Total Word Count: 951
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 948
+
+Sasfin Bank Limited's Group Legal team, headed by Howard Brown, embarked on a transformation journey to enhance the bank’s legal operations. Taking document management head-on, Sasfin Bank’s legal team found a game-changing solution in Legal Interact's Contract Corridor. Built on Microsoft Azure, the platform doesn't just centralize 20,000 documents; it also uses artificial intelligence (AI) to analyze contract clauses, making post-signature management a breeze. Questions like 'What does this confidentiality clause mean?' are instantly answered, while Power BI dashboards provide real-time snapshots, moving from guesswork into data-driven decision-making.
+
+Nicole Jude, Senior Legal Adviser at Sasfin Bank, has been involved in the procurement and implementation of the new system. Jude has been on an evolving journey since entering the legal profession. After qualifying as an attorney and earning a Master’s in Banking and Finance Law at the London School of Economics, Jude worked at various law firms in South Africa specializing in banking law and project finance. Six years ago, she joined Sasfin Bank and began navigating the nuances peculiar to in-house legal teams. The in-house legal department manages all legal matters from drafting agreements and contracts to arrears collection and litigation.
+
+Jude explains, “Given the strict regulatory landscape for banks in South Africa and globally, it was crucial for us to implement a unified document management system that remained highly secure.”
+
+“Sasfin Bank was looking for a simple system, to keep a smooth workflow, especially to ensure seamless handovers,” shares Jude. The legal team’s criteria were straightforward. First, the new system had to be capable of centralizing document storage. Second, it had to offer the ability to manage agreements post-signature to help Sasfin Bank’s legal team track obligations and key dates to manage contractual obligations.
+
+“Legal Interact’s Contract Corridor solution met these needs and even offered bonus features, such as a self-service portal for logging requests for legal assistance,” Jude notes. Transforming in-house legal management
+
+Sasfin Bank's legal team wasted no time tailoring the solution to its workflows. They found that Legal Interact team was more than willing to meet the bank’s needs. "If we felt certain terminology didn't suit us, Legal Interact changed it. They surpassed our expectations to make it bespoke for us," Jude states. Contract Corridor—built using Azure Cognitive Services for optical character recognition (OCR) and Azure SQL for database management—was customized to a tee. “We have already uploaded 30 templates for legal documents and are planning to expand the library to even more templates,” said Jude.
+
+Additionally, 20,000 documents were migrated and centralized on the solution, enabling Sasfin Bank’s legal team to quickly search through relevant documentation. “Not only does Contract Corridor pick up the name of a document, but it also searches within the document,” explains Jude. “If I search for the word ‘guarantee’, it will find every agreement that mentions ‘guarantee’ within the body text.”
+
+Azure OpenAI Service enables more advanced search features. “Questions like ‘What does this confidentiality clause mean?’ can be answered by the Azure OpenAI Service built into the solution, enhancing the quality of our work.” Furthermore, anyone in the bank—from a facilities manager needing a services contract reviewed to the CEO requiring legal counsel—can now submit their requests through the self-service portal or Microsoft Teams integration, further streamlining legal workflows.
+
+The solution also revamped the way agreements are managed. Once the required fields are filled, the system auto-generates legal documents. Third-party agreements are easily uploaded, marked up, and disseminated to relevant stakeholders. Artificial intelligence (AI) automatically identifies crucial contract clauses, such as termination dates and notice periods, making post-signature management more efficient.
+
+While document centralization and agreement tracking were the legal team’s primary concerns, the platform offered so much more to Sasfin Bank. "One unexpected benefit is the Power BI dashboards. They show activity and status of contracts and arrears at a glance and are extremely useful both to our legal team and Sasfin Bank’s management in keeping track of our matters," notes Jude. This eliminated time-consuming guesswork and facilitated quick, data-driven decisions.
+
+Beyond these benefits, Jude praised Legal Interact's commitment during and after the implementation to train staff to get the most out of the solution. Weekly training sessions quickly made the team proficient in using the platform, ensuring that advanced features were not just checkboxes but tools actively driving value for the bank. "We've also identified additional features that could enhance efficiency, such as the most recent addition of a plugin in Microsoft Word documents. This will allow us to access the solution from Word and will remove the need to manually upload documents to Contract Corridor," adds Jude.
+
+With the system already proving its value, Sasfin Bank’s legal team has their sights set on the future. They’re exploring how Sasfin Bank's other departments might leverage Contract Corridor's features, given its industry-agnostic capabilities. Jude states, "Because Contract Corridor passed all of our security measures and met ISO and compliance requirements, we can extend it beyond the legal department to include procurement, human resources, finance, and governance." Aside from expanding use cases, Jude is keen on optimizing data reporting. "I expect that the dashboards will greatly assist the management team with reporting in committees and audits," she adds.
+
+As Sasfin Bank leans further into digital transformation, Jude is sure that this journey marks a pivotal chapter for Sasfin Bank’s legal function. "The traditional attorney's office is changing; instead of piles of physical documents and a diary, it's becoming digital. While transformation requires perseverance, it’s both rewarding and essential for us moving forward."
+
+“Given the strict regulatory landscape for banks in South Africa and globally, it was crucial for us to implement a unified document management system that remained highly secure.”
+
+Nicole Jude, Senior Legal Adviser, Sasfin Bank

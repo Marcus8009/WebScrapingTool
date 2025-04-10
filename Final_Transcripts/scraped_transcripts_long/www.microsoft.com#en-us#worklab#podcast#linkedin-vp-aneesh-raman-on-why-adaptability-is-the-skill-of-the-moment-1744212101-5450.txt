@@ -1,0 +1,49 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/linkedin-vp-aneesh-raman-on-why-adaptability-is-the-skill-of-the-moment
+Source: microsoft.com/worklab/podcast
+Total Word Count: 781
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 109
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in our new world of work. 
+ANEESH RAMAN: Adaptability is the best way to have agency right now. I think in a moment of big change like we’re living through now, the thing we all most want is not just a way to understand it but a way to manage it. And at the core of that right now is just going to be building that muscle of adaptability. 
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 672
+
+Podcast
+
+Generative AI is changing jobs, expanding opportunities, and shifting how we lead.
+
+WorkLab Guest Aneesh Raman
+
+November 1, 2023
+
+“Jobs are changing all around you even if you aren’t changing jobs,” says Aneesh Raman. He’s a vice president at LinkedIn and head of the company’s Opportunity Project, which is focused on building a more dynamic and equitable global labor market. Raman knows a little something about changing jobs—he formerly worked as a CNN war correspondent and as a speechwriter for President Obama.
+
+In this episode, Raman breaks down the significance of key findings from LinkedIn’s research on how generative AI is changing work. He also shares invaluable insights on how technology will create expanded economic opportunities for people without standard career paths and educational backgrounds.
+
+Raman is the fourth guest for season 5 of Microsoft’s WorkLab podcast, in which host Molly Wood has conversations with economists, technologists, and researchers who explore the data and insights about the work trends you need to know today—from how to use AI effectively to what it takes to thrive in our new world of work.
+
+Three big takeaways from the conversation:
+
+LinkedIn data suggests that 25 percent of the skills required to perform jobs have changed over the past eight years. And it’s estimated that the skills needed to do your job will change by 65 percent by 2030. “That’s basically a new job,” Raman notes. “Adaptability is the best way to have agency right now. I think in a moment of big change like we’re living through now, the thing we all most want is not just a way to understand it but a way to manage it. And at the core of that right now is just going to be building that muscle of adaptability.”
+
+He believes that job titles and college degrees will matter less and less as AI advancements require employers to develop a skills-first mindset. “It’s not as easy to filter for skills as you filter for degrees. But I promise everyone that it is easier than any other way that exists to figure out what is going to happen to work, to your job, to your team in the age of AI.”
+
+“People skills are going to come more to the center of individual career growth,” Raman says. LinkedIn’s research shows that 72 percent of US executives agree that soft skills—communication, creativity, adaptability—are even more valuable than AI skills. He envisions “a world of work that’s more human, not less, because people skills are going to come more to the center of individual career growth, and people-to-people collaboration is going to come into the center more for company growth. For leaders, you’ve got to start with communicating clearly, compassionately, and empathetically with your teams.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the episode 4 conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in our new world of work.
+
+ANEESH RAMAN: Adaptability is the best way to have agency right now. I think in a moment of big change like we’re living through now, the thing we all most want is not just a way to understand it but a way to manage it. And at the core of that right now is just going to be building that muscle of adaptability.
+
+Advice for leaders on building a diversified “portfolio life,” and rethinking careers and growth for the AI-powered work.
+
+He helped transform how we collaborate. Now he's taking us behind the scenes on how AI is reshaping work

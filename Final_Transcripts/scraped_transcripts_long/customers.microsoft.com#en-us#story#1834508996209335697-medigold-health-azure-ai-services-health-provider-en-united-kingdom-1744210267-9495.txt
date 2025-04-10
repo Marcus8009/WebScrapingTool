@@ -1,0 +1,53 @@
+URL: https://customers.microsoft.com/en-us/story/1834508996209335697-medigold-health-azure-ai-services-health-provider-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 937
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 934
+
+Facing the challenge of increasing client demand and limited clinician resources, Medigold Health wanted to find ways to reduce administrative burdens on clinicians so they can focus more on patient care—and have better work-life balance.
+
+With Microsoft Azure as a foundation, the Medigold team migrated their applications to Azure App Service, and used Azure OpenAI Service for automated report generation, utilizing Azure Cosmos DB for logging and Azure SQL Database for data storage.
+
+Automated processes, especially with report generation, are saving clinicians time, leading to a 58% rise in clinician retention and greater job satisfaction.
+
+Medigold Health, one of the United Kingdom’s leading occupational health service providers, is dedicated to helping businesses keep employees healthy. The family-founded business specializes in providing organizations with advice and support to reduce workplace health risks and promote enhanced physical and mental wellbeing.
+
+“We aim to improve service quality for clients and, with that, the work-life balance of our clinicians,” says Alex Goldsmith, Chief Executive Officer at Medigold Health, whose father, Dr. Mike Goldsmith, launched the company in 1998 with just five staff members. Now with over 1,000 employees and 450 clinicians and technicians, Medigold currently serves more than 3,500 businesses representing coverage of around 4.5 million employees.
+
+“Occupational healthcare as a whole has seen a reduction in the number of clinicians entering the field,” says Goldsmith. “That’s why our focus is on finding ways to reduce administrative burdens on clinicians so they can focus more on customer employees—and taking care of themselves.”
+
+Medigold Health wanted to support clinicians by automating manual aspects of traditional client health assessments like extensive notetaking, dictation, and typing reports. “These can add hours to a clinician’s workday,” explains Goldsmith. “We needed to speed up these time-consuming processes and also make booking appointments easier—all with security and privacy in mind.”
+
+The company chose to work with Microsoft for its leadership in security, cloud computing, and AI, and its experience with healthcare organizations that serve large numbers of people. “We knew with Microsoft and moving our AI workloads to Azure, we’d get the expert support, plus scalability, security, performance, and resource optimization we needed,” says Goldsmith.
+
+We knew with Microsoft and moving our AI workloads to Azure, we’d get the expert support, plus scalability, security, performance, and resource optimization we needed.
+
+Alex Goldsmith, CEO, Medigold Health
+
+With Microsoft Azure as a foundation, the Medigold team migrated their applications to Azure App Service, and used Azure OpenAI Service for automated report generation, utilizing Azure Cosmos DB for logging and Azure SQL Database for data storage. “Azure Cosmos DB and SQL Database were critical for our technical migration,” adds Goldsmith. “They provided a highly secure, scalable, and performance-oriented database solution suited to our ongoing vision for innovative health service offerings.”
+
+Lee Alderdice, Head of Software Development at Medigold Health agrees, “The role of Azure Cosmos DB for logging prompts and responses in the AI interaction process is crucial for tracking and ensuring the accuracy of AI-generated medical reports. SQL Database is our main persistence layer for storing AI-generated responses and making them accessible to clinicians through Medigold's internal application.”
+
+Azure Cosmos DB and SQL Database were critical for our technical migration. They provided a highly secure, scalable, and performance-oriented database solution suited to our ongoing vision for innovative health service offerings.
+
+Alex Goldsmith, CEO, Medigold Health
+
+Azure AI services, particularly Azure OpenAI Service, was transformative, Alderdice adds, supporting assisted medical report generation and significantly reducing the administrative burden on clinicians. Using Azure App Service, Medigold Health quickly and efficiently deployed and managed web applications, enhancing the company’s ability to respond to client and clinician needs. “For example, we developed an AI application to book and summarize client appointments, then document and store the data in various back-end applications,” says Alderdice.
+
+The role of Azure Cosmos DB for logging prompts and responses in the AI interaction process is crucial for tracking and ensuring the accuracy of AI-generated medical reports. SQL Database is our main persistence layer for storing AI-generated responses and making them accessible to clinicians through Medigold’s internal application.
+
+Lee Alderdice, Head of Software Development, Medigold Health
+
+Goldsmith says using AI workflow automation tools has reduced costs and improved process efficiency, particularly with medical reporting. It has significantly reduced the time that clinicians have to spend writing up reports during their consultation and admin time. “The tools allow reports to be generated from the clinician’s consultation notes in approximately 15 seconds. They must then simply review, edit, and sign off the report, saving them a lot of time over the course of a day. This means they have more time to write up and prepare between appointments, can better optimize their clinician-patient time in consultations and focus on what they actually trained for—helping people—rather than on admin. They also no longer have to work over their hours to get reports written,” he explains. “One clinician told me that since we started using AI, their work-life balance has improved, and they’ve been able to see their family more—that means everything.”
+
+All of this has led to greater clinician engagement and satisfaction and a reduction in staff turnover. “This translates to better care for our clients and a better working environment for everyone,” Goldsmith adds.
+
+With Medigold Health’s focus on technological advancement, Goldsmith hopes it can help transform occupational health across the UK. “This is about making a tangible difference in the lives of people,” concludes Goldsmith. “We appreciate that Microsoft has a similar ethos as we continue to work together to innovate and set new standards for care.”
+
+Discover more about Medigold Health on Facebook, LinkedIn, and YouTube.

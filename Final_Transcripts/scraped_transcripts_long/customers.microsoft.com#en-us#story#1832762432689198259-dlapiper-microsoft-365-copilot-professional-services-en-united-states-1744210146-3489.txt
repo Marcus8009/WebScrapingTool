@@ -1,0 +1,57 @@
+URL: https://customers.microsoft.com/en-us/story/1832762432689198259-dlapiper-microsoft-365-copilot-professional-services-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 897
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 894
+
+DLA Piper understood the need to manage complex documents, ensure consistency across global teams, and streamline workflows. To streamline this process, it sought a program that would improve productivity and reduce time spent on low-value tasks.
+
+DLA Piper chose Microsoft 365 Copilot, an AI-powered tool that works with Microsoft 365 applications, to streamline document creation, optimize workflows, enhance productivity, and automate routine tasks, all while maintaining robust data security.
+
+Microsoft 365 Copilot boosted productivity for operational and administrative teams, saving up to 36 hours weekly on content generation and data analysis. It also optimized workflows and improved interactions with faster, more accurate reports.
+
+As one of the world’s largest and leading law firms, DLA Piper has consistently demonstrated a commitment to embracing technology to strengthen legal services and streamline operations with a goal of providing the best service to its clients. Over the years, the firm has been at the forefront of legal technology, moving to Microsoft 365 and Microsoft Azure, and now, as early adopters of Microsoft 365 Copilot, it’s leading the charge in using generative AI within the industry.
+
+Early on, DLA Piper saw an opportunity to improve productivity and accuracy by streamlining document creation, optimizing workflows, and reducing time spent on low-value tasks. Copilot became central to this transformation.
+
+DLA Piper was the first major law firm to adopt Copilot through early adopters, starting with several hundred licenses and expanding from there. According to Andrew Gastwirth, Chief Innovation Officer at DLA Piper, the firm took a “coalition of the willing” approach to adoption. “We wanted early adopters who were enthusiastic and ready to explore how Copilot could streamline their workflow,” he says. DLA Piper organized a task force with specialized teams and created a Microsoft Teams repository to share best practices and prompts. The firm also carefully considered various use cases to confirm using Copilot could be done in accordance with its professional responsibility obligations to its clients.
+
+We wanted early adopters who were enthusiastic and ready to explore how Copilot could streamline their workflow.
+
+Andrew Gastwirth, Chief Innovation Officer, DLA Piper
+
+Confirming data security and confidentiality were priorities before the rollout of Copilot. “We first ensured our data governance was solid,” says Karen Christensen, Deputy Chief Information Officer at DLA Piper. Tools like encryption, ethical wall software (an information barrier used to protect client security), and Microsoft Purview Data Governance helped protect sensitive information. “That foundational work allowed us to confidently roll out Copilot to the wider firm,” Christensen explains.
+
+We first ensured our data governance was solid. That foundational work allowed us to confidently roll out Copilot to the wider firm.
+
+Karen Christensen, Deputy Chief Information Officer, DLA Piper
+
+The potential of Copilot became evident quickly, helping users generate drafts, convert Microsoft Word files into Microsoft PowerPoint presentations, and pull relevant imagery. Bill Barrett, Senior Director of Digital Strategy and Brand at DLA Piper, describes Copilot as a valuable tool that can handle lower-level tasks, freeing up staff to operate more efficiently. “For marketing collateral, Copilot helps get us over that hurdle of writer’s block so we can produce content much faster,” he notes.
+
+For marketing collateral, Copilot helps get us over that hurdle of writer’s block so we can produce content much faster.
+
+Bill Barrett, Sr. Director, Digital Strategy and Brand, DLA Piper
+
+Barbara Taylor, Chief Knowledge Officer at DLA Piper, calls Copilot a game-changer for presentation creation along with document conversion, adding, “Copilot helps identify what should go on the slide, what goes in the notes, and even find imagery. The head start is huge.” Copilot also aids drafting communications plans, distilling content, and automating tasks like approvals and summaries, freeing up teams to focus on critical work.
+
+Copilot helps identify what should go on the slide, what goes in the notes, and even find imagery. The head start is huge.
+
+Barbara Taylor, Chief Knowledge Management Officer, DLA Piper
+
+Copilot has improved productivity while streamlining workflows across departments. From an administrative and operational perspective, “some of our early experiments showed Copilot could save up to 36 hours per week in content generation and data analysis,” says Gastwirth. A standout use case involved extracting insights from spreadsheets and data-heavy documents, with Copilot helping the analytics team to provide faster, more accurate reports for internal use. “Copilot streamlines the process, so they can quickly pull key data and insights,” explains Barrett. This has improved internal workflows by helping provide quicker, more accurate responses. DLA Piper plans to extend its use of Copilot to larger document repositories. By combining it with knowledge management tools and third-party applications, the firm hopes to further streamline workflows, from faster proposal generation to improved knowledge retrieval.
+
+Some of our early experiments showed Copilot could save up to 36 hours per week in content generation and data analysis.
+
+Andrew Gastwirth, Chief Innovation Officer, DLA Piper
+
+DLA Piper’s strategic adoption of Copilot showcases how law firms can use generative AI to enhance productivity and operations. By focusing on personal productivity, fostering early adoption, and maintaining strong data security, DLA Piper sets a blueprint for others in the legal industry to modernize operations while upholding high standards. As the firm continues to explore the full potential of AI, the future of legal services looks more innovative than ever.
+
+Discover more about DLA Piper on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.
+
+Saves up to 36 hours per week

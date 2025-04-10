@@ -1,0 +1,49 @@
+URL: https://customers.microsoft.com/en-us/story/1774095788906881160-orange-azure-openai-service-telecommunications-en-france
+Source: customers.microsoft.com
+Total Word Count: 1108
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1105
+
+The Orange Group is one of the main telecommunications and digital services operators in the world, serving 298 million customers, including individuals, professionals, and large companies.
+
+Orange France, the entity of the group in France, has initiated an in-depth exploration of Artificial Intelligence (AI) for three years, allowing it to reach a significant level of maturity. At the time of the emergence of generative Artificial Intelligence, Orange France quickly decided to create a program dedicated to this new era of AI.
+
+"Generative AI is the prelude to a tsunami of innovations," says Brice Miranda, Deputy Director in charge of Data, AI and Automation at Orange France. Laetitia Orsini Sharps, Consumer Department Director at Orange France, agrees, seeing this technology as "a promising vector for improving customer service and making employees' work easier". Here's a look at the approach to AI and generative AI taken by one of the leading telecommunications companies in France and the EMEA region.
+
+Thanks to strong technological partnerships, notably with Microsoft, which played a pivotal role, Orange France designed a specialized program aimed at identifying and developing practical use cases in various lines of the Group's business, such as customer service, marketing, communications and network operations. All this in less than six months.
+
+Brice Miranda emphasizes that the ambition of a dedicated, centralized team lies in the ability to accelerate implementation, embrace a holistic understanding of the issues, including those touching on digital sovereignty. "It was paramount to initially demonstrate their immense potential and their ability to generate qualitative value, with the prerequisites necessary for its industrialization being considered at a later stage."
+
+Under the leadership of Raphael Mombellet, Director of Data Sciences and Advanced Analysis, as well as Director of the Generative AI Program at Orange France, a multi-disciplinary team was formed, comprising technical and legal profiles, as well as experts in security, ethics and various business fields. Their objective? To ensure an exhaustive understanding of needs, develop concrete solutions and make them available to employees as quickly as possible to test their relevance and buy-in.
+
+To identify and develop these applications, the choice fell on Microsoft Azure OpenAI Service, "renowned for its ease of use in a secure environment in Europe", explains Raphael Mombellet. GitHub Copilot, the AI-based code completion assistant for developers, is also part of the experiment.
+
+To date, more than forty use cases are in the development phase, and around ten have already been implemented within business teams. From knowledge bots to virtual assistants, generative AI is infused into all the businesses it enhances.
+
+For departments in charge of customer relations, a tool has been developed to rewrite the content of online Frequently Asked Questions (FAQs) for customers. It enables them to adapt the more than 30,000 questions/answers to the brand's new, warmer and more empathetic tone, a rewrite that would have been impossible without the support of generative AI. Today, each new form is completed in just a few minutes. Generative AI offers a reformulation of answers, taking into account certain criteria such as empathy, the smile effect or confidence the intensity of which is defined by the teams according to the moment in the customer journey. The employee saves precious time, while retaining control and the possibility of revising proposed new content if necessary before publication.
+
+On the marketing side, new applications exploiting generative AI have also seen the light of day since the launch of this program. The first of these generates product sheets for Orange boutiques, speeding up the work of marketing managers, who can now rely on AI to carry out exhaustive analyses of supplier guides to extract key information. Another concrete application that saves marketing teams precious time is a search engine dedicated to marketing research. This provides relevant summaries that answer employees' queries in a matter of seconds, while indicating the sources from which the information comes, enabling them to go back to the sources for more detailed information and double-checking if necessary.
+
+Thanks to GitHub Copilot, 200 developers have also seen their day-to-day tasks evolve, with code assistance facilitating and accelerating the development of lines of code.
+
+The intervention and supervision professions are not left out, with the augmented technician. One of the emblematic use cases concerns the synthesis of intervention tickets in Fiber After-Sales Service for complex cases, allowing teams to reduce their analysis time from 20 minutes to less than 3 minutes!
+
+Far from supplanting humans, these innovations boosted by generative AI support them in their day-to-day tasks, enabling them to concentrate on higher value-added activities.
+
+These new developments, rapid as they may be, are always carried out within a regulatory framework and with well-defined governance at Group level. The protection of personal data, the transparency of algorithms and the trust of customers and employees remain absolute priorities for Orange France teams, who scrupulously choose technology partners hosting their data in Europe.
+
+Laetitia Orsini Sharps emphasizes the importance of ethics and responsibility, intrinsic to Orange's identity. "Dedicated training and specific governance have been introduced, and the company is actively involved in the Positive AI initiative, which aims to promote ethics in AI among businesses," she explains.
+
+After a year of implementation, the results are clear to see: confidence in generative Artificial Intelligence has grown within the company. The teams at the helm are pleased to note the rapid establishment of use cases, which have been acclaimed by their users. Users recognize that they are freed from the constraints of repetitive tasks, and benefit from a significant simplification of their daily lives - a key factor in encouraging adoption within teams. "We provide a lot of support to our employees in terms of adoption. Within a few months, we can put the developed use case in their hands. We reassure them and do a lot of co-construction and prompt engineering with the business units to improve the solutions," confides Brice Miranda.
+
+As part of its ongoing transformation, the Group is sketching out the next phase. "Impetus must be given to accelerating the industrialization of use cases and to accurately assessing the value generated by them. The aim is also to continue to integrate all Orange employees, at all levels of the company," confides Laetitia Orsini Sharps. She strongly emphasizes that unanimous commitment is a cornerstone of success.
+
+“We provide a lot of support to our employees in terms of adoption. Within a few months, we can put the developed use case in their hands. We reassure them and do a lot of co-construction and prompt engineering with the business units to improve the solutions.”
+
+Brice Miranda, Deputy Director in charge of Data, AI and Automation, Orange France

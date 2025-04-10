@@ -1,0 +1,47 @@
+URL: https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
+Source: blogs.microsoft.com
+Total Word Count: 776
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 773
+
+Oct 21, 2024 | Jared Spataro - CMO, AI at Work
+
+Already, 60 percent of the Fortune 500 are using Microsoft 365 Copilot to accelerate business results and empower their teams. With Copilot supporting sales associates, Lumen Technologies projects $50 million dollars in savings annually. Honeywell(1) equates productivity gains to adding 187 full-time employees and Finastra is reducing creative production time from seven months to seven weeks.
+
+Today, we’re announcing new agentic capabilities that will accelerate these gains and bring AI-first business process to every organization.
+
+Copilot is your AI assistant — it works for you — and Copilot Studio enables you to easily create, manage and connect agents to Copilot. Think of agents as the new apps for an AI-powered world. Every organization will have a constellation of agents — ranging from simple prompt-and-response to fully autonomous. They will work on behalf of an individual, team or function to execute and orchestrate businesses process. Copilot is how you’ll interact with these agents, and they’ll do everything from accelerating lead generation and processing sales orders to automating your supply chain.
+
+Empowering more customers to build autonomous agents in Copilot Studio
+
+Earlier this year, we announced a host of powerful new capabilities in Copilot Studio, including the ability to create autonomous agents. Next month, these capabilities are shifting from private to public preview, allowing more customers to reimagine critical business processes with AI. Agents draw on the context of your work data in Microsoft 365 Graph, systems of record, Dataverse and Fabric, and can support everything from your IT help desk to employee onboarding and act as a personal concierge for sales and service.
+
+Organizations like Clifford Chance, McKinsey & Company, Pets at Home and Thomson Reuters are already creating autonomous agents to increase revenue, reduce costs and scale impact. Pets at Home, the U.K.’s leading pet care business, created an agent for its profit protection team to more efficiently compile cases for skilled human review, which could have the potential to drive a seven-figure annual savings. McKinsey & Company is creating an agent that will speed up the client onboarding process. The pilot showed lead time could be reduced by 90% and administrative work reduced by 30%. Thomson Reuters built a professional-grade agent to speed up the legal due diligence workflow, with initial testing showing some tasks could be done in half the time. This agent can help Thomson Reuters increase the efficiency of work for clients and boost its new business pipeline.
+
+Scaling your teams with 10 new autonomous agents in Dynamics 365
+
+New autonomous agents enable customers to move from legacy lines of business applications to AI-first business process. AI is today’s ROI and tomorrow’s competitive edge. These new agents are designed to help every sales, service, finance and supply chain team drive business value — and are just the start. We will create many more agents in the coming year that will give customers the competitive advantage they need to future-proof their organization. Today, we’re introducing ten of these autonomous agents. Here are a few examples:
+
+As agents become more prevalent in the enterprise, customers want to be confident that they have robust data governance and security. The agents coming to Dynamics 365 follow our core security, privacy and responsible AI commitments. Agents built in Copilot Studio include guardrails and controls established by maker-defined instructions, knowledge and actions. The data sources linked to the agent adhere to stringent security measures and controls — all managed in Copilot Studio. These include data loss prevention, robust authentication protocols and more. Once these agents are created, IT administrators can apply a comprehensive set of features to govern their use.
+
+Microsoft’s own transformation
+
+At Microsoft, we’re using Copilot and agents to reimagine business process across every function while empowering employees to scale their impact. Using Copilot, one sales team has achieved 9.4% higher revenue per seller and closed 20% more deals(2). And thanks to Copilot, one team is resolving customer cases nearly 12% faster(3). Our Marketing team is seeing a 21.5% increase in conversion rate on Azure.com with a custom agent designed to assist buyers(4). And in Human Resources, our employee self-service agent is helping answer questions with 42% greater accuracy(5).
+
+With Copilot and agents, the possibilities are endless — we can’t wait to see what you create. Start building agents in Copilot Studio today. Read more about autonomous agent capabilities on the Copilot Studio and Dynamics 365 blogs. Head to WorkLab for more insights on Microsoft’s own AI transformation.
+
+YouTube Video
+
+YouTube Video
+
+NOTES
+
+Tags: AI, Copilot, Copilot Studio, Dynamics 365, Microsoft 365 Copilot, Microsoft 365 Graph, Microsoft Dataverse, Microsoft Fabric
+
+Follow us:

@@ -1,0 +1,47 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/futurist-amy-webb-on-the-most-plausible-outcomes-for-ai-and-work
+Source: microsoft.com/worklab/podcast
+Total Word Count: 651
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 86
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age.
+AMY WEBB: When people talk about AI and creativity, they immediately think of visual effects or music or art. I think there’s a huge amount of untapped business creativity potential that we’re going to see unlocked sometime in the next few years.
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 565
+
+Podcast
+
+There’s a lot to look forward to if business leaders act out of excitement, not fear
+
+WorkLab Podcast Guest Amy Webb
+
+September 20, 2023
+
+No one can predict the future, but quantitative futurist Amy Webb is doing her best. She and her team use data to find emerging trends about the ways AI is changing the working world. Webb is the CEO of the Future Today Institute, which helps the world’s leading organizations navigate an uncertain future and identify opportunities for growth. In this episode, Webb shares the most plausible outcomes for how AI will impact humanity and what business leaders can do today to set up their organizations for success.
+
+Amy Webb is the first guest for season 5 of Microsoft’s WorkLab podcast, in which host Molly Wood has conversations with economists, technologists, and researchers who explore the data and insights about the work trends you need to know today—from how to use AI effectively to what it takes to thrive in the digital age.
+
+Three big takeaways from the conversation:
+
+AI isn't coming to work—it's here. “AI is the present,” Webb says. Right now, AI falls within the generative category—most people are familiar with ChatGPT, which stands for generative pre-trained transformer. However, “what’s much more interesting is how the technology becomes an enabler of other technologies. What they enable going forward is what I would keep my eye on.”
+
+“Some big reports are saying that AI will eliminate hundreds of thousands or millions of jobs. I think those numbers are wrong,” Webb says. Some leaders may look at AI as a way of managing the bottom line, but there’s a better way: “How does AI increase top line? Where are your new work streams that didn’t exist before? How can you do things that you were not able to do before because you didn’t have time?”
+
+We’re in what Webb calls the most complex operating environment of the last two decades. Still, she urges business leaders to take the time to understand AI so that they make decisions around how and when to adopt AI out of excitement versus fear. “I would want to make sure I was well informed so that the decisions I make that contribute to the global conversation are the right ones,” she says.
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the episode 1 conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age.
+
+AMY WEBB: When people talk about AI and creativity, they immediately think of visual effects or music or art. I think there’s a huge amount of untapped business creativity potential that we’re going to see unlocked sometime in the next few years.
+
+Join host Molly Wood to learn how organizations can thrive in the digital age.
+
+Business leaders should be using the technology, and requiring their teams to do the same

@@ -1,0 +1,43 @@
+URL: https://www.microsoft.com/en-us/worklab/the-ripple-effect-of-ai-at-work
+Source: microsoft.com/worklab
+Total Word Count: 781
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 778
+
+3 key insights to help you stay ahead.
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+On the WorkLab podcast we talk to the world’s most insightful leaders about AI at work. We recently wrapped our sixth season, which features guest spots from productivity expert and bestselling author Charles Duhigg, Accenture Chair and CEO Julie Sweet, and other great minds at the forefront of where work is headed—and what business leaders need to know to stay ahead. Here are some highlights.
+
+AI lets humans focus on tasks that deliver the most value 
+One of the earliest ways in which people are realizing value from AI is time savings. We’ll soon see that value extend, with AI increasingly becoming not just a time saver but a powerful collaborator for individuals and teams—while also transforming functions to help businesses create measurable value in cost savings and revenue generation.
+
+But don’t underestimate the value of time savings on their own, Microsoft Research President Peter Lee explained. “Can we make being a doctor, being a nurse, the kind of satisfying profession that allows people to help people, as opposed to doing paperwork?” Lee asked. “It’ll be great for us to solve genomics with AI, to solve cancer with AI. But at the end of the day, if the one thing that we can accomplish is to have AI make a dent in the day-to-day worker satisfaction in healthcare, we’ll have really done the world a great service.”
+
+The benefit extends to other professions, allowing both leaders and employees to focus on meaningful work. For example, Dr. Britt Aylor, Director of Leadership Development at Microsoft, explained why she believes AI will not only help us solve technical problems but also help us navigate unknowns and tackle the adaptive challenges we face at work. “AI really frees us up to do what is uniquely human, operating in that frontier of knowledge space,” she said. “Using collective intelligence, AI will be able to help us connect with each other and also manage the knowledge.”
+
+AI is unlike any technology disruption we’ve seen before 
+While AI can enhance human capabilities, it also amplifies the value of human skills like empathy and clear communication. Productivity expert and bestselling author Charles Duhigg noted that the way we use technology will feel more organic and human: “Everything that we can see about the future of tech is that it’s going to be more and more like having a conversation and less and less like using a calculator.”
+
+Sal Khan, founder of Khan Academy, shared similar insights: “I talk a lot about using artificial intelligence to improve human intelligence, to improve human purpose. Obviously, people are going to be augmented by these artificial intelligences—but at the end of the day, they’re just a magnification of human intent.” He emphasized that proficiency remains crucial: “If you’re going to be using AI to help write, you need to be able to write and have a sense of what great looks like at least as well as the junior writers. The junior writers of the future are going to be AIs. And so it’s even more important than ever for people to really upskill.”
+
+But we can still learn a lot from previous inflection points 
+Several guests stressed that how leaders adapt to the latest technological innovations now will define the future of their organizations, and one key to success is taking lessons from previous disruptions. As Julie Sweet, Chair and CEO of Accenture, pointed out, “When we think about the impact on our employees’ and the employees of our clients’ individual productivity, this to us is like a PC moment. It’s like when we moved from typewriters to computers. It really is rewiring the way individuals work, and we’re super excited about that. That requires an investment.” Charles Lamanna, Microsoft’s Corporate Vice President of Business and Industry Copilot, struck a similar tone: “We’ll wonder, how did people ever work before they had a kind of AI copilot that could help them complete tasks more efficiently? Just like I now wonder, how could you run a large team without a computer, without email, without Teams?”
+
+What’s next 
+Upcoming episodes of the podcast will explore the transition from AI as a personal productivity booster to AI as a team member and driver of business transformation, dive into the business value of AI, and share perspectives on how to be a successful leader in this new era of work. Don’t miss a single episode—subscribe now.
+
+Customer Zero
+
+2024 Work Trend Index Annual Report

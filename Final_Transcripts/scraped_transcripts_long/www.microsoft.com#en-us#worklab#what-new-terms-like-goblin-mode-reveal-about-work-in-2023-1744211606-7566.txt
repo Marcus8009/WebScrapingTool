@@ -1,0 +1,100 @@
+URL: https://www.microsoft.com/en-us/worklab/what-new-terms-like-goblin-mode-reveal-about-work-in-2023
+Source: microsoft.com/worklab
+Total Word Count: 2062
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 2059
+
+Glossary
+
+Illustration by Selman Hoşgör
+
+A
+re you quiet quitting, or just embracing JOMO? Timeboxing, or adapting to the Triple Peak workday? From productivity paranoia to asynchronous collaboration, the language we use to describe work is changing as quickly as work itself— The Economist even declared “hybrid work” the 2022 word of the year , noting that it would reshape everything from how we use cities to what we consider free time. As business leaders look to understand the new patterns of work, these terms offer insights into both the challenges and opportunities ahead.
+
+“We’ve all been through this tremendous shared experience that has prompted us to find new ways to label the ways we’re feeling,” says Colette Stallbaumer, general manager of Microsoft 365 and Future of Work at Microsoft. One of those feelings, she says, is being tired. “Humans will always want to be inventive and find new ways of doing things and reach greater heights,” she says. “But ambition is tired right now. It’s not dead, but it needs a rest.”
+
+Productivity paranoia: leaders being uneasy about whether people are being productive, even though people are working more than ever.
+
+In the past, employees who admitted to feeling burned out or stuck might have faced career blockers, but by now, people have seen their colleagues’ roommates and kids move in and out of the virtual frame, or had the doorbell ring during a team check-in. Transparency is in, and no group is embracing it more fully than Gen Z—whose unvarnished approach toward everything from officewear to email etiquette has begun to influence workplace culture. “Hybrid work encourages authentic communication,” says Hannah McConnaughey, a 25-year-old communications manager at Microsoft, who recently broke down some Gen Z buzzwords for the WorkLab podcast. And as McConnaughey points out on the pod, hybrid work is the only work her generation has known.
+
+The new work words listed below often reflect a particular tension—a balancing act between the desire for ambition and excellence, and the need for boundaries and authenticity.
+
+Asynchronous collaboration
+
+Historically, employees did their jobs at the same time and in the same place—9 to 5 in the office. But new patterns of work and new technology have allowed people to find ways of collaborating that transcend space and time—9 to 5 in the office is no longer the default, and people can work together even if they are working at different times of day.
+
+Managers can do a few things to support asynchronous work , like reimagining meeting culture (see JOMO , below), leveraging asynchronous tools like meeting transcripts and recordings, and creating new team best practices. Managers should also lead by example, establishing work-life boundaries like switching off notifications and using delay delivery options when they’re typing notes on the weekend. (And they should, of course, create agreements and build habits with their teams to respect those boundaries in others.) Because being able to work anytime, anywhere should not mean working all the time, everywhere.
+
+Generative AI
+
+If you’ve played around with Dall-E 2 or ChatGPT , you’ve experienced the power of generative AI, which uses existing input in the form of text, images, audio, and video to create novel outputs in the same form. It’s poised to transform the working world , says Kevin Scott, chief technology officer at Microsoft. He believes that in the near future, this technology will evolve to allow us to unleash our creativity, make coding and other forms of content generation more accessible, and allow for faster iteration. “I think with some confidence I can say that 2023 is going to be the most exciting year that the AI community has ever had,” he wrote in a blog post .
+
+As AI continues to transform work, business leaders will need to be agile in adopting new work patterns enabled by these tools, and be ready to start measuring impact and creativity instead of antiquated metrics like time spent and presenteeism.
+
+Goblin mode
+
+Oxford named it the 2022 Word of the Year , defining goblin mode as “a type of behavior which is unapologetically self-indulgent, lazy, slovenly, or greedy, typically in a way that rejects social norms or expectations.” Plug the term into TikTok, however, and you’ll see influencers reclaiming goblin mode as a point of pride—a rejection of self-image and the “immaculate self-presentation” of the glossy Instagram era. Stallbaumer embraces this more empowering take. “Goblin mode can look like showing up to work as more of yourself,” she says. “It’s shedding a version of ourselves in a way that feels freeing. Being in goblin mode might be joining a video meeting in a T-shirt and hoodie with no makeup on. But appearance is not what we want to value in the workplace anyway. We want to value people’s contributions, impact, and ideas.”
+
+Embracing goblin mode can even be considered a business imperative. When leaders create cultures where people feel free to be themselves, they also lay the groundwork for the close, authentic interactions that help employees develop stronger relationships with each other—which in turn leads to both higher productivity and better wellbeing.
+
+Human Energy Crisis
+
+Kathleen Hogan, chief people officer and EVP at Microsoft, used this phrase in a recent LinkedIn post to describe a collective depleted state of enthusiasm, motivation, and mental health due to social unrest, geopolitical instability, economic uncertainty, and occupational burnout.
+
+Since the start of the pandemic, the workday span has increased more than 13 percent, and after-hours and weekend work are up 28 percent and 14 percent, respectively. To combat the Human Energy Crisis, Hogan believes business leaders should focus on six key areas, including prioritizing wellbeing and allowing employees to be, well, a little bit in goblin mode: “It gives people permission to balance their lives in meaningful ways without feeling they must sacrifice career growth for personal priorities and vice versa.”
+
+JOMO
+
+The opposite of FOMO or the “fear of missing out,” JOMO , the “joy of missing out,” describes a state of happiness as a result of not doing something—an event, a meeting , a conference. Stallbaumer says that leaders have traditionally placed value on “presenteeism,” the state of being present or in attendance no matter the effect on productivity levels, but new work patterns require them to trust individuals to determine when it’s important to attend a meeting, and when they can skip it or catch up later. “We want people to embrace JOMO, and not make employees feel like they’re being judged for missing a meeting. Value comes from impact, not visibility.”
+
+JOMO is a natural part of asynchronous collaboration. “I have a colleague in the UK who’s going to listen to a meeting recording tomorrow morning because she’s not going to join live at two in the morning her time,” Stallbaumer says. “And that’s okay! She embraces that. But JOMO is a new skill—a new learned behavior—and we’re not all comfortable with it yet.” (See the WorkLab guide to work-life balance for more tips on upping your team’s JOMO.)
+
+Stallbaumer embraces a more empowering take on goblin mode: “It can look like showing up to work as more of yourself. It’s shedding a version of ourselves in a way that feels freeing.”
+
+NTD
+
+Just like GTG for “got to go” or TTYL for “talk to you later,” meeting participants may type NTD (“need to drop”) in the chat when a meeting is running over time or they need to dismiss themselves—to jump to another call, take a bio break, tend to a distressed child. McConnaughey points out that when leaders see a lot of N’ingTD or dropping off, they may want to reaffirm to their team that they should build in breaks between engagements, and that meetings should ideally not be a full 30 or 60 minutes long . Then teams should adhere to those time limits, she says: “If meetings always ended on time, you wouldn’t ever NTD.”
+
+No-KRs
+
+In contrast to OKRs (objectives and key results), No-KRs are tasks that should not be prioritized, and understanding them is critical. Stallbaumer recommends organizations provide short-term relief for managers by creating shared No-KRs, so leaders can audit their calendars accordingly, better understand how to develop team goals, and mitigate distractions. No-KRs provide a new way to think about productivity—it should be a measure of impact, not just activity.
+
+Productivity paranoia
+
+If WorkLab had chosen a 2022 word of the year, this would be it. The Work Trend Index Report found that 87 percent of employees across industries feel that they’re productive at work. And the data bears this out: the report found that hours worked, workday span, chats after hours, number of meetings, and weekend work were all on the rise. At the same time, 85 percent of leaders said that hybrid work made it challenging to have confidence that employees are being productive. This disconnect has led to what the report dubbed “productivity paranoia,” where leaders are uneasy about whether people are being productive, even though people are working more than ever.
+
+Managers experiencing productivity paranoia may feel compelled to micromanage employees’ time, but they should instead pivot away from worrying about whether their people are working enough to helping them focus on what’s most important . They can use OKRs to create and reinforce a culture that rewards employees’ impact, and collect employee feedback regularly. “It’s the job of every leader to balance employee interests with the success of the organization,” Stallbaumer says. “For today’s talent, flexibility is table stakes. The best leaders understand that empowering people to work how, when, and where they work best is ultimately in the best interest of the organization.”
+
+Quiet quitting
+
+The concept of doing only what’s required at work, usually to reserve energy for interests and activities outside of work, isn’t new, but its name—quiet quitting—is, and it has cropped up everywhere . The term gets interpreted in a variety of ways, which shows an exacerbating divide between employee and employer. Quiet quitting is not a definitive precursor to actually quitting, nor does it mean that someone does not enjoy their job. Instead, the phenomenon is a reflection of employees’ shifting priorities.
+
+“Our data shows people are working more than ever,” Stallbaumer says. “They just have a new ‘worth-it equation.’ People have reevaluated their priorities and are focusing more on their own wellbeing.”
+
+Timeboxing
+
+This productivity technique involves choosing the most important areas of your life—from family to exercise to community to work—and laying them out on your calendar with precise start and stop times. Jared Spataro, corporate vice president of Modern Work at Microsoft, lives by this technique. And he coaches leaders and managers to encourage their teams to take control of their schedules and “respect the boxes.” “You have to have the senior-most leaders paint that picture and help people understand that, not only is this okay, this is what we want,” he notes .
+
+Triple peak
+
+Knowledge workers used to have two productivity peaks in their workday: before lunch and after lunch. According to Microsoft research , the pandemic sprouted a third peak: around 9 p.m. The average Teams user sent 42 percent more chats per person after business hours, when dinner is finished, kids are asleep, and distractions are at bay. Coined by Microsoft researchers—and later tweeted by Derek Thompson at The Atlantic and featured in The New York Times —the “triple peak workday” shows that there is no one-size-fits-all approach to getting work done. Some people stick to traditional business hours; others don’t. Managers and leaders should craft team agreements to establish new patterns of work that satisfy everyone.
+
+Worth-it equation
+
+Compared to before the pandemic, about half of the employees surveyed for a Microsoft Work Trend Index Report said they were more likely to put family and personal life over work; more than half of employees said they were more likely to prioritize health and wellbeing. What really matters? What do I want to compromise on?
+
+It’s an equation that leaders must help their teams solve effectively in the coming year—even as they deal with economic uncertainty and ongoing change across work and life—so that everyone can thrive. Because while ambition might need a rest, Stallbaumer says, “I believe in the resilience of the human spirit.”
+
+Stay up-to-date with WorkLab
+
+New data and actionable insights, delivered right to your inbox
+
+People
+
+Work Trend Index Annual Report

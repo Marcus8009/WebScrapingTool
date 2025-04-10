@@ -1,0 +1,45 @@
+URL: https://customers.microsoft.com/en-us/story/1790507377097905834-paconsulting-dynamics-365-sales-professional-services-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 1195
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1192
+
+As an early adopter of Microsoft Copilot for Microsoft 365 and Copilot for Sales, PA Consulting treated itself as “customer zero,” using the lessons it learned to support clients on their own AI journeys. Employees who used Microsoft Copilot saw immediate time-savings of three hours per week on average. But more importantly, PA Consulting wanted to know how that time could be repurposed. PA has since transformed its sales operations, making them more streamlined and unified—meaning that its people can invest more time on the activities that have the biggest impact for clients, and maximize the strategic value they provide.
+
+Over its 80-plus-year history, PA Consulting (PA) has been at the forefront of ingenuity, helping its clients find new ways to apply innovative thinking and breakthrough technologies. The business stays at the cutting edge of change—and so it’s no surprise that its attention is now on AI. In collaboration with Microsoft, PA is treating itself as “customer zero” for Copilot, aiming to understand how the technology can benefit businesses and drive tangible returns.
+
+“We’re exploring how we can best use Copilot in Microsoft 365, Copilot for Sales, and Dynamics 365 Sales, whilst testing our thinking and learning many lessons along the way,” says Dean Collins, Human-Centered AI and Digital Change Expert at PA. “We’re not only doing this for ourselves, but also to learn on behalf of our clients. Organizations are increasingly exploring AI, whether that’s to find time-savings or solve a specific business problem. You only understand how AI and Copilot can transform a workplace if you’ve tried it first-hand. We can confidently say that we’ve walked this road ourselves and are able to share real examples from our own Copilot journey.”
+
+Underpinning PA’s ambition is the view that technology should be people-led, not technology-driven. In practice, this means understanding precisely how technology can support people‘s roles, then teasing out Copilot features most relevant to their goals. Dean explains, “Copilot does not mean autopilot. We are a people business, and our focus is still on using critical-thinking skills to shape and review AI-enabled content. But AI and Copilot can certainly enhance our working patterns and augment our people’s skills and experience.”
+
+PA’s journey began in September 2023 when 300 people were given access to Copilot in Microsoft 365 and Copilot for Sales as part of Microsoft’s Early Access Program. Users quickly reported considerable time-savings—an average of three hours each week—including through Copilot-supported note taking, meeting summarization, and agenda drafting. Initially, 40% of Copilot usage was focused on Microsoft Teams, which highlighted an opportunity to explore untapped use cases across other Copilot apps, including within Dynamics 365.
+
+However, Dean notes: “Time saved is not a benefit in and of itself—it’s what people do with the time that matters.” He continues, “From our early trials, we found we could save over 45,000 hours per year across a cohort of 300 people. Initially, people used the time-savings as they saw fit. But in the next phase, we wanted to track how that time could be repurposed, shifting our focus to more explicit use cases and benefits.”
+
+The business zeroed in on five priority use cases for Sales, using Copilot for Sales and Dynamics 365 Sales. PA’s Copilot investment came hot on the heels of a transformation initiative exploring how people could collaborate better during the sales process. “Our focus is our clients. When a client asks us for help, we need to find the right people with the most relevant experience quickly,” says Dean. “We looked at how Copilot could make the process more collaborative and unified, freeing up time on manual tasks so we could spend more time having all-important conversations with clients, understand their challenges better, and find the right people quicker—which in a client’s moment of need can make all the difference.”
+
+It was the ability to triangulate information from Dynamics 365, Copilot-generated meeting summaries, and client requests that stood out for PA. “We thought, ‘How could Copilot help us pull insights from our different teams, systems, and SharePoint sites, so we can better assist clients when they come to us in need?’ We realized we could give Copilot just one prompt, and using our Dynamics 365 CRM system, it would quickly compile information, enabling us to have even more productive, informed client conversations,” Dean says.
+
+The five use cases are being tested extensively to ensure their robustness, before being expanded more widely across PA later this year. “The people that will most benefit are often our most time-poor—meaning bugs or features that aren’t quite ready could negatively impact their willingness to engage with Copilot altogether,” Dean explains.
+
+One use case provides a pre-qualification to requests for proposals from clients, based on PA’s capabilities, previous win rates, and client relationships. Before Copilot, it could take hours to consolidate information from proposal documents and previous submissions to inform a decision on whether PA would proceed. That same activity could soon be completed in 30 seconds—and in a more streamlined, efficient way.
+
+As Copilot evolves, PA expects its usage to become more widespread, providing a strong data pool to inform future use. “These use cases are the core of our business case for Copilot. We need to ensure the technology triggers the right behaviors that demonstrate a ROI. We cannot be confident in any benefits case until we’re confident the user need has been met and user adoption fully embedded,” Dean says, while outlining PA’s plans for a summer of extensive engagement to embed new ways of working across its senior levels.
+
+In parallel to sales use cases, PA is also focusing on how Copilot can support general productivity, along with individuals with more complex needs. “Whilst we want to see a ROI, we also discovered use cases that were just helping people enjoy their work more. A better work-life balance has been reported by Copilot users, and neurodiverse users have told us that these tools have changed their working lives,” Dean explains.
+
+It’s what happens next that cuts to the core of PA’s vision for AI in the workplace: AI won’t replace people, but can help them do their roles better, thereby creating the “Augmented Workforce.” “As a society, we’re at the start of a transformative journey with AI in the workplace. The opportunities for businesses are infinite, but first, be clear about what you’re setting out to achieve,” Dean says. “Logging every saved minute as cash in the bank won’t fly—people need to be motivated and empowered to engage with the tools.”
+
+To this end, PA is providing training on AI to its entire global workforce. Dean says, “The feedback has been really positive. We’ve used internal surveys and community sessions to gauge people’s attitudes to Copilot and its impact on their work. It’s also been great to participate in the Microsoft Research program, to see how our journey compares to others and further refine our approach.”
+
+Find out more about PA Consulting on X , Facebook, and LinkedIn.
+
+“We can confidently say that we’ve walked this road ourselves and are able to share real examples from our own Copilot journey.”
+
+Dean Collins, Human-Centered AI and Digital Change Expert, PA Consulting

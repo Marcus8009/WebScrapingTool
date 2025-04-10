@@ -1,0 +1,39 @@
+URL: https://www.microsoft.com/en-us/worklab/a-role-model-for-ai-driven-transformation
+Source: microsoft.com/worklab
+Total Word Count: 742
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 739
+
+Lumen CEO Kate Johnson on how she’s using AI to launch the telecom company into the future.
+
+According to Kate Johnson, the hidebound telecom industry may be the “final frontier for digital transformation.” But, continues the President and CEO of telecommunications company Lumen, that moment has arrived, in large part thanks to AI. Her broad mandate is to “cloudify” Lumen’s fiber technology business—wrapping a digital halo around a terrestrial product, as she describes it. We recently spoke to Johnson on the WorkLab podcast, where she and host Molly Wood discussed leadership, change culture, and helping employees navigate the AI era. Here are four takeaways from our conversation.
+
+AI transformation starts with individual productivity... 
+When Lumen first rolled out Microsoft 365 Copilot, adoption metrics were low. Johnson had her usage audited and was surprised to find that she herself wasn’t using AI nearly as much as she had thought. She then made an extra effort to enhance her own human capabilities with Copilot. In Johnson’s case, that meant writing. Now she uses Copilot to produce memos, emails, and announcements in her own voice, freeing her up to focus on more valuable work. She shared her shift in daily habits with other leaders at Lumen, driving adoption first among senior executives and then to the rest of the organization.
+
+Eventually, employees reported saving about 30 minutes every day—that adds up at an organization with tens of thousands of employees. As Johnson points out, however, that doesn’t mean you’ll need fewer people: “For a company that’s going through a transformation, everybody’s first conclusion is, well, so you don’t need as many people. And that’s not really true. We need the people that we have. What we need is for them a) to be more productive, and then b) we need lots of skill shifting, reskilling, upskilling.”
+
+...which then sparks functional productivity 
+Those twin aims—adoption and upskilling—are key to establishing an ecosystem where individual productivity drives functional productivity across teams and the entire organization. Johnson says the greatest example is customer service. Previously, an agent had to manually search for all the information they needed to diagnose a problem. Now they can rely on Copilot to surface engineering information, repair manuals, and other resources so they can get to the diagnosis and an answer much more quickly. 
+
+“But the real trick,” she says, “is making sure that the customer success systems then absorb those discoveries and make them available to all customers. It starts with one agent being more productive, and it translates into massive customer impact at scale.” When all the functions at an organization start working like that, it’s “AI impact at the company level.”
+
+AI is the key to a star sales force 
+At Lumen, AI has been especially valuable for the sales organization. The company has $15 billion in revenue, a lot of customers, and a lot of products, and Johnson believes the key to success on such a large scale is personalization. Her sales team uses AI to capture valuable insights into each customer’s behavior in real time, learning exactly where they are on their journey. This data guides which of Lumen’s portfolio of services a salesperson should offer. As Johnson says, “Right pitch, right customer, right time. That’s the key to a productive sales force, and we all want one of those.”
+
+Get AI usage right by making space for people to get it wrong 
+Leaders don’t transform companies on their own, Johnson says. They empower their people to come together and solve problems. And, when it comes to using AI to help with that, Johnson is quick to note that the technology isn’t perfect and stresses the importance of making room for mistakes. She encourages her team to approach their work with curiosity, to ask questions, and to acknowledge that the transformation happening at Lumen is hard.
+
+“You are making space for not knowing it all, making space for sometimes getting it wrong,” she says. Ultimately, it’s about taking a new way of working and “driving it across the ecosystem, realizing it’s not just about me. To get it right, I have to get everybody working in the same direction on this problem with me.”
+
+Upcoming episodes of the podcast will explore leadership strategies for incorporating technology into the workplace, the potential of AI to improve human performance, and lessons from AI-native companies. Don’t miss a single episode—subscribe now.
+
+Reinvention
+
+2024 Work Trend Index Annual Report

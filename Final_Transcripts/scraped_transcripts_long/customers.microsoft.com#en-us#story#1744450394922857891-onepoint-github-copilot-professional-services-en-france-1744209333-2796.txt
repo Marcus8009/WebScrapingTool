@@ -1,0 +1,39 @@
+URL: https://customers.microsoft.com/en-us/story/1744450394922857891-onepoint-github-copilot-professional-services-en-france
+Source: customers.microsoft.com
+Total Word Count: 1120
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1117
+
+From Paris to Sydney, via Bordeaux and Kuala Lumpur, Onepoint has been supporting public and private sector players in their technological transformation for over twenty years. As both a consulting and technology firm, the company refines its expertise to keep pace with major innovations in cybersecurity, cloud computing, data science and artificial intelligence (AI).
+
+AI is at the forefront of the group, which in 2021 set up its own laboratory for automatic natural language processing (NLP). Convinced of the high potential of this technology, Onepoint is now determined to infuse AI, and more specifically generative AI, at every level of the company. The main goal is to take advantage of this technological revolution to open up the perspectives for its employees and customers. François Binder, Partner Data & AI, Guillaume Debraize, Leader CIO Advisory, and Philippe Harel, Manager of the Data & AI Community, explain how Onepoint enters the era of AI.
+
+Exploring new technologies before initiating any transformations within other organizations is the consulting firm's motto: "We first apply to ourselves what we envision for our customers," confides Guillaume Debraize. With this in mind, Onepoint launched its first experiments in generative AI, combining in-depth analysis and state-of-the-art trends. This in-depth exploratory work culminated in a hackathon last October, at the end of which the group had to decide how to address this technology internally. "For two days, no fewer than 60 consultants tested the capabilities of generative AI and reviewed almost 200 use cases," explains Debraize.
+
+Among the applications that were tested... and approved during the exercise: Azure OpenAI, GitHub Copilot and Copilot for Microsoft 365. "Microsoft is the first vendor to market turnkey generative AI solutions," notes the expert. What's more, "OpenAI services and Azure stacks are perfectly compatible," adds Philippe Harel.
+
+Neo, a secure conversational agent based on Azure OpenAI, is the first use case to emerge from this experimental phase. Scalable and designed as a tailor-made product, the application features conversational tools using GPT technology, including a library of prompts and business-oriented solutions that enable the automatic generation of interview reports for HR functions, for example, or in-depth analysis of contracts for legal teams. "Thanks to Neo, our 3,300 employees are able to interact with generative AI, saving time and increasing productivity," emphasizes Debraize. The Neo application delivers average productivity gains of between 10% and 15%, across all business lines.
+
+At the same time, Onepoint is testing the GitHub Copilot solution with its developers in all common languages - Javascript, Typescript, C#, Java, Python, Shell, ABAP, json, yaml, etc. Following the implementation of a pilot phase with a group of 40 developers several months ago, the results are clear: the code is of higher quality and better documented, with productivity gains of around 40% on code production tasks in particular. "The pilot showed us that if developers were properly acculturated to the product, it was really possible to make a quantum leap in productivity," asserts François Binder, "so we trained our teams in waves, prioritizing developers involved in fixed-price projects, which enabled us to significantly optimize our margins." The aim is to roll out this project on a larger scale to the company's 800 developers, with a second wave involving almost 250 of them already underway.
+
+Convinced by these promising beginnings, the group began to think about how it could support its customers in mastering generative AI, and thus give them the means to "survive this technological disruption." To do this, Onepoint decided to "disrupt" its existing offerings by adding a layer of generative AI: data platforms modernization, move-to-cloud projects, code migrations... Here, technology gives new impetus to products and services. "We're part of an approach to systematize AI within our offerings," specifies François Binder. The idea is to offer a more qualitative, competitive and cost-effective approach.
+
+At the same time, the teams are always on the lookout for new business needs. "Some of our customers want to use generative AI as a tool for automating and optimizing internal processes, while others see it as an opportunity to conquer new markets," says Philippe Harel. This generalized competitive spirit leads to the creation of new offers, that are more personalized and adapted to each context, and accompanied by training. "Our customers are not all at the same level of maturity when it comes to AI. That's why it's essential to support their skills development, while making them aware of the limits of this technology, and of the best practices to adopt where necessary."
+
+The consulting firm also instills this acculturation dynamic internally: “Just as AI has its biases, employees have their own biases when it comes to learning about AI," analyzes Debraize, "Which is why the transformation of our businesses cannot be achieved without change management." All the more so, as unlike other technologies, "generative AI natively involves non-technical populations," adds Harel. To support this paradigm shift, the Group has designed a training catalog covering the fundamentals of AI as well as prompt engineering, not forgetting ethics and compliance.
+
+Change management also means creating an AI community. This is the ambition of the “AI Office,” a unit dedicated to structuring and managing all Onepoint's AI projects. Managed by a Chief AI Officer and with a staff of around twenty, this unit brings together technical and non-technical experts, mobilized on essential subjects such as technology watch, research and popularization. The AI Office also orchestrates the testing and deployment of both in-house and customer solutions. As a result, the company is able to bring together all the skills needed to capitalize on its various projects and initiatives, keep abreast of the latest technological developments in real time, and closely monitor the progress of its projects.
+
+Now that the foundations have been laid, Onepoint intends to accelerate the pace by industrializing use cases, particularly on the customer side. More than a hundred offers - either under study or in development - are in fact on the teams datebook, implying a scaling up in the coming months: "We want to boost our consulting business to bring as many projects to life as possible by the end of 2024," shares Debraize.
+
+At the same time, Neo will continue to build on its success with increasingly personalized generative AI, tailored as closely as possible to the Onepoint context. The Copilot solution will also be deployed to employees. "We're doing everything we can to fully embark our team in the generative AI adventure and give each of our consultants the means to become augmented consultants," concludes Binder.
+
+“We're doing everything we can to fully embark our team in the generative AI adventure and give each of our consultants the means to become augmented consultants.”
+
+François Binder, Partner Data & IA, Onepoint

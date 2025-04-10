@@ -1,0 +1,43 @@
+URL: https://customers.microsoft.com/en-us/story/1759306888687672662-morulahealth-microsoft-365-business-premium-health-provider-en-united-kigdom
+Source: customers.microsoft.com
+Total Word Count: 1336
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1333
+
+Morula Health provides regulatory and clinical medical writing services to biotechnology, pharmaceutical, and medical device companies. This involves delivering highly tailored medical writing experiences for each of their clients on schedule. Morula Health saw the potential for generative AI to increase the speed and productivity of their team, but as a highly regulated industry, they had to ensure their clients' data would remain secure. By incorporating Copilot for Microsoft 365 into all areas of their business, employees spend less time on repetitive tasks, freeing up space to focus on more productive work, all while keeping client data secure.
+
+Morula Health provides regulatory and clinical medical writing services to biotechnology, pharmaceutical, and medical device companies around the globe. Its highly experienced team of medical writers have a proven track record for delivering complex projects on tight timelines. By supplying a pool of expert writers who deliver in-depth, professional content across a wide range of medical disciplines, Morula Health provides their clients a single resource to supply their diverse medical writing needs.
+
+Morula Health’s expert writers build complex documentation that can cover anything from interpreting the results of clinical studies based on large quantities of lab data to writing regulatory documentation for regulatory providers that operate in more than one country. The writers must have specific, detailed knowledge of scientific nomenclature and an in-depth understanding of regulatory frameworks that vary across countries. The process of qualifying medical writers with this level of expertise can pose a challenge. With Copilot for Microsoft 365, the team optimizes their time by reducing rote tasks, enabling the resourcing team to spend more time in the qualification. That lets everyone focus on their important work and builds a culture of collaboration.
+
+Communication and collaboration are critical for Morula Health especially with its distributed network of expert writers and global client base. “It’s a constant battle because we need to engage deeply with customers so our medical writers can be absolutely sure that our services are delivered as expected,” says company director, Philip Burridge. “That means we need to work up to a very high standard and on time, as well. I need to make sure that the team always has everything it needs to do its best work.” To keep the team tightly integrated and working closely together, Morula Health relies on the Microsoft 365 apps. “Technology is incredibly important for us because our team works across many different time zones,” he continues. “We all work differently, so Microsoft 365 gives us that fundamental source where we can all communicate. We all use the same apps, especially Outlook, SharePoint, and Teams so everyone is working on the same system even though they’re based all over the world.”
+
+Burridge says he was eager to test Copilot for Microsoft 365 to see if AI could help Morula Health meet its challenges by safeguarding writers’ time and fostering collaborative workflows between writers. He was especially attracted to Copilot because it is already integrated with the Microsoft 365 tools his people use every day, simplifying the learning curve.
+
+Copilot for Microsoft 365 also meets a key concern of Burridge regarding the highly regulated nature of the healthcare industry. “We’ve avoided AI solutions until now because our industry is so regulated that we can’t afford to import data into outside solutions,” says Burridge. “But Copilot keeps all the data supplied to us by customers inside our own system so they can trust what we do with it. Plus, when we use it, it’s right there in Microsoft 365. It’s not an outside website, it’s an icon in Word, which is the primary way we deliver our services.”
+
+Morula Health conducts in-depth project requirement discussions with customers at the outset of each project to ensure that no details are missed. “That first call is where the critical aspects of every project get discussed,” continues Burridge. The team was heavily reliant on notes that had to be painstakingly taken by at least one meeting attendee, which limited that expert’s input and slowed down the pace of the conversation. “But now, Copilot in Teams automatically captures all those details, so we’re much more efficient when transitioning a project from kickoff to production.”
+
+Copilot in Teams also helps the company by keeping track of action items, outlining tasks, tracking who is responsible for them, and even suggesting next steps. “But one thing that has really impressed us,” says Burridge, “is that Copilot picks up on the very specific medical terminology we use in our meetings.” That capability results in meeting recaps that are informative, on-point and actionable.
+
+Copilot helps Burridge’s team work faster and smarter. He references the complex scientific data tables that his team would previously need to wade through before ever putting pen to paper on a new project; a process that could stretch from days to weeks, with a correspondingly negative impact on delivery times. “The tables each need a written response summary that our writers would have to address one at a time,” he explains. “But now, they prompt Copilot in Word to summarize each one separately. Once it’s done that, it’s much easier for them to take the early content and shape it into what they need rather than starting from scratch."
+
+This new way of working provides time that Burridge says is essential to completing projects not only faster but with increased quality. “There's huge value there,” states Burridge. “With Copilot, we can now have multiple writers work up different case study reports in a single day. It gets our writers past all the repetitive tasks those reports require so they can focus their time and effort on understanding the data, which actually enhances the quality of our documents and what we’re trying to achieve.”
+
+Morula Health has also incorporated Copilot in their marketing department. “With content creation, you get a bit stuck sometimes,” comments Jayshwini Sanghani, Morula Health’s marketing associate. “It used to take me three weeks to write a blog post. Now with Copilot in Word I can publish two posts a week.” She cites the first drafts Copilot builds for her and the coaching it provides as she writes as her primary marketing benefits.
+
+Sanghani keeps up to date with the regulatory feeds put out by the US Food and Drug Administration (FDA) and the European Medicines Agency (EMA). She uses Copilot to summarize those feeds so she can stay on top of important regulatory changes. “Summaries like this are so handy,” she says. “They can be used to compile marketing content, such as LinkedIn posts or marketing campaigns. Copilot filters through the information and identifies key points, which previously would have taken me hours. It’s a huge time-saver!”
+
+Based on the immediate benefits that Copilot has provided for Morula Health, Burridge is exploring new ways to use it across the business. His team has established the best practice of building a prompt library. Whenever an employee creates a prompt that helps Copilot deliver a particularly useful result, they save it to a library that is accessible by anyone in the company. The collective knowledge helps each member use Copilot more effectively and inspires additional ways Copilot can be incorporated into daily tasks.
+
+The Morula Health team is using Copilot to turn Word or PDF files of regulatory content into PowerPoint presentations. With a little tweaking, Burridge can use these presentations as training aids to keep the team aware of the ever-changing international policies that so heavily affect their work. “It’s really impacted what we do,” states Burridge. “As a business, we see ourselves continuously working on new ways to integrate Copilot into everything we’re trying to do. Our value is in continuously driving the quality behind our service and I see Copilot being there every step of the way to do that.”
+
+“With content creation, you get a bit stuck sometimes. It used to take me three weeks to write a blog post. Now with Copilot I can publish two posts a week.”
+
+Jayshwini Sanghani, Marketing Associate, Morula Health

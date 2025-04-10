@@ -1,0 +1,35 @@
+URL: https://www.microsoft.com/en-us/worklab/the-key-ingredient-in-every-copilot-conversation
+Source: microsoft.com/worklab
+Total Word Count: 456
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 453
+
+To get the most out of Copilot, give it context. Lots and lots of context
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+Working with Microsoft 365 Copilot, it turns out, is a lot like cooking. As Jared Spataro, Microsoft’s Corporate Vice President of Modern Work & Business Applications, recently explained, talking to Copilot requires you to put on your chef’s hat and think about your ingredients. “It turns out, what you put in really matters,” Spataro says. And the most important ingredient of all is context.
+
+It’s also the part of the recipe that people tend to forget. If you want Copilot to draft an email for you, you’ll surely tell it who you’re sending it to and what the key points should be, but you might neglect to mention why you’re sending the message in the first place. Nuance matters: Should the tone of voice be upbeat? Conciliatory? Stern? How should it make the recipient feel? What should it inspire them to do? All of these factors help Copilot deliver the most relevant, ready-to-use suggestions for your draft.
+
+With traditional search engines, we’ve been trained to use as few words as possible to generate the best results. With Copilot, on the other hand, more description gives you better responses. And don’t worry about using good spelling, proper grammar, or clear sentence structure—those things don’t matter to Copilot. It can fix your mistakes and turn your most disorganized brain dump into a work of art.
+
+What Copilot can’t do is read your mind. So if it’s helping you write a speech, tell it how you want the audience to feel at the conclusion, and also how they might feel before you begin: is it first thing in the morning when the audience is buzzing with energy and fresh coffee, or will they be in a post-lunch fog?
+
+The more thoughtful you are about these inputs, the better the results will be. It may seem like extra work at first—after all, you already know all these details, so wouldn’t it be quicker to simply write the speech yourself? But putting in the up-front effort to make sure Copilot knows what’s in your head enables it to help you work faster throughout the project, from your first draft to your finished product.
+
+Like cooking, talking to Copilot is both an art and a science. It rewards exploration and experimentation, and it can—and should—be fun. So forget about being perfect and focus on putting a variety of contextual details into the pot. You’ll be amazed by what Copilot serves up.
+
+Techniques
+
+Quick Read

@@ -1,0 +1,45 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/microsoft-deputy-cto-sam-schillace-on-how-ai-will-shift-our-productivity-paradigm
+Source: microsoft.com/worklab/podcast
+Total Word Count: 812
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 148
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in a digital age. Today, I am very excited to be talking to Sam Schillace, who has been transforming the way we work for decades.
+SAM SCHILLACE: Don’t ask the why not questions, ask what if? What if is a better question: What if this works? What does the world look like if this works? And if the what if question is compelling, then you work through the why not problems to get there. So, what if I could transform my business in a certain way? What if I didn’t need to make this kind of decision? What if this process, which is very manual, could be automated?
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 664
+
+Podcast
+
+He helped transform how we collaborate. Now he's taking us behind the scenes on how AI is reshaping work
+
+WorkLab Podcast Guest Sam Schillace
+
+October 4, 2023
+
+Sam Schillace’s breakthroughs in collaboration technology and engineering leadership have helped transform the way we work. In this episode, the Microsoft CVP and Deputy CTO discusses his experiences developing (and using) AI tools, and how they have the potential to shift our productivity paradigm. He also shares his perspective on what leaders need to do to foster creativity and innovation, and how they can stay ahead of the curve in a moment of technological disruption and transformation.
+
+Schillace is the second guest for season 5 of Microsoft’s WorkLab podcast, in which host Molly Wood has conversations with economists, technologists, and researchers who explore the data and insights about the work trends you need to know today—from how to use AI effectively to what it takes to thrive in a digital age.
+
+Three big takeaways from the conversation:
+
+Schillace believes that we’re on the cusp of a transition that could be as profound as the one at the dawn of the computer age, and the ability to use conversational speech with AI is a key reason. “We think the computer is a tool for helping us, but a lot of what we do is we are really helping the computer do stuff. If you don’t think that’s true, tell me how often you spend time trying to fix the formatting, not understanding why it’s not working right.” He says we’ve had to learn the syntax computers understand because “we had to teach the computers to do stuff. But now we’re moving to this more semantic realm where the computer can have context, it can know what you’re doing—it can actually help you instead of you helping the computer.”
+
+Schillace encourages leaders to approach this moment of technological disruptions and opportunities with open-mindedness and a growth mindset. “Being able to know what you don’t know, being able to ask questions in an environment where you have low information and be aware of things like biases and preconceptions that prevent you from getting good results [out of an AI tool], I think is useful. I think a growth mindset is going to be much more important now than it’s ever been.”
+
+Schillace reflects on his own record of innovation and notes that breakthroughs often come from unexpected places and a positive approach. “Don’t ask the why not questions. What if is a better question,” he notes. “What does the world look like if this works? And if the what if question is compelling, then you work through the why not problems…the real prize comes from being optimistic and right. And the real penalty comes from being pessimistic and wrong.”
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the episode 2 conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in a digital age. Today, I am very excited to be talking to Sam Schillace, who has been transforming the way we work for decades.
+
+SAM SCHILLACE: Don’t ask the why not questions, ask what if? What if is a better question: What if this works? What does the world look like if this works? And if the what if question is compelling, then you work through the why not problems to get there. So, what if I could transform my business in a certain way? What if I didn’t need to make this kind of decision? What if this process, which is very manual, could be automated?
+
+There’s a lot to look forward to if business leaders act out of excitement, not fear
+
+Advice for leaders on building a diversified “portfolio life,” and rethinking careers and growth for the AI-powered work.

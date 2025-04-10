@@ -1,0 +1,97 @@
+URL: https://customers.microsoft.com/en-us/story/1827391161519296074-orbitalwitness-azure-professional-services-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 2085
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 2082
+
+Orbital Witness is a legal tech company that is revolutionising the way property diligence is conducted by real estate professionals.
+
+The company pivoted early on to embrace the use of LLMs in Azure OpenAI to build its innovative AI Agent application, Orbital Copilot, that thinks like a real estate lawyer.
+
+Orbital Witness can save legal teams 70 percent of the time it takes to conduct property diligence work. It helps law firms by providing them with an easy-to-use AI assistant that mimics their existing legal workflows.
+
+Microsoft Azure offers us the combination of bleeding edge AI models with robust and secure infrastructure at a global scale so that we can build the most advanced applications for our legal customers to use.
+
+Andrew Thompson, Chief Technology Officer, Orbital Witness
+
+Orbital Witness is a groundbreaking legal tech business founded in 2018. It offers AI-powered solutions to remove the administrative burden of legal property search and diligence work. The business chose to develop its innovative solutions in Microsoft Azure from day one.
+
+Andrew Thompson, Chief Technology Officer at Orbital Witness, explains, “Law firms have an already strong relationship with Microsoft, given their heavy use of Microsoft Word, Outlook, Teams and Windows. When they know we are developing within Microsoft’s Azure ecosystem, with all the resilience, security, user management and best practice that goes around that, it’s a huge stamp of approval for our software. The Microsoft ecosystem makes our customers feel at ease because it’s something they already use on a daily basis and trust with incredibly sensitive client data.”
+
+Early Orbital Witness solutions relied on the novel development of more classic supervised machine learning (ML) models, requiring extensive labelled datasets, collected by experienced lawyers, to train the models to deliver the high-performance outcomes necessary in the legal sector. Its applications are written in C# .NET and Python and hosted in Microsoft Azure using Kubernetes.
+
+Many of the UK’s leading law firms relied on these highly innovative, transformational solutions to reduce the time taken for research, administration and property transaction due diligence processes.
+
+However, when Microsoft announced its collaboration with OpenAI and the possibility of using GPT-4 within Azure OpenAI on the Microsoft Azure platform, the Orbital Witness team made a huge decision.
+
+“It’s very easy to look back now and think we made a fantastic decision,” states Andrew Thompson. “At the time it was a difficult decision with an uncertain outcome. When our teams had spent years collecting labelled data for the training of more classical ML models and then a massive paradigm shift like LLMs happens, we had to make a decision as a leadership team to stay the course and continue to use what we had already created or venture into the unknown and begin learning about, and eventually using, LLMs as an effective replacement to our original ML models.”
+
+“We decided to throw out a lot of the ‘old’ stuff we’d built – they were well engineered ML models that worked,” he explains. “But it was obvious to us that if we didn’t adopt LLMs, which were a better, more generic approach to AI systems, we’d be behind the curve a year from now and we would no longer be able to deliver the most innovative products to our customers.”
+
+The launch of Azure OpenAI and GPT-4 fuelled the Orbital Witness technology team to dive more deeply into generative AI research and development. To assess the solution’s potential, the tech team worked closely with Orbital Witness’ inhouse legal engineers.
+
+“We rely on the domain expertise of highly experienced real estate lawyers to develop our solutions,” explains Andrew Thompson. “These lawyers have decades of experience in the world’s top law firms. Almost overnight we asked them to stop collecting labelled data and to become prompt engineers. Their expertise makes them best placed to discover the ways to instruct LLMs to effectively accomplish tasks that many lawyers currently do manually.”
+
+Orbital Copilot, the AI assistant which Orbital Witness built can perform comprehensive document analysis, diverse question resolution, contextual understanding, thorough information gathering, supplementary research requests, trusted referencing and transparent reasoning in a fraction of the time it would take a human real estate lawyer.
+
+It quickly became evident that the Orbital Witness solution could answer questions with a high degree of accuracy, the necessary transparency and the appropriate auditability required in such a regulated industry.
+
+The Orbital Witness team leant into the support offered by Microsoft, including the Microsoft for Startups Founders Hub, to secure insights, best practice and practical technical assistance.
+
+“We knew it was the right strategic decision and we needed to persevere,” recalls Andrew Thompson.
+
+The company’s presentation on the risks and opportunities of generative AI in property transactions in June 2023 to their existing customers proved a turning point. Attending law firms immediately recognised the potential of the generative AI tools Orbital Witness was developing, eagerly requesting early access.
+
+“There was huge excitement in the industry,” states Andrew Thompson. “They instinctively recognised this was a game-changing product direction for their teams. We released an early version of the solution to a handful of law firms, working with them to perfect it through the autumn. We were ready to commercialise it as the world’s first AI Assistant for real estate lawyers by December 2023.”
+
+This rapid development from concept to practical tool epitomises the Orbital Witness team’s agility, innovation and relentless commitment to delivering genuinely valuable products in the legal tech space.
+
+For the development team, the rapid delivery using novel technologies was hugely exciting. Such innovation is pulling talent into the legal tech space. Yet it requires a very different mindset.
+
+“It has changed how developers need to think about engineering products,” admits Andrew Thompson. “Developers have always been cautious of user input and, as a result, have protected their systems against rogue inputs that can potentially break the software. Working with LLMs at the core of an AI Agent is a bit like building such a system – but instead of just worrying and mitigating for rogue user input we also have to worry and mitigate rogue output from the LLMs, given their probabilistic random tendencies. It’s very uncertain since the systems we’re building are inherently more random and unstable, so we have to build applications in different and novel ways.”
+
+Orbital Witness has also found that roles within the team have become more fluid. “What does a data scientist do when no longer training models but, rather, working to prompt LLMs?” Andrew Thompson asks.
+
+“The engineers are now specifically instructing LLMs into doing what we want them to do so we have a working application. It’s a completely new field of engineering. Not only do data scientists and engineers need to be able to write in code to get machines to process data but they now also need to be really good at iterating with human language to get an LLM to process and then generate the correct data.”
+
+The change in approach has been felt across the business.
+
+“For our legal engineers, we’ve built test environments and a set of tools, so they can iterate with prompts in much the same way as our engineers iterate with code,” says Andrew Thompson. “They can then evaluate those prompts against the gold standard of what we expect the system should do in various contexts. It’s a different way of thinking. Lawyers aren’t used to iterating with technology in this way so it has been an interesting journey.”
+
+This change in mindset is a challenge for customers too. Andrew Thompson explains, “When our customers think about using generative AI they have a lot of questions – our products can’t just output an answer; we have to give customers complete transparency about how we got to that answer, with links to all the source documentation and how the underlying AI Agent came to that conclusion based on what legal information it read.”
+
+“We encourage our customers to think about our product similarly to how they would a junior lawyer. In that same way, they’d want to check over the difficult parts of their work to make sure the thought process was correct and the eventual answer is valid. But, with 70 percent time savings when performing due diligence, our customers want these tools at their disposal because it allows them to service their clients far better especially during time-sensitive transactions or with massive portfolios of properties where you’d need large teams of lawyers doing the work.”
+
+Delivered productivity savings for UK clients
+
+Another factor in Orbital Witness innovation is the machine vision required to process lengthy, often handwritten and photocopied, legal and property documents. A proprietary solution based on the optical character recognition (OCR) capabilities in Microsoft Azure, used since the early days of the company, needed to be rethought for use with LLMs.
+
+Andrew Thompson explains, “When you’re feeding this type of data into LLMs, knowing whether the text is a heading, a subheading, in italics, or part of a particular clause matters a lot. Like a human would, it can infer a lot from the layout of the text and how it’s structured visually. So, we’ve had to work in Azure to perfect the OCR and how we structure the legal information. That’s been a transition for us and we’ve reached out to Microsoft directly to get help with it. That support from Microsoft has been very important to our success.”
+
+These enhancements paved the way to create numerous Orbital Copilot “out of the box” diligence reports that save lawyers hours of their time for their clients. These diligence reports have a large number of preconfigured and targeted questions and can be tailored to the detail, style and tone required.
+
+Orbital Witness has worked closely with Microsoft to accelerate its deployment of generative AI technologies to build its disruptive solutions in the legal tech space.
+
+“It’s been incredibly helpful working with a massive cloud provider where, at a moment’s notice, we can try out new technology. We went from desperately needing GPUs for our classic ML models to wanting to pivot on a dime and try out the latest LLMs. If we hadn’t been in Azure, we could have been sitting on a bunch of really expensive hardware that we were no longer in need of,” states Andrew Thompson.
+
+He adds, “Azure’s elastic infrastructure is vital so our applications can scale up and down with demand. We use Azure Kubernetes so that our applications are easier to maintain and scale and the capacity is there for our customers whenever they need it. For example, a whole team of lawyers might start uploading thousands of documents all at once and need them processed immediately. We can then scale up easily by spinning up additional containerised environments to service those new requests – that’s all seamlessly orchestrated through Azure.”
+
+The breadth of tools and services in Azure has also been critical for success. Orbital Witness uses Azure DevOps, Azure App Service and Azure’s containerised architectures. It also leverages essential security tools, including Defender for Cloud, Azure Monitor and Event Hubs.
+
+“It’s very advantageous to be inside the Azure ecosystem,” says Andrew Thompson, “Because you get all of these benefits out of the box. You can build your application, validate and verify it, all within Azure's secure infrastructure. Our engineers are actively using those tools to maintain our applications.”
+
+The Orbital Witness team is now planning how to expand the solution to create new productivity and automation opportunities for existing customers and to reach new markets.
+
+“We’ve proved how effective we can be in automating real estate due diligence; we’ve delivered incredible productivity savings for our UK customers,” says Andrew Thompson. “We’re now adapting the solution for different legal markets in the US. We’re also integrating vision models so we can complete due diligence based on the physical features detailed on maps, floorplans, images and other real estate documents.”
+
+The team is also bringing its sophisticated real estate legal knowledge and partnerships to build a new feature around surfacing other material provisions – it’s a way to search for “unknown unknowns” during property diligence processes.
+
+So far, the business is delighted by the technology choices it has made. These choices have empowered Orbital Witness to lead innovation in this increasingly dynamic sector.
+
+Andrew Thompson says, “Microsoft Azure offers us the combination of bleeding edge AI models with the robust and secure infrastructure at a global scale so that we can build the most advanced applications for our legal customers to use.”

@@ -1,0 +1,85 @@
+URL: https://www.microsoft.com/en-us/worklab/5-key-principles-for-implementing-an-ai-strategy-across-your-organization
+Source: microsoft.com/worklab
+Total Word Count: 2068
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 2065
+
+Framework
+
+Illustration by Ricardo Santos
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+W
+hen David Swenson, CIO of Netlogic, began his company’s AI journey, it was not a linear road. “It has been a long journey to find the right solution for our productivity challenges,” he says. However, when Swenson started using Microsoft Copilot for Sales alongside his development team, he immediately saw that it was going to save his team meaningful amounts of time—finally. And he’s not alone in feeling that impact: users in our recent Work Trend Index study of Microsoft Copilot completed tasks faster, wrote stronger emails and reports, spent less time looking for stray files, and were, by a variety of metrics, more productive.
+
+However, whether an organization is actively rolling out AI or still just getting started, many leaders struggle to know what to do when: They want to implement an AI strategy, but the process can feel daunting. Who should get AI first? How should training work? What are the best practices? And how can leaders think about moving beyond personal productivity to creating value for the whole organization?
+
+To help provide clarity on an effective AI strategy as you introduce it to sales, finance, marketing, and more, we spoke to executives and dove into a global survey we conducted on pain points experienced by people working in a variety of roles1. We used that research to develop the following five-element framework.
+
+Understand the data gaps in your organization.
+
+Quantitative futurist Amy Webb had a recent client who was interested in using generative AI to propel their company three to five years into the future. The problem? The organization didn’t know the last time it had conducted a data audit—or who would have been in charge of it. “You can’t leap to an AI future without having some of that internal infrastructure taken care of first.”
+
+Once an organization has its data properly structured and organized, AI can help employees navigate all that data effectively: According to our global survey, when employees were asked what tasks they were most likely to use AI tools and technologies for, “helping me find the information I need” was the overwhelming favorite across many roles, from sales (83%) to customer service (81%) to even IT/technology (85%). Some respondents had very role-specific needs when it comes to data. For example, 79% of employees in sales roles said they would use AI to help them do tasks like unify marketing and sales data; people in finance roles said they would use AI to minimize information silos, while people in supply chain roles said they would use it to help them recognize patterns in the data they have.
+
+Know that different roles have different pain points.
+
+No two jobs are the same, and pain points differ widely too. Workers are increasingly looking to AI to help them address the specific issues that will move their unit or company forward—as well as eliminate the mundane tasks that everyone struggles with.
+
+For sellers we surveyed, for instance, “identifying sales opportunities” was high on their list (75%), as well as “identifying the right customer contacts” (73%). Often, a good chunk of a seller’s day is spent answering emails, attending non-essential meetings, and writing up countless versions of the same basic sales presentation—everything but identifying and servicing customers. Daniel Bertrand, Digital People Enablement Leader, Microsoft Customer and Partner Solutions, dubs this drudge work “administrivia”—and AI can help with much of it, from drafting emails to creating pitch decks and data visualizations. Before crucial meetings with customers, AI can use recent email threads to create lists, with bullet points, of key items to address. For many sellers, the extra hours in the day not spent doing drudge work are already paying off: in a recent LinkedIn study of B2B sellers, 75% of those who used AI exceeded their quotas, versus only 25% of non-users.
+
+Among marketers, 82% want help identifying recent market trends related to their products and services. And, indeed, they can discover trends and outliers in the latest market research with Copilot in Excel to identify which markets to target with promotions. According to our survey, among people in IT, 83% look to AI to help streamline and automate routine tasks (performing software updates and managing backups, for example). And while there are whole hosts of things that AI can do to lessen the digital load for everybody, regardless of job description or industry (nobody wants more emails to pore through), one of AI’s greatest strengths is its ability to be customized to address the very specific pain points unique to a particular role.
+
+Consider customer service. For Mala Anand, Corporate Vice President of Customer Experience and Success at Microsoft, two of the biggest pain points were time to competency for new agents and handling higher volume, lower complexity issues. AI is demonstrating how it will help with both: new hires build competency and confidence more quickly, helping everybody address the high frequency, lower complexity issues. “Our customers are noticing the positive changes,” she says. “Response times are faster, and the interaction quality has improved, which is leading to much higher satisfaction and loyalty.”
+
+When asked what tasks they were most likely to use AI for, “helping me find the information I need” was the favorite across many roles, from sales (83%) to customer service (81%) to even IT/technology (85%).
+
+Identify super users to be your champions.
+
+Transformational AI capabilities are a big part of the equation, so your people need to change behaviors and rely on those capabilities. Seek out those employees who are giving you lots of feedback, who use AI frequently, and enable them to be your change agents. These individuals can become your best evangelists, sharing insights and learning with others, and acting as a conduit for feedback and opportunities. “These internal champions are instrumental in driving adoption in a truly exponential way,” Anand says. “They are the innovators for your journey.”
+
+Super users are more than just eager evangelists: employees like having them around to ask the “what does this do?” questions, and to ensure that they’re not going to break anything by doing something careless. Indeed, nobody wants to go it alone, particularly when it comes to AI: 32% of IT/technology employees in our survey wanted internal teams that were dedicated to oversight of AI integration, while 33% of people in marketing wanted their organizations to share use cases for how and when to use AI tools in their roles.
+
+One creative way to identify some champions and solicit bold ideas that can drive excitement: “You want to give licenses to the people most likely to bring a sense of creativity and energy to Copilot,” says Kevin Sherman, a Marketing Director at Microsoft. “So take a subset of your licenses, say 50, ask your employees to send in their best ideas, and the 50 best answers get a license.”
+
+When deploying seats, consider what teams and areas will reap the biggest benefits from AI in the shortest amount of time. Microsoft itself began with five groups—marketing, sales, and customer service; human resources; and finance. Other organizations might start with fewer teams, prioritizing the roles that have the biggest impact on their customers and business goals.
+
+Regardless of whether your organization is allocating 20 licenses or 2,000, once you get past experimental pilot programs and into broad deployment, make sure entire teams have access so that people can learn from each other’s successes and mistakes. And make sure there is support from the top; super users, after all, can only do so much. “We found that individual contributors weren’t always engaging with the Copilot unless they understood that this is something important from their managers,” Bertrand says.
+
+Prioritize reskilling.
+
+Playing around with AI is fun, but to take full advantage of it, people need time to train (and that training gives them a professional advantage as well, as AI tools become more widespread). “You have to reskill your workers,” says Hossein Nowbar, Chief Legal Officer at Microsoft. “They have to learn how to share data and how to prompt it. Interaction reskilling is very important. It’s a journey where the technology is learning while the user is also learning to interact with it to maximize the return.”
+
+Of course, as employees continue to learn how to use the latest AI technologies in new and increasingly more creative ways, they need to know that they can trust them in the first place. Organizations can build this trust in a variety of ways, from leading training sessions to demonstrating how the technology has been tested and validated. Across occupational fields in our survey, “clearly outlining what employees can and can’t use the AI tools for” was cited as the number one way organizations could inspire trust in employees about workplace AI.
+
+Understand what new work habits your people need to develop.
+
+New work technologies require new work habits. When organizations launch the next big tech tool, there’s often a huge spike in use—followed by a drop, as some workers get frustrated when it doesn’t do exactly what they expected it to. “Some people are real Type A, go-getter personalities. They’re like, I’m going to ask you once, and if you don’t do it the way I need you to do it, I’m going to do it myself,” Bertrand says.
+
+Addressing the eventual sticking points as they vary from role to role is key: “We discovered we have to create hero use cases by role to make people productive and used to using the AI,” Bertrand says.
+
+For sellers, the new work habit might be to have Copilot take meeting notes so they can fully focus on what the customer is saying; for people in finance, it might be to use AI to quickly conduct a variance analysis. Our research also found that customer service agents were eager to use AI to create first drafts; in IT, people wanted it to perform software updates; marketing employees wanted it to summarize campaign results; supply chain employees wanted to use it to optimize the order fulfillment process.
+
+But across roles, maybe the best work habit when it comes to AI, one that works regardless of one’s job or station: “Every few weeks I set aside an hour on my calendar to focus on solving some of my day-to-day challenges with Copilot,” Sherman says. “Deliberately setting out time for focused exploration has been such a great way to bring Copilot into an increasing part of my daily life.”
+
+For leaders, it will also be important to build a habit of reflection and iteration. After you roll out AI, spend the initial months looking at what is working and what is not. Is a capability not strong enough because the data sources aren’t as accurate as they need to be? Is there a certain skill that users seem to be really excited about? Is there a skill they don’t currently have that they wish AI could help with? Paying attention to these early signals will help organizations utilize AI in a strategic way. Because, whatever your industry, it’s better to jump in with AI now and learn as you go than be a late adopter.
+
+1Global survey on function-specific pain points and opportunities 
+While the numbers in this story have not previously been published, the survey was conducted as part of our Work Trend Index research by an independent research firm, Edelman Data x Intelligence, among 18,100 full-time employed or self-employed workers across 12 markets between July 21, 2023, and November 1, 2023.
+
+This survey was 20 minutes in length and conducted online, in either the English language or translated into a local language across markets. At least 1,000 full-time workers were surveyed in each market, and global results have been aggregated across all responses to provide an average. Each market is evenly weighted within the global average. Each sample included an even distribution across Customer Service, Finance and Accounting, Information Technology and Tech Infrastructure, Marketing and Public Relations, Sales and Business Development, and Supply Chain and Logistics. The sample also included a mix of work environments (in-person, remote vs. non-remote, office settings vs. non-office settings, etc.), industries, company sizes, tenures, and job levels.
+
+Reinvention
+
+AI in Action

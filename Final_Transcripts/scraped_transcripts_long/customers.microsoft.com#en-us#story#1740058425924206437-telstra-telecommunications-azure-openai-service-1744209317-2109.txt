@@ -1,0 +1,45 @@
+URL: https://customers.microsoft.com/en-us/story/1740058425924206437-telstra-telecommunications-azure-openai-service
+Source: customers.microsoft.com
+Total Word Count: 1216
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1213
+
+Telstra is Australia’s leading telecommunications and technology company, offering a full range of communications services throughout the nation and beyond. The company’s ongoing innovation keeps pace with surging technological progress, making for constantly evolving services and products. Telstra’s frontline staff and customer service agents require a vast technical knowledge base in the face of this increasing complexity. The company saw an opportunity to help them respond to customers more quickly and effectively with the support of generative AI. So it developed two cutting-edge generative AI tools based on Microsoft Azure OpenAI Service. Even early in rollout, the Ask Telstra and One Sentence Summary tools are delivering promising results, with 90 percent of employees using One Sentence Summary reporting time savings and increased effectiveness, resulting in 20 percent less follow-up contact. Eighty-four percent of customer service agents using the Ask Telstra solution agree that it has a positive impact on customer interactions.
+
+“We’re unlocking value and growth as technologies like generative AI proliferate at speed. … We’re on track to improve all key business processes with AI by 2025.”
+
+Kim Krogh Andersen, Group Executive, Product & Technology, Telstra
+
+After more than a century connecting the nation, and now the leading telco and technology company in Australia, Telstra’s purpose is to build a connected future so everyone can thrive. It plays a pivotal role in connecting businesses, governments, communities, and individuals across the nation, through Australia’s largest mobile network and other critical communications infrastructure.
+
+But, ultimately, people come first at Telstra. The company states that it’s people who give purpose to their technology. “Customer experience is a huge focus for us,” says Lisa Green, Data and AI Solutions Executive at Telstra. “We take great pride in our leadership in providing excellent network technology, but what I love about working at Telstra is how deeply ingrained helping customers is in our culture.”
+
+For everyone at Telstra, balancing business, technology, and a high level of customer service is imperative. That translates to providing accessible, high-quality telecommunications services while also using customer insights for ongoing network improvement. Personalized assistance is key to providing that service. “We focus on getting it right for our customers,” continues Green. “One of our benchmarks is solving the problem on the first call,” says Rohit Lakhotia, General Manager of Customer and Channel AI at Telstra. Lakhotia adds: “Our customer service agents are on the frontlines. As the first point of contact with Telstra, they’re the face of the company, so it's crucial that we support them with the right tools to have the most successful customer interactions possible.”
+
+Customer service agents must source answers to customer questions from a vast amount of information. This can understandably take time, as can getting up to speed on past customer queries and complex interactions. When Telstra was developing its generative AI solutions, Ask Telstra and One Sentence Summary, it was an obvious choice to leverage its strategic partnership with Microsoft to build the tools on the underlying Azure platform. “We’re both a Microsoft customer and a Microsoft partner,” explains Orla Glynn, Executive Data & AI Transformation, Acceleration & Adoption at Telstra. “Looking ahead, as we advance in developing our own internal AI capabilities, we foresee an even greater opportunity to share our experience to scale and enhance the AI capabilities of our Telstra Enterprise and Telstra Business customers.”
+
+The company used its Microsoft platforms to create two solutions based on Microsoft Azure OpenAI Service.
+
+The company fine-tuned its Ask Telstra tool to the company’s vast internal knowledge base to put the necessary data at the fingertips of customer service agents. It combines the intelligence of Azure OpenAI Service with the precision retrieval capability of Microsoft Azure AI Search, drastically hastening search speed and accuracy. About 200 customer service agents trialed the solution in mid-2023. Telstra used their suggestions to further enhance the solution before rolling it out to another group of agents in call centers and at Telstra retail stores. Beyond already improving help requests for both customers and customer service agents, Ask Telstra is surprising the company with other unforeseen benefits. “New agents found that Ask Telstra gave them a big boost to becoming more effective, faster,” says Lakhotia. “When we gave them the Ask Telstra tool, they spent less time asking for help from their managers, who frequently were busy with other conversations. It’s been very helpful in onboarding new staff.”
+
+Likewise, One Sentence Summary (tested by 100 agents in 2023) puts the gist of recent customer history in front of the agent almost instantaneously. It incorporates Microsoft Azure Machine Learning with Azure AI Search and Azure OpenAI Service to summarize the recent history of a customer. The tool appears as a clickable button in the customer’s history as accessed from the Telstra customer relationship management (CRM) software. Within the intensely detailed, text-rich CRM customer history screen, agents click the One Sentence Summary button and are presented with a simple, uncluttered interface that succinctly summarizes the customer’s situation. That means less time to understand customer needs and a more seamless transfer from one agent to another.
+
+One of the most valuable aspects of One Sentence Summary is its delivery of sensitive customer information. Agents appreciated how the tool enabled them to more quickly understand and tactfully engage with customers who were experiencing challenging or sensitive circumstances such as those in need of financial assistance. Lakhotia has been gratified by the kudos from agents. “One Sentence Summary is one of the easiest uptakes we’ve had,” says one retail team member.
+
+Although they won’t be fully deployed until early 2025, recent pilots of Ask Telstra and One Sentence Summary are already improving customer experience and making agents’ jobs easier. “Ninety percent of customer service agents who tested One Sentence Summary increased their effectiveness,” enthuses Lakhotia. “Their calls required 20 percent less follow-up than those handled without the tool. Over 80 percent of the agents trialing Ask Telstra agreed it had a positive impact on customer interactions.”
+
+This productive start validates Telstra’s plan to infuse AI technology throughout the organization. “We’re unlocking value and growth as technologies like generative AI proliferate at speed,” says Kim Krogh Andersen, Group Executive of Product and Technology at Telstra. “By collaborating and sharing our individual strengths with partners like Microsoft we can ignite innovation and deliver the best products and services for our customers."
+
+Krogh Andersen’s AI team is ready for the challenge. “Becoming an AI-fueled organization is very much a journey of continuous learning,” muses Glynn. “The pace of change over the past year has been truly remarkable. It’s crucial that we adapt, collaborate through partnerships, and share knowledge so that we can unlock the huge transformational potential offered by AI.” For Green, the numbers bear out Telstra’s day-to-day reality. “Our agents are happy that they’re confident in their ability to support our customers more effectively than ever before,” she concludes. “Most importantly, our customers are happy with more seamless support.”
+
+Find out more about Telstra on X, Facebook, and LinkedIn.
+
+“Ninety percent of customer service agents who tested One Sentence Summary increased their effectiveness. Their calls required 20 percent less follow-up …. Ask Telstra was judged by 84 percent of the agents using it to positively impact customer interactions.”
+
+Rohit Lakhotia, General Manager of Customer and Channel AI, Telstra

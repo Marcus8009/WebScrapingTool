@@ -1,0 +1,69 @@
+URL: https://customers.microsoft.com/en-us/story/1812576965312816472-torfaen-microsoft-copilot-for-microsoft-365-national-government-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 1090
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1087
+
+Torfaen is determined to improve and sustain services for our residents and that’s why we’re embracing this exciting opportunity of using Copilot.
+
+Stephen Vickers, Chief Executive, Torfaen County Borough Council
+
+Torfaen County Borough Council is a unitary authority based in southeast Wales. Every day of the year, Torfaen delivers hundreds of essential services to the Borough's 91,000 residents—from transportation and environmental services to social care and education services.
+
+“Local authorities have faced significant challenges over the last 20 years,” explains Stephen Vickers, Chief Executive of Torfaen County Borough Council. “There’s increasing expectation and demand across our services, set against the backdrop of significantly reducing budgets.”
+
+One of the challenges faced by staff is the high workload. As a result, the council is keen to explore how it can use technology to relieve the pressure on staff whilst improving services for residents.
+
+“Innovation is one of our corporate values,” says Stephen Vickers. “And I could immediately see the potential for Microsoft Copilot to help us streamline and improve services as well as provide a more personalised service for our residents.”
+
+The Torfaen team found Copilot to be especially beneficial as it integrates seamlessly with the Microsoft tools they utilise daily, including Word, Excel, PowerPoint and Outlook as well as its Microsoft Teams and SharePoint workspaces. This integration streamlines workflows and improves productivity without the need for significant changes to existing processes or additional training. Moreover, it maintains high standards of data protection, privacy, and security, ensuring that users can trust the system with their data.
+
+Given the sensitivity of the data involved, the council knew it couldn't use just any AI service; it needed something with enterprise security built in by design. “If you collect all of our data together there is some very sensitive information,” explains Matthew Lewis, Chief Operating Officer at the Shared Resource Service which supports five public sector organisations, including Torfaen.
+
+He adds, “One of our main objectives is to broker a single solution back to the organisations, which is why Copilot has been so interesting to us.”
+
+I could immediately see the potential for Microsoft Copilot to help us streamline and improve services as well as provide a more personalised service for our residents.
+
+Stephen Vickers, Chief Executive, Torfaen County Borough Council
+
+Torfaen began by looking at the different service areas, to assess where Copilot could have most impact. With its administrative tasks and high number of minute takers, business services support seemed like a clear use case.
+
+“When I first came face-to-face with Microsoft Copilot, I didn’t completely understand its full potential,” admits Katie Rees. “I started playing around with the rewrite tool in Word and found that it could be used within our minute-taking tasks.”
+
+Meeting minutes in the public sector are a part of the fabric of many of the council teams’ day-to-day function. They’re used in almost every department and kept for reference in the council’s case management platforms and for Freedom of Information or Subject Access Requests. This means that small improvements here could have a big impact.
+
+For best results, the council has found that a willingness to iterate and responsive support from Microsoft has proved pivotal.
+
+The team first began using Copilot for Microsoft 365 in Teams. They found that this use case was well suited to their internal meeting requirements because it produced highly concise overviews of conversations. However, the text was occasionally over-summarised, which wasn’t ideal for meetings which took place in social care as it could lose some of the detail.
+
+At this point, the Torfaen team reached out to Microsoft for additional support. Microsoft specialists worked together with the team to understand the requirement. By utilising extracts of the meeting transcripts from Teams with Copilot in Microsoft Word, they built a more nuanced prompt that helped to achieve the targeted output the council needed alongside a template document.
+
+From a copy of the raw transcript, using the targeted prompt, support staff can now use Copilot for Microsoft 365 to complete a structured meeting minutes form.
+
+“How Copilot broke the meeting down into sections was really good because the forms that we need to put them on to our system are all sectioned,” explains Bethan Parry, Business Support Administrator at Torfaen County Borough Council.“To minute-take and to type up the minutes would take two to three hours. Using Copilot, is improving our processes by reducing the time spent on this.”
+
+The time the team saves by not having to produce the minutes can instead go into auditing output and furthering the quality of the content. This has already seen some very positive responses from the council’s children services teams.
+
+As a result of the time savings and efficiencies achieved through the dedicated experimentation of the business services support team, Torfaen County Borough Council is now exploring new ways to achieve more using Copilot.
+
+Katie Rees, Team Leader at Torfaen County Borough Council, says, “The potential for greater benefit from just this one function of Copilot could be far reaching. We look forward to exploring other use cases for Copilot for Microsoft 365 within the council.”
+
+James Vale, Head of Customer Digital and ICT Service at Torfaen County Borough Council, confirms, “We’re starting to see, through the excellent work of people like Katie, how we can use Copilot more widely in teams and service areas.”
+
+For example, the Council is keen to explore how it might use Copilot to speed up the admin times in the contact centre to reduce overall call wrap times. “It’s exciting," adds Bethan Parry, a Business Support Administrator. “I’m enjoying this new way of working."
+
+“The work that we’ve done is transforming the way we operate,” confirms Stephen Vickers. “It’s saving time and it’s delivering a better end product. I can honestly say I’ve never come across anything else that has such potential to revolutionise the way we deliver our services and the way we interact with our residents.”
+
+The council teams also recognise the wider potential of their work with Copilot for Microsoft 365. For example, Torfaen County Borough Council regularly works with peers across public sectors, whether that be in Policing, NHS, Parliament, or other Government functions. The council hopes its innovation can inspire improvements across these public sector organisations and how they interact.
+
+Stephen Vickers concludes, “Torfaen is determined to improve and sustain services for our residents and that’s why we’re embracing this exciting opportunity of using Copilot.”
+
+It’s exciting. I’m enjoying this new way of working.
+
+Bethan Parry, Business Support Administrator, Torfaen County Borough Council

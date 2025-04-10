@@ -1,0 +1,139 @@
+URL: https://customers.microsoft.com/en-us/story/1833614171187901763-sace-microsoft-viva-suite-insurance-en-italy
+Source: customers.microsoft.com
+Total Word Count: 2100
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 2097
+
+SACE aimed to boost productivity and unlock employee potential while enhancing overall wellbeing. By adopting Microsoft technologies, they sought to streamline workflows, foster collaboration, and create a balanced, empowering work environment.
+
+Copilot reduces routine tasks, freeing time for learning, high-value work, and personal life. Viva Suite supports Copilot adoption and reveals collaboration patterns, helping SACE implement a flexible workweek, Flex4Future, and other people-focused initiatives.
+
+By adopting Copilot and Viva, SACE has harnessed an innovative, change-ready culture to empower employees. This shift has enhanced productivity and service quality, enabling their teams to deliver greater value and better meet customer needs.
+
+For decades, employees at the Italian finance and insurance firm SACE spent much of their time on transactional low-value tasks. The focus was on putting in time at the office, with less emphasis on the value and outcome of the work. Today, employees decide when and where they work, and have more time for tasks they find fulfilling and meaningful. This radical shift was made possible by Copilot and Viva, which have eliminated the burden of sifting through documents and halved the time that people spend managing their emails, among other successes.
+
+Until recently, office life at the state-run Italian financial services firm SACE was much the same as it had been since its founding in 1977.
+
+The company operates in 14 countries and supports Italian businesses looking to expand abroad or invest domestically in the country’s Green New Deal. But despite its role in helping firms adapt to a modern, global world, its working culture has been slow to catch up.
+
+“It was very traditional,” says Gianfranco Chimirri, who joined SACE as Chief People Officer in 2023. “The culture was typical for Italy, based on command and control. A lot of time was spent on approvals and on controlling working activities. Information was siloed into functions and there was little internal mobility or slow vertical progression.”
+
+Employees were judged more on the quantity than the quality of their work. There was a strong focus on hard skills, while soft skills like leadership were neglected, and workers spent a long time on rote tasks. Risk analysts, for example, spent hours locating documents before they could begin assessing potential clients.
+
+Meanwhile large groups attended meetings that felt unproductive, employees wasted time sifting through irrelevant emails, and those in less senior roles were unable to raise concerns with their bosses.
+
+“For many years people were not allowed to speak up,” Chimirri says. “There was no space for psychological safety.”
+
+All that changed in December 2023, when he began a radical overhaul of workplace practices made possible by Copilot, Microsoft’s generative AI assistant, in tandem with its employee experience platform Viva.
+
+“We made the bold move of embracing a freedom and responsibility framework,” he says. “We decentralized decision making and bet on wellbeing and productivity.”
+
+With strategic guidance from Digital Attitude, a consultancy that specializes in the adoption of new technologies, the Flex4Future project has reduced the burden of monotonous, low-value tasks, freeing up calendars for more fulfilling work while also giving employees more time for themselves.
+
+“We have decided to be the first mover,” Chimirri says. “We want to embrace generative AI. We want to learn, we want to fail, we want to improve quickly. That’s why we are one of the first adopters of Copilot in this landscape.”
+
+In 2023 employees spent an average of 7.2 hours a week managing their emails, today that has fallen to 3.7 hours.
+
+Gianfranco Chimirri, Chief People Officer, SACE
+
+Employees are now ‘the owners of their time’
+
+Today, the culture at SACE feels more like that of a Silicon Valley startup than a government-owned provider of insurance products.
+
+The company is trialing a four-day week for its entire 1,000-strong workforce, and there are no more clock-in or clock-out times. Employees and teams set their own schedules and work from home whenever they like, based on the activities they need to perform.
+
+They also have more power to make decisions in other areas; SACE has gone from having seven tiers in its hierarchy to just three.
+
+“We don’t need additional layers of control and approval,” Chimirri says. “Our employee value proposition is: you are a decision maker, and you need to act like an owner. You are the owner of your career, the owner of your development, and the owner of your time. As long as you deliver results and generate value for our stakeholders, we don't mind how you get there.”
+
+On average, Copilot has saved each user an estimated 16 minutes per day – though some have saved hours – and SACE’s goal is to free up 20 hours every month for each employee.
+
+This transformation would not be feasible without AI, Chimirri says: "It underpins everything. It’s impossible to achieve in four days what we used to accomplish in five without the use of technology and the elimination of non-value-added tasks. The winning formula has been: all the time freed up by leveraging AI tools is given back to you. You can then use it to focus on value-added activities, develop future-fit skills, prioritize well-being, and give back to the community."
+
+We have roughly halved the percentage of employees – from 27% to 15% – who spend an hour each month working on weekends.
+
+Gianfranco Chimirri, Chief People Officer, SACE
+
+How Viva Suite drives rapid adoption of Copilot
+
+The technology, of course, is only effective because people are actually using it: 91% of SACE’s employees are active on Copilot on a monthly basis.
+
+The workplace analytics platform Insights played a central role in achieving such a high adoption rate. Chimirri’s team used it to identify an initial cohort of 300 employees who were, for example, sending large numbers of emails, working late, or attending too many meetings.
+
+This group got to grips with Copilot using tutorials.Once they had mastered the basics, including how to generate Word, Excel and PowerPoint documents, they looked at more specialist use cases in project management, data analysis, and document management.
+
+Copilot proved especially effective for reviewing loan applications. While SACE does not offer loans itself, it guarantees credit from other institutions against the risk of non-payment.
+
+Employees discovered they could use their new virtual assistant to automatically analyze alerts from custom company tools, and to compile documents about an applicant’s exposure, expected returns, valuation and financial statements.
+
+Done manually, these processes take about half a day. With Copilot, they take an hour.
+
+Chimirri’s team identified high-value use cases like this by asking employees to think of time-consuming tasks and then “identify the most painful part of the process,” he says.
+
+They kept track of successes and setbacks by collecting behavioral data on Viva Insights and gathered feedback from the 300 early participants using the survey platform Viva Pulse and the engagement tool Viva Glint.
+
+Armed with this information, they were able to work through teething issues and then expand the project to the entire company in July 2024, just six months after the pilot project started.
+
+It’s impossible to achieve in four days what we used to accomplish in five without the use of technology and the elimination of non-value-added tasks.
+
+Gianfranco Chimirri, Chief People Officer, SACE
+
+The key to securing buy-in: make it worth their while
+
+As more and more people explored ways to cut rote tasks from their work routines, Viva Insights gave them data about their productivity, helping them make better decisions about where to invest their time.
+
+And they shared their wins on Viva Engage, which now hosts a collection of the most popular and useful prompts called the “Prompt of Fame”.
+
+Among people’s favorites is: “Analyze my calendar and email data to understand how I spend my time during the workweek. Identify the activities that take up most of my time and suggest ways to improve my productivity.”
+
+Another prompt directs Copilot to “look at the emails, Teams meetings, documents, and Teams chats that I have sent in the last year” and use this information to highlight the user’s main strengths as a leader, as well as where they could improve.
+
+Viva Engage, in fact, was a central part of the success of the project. The platform serves as a dedicated community of employees, helping them to maximize the impact of Copilot by sharing knowledge, taking part in Teachers’ Corners, accessing video tutorials, and collaborating on projects.
+
+“Viva Engage is playing a pivotal role,” Chimirri says, “because this is a cultural transformation, and it is a safe place for people to share anything about the changes.”
+
+He adds: “The first part of this was top down; we created the framework. And now we’re using Viva Engage to create a movement within the organization to push it forward from the bottom. We're bringing our strategy and our cultural transformation to life through the spontaneous contribution of the people.”
+
+With more time, more autonomy and a greater sense of community, users report high levels of satisfaction with Copilot: 79% say it is easy to use in their daily routines, while 89% say it helps them to save time.
+
+Digital Attitude played a key role in getting people to buy in, Chimirri says. “They know very well that you need to keep the level of attention and engagement high, especially in the first months until this stuff becomes part of your normal way of doing business.”
+
+Another reason adoption has been so high is that SACE’s leadership made it clear exactly how each person would benefit.
+
+“At the beginning we made a deal with people and said simply that all the time you free up using the technology is yours,” Chimirri explains. “Use it to improve your skills, to take care of your wellbeing, to give back to your community. Whatever it is, I don’t care, as long as you deliver your outcomes.”
+
+At the beginning we made a deal with people and said simply that all the time you free up using the technology is yours. Use it to improve your skills, to take care of your wellbeing, to give back to your community. Whatever it is, I don’t care, as long as you deliver your outcomes.
+
+Gianfranco Chimirri, Chief People Officer, SACE
+
+‘Some use cases have been astonishing. The impact is huge’
+
+Before embarking on the project, SACE and Digital Attitude used Viva Insights to set goals. These included getting employees to spend less time working on weekends, less time managing emails, less time in meetings, and more time speaking one-on-one with their managers.
+
+Less than a year after launching the project, they are already seeing success in almost every area. “We have roughly halved the percentage of employees – from 27% to 15% – who spend an hour each month working on weekends,” Chimirri says.
+
+“And whereas in 2023 employees spent an average of 7.2 hours a week managing their emails, today that has fallen to 3.7 hours.,” he adds. The average number of people in a meeting, meanwhile, has dropped from six to 5.8, while the percentage of meetings that are considered large has dropped from 44% to 39%.
+
+A majority of 69% spent less than 50 minutes per month in one-on-one sessions with their managers in 2023. That figure has now fallen to 49%.
+
+The impact of Copilot has been felt in every area of the business. It has sped up the preliminary commercial investigation process by creating summaries from various sources. This used to take 90 minutes and now takes 20.
+
+And SACE has a human resources chatbot powered by Azure AI and Copilot, which employees can ask about anything from holiday allowances, policies, processes, welfare support and career development.
+
+Perhaps the most impressive results have been in claims processing, underwriting and risk analysis. Tasks in these areas that once took six hours now take six minutes. Thanks to this, SACE plans next year to free up 50 roles to focus on driving growth.
+
+“Some use cases have been astonishing,” Chimirri says, “the impact is huge.”
+
+Among the next steps is to use Viva Goalsto manage the company and team’s OKRs. And as collaboration increases, Chimirri expects more bold ideas to emerge from within the company.
+
+“Financial services is not the most advanced or innovative industry there is, and being a publicly owned company has been another headwind,” he says. “But now we’re considered a trendsetter in the market, we’ve proven it is possible.”
+
+You need to keep the level of attention and engagement high, especially in the first months until this stuff becomes part of your normal way of doing business.
+
+Gianfranco Chimirri, Chief People Officer, SACE

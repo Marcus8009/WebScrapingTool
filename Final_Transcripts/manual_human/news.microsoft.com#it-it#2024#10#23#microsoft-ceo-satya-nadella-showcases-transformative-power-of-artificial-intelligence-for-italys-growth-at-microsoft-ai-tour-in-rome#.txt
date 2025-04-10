@@ -1,0 +1,72 @@
+URL: https://news.microsoft.com/it-it/2024/10/23/microsoft-ceo-satya-nadella-showcases-transformative-power-of-artificial-intelligence-for-italys-growth-at-microsoft-ai-tour-in-rome/
+Source: microsoft
+Total Word Count: 6
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+s
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 3
+
+Microsoft CEO Satya Nadella showcases transformative power of artificial intelligence for Italy’s growth at Microsoft AI Tour in Rome
+Ottobre 23, 2024
+
+Announcing new, innovative projects in collaboration with Italian organizations, leveraging Generative AI across various industries: Brembo, Campari, Ferrero, iGenius, Roma Capitale, and Ospedale San Raffaele.
+
+ 
+
+Rome, October 23, 2024 – Today on the occasion of the Microsoft AI Tour Event in Rome, Microsoft CEO Satya Nadella underlined the company’s commitment to the country’s sustainable growth and celebrated the excellence of Italian organizations already successfully integrating the cloud and generative AI into their business.
+
+During his opening keynote, Satya Nadella highlighted how responsible and safe use of innovation in cloud and AI is generating new growth opportunities for organizations across Italy, boosting their productivity, creativity, and competitiveness in the global market. Nadella met with business leaders, institutional representatives, and Microsoft’s Italian partner ecosystem, discussing how AI is helping promote Italy’s digital economy and improve people’s lives in the country.
+
+Satya Nadella’s presence in Italy is part of a European tour of capitals kicked off in London, where on 21 October the company confirmed its continued commitment to developing generative AI solutions by announcing new features to Copilot Agents.
+
+Microsoft announced the public preview of Copilot Agents within Copilot Studio. Copilot Agents are like new apps for an AI-powered world that work on behalf of an individual, team or business function to execute and orchestrate business processes. Copilot is how one interacts with these agents, which will take care of routine, low-value tasks. Microsoft additionally unveiled ten new agents within Microsoft Dynamics 365, which will especially help teams in sales, finance, and supply chain.
+
+“We are committed to supporting Italy’s AI transformation and ensuring it benefits everyone,” said Satya Nadella, Chairman and CEO, Microsoft. “The investments we made earlier this month in cloud and AI infrastructure, along with AI skilling, will help ensure broad access to the technology needed for Italy’s people and economy to thrive in this AI era, and it is great to see how so many Italian organizations across every industry are already using our AI platforms and tools to innovate.”
+
+Italy as a strategic hub for Europe, the Mediterranean, and North Africa in the spread of AI innovation
+
+Microsoft’s AI Tour in Italy coincides with the company’s newly announced major investment in Italy – €4.3 billion over the next two years – to expand its hyperscale cloud data center and artificial intelligence infrastructure aimed at helping the country maximize AI opportunities. The investment also includes providing digital skills training to more than 1 million Italians by the end of 2025. As a result of this investment, the Italian Cloud Region will become one of Microsoft’s largest data center regions in Europe and will play a crucial role as a hub not only for Italy but also for the Mediterranean and North Africa.
+
+AI is an unprecedented opportunity for transformation and economic growth for Italy: a recent study developed by Microsoft and TEHA group found that a pervasive adoption of generative AI could increase Italy’s annual GDP by up to €312 billion over the next 15 years, or 18.2%. SMEs in particular could benefit from an increase of €122 billion in added value. According to the study, Italian companies are also experiencing tangible productivity gains thanks to generative AI. Today, 47% of companies using artificial intelligence solutions report a productivity increase of over 5%, while 74% have seen a productivity increase of over 1%. – a significant rate, considering that Italy’s overall productivity growth over the past twenty years has been +1.6%.
+
+Italian companies are showing their interest and commitment to AI. The TEHA research highlights that all companies surveyed have already adopted or plan to adopt generative AI solutions in the near future (vs. 78% last year), highlighting the growing importance of this technology in the Italian business landscape.
+
+Digital AI innovation in Italian organizations
+
+During his visit, Satya Nadella met some of the organizations leading AI adoption in Italy and reaping the most benefits in terms of growth, productivity and new services. He highlighted how local organizations in different industries through strategic partnerships are innovating in key public and private sectors for the country, such as manufacturing, healthcare, public administration, and Made-in-Italy.
+
+“Italian businesses are adopting Microsoft AI technologies to foster growth”, said Vincenzo Esposito, General Manager Microsoft Italy. “Through our initiative AI Lab and our partner ecosystem across the country, we support a wide range of public and private organizations to use AI technologies to drive innovation and enhance productivity, whilst promoting AI skilling.”
+
+Among the innovation stories presented today during the AI Tour by Microsoft CEO Satya Nadella:
+
+Brembo develops ALCHEMIX, the AI solution to accelerate braking system innovation
+
+Brembo, a global leader in the design and production of high-performance braking solutions for top manufacturers of cars, motorbikes and commercial vehicles, leveraged Microsoft’s Azure OpenAI to develop ALCHEMIX, a solution to generate innovative compounds for its brake pads. By incorporating AI technology in its R&D, Brembo drastically reduced the development time of new compounds from days to mere minutes. ALCHEMIX also enables the exploration of unconventional development paths, swiftly identifies potential errors, and continuously improves braking material recipes. This allows for a shorter time-to-market for new innovations, giving Brembo a significant competitive edge. By embracing AI technology, leveraging on the Brembo Inspiration Lab located in Silicon Valley, Brembo has accelerated its transformative journey towards a fully digitalized R&D process. This shift fosters seamless collaboration between human expertise and artificial intelligence.”
+
+Campari Group adopts Microsoft 365 Copilot: innovation and productivity
+
+Campari Group, a major player in the global spirits industry, adopted generative AI solutions as part of their digital transformation journey to the Modern Workplace. In September 2023, Campari Group adopted Microsoft 365 Copilot as part of their Early Access Program, aimed at leveraging the potential of generative AI to create a competitive advantage. A well-structured employee program based on a training plan, gradual implementation starting from a group of “champions,” workshops to learn prompting techniques, and internal hackathons to get teams to familiarize themselves with the new technology, led to the whole of Campari Group gradually adopting Copilot, registering benefits and advantages on the way. Employees who integrated it into their workflow report time savings of about 2 hours per week, and actual support with routine activities such as email management, meeting preparation, as well as support for content creation and skill acquisition.
+
+iGenius: the collaboration with Microsoft to bring Crystal to companies in regulated sectors
+
+Since 2016, iGenius has been committed to democratizing access to business knowledge through artificial intelligence. Crystal, iGenius’ flagship product, was created to meet this goal, positioning itself as a decision intelligence platform for mission-critical use cases in companies within highly regulated sectors. The evolution of Crystal today integrates the most advanced progress in language models, reaching state-of-the-art in conversational AI. Intuitive, easy to use and powerful, the new version of Crystal allows people to interact with their data as if they were talking to their team. The collaboration between iGenius and Microsoft Italia was born with the aim of offering artificial intelligence solutions applied to decision intelligence for companies in regulated sectors and their teams. In addition to adding Crystal to the Microsoft marketplace, joint go-to-market initiatives have been launched, increasing the platform’s visibility and strengthening its market positioning, favoring its globaln scalability.
+
+Roma Capitale presents Julia, the AI guide to discover Rome’s hidden gems
+
+Microsoft announced a collaboration with Roma Capitale (Municipality of Rome) to develop Julia, the AI-based virtual assistant that will help the over 35 million visitors expected in the Italian capital for the upcoming Jubilee. Soon available, Julia is a virtual guide to the city of Rome, based on AI, accessible via WhatsApp, on the web, and throughout 2025 on all main messaging channels. Users can ask in natural language about visits to cultural heritage sites, city routes, as well as suggestions on accommodations and restaurants to taste typical Roman and Italian cuisine. Working with Microsoft and NTT DATA, a global provider of business and technology services, and Intellera, a consulting company of the Accenture Group, the city of Rome hopes Julia will create a quiet revolution in how visitors experience it. By equipping travelers with a trusted guide, the city wants to enrich their experiences beyond the typical tourist circuit, all the while easing congestion around the most popular sites. Julia leverages Azure OpenAI and GPT-4o technology to collect, process, and make a wide range of data about the city accessible: information and tips on hotels, restaurants, transportation, cultural heritage, and recreational activities. The project aims to improve urban management, territorial planning and public services, as well as to address the challenge of overtourism, a phenomenon that is increasingly frequent and has a high impact on Italian art cities. Julia was also developed thanks to the cooperation with institutions and private entities in the tourism, mobility, and culture sectors, with which a business model has been initiated that provides for the exchange of data and services and the implementation of a GDPR-complaint regulatory model.
+
+Università Vita-Salute develops an AI-based platform to accelerate clinical research and precision medicine
+
+Università Vita-Salute San Raffaele (UniSR) and IRCCS Ospedale San Raffaele (Gruppo San Donato) leverage AI to assist 1.5 million people every year. Thanks to the innovation project launched with Microsoft, San Raffaele has developed a cloud-based platform powered by AI, Machine Learning, and Generative AI to transform clinical research and accelerate precision medicine. Accurate predictive models and generative AI tools integrated into a privacy-compliant solution allow for easy analysis of complex real-world data to obtain useful insights and improve decision-making and the work of doctors, automating low-value activities to focus on what really matters: research, diagnosis, and treatment. Within a broader set of Microsoft technologies, generative AI simplifies data anonymization, the combination of texts and images for diagnostics, report automation, and bibliographic searches. Microsoft Copilot is also strategic in helping researchers provide information on the study model and assisting doctors in analyzing patient history to offer a more personalized therapeutic approach. The platform is currently supporting clinical studies on the treatment of various forms of cancer, diabetes, and cardiovascular diseases, helping the medical team to assess risk and predict patients’ response to treatment.
+
+Among other stories presented on stage at the Microsoft AI Tour in Rome:
+
+Ferrero creates Let’s Story, a platform to develop personalized fairy tales with generative AI
+
+Ferrero Group, particularly its Kinder brand, is leveraging Microsoft Azure OpenAI to create a new experience for families. The company is preparing to launch Let’s Story, a new e-book platform accessible through the Applaydu app, where families can personalize their stories or rediscover classic tales. By choosing from a range of variables – including character, setting, plot, and theme – children can learn the key ingredients of storytelling and see their stories come to life. Thanks to Microsoft’s cutting-edge technologies, Let’s Story allows the generation of more than 40,000 different stories, combining text, audio, and illustrations. The stories are available in 15 languages, making the platform widely accessible and supporting learning. To create Let’s Story, Ferrero has brought together top experts from the technology, education, and gaming sectors: Microsoft’s advanced technologies, researchers from the University of Oxford’s Department of Education, and Gameloft’s expertise in providing a fun and engaging experience.
+
+Among the organizations telling their AI-based digital innovation journeys, the AI Tour also featured illimity, INPS, Lavazza, RINA and Unipol.

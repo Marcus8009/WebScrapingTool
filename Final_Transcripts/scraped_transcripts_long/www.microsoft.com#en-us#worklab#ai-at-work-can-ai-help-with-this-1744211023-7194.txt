@@ -1,0 +1,58 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-at-work-can-ai-help-with-this
+Source: microsoft.com/worklab
+Total Word Count: 956
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 953
+
+Three steps to develop an AI-first mindset—and future-proof your organization.
+
+In my series on AI-native organizations, Part 1 uncovered the core principles of AI natives, Part 2 zoomed in on one business in detail, and now, in Part 3, let’s look at how every company can start using these insights.
+
+Savvy startups are weaving AI into every new process and practice. But let’s face it: Unlike these AI-native organizations, most companies aren’t building everything from scratch. They have legacy processes, work habits, and business methods. Their fundamental challenge is reinvention.
+
+So what can existing companies learn from AI natives? It’s about developing an AI-native mindset, always looking out for how AI might solve challenges or open new possibilities. Every company can become what I like to think of as AI-first (even global corporations like Microsoft). Here’s how to get started.
+
+Step one: Identify your challenges
+
+What AI natives do: In our conversations with AI-native leaders, we frequently heard the same advice. Whenever they face a challenge or introduce a new task, they start by asking themselves, “Can AI help with this?” Can AI draw up HR policies? Train the sales team? Help get our product on the market faster?
+
+What you can do: Take inspiration from that simple question, “Can AI help with this?” You’re probably not creating as many net-new processes as AI natives do, but you can evaluate existing ones. Consider your challenges. Ask yourself, what single improvement would have the most profound effect on my business? And how can AI help?
+
+If you’re in finance, identify your pain points in processes like planning and analysis, and risk management and compliance. In customer service, look at tasks like issue diagnosis and problem resolution. (You can lean on our scenario library to help you get started.)
+
+For the pain points you uncover, look for two factors. Where does AI have high potential for measurable business impact? And where is it easiest to implement? A good place to begin is where those two opportunities intersect.
+
+Step two: Apply AI to your processes
+
+What AI natives do: AI natives are always trying new processes, even in traditional industries. We spoke to a French croissant shop that uses AI to streamline the baking process, source coffee from roasters, and amplify its social media presence. A legal services startup offers a free AI assistant that answers users’ questions, reviews documents, and drafts contracts, then connects them with local lawyers if needed.
+
+What you can do: Once you’ve identified your business challenges, experiment with AI-first fixes. You might ask employees to use AI to simplify a content creation process, deploy AI agents to handle repetitive tasks, or both.
+
+At Microsoft we’re not just partnering with customers on their AI transformation—we’re transforming our own work, across every function and every process. And we’re seeing big results. In sales, when we used Copilot to increase the pipeline and deal velocity and improve conversion rates, one business group saw a 9.4 percent increase in revenue per seller.1 A team within our customer service group is using Copilot to resolve cases nearly 12 percent faster.2
+
+This kind of AI experimentation is rippling across companies worldwide. At multinational telecommunications company Vodafone, an early study revealed that Copilot could save users, on average, four hours a week per person. As Hazel Butler, Legal and Business Integrity Team at Vodafone, noted recently, “We review a lot of contracts. Microsoft 365 Copilot has helped us to review those documents more quickly. This has helped us to provide more accurate and speedy contract reviews and turnaround times.” Vodafone expects this impact to increase as colleagues become more comfortable using the tool, and they’re going big—rolling it out to more than 68,000 employees.
+
+Step three: Measure your progress
+
+What AI natives do: AI natives don’t just use AI, they measure how well it’s working. An AI-native creative agency we talked to reduced the time to produce a major campaign by more than half, from nine months to four.
+
+What you can do: Consider how your new AI-infused processes influence KPIs or other metrics. In information technology, that means looking at product adoption rates or support ticket resolution time. Marketing teams can measure lead conversion rates, cost per lead, and revenue from leads. Knowing what works helps you plan your next steps.
+
+Consulting firm McKinsey & Company is creating an agent to speed up the client onboarding process. The pilot showed that lead time could be reduced by 90 percent and administrative work by 30 percent. The agent automates complex processes, such as identifying the right expert capabilities and staffing teams, and acts as a single place where colleagues can ask questions and request follow-ups. Streamlining tasks and reducing manual inputs, this agent could potentially save consultants many hours, allowing them to spend more time with clients.
+
+Summing things up 
+Making organizational gains with AI requires reimagining processes honed over years, often decades, and taking the first step can feel daunting. I tell customers: Start by finding a business problem and use AI to tackle it. Over time you’ll develop the organizational practice of asking, “Can AI help with this?” That’s what AI-native organizations do, and that’s the key to an AI-first mindset.
+
+1 Internal Microsoft sales team data based on 687 sellers of Microsoft 365 Copilot from Jan. - June 2024, as compared with sellers with low usage of Copilot. Regular usage of Copilot means sellers who use Copilot daily at least 50% of the time during the testing period.
+
+2 Internal CSS experiment conducted by Microsoft; 600 participants using Copilot Q&A function, Azure Core team; Nov. - Dec. 2023. These results are statistically significant at the 95th percent confidence interval.
+
+By the Numbers
+
+AI at Work

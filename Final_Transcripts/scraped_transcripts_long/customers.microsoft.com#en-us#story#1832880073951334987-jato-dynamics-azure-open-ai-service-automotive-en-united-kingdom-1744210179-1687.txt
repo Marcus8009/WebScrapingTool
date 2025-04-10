@@ -1,0 +1,55 @@
+URL: https://customers.microsoft.com/en-us/story/1832880073951334987-jato-dynamics-azure-open-ai-service-automotive-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 884
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 881
+
+To further support customers, JATO Dynamics wanted to create a reporting tool to offer car dealerships insights into their own performance compared to the market, including metrics like sales price, discount rates, and feature popularity.
+
+JATO used the full Microsoft Azure stack, especially Azure OpenAI Service, to develop Sales Link.
+
+Sales Link is helping dealerships increase customer engagement with detailed and insightful content, including premium cost options. With automated content generation, dealerships are saving approximately 32 hours each month.
+
+Operating in more than 50 countries, JATO Dynamics collects data on car sales and trends to give customers a market view of the automotive industry. With this data, the UK-based company delivers market research and business intelligence to car dealerships so they can make informed decisions about inventory, customer experiences, and promotions.
+
+To further support customers, JATO Dynamics wanted to create a reporting tool to offer dealerships insights into their own performance compared to the market, including metrics like sales price, discount rates, and feature popularity.
+
+“Sales Link started as an insight-based product, but we wanted to help customers understand their competitive landscape to make more informed decisions, save time, and reduce costs, and create marketing content using their own sales data and market insights,” says Matt Crow, Senior Product Manager at JATO Dynamics. “With AI, we felt we could create a tool to revolutionize automotive sales.”
+
+JATO is primarily a Microsoft development house, so we were confident working with Microsoft on this project.
+
+Derek Varner, Head of Software Engineering, JATO Dynamics
+
+Derek Varner, Head of Software Engineering at JATO Dynamics, says that with Microsoft leadership in generative AI and its robust platform for building intelligent applications, JATO Dynamics knew it could realize its vision. “JATO is primarily a Microsoft development house, so we were confident working with Microsoft on this project,” says Varner.
+
+JATO Dynamics chose to use Microsoft Azure AI, specifically Azure OpenAI Service, to develop Sales Link. “Azure OpenAI Service powers the AI-driven content generator, helping dealerships to quickly produce tailored content by combining market data and vehicle information,” says Varner. This integration allows dealers to create diverse types of content, including website articles, social media posts, and email newsletters, all customized to their specific needs. “Data processed through Azure OpenAI Service remains within Azure. This is critical for maintaining the privacy and security of dealer data and the trust of their customers,” explains Varner.
+
+In addition to Azure OpenAI, JATO Dynamics used Azure Cosmos DB to manage and store the data from millions of transactions across over 55 car brands. The database service also empowers scalability and quick access to vehicle and dealer transaction data, providing a reliable foundation for Sales Link. Azure SQL Database complements this by supporting efficient querying of transactional data, while Azure Data Factory pipelines facilitate seamless data movement. The Sales Link application is hosted on Azure App Service and Azure Functions, offering a scalable and flexible environment for deployment and management. Additionally, Azure AI Search indexes data from Azure Cosmos DB, helping ensure quick and efficient access by downstream systems. Within the Azure ecosystem, Sales Link can handle varying loads and provide a smooth user experience.
+
+“Azure data analytics also plays a crucial role in Sales Link, processing and analyzing vast amounts of market and sales data,” says Paul Hilton, Head of Retail at JATO Dynamics. “This provides dealerships with actionable insights into market trends, pricing strategies, and vehicle performance, empowering them to make informed decisions and stay competitive.”
+
+In addition, JATO Dynamics used Microsoft Dynamics CRM to manage customer data and permissions, so user interactions are tracked and managed effectively. “Our comprehensive use of Microsoft technologies streamlines operations and enhances the overall functionality and efficiency of Sales Link, making it an indispensable tool for modern dealerships,” adds Hilton.
+
+Data processed through Azure OpenAI Service remains within Azure. This is critical for maintaining the privacy and security of dealer data and the trust of their customers
+
+Derek Varner, Head of Software Engineering, JATO Dynamics
+
+Sales Link is helping dealerships enhance vehicle appeal and customer engagement by providing detailed and insightful content, including premium cost options. By automating content generation, Crow says, dealerships are saving approximately 32 hours each month, allowing them to allocate resources more efficiently. “Its ability to seamlessly integrate with existing dealer management systems and websites makes it easy to learn and use,” says Crow.
+
+Varner agrees. “Sales Link is live in five countries, supporting multiple languages. This demonstrates its scalability and adaptability to different markets.” And with the future-proofing aspect of Azure architecture, Hilton says, “We know we can continue to expand Sales Link AI capabilities and integrate it with other applications and services. The possibilities are limitless.”
+
+Varner agrees. “Sales Link is live in five countries, supporting multiple languages. This demonstrates its scalability and adaptability to different markets.” And with the future-proofing aspect of Azure architecture, Hilton says, “We know we can continue to expand Sales Link AI capabilities and integrate it with other applications and services. The possibilities are limitless.”
+
+Discover more about JATO Dynamics on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.
+
+Azure data analytics also plays a crucial role in Sales Link, processing and analyzing vast amounts of market and sales data
+
+Paul Hilton, Head of Retail, JATO Dynamics
+
+With Sales Link, dealerships save around 32 hrs/mo.

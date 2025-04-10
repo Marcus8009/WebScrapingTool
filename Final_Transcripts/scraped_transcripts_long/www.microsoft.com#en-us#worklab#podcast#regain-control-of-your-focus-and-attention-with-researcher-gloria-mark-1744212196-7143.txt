@@ -1,0 +1,47 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/regain-control-of-your-focus-and-attention-with-researcher-gloria-mark
+Source: microsoft.com/worklab/podcast
+Total Word Count: 748
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 93
+
+ELISE HU: This is WorkLab , the podcast from Microsoft. I’m your host, Elise Hu. On WorkLab , I hear from leading thinkers on the future of work. Economists, designers, psychologists, technologists all share surprising data and explore the trends transforming the way we work. 
+GLORIA MARK: The digital age puts us in contact with information faster than we’ve ever experienced before. Every year there are more sources of distraction for us. There’s all kinds of new sites, we have basic human curiosity, we have the world at our fingertips.
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 655
+
+Podcast
+
+The author and professor offers science-based tips for work wellbeing—and a glimpse at how AI might help
+
+WorkLab Guest Gloria Mark
+
+April 6, 2023
+
+Our attention spans are getting shorter—much shorter—and Gloria Mark has the data to back it up. When she began researching the topic in 2004, people spent an average of two and a half minutes on any given screen before switching to another. In today’s era of multitasking, scrolling, and rabbit holes, we’re down to a mere 47 seconds.
+
+Mark, a professor of informatics at the University of California, Irvine, and a visiting researcher at Microsoft since 2012, is the author of the new book Attention Span: A Groundbreaking Way to Restore Balance, Happiness and Productivity. An expert on distraction and multitasking, Mark joined Microsoft’s WorkLab podcast to share research-backed tips on how to regain control of your attention and help your teams do the same. And she also offers a glimpse at how AI might help with work wellbeing too—perhaps in the future, AI will sense when our mental resources are dwindling and suggest the right kind of break to restore our balance.
+
+What can people do now to overcome distraction? Mark has three research-based tips:
+
+Get curious: Embrace what Mark calls “meta-awareness.” It “means being aware of what you’re doing as it’s unfolding,” she says. “We might switch screens to look at social media, and that’s an automatic action. I see my phone and I might grab it. That’s automatic. If we can raise them to our conscious awareness, then we can be intentional in our behaviors.” Once you’re aware, you can probe why exactly you’re checking social media for the third time in 15 minutes. You might just need a break.
+
+Picture your future self: Mark encourages people to practice forethought, or imagining how your current action is going to help your future self. Say you have the urge to check the news at work, but you know that once you start scrolling it’s hard to stop. Visualize how your decision will affect you later on that evening. “Am I going to be relaxing on the couch feeling fulfilled because I completed what I planned to?” Mark asks. “Or am I going to still be working on that overdue report?”
+
+Design your day: Plan to do the work that requires the most thought and creativity at the time of day when you’re at your best. And don’t forget breaks. Mark mentions a Japanese expression, yohaku no bi , which refers to the beauty of empty space. “We should try to design empty space into our day,” she says. “It’s time when you can pull back from work, time for contemplation, meditation. It’s time when you can take a walk. It’s time for you to replenish your mental resources.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the episode 2 conversation.
+
+ELISE HU: This is WorkLab , the podcast from Microsoft. I’m your host, Elise Hu. On WorkLab , I hear from leading thinkers on the future of work. Economists, designers, psychologists, technologists all share surprising data and explore the trends transforming the way we work.
+
+GLORIA MARK: The digital age puts us in contact with information faster than we’ve ever experienced before. Every year there are more sources of distraction for us. There’s all kinds of new sites, we have basic human curiosity, we have the world at our fingertips.
+
+What leaders must do to harness the full potential of the coming AI revolution
+
+With a little self-work, examining our past mistakes can transform and empower our future

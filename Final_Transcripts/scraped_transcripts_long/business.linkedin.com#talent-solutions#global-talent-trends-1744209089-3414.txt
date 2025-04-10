@@ -1,0 +1,126 @@
+URL: https://business.linkedin.com/talent-solutions/global-talent-trends
+Source: business.linkedin.com
+Total Word Count: 1299
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1296
+
+October 2024
+
+Global Talent Trends
+
+Data-driven insights into the changing world of work
+
+Over the past 12 months, talent leaders have tackled one big challenge after another, even as those challenges often pulled them in opposite directions. Remote work and return to office. Hiring surges and headcount reductions. Developing AI-specific skills and prioritizing innately human skills.
+
+As far-ranging as those issues are, they all point to the key to success in the emerging world of AI: a company's people.
+
+“As experts in human potential and change management, talent leaders are uniquely positioned to help their organizations unlock human capability in this AI era of work. Just as you'd upgrade your tech stack, you'll need to upgrade your talent playbooks to stay ahead and unleash all that's possible.”
+
+Teuila Hanson
+LinkedIn senior vice president and chief people officer
+
+In this report, we surface data insights from LinkedIn's Economic Graph, the LinkedIn Executive Confidence Index survey, and our global member community of over a billion professionals to understand how the world of talent is shifting with the arrival and proliferation of generative AI (GAI).
+
+The Labor Market
+
+Generative AI
+
+Hiring
+
+Learning and Development
+
+Year-over-year hiring rates are stabilizing, with a moderation in the hiring slowdown.
+
+While hiring rates across most industries are down, the tech industry is recovering from a hiring slowdown and is even up in several countries relative to last year. Four industries that remain stable amid a general downturn are utilities, government, education, and consumer services.
+
+* = Seasonally adjusted.
+
+The LinkedIn Hiring Rate (LHR) is the number of LinkedIn members who added a new employer to their profile in the same month the new job began, divided by the total number of LinkedIn members in that country. By only analyzing the timeliest data, we can make month-to-month comparisons and account for any potential lags in members updating their profiles.
+
+Internal mobility has increased 6% year-over-year.
+
+“Internal mobility” is defined as any point in which an employee took a new position at the same company and includes both lateral moves and promotions. Companies with fewer than 100 transitions were excluded.
+
+What LinkedIn chief economist Karin Kimbrough says to talent leaders:
+
+Hiring in most countries and most industries is still down year-over-year, but this slowdown has begun to show signs of moderation and even stabilization in some sectors like the technology, information, and media industry. LinkedIn data showing increasing internal mobility is encouraging and shows that companies are discovering how leveraging internal hiring can accelerate organizational agility, employee engagement and retention, and career development.
+
+Back to top ↑
+
+About 8 in 10 global executives see at least one way GAI will help their employees.
+
+reduce time spent on mundane but necessary job tasks
+
+increase productivity
+
+free up employees’ time for strategic and creative thinking
+
+Most companies haven’t yet fully embraced GAI, creating a significant opportunity for those who move quickly to get on board.
+
+“Global executive” is defined as a VP+ level LinkedIn member who completed the ECI survey in one of the following 11 countries: U.S., U.K., India, Canada, Australia, Germany, Italy, France, Spain, Netherlands, Brazil; percentages vary by country.
+
+What LinkedIn chief economic opportunity officer Aneesh Raman says to talent leaders:
+
+Most organizations are curious and excited about AI’s potential but are stuck on how to make that potential a reality in the day-to-day of work. The talent innovators I’ve spoken with have one thing in common: They are bringing a human-centric view to AI and believe in the power of people more than the power of tech alone. Those pioneers know that for AI adoption to be effective, talent leaders need to be involved at every stage of the planning, bringing their change management skills to bear at every step. The organizations that get that will be the organizations that succeed most in this new era, because in this era it'll all come down to who has the best talent, not simply the best tech.
+
+Back to top ↑
+
+About 8 out of 10 global executives plan to hire next year.
+
+Explore what executives in other countries say
+
+“Global executive” is defined as a VP+ level LinkedIn member who completed the ECI survey in one of the following 11 countries: U.S., U.K., India, Canada, Australia, Germany, Italy, France, Spain, Netherlands, Brazil; percentages vary by country.
+
+What LinkedIn VP and head of global talent acquisition Erin Scruggs says to talent leaders:
+
+AI has the potential to lead to major shifts in how we hire and who we hire. As AI increasingly takes on the less complex, more repeatable tasks being done by the workforce, companies will need to hire talent who have broader, uniquely human skills. We’re seeing increasing demand for skills like problem-solving, adaptability, and collaboration — skills that spur organizational agility. More and more, TA teams that are looking to hire quality talent faster should consistently scour their current employee base as a source of hire, alongside potential external talent.
+
+Back to top ↑
+
+Adopting AI is not just about productivity. It’s also about enhancing human capabilities to create a more innovative workforce.
+
+Employees skilled at using GAI are 5x more likely than others to develop skills like creative ideation, design thinking, and emotional intelligence.
+
+Companies that have more employees skilled at using GAI also see a 4x higher leadership promotion rate and 5x higher overall promotion rate compared to companies with fewer such employees.
+
+Employees skilled at using GAI are measured by members who have added at least one GAI skill, such as ChatGPT, to their LinkedIn profiles. Overall promotion rate is measured using the median ratio of total promotions by total average headcount, and leadership promotion rate is measured using the median ratio of total managerial level promotions by total average headcount, both in the last 12 months. Only full-time employees are considered in companies with more than 100 employees.
+
+The likelihood of developing a soft skill is determined by dividing the proportion of GAI skilled members who upskilled by the proportion of non-GAI skilled members who upskilled a given soft skill in the last 12 months.
+
+What LinkedIn senior director of talent development Stephanie Conway says to talent leaders:
+
+Creating readiness for AI adoption requires companies to take a systemic approach. Providing opportunities to apply gen AI in the flow of work (the what) needs to be combined with a focus on human skill development, in particular growth mindset, innovation, and resilience (the how). Underpinned by a culture of continuous learning, from new hires to senior executives (the who), “learning to learn” will become a critical skill for organizations as they develop talent that can adapt to the fast-evolving workplace. I encourage talent leaders to be early adopters by experimenting with this new technology, integrating it into learning experiences, and exploring how AI tools can scale learning across their organizations.
+
+Back to top ↑
+
+Companies that embrace GAI by securing the right tools, applying them intelligently, and supporting their teams in learning how to best use them will reap a windfall in increased engagement and productivity. 
+
+Even as workforces become more GAI savvy, they will simultaneously need to sharpen their particularly human skills — think problem-solving, communication, creativity, and compassion. LinkedIn will be here each step of the way, with timely thought leadership, unique data insights, and innovative tools to help organizations thrive.
+
+Explore the translated Global Talent Trends
+
+Japanese | Chinese | LATAM - Spanish | LATAM - Portuguese | Italian
+
+Explore the regional Talent Trends
+
+Australia | India | Southeast Asia | Germany | The Netherlands | United Kingdom | France
+
+Questions? Comments? Feedback? Feel free to reach out to the report lead, Tanya Oei.
+
+Visit our Talent Blog and follow us on LinkedIn for more talent trends and insights.
+
+Products
+
+Solutions
+
+Resources
+
+Customers
+
+More Footer Options

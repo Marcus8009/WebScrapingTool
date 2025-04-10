@@ -1,0 +1,39 @@
+URL: https://www.microsoft.com/en-us/worklab/how-ai-gives-you-data-synthesis-superpowers
+Source: microsoft.com/worklab
+Total Word Count: 601
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 598
+
+And helps you find the needle in the data haystack
+
+This article first appeared in the WorkLab newsletter. Be the first to get our updates by subscribing here.
+
+We’re all living in a data haystack. You’ve got files on your OneDrive—some organized, some dumped in a heap in your documents. Files on your corporate server—some properly named and categorized, some not. Somewhere among your calendar, emails, chats, documents, meetings, and contacts is a needle—the sliver of insight you need now.
+
+Think of Microsoft 365 Copilot as a magnet. One of the most powerful aspects of Copilot is its ability to search across the web and all of the information you have access to—your organization’s data as well as your own—and pull out just the data and info you need in a secure, compliant, and privacy-preserving way. According to findings from the earliest Copilot users, people overwhelmingly use AI to help them find what they need amid all that data.
+
+Copilot will also marshal those needles for you. Ask it to look at three different documents and identify common themes, and it will surface those themes, summarize them (if you like), and deliver them as a table, combing through data from your emails, documents, and the web to deliver organized, useful, and actionable material.
+
+Or ask it to explain hard-to-parse company concepts. Say your company has recently introduced a new type of technology. To pick a non-random example: In May, Microsoft announced Semantic Index for Copilot, a powerful new capability, but one that can be difficult for non-technical people to wrap their heads around quickly. Let’s say you didn’t work on the project and needed to get up to speed fast. Ask Copilot: “I need to explain Semantic Index to a CEO. I need to include an explanation of what it is, how it works, and a value proposition associated with it. Create a script I could use. Also include an analogy that can help a non-technical person understand it.”
+
+Copilot’s response:
+
+Semantic Index for Copilot uses a technique that allows computers to understand the actual meaning of sentences, documents, and meetings, and identifies related concepts to your query or sample content. It works by analyzing the relationships between words and concepts, and then representing that information in a way that can be easily searched and retrieved. The value proposition of Semantic Index for Copilot is that it interprets your search queries to produce sophisticated, meaningful, and multilingual responses that help you to be more productive.
+
+An analogy that can help a non-technical person understand Semantic Index is to think of it as a librarian organizing books in a library. Instead of simply arranging books by their titles or authors, the librarian uses their knowledge of the books’ contents to group them by subject matter and themes. This makes it easier for library patrons to find the books they need, even if they don't know the exact title or author. Similarly, Semantic Index helps computers understand the meaning of data, so they can provide more accurate and relevant search results.
+
+It takes time to find, ingest, analyze, and synthesize multiple documents, time that could be better spent on higher-level work—the work that’s rewarding, strategic, and creative. And when enough people in an organization can quickly and easily find those needles in the digital haystack, just imagine the rich fabric they’ll be able to sew together.
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+First person
+
+Work Trend Index Annual Report

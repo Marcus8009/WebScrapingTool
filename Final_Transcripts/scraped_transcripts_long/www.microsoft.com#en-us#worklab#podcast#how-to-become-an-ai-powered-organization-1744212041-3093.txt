@@ -1,0 +1,49 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/how-to-become-an-ai-powered-organization
+Source: microsoft.com/worklab/podcast
+Total Word Count: 512
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 509
+
+Podcast
+
+Join host Molly Wood for hard data, real-world lessons, and actionable insights on the future of work.
+
+WorkLab Podcast Host Molly Wood
+
+February 21, 2024
+
+The year 2024 will be remembered as the moment when AI-powered organizations shifted into overdrive.
+
+As business leaders tap the full potential of this transformative technology, they are grappling with important new questions. Like, what’s the best way to implement smart AI policies across my organization? How will AI transform the way my company hires and trains people? How will it help me cross all sorts of items off of my to-do lists, and change the way I manage email and meetings? Most importantly, what is the smartest way to make use of all the time that AI can save me?
+
+In the new season of the WorkLab podcast from Microsoft, we bring you answers to these vital questions.
+
+The show is hosted by Molly Wood, who has spent more than two decades reporting on the innovations revolutionizing technology and business for CNET/CBS, the New York Times, Marketplace, WIRED, and The Atlantic. Last season, she explored the future of work with thought leaders like futurist Amy Webb, Microsoft Chief Scientific Officer Eric Horvitz, Harvard Business School’s Christina Wallace, and LinkedIn vice president Aneesh Raman.
+
+This season she’ll talk with more experts, bringing you the hard data, real-world lessons, and actionable insights you need to ensure that your organization thrives.
+
+New episodes of the WorkLab podcast will be available starting on February 28. You can follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the Season 6 trailer.
+
+Hey there, I’m Molly Wood. I’m the host of WorkLab, a Microsoft podcast for business leaders, which will soon be back with a new season.
+
+WorkLab is, in a nutshell, your unfair advantage for getting ahead in our new world of work—meaning everything from productivity hacks to leadership insights to, oh yeah, AI.
+
+This season we’re helping leaders prepare for the way AI is fundamentally transforming jobs, organizations, entire industries, the whole economy. We bring top experts, hard data, and actionable insights to answer the questions that are keeping you up at night.
+
+Like, how will I need to reinvent processes in this AI era, from customer service to sales, to HR? If AI really does rescue organizations from mundane tasks and busy work, what’s the best way to use the time we get back?
+
+How will AI transform my company in the next few months, let alone the next few years, and how am I supposed to even prepare for that? Don’t panic—we got you.
+
+Season 6 launches on February 28. I cannot wait to see what we uncover, and I really hope you’ll join me.
+
+The bestselling author of Hooked explains how AI can help you form good habits to regain focus and learn on the job.
+
+Business strategist Erica Keswin explains the need for more humanity in the workplace—not in spite of generative AI, but because of it. Plus, a new framework for employee retention.

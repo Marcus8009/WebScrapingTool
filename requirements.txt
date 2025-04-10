@@ -1,0 +1,17 @@
+# Core dependencies
+urllib3>=2.0.0
+requests>=2.31.0
+
+# Playwright dependencies
+playwright>=1.40.0
+asyncio>=3.4.3
+
+# Selenium dependencies
+selenium>=4.15.0
+webdriver-manager>=4.0.1
+
+# Utilities
+tqdm>=4.66.1
+colorama>=0.4.6
+
+undetected-chromedriver

@@ -1,0 +1,45 @@
+URL: https://www.microsoft.com/en-us/worklab/how-copilot-turns-everyone-into-a-manager
+Source: microsoft.com/worklab
+Total Word Count: 421
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 418
+
+More-senior employees have a better experience using Copilot than their early-in-career co-workers. Here’s why
+
+This article first appeared in the WorkLab newsletter. Be the first to get our updates by subscribing here.
+
+Earlier this year, we launched an early access program for Microsoft 365 Copilot. In the months since, tens of thousands of people have started using it as a regular part of their workday. And we’ve learned something surprising: more experienced people managers are having an easier time adapting to the new technology than their less experienced counterparts.
+
+That’s not what we expected. As Jared Spataro, Microsoft’s Corporate Vice President of Modern Work & Business Applications recently pointed out, we assumed that younger digital natives would take more readily to a new way of working. But it turns out that Copilot transforms everyone into a manager—and those skills are essential to getting the full value of the technology.
+
+Sure, Copilot automates some of the more routine, mundane aspects of work, finding that deck your co-worker shared in that meeting the other day. Where users are finding the most value, though, is assigning Copilot more complex and nuanced tasks, like writing an email from scratch in a tone that’s tailored to a specific audience, or analyzing a dataset and suggesting an appropriate visualization format.
+
+In that sense, Copilot has capabilities akin to those of a very well-qualified but early-in-career employee. To tap into its full potential, you need the skills that most people develop as they grow into roles where they direct the work of others. You need to think like a manager.
+
+Those skills include:
+
+Breaking down work into smaller pieces
+
+Assigning work in a way that clearly defines expectations and provides the necessary context and parameters
+
+Evaluating the work that comes in, reviewing it, and offering feedback
+
+Effectively moving forward with decisions and deliverables
+
+Senior leaders are typically more well-versed in these management techniques than early-in-career employees, which means that getting your organization ready for generative AI isn’t about developing your employees’ technology skills. It’s about developing your employees’ people skills—foundational leadership and management capabilities.
+
+Train them, offer them how-to guides, and, crucially, give them opportunities to lead, whether formally or informally. That’s going to be essential in this new era—and organizations that get their employees ready will be the ones that reap the benefits.
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+Peak Potential
+
+Instant Insights

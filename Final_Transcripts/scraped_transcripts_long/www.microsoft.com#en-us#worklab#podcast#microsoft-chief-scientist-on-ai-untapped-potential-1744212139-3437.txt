@@ -1,0 +1,45 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/microsoft-chief-scientist-on-ai-untapped-potential
+Source: microsoft.com/worklab/podcast
+Total Word Count: 913
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 186
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age. Today I’m talking to Jaime Teevan, Chief Scientist and Technical Fellow at Microsoft. She has been named one of Time’s AI 100 and is widely viewed as one of the best articulators of the possibilities that AI can unlock for business. Many of her colleagues at Microsoft say that they see her as the “why it matters” person. And I was thrilled to talk to her about how the company is integrating decades of research and expertise on productivity into the features of Copilot. In this episode, we discuss how AI is changing the way we collaborate, how using it tasks different parts of your brain than other elements of work, and how you can use AI to help formulate better prompts that unlock the full potential of the technology. Here’s my conversation. 
+MOLLY WOOD: Jaime, thanks so much for joining me. 
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 727
+
+Podcast
+
+Jaime Teevan shares research insights and advice on how leaders can get the most out of AI.
+
+Worklab Guest Jaime Teevan
+
+November 19, 2024
+
+Jaime Teevan became Microsoft’s first chief scientist in 2018. Her decades of experience in researching productivity and collaboration were invaluable when the pandemic changed how and where we work, and they’re equally vital as we navigate the new AI era of work. In 2023, Time declared her one of the top 100 people impacting the future of AI. 
+ 
+In this episode of the Worklab podcast, host Molly Wood talks to Teevan about key insights from her research. They also discuss how conversations will become increasingly important as we level up our AI skills, and how leaders can challenge themselves and their teams to think more creatively about unlocking the full potential of the technology.
+
+Three big takeaways from the conversation:
+
+Don’t know what to ask AI? Ask it for help. Teevan says that one mistake people make with AI—specifically large language models—is thinking that they must know exactly what they want before they use it. But there’s an easier way to get started. “If you want to figure out how to prompt a model well, one great way is to just ask the model to help you,” she says. “Be like, ‘I’m trying to figure this out. How should I turn this into a good prompt to get something done?’”
+
+Conversations—with humans and AI—are more important than ever. Teevan says that the AI era represents a shift away from translating what we want into simple commands that our technology can understand. It allows us to interact with technology via natural language instead. This makes conversations more important than ever. “Our work is essentially becoming having interesting conversations with our computer and with other people,” she observes.
+
+We can all be more creative about how we use AI. Teevan challenges people to think more creatively about AI to unlock its full value. “Many of the most interesting ways to use models are actually as a partner for brainstorming, for ideation, for coming up with new ideas,” she says. Teevan uses maps as a metaphor for this untapped potential: paper maps are helpful, but modern digital mapping technology allows for geolocation, navigation assistance, traffic prediction, rideshare apps, and all sorts of things that were previously unimaginable. She sees AI as following the same sort of trajectory: “I think the ways that AI changes how we work, the way we get things done, the way we collaborate, are going to be similarly significant.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions. Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age. Today I’m talking to Jaime Teevan, Chief Scientist and Technical Fellow at Microsoft. She has been named one of Time’s AI 100 and is widely viewed as one of the best articulators of the possibilities that AI can unlock for business. Many of her colleagues at Microsoft say that they see her as the “why it matters” person. And I was thrilled to talk to her about how the company is integrating decades of research and expertise on productivity into the features of Copilot. In this episode, we discuss how AI is changing the way we collaborate, how using it tasks different parts of your brain than other elements of work, and how you can use AI to help formulate better prompts that unlock the full potential of the technology. Here’s my conversation.
+
+MOLLY WOOD: Jaime, thanks so much for joining me.
+
+McKinsey partner Delphine Zurkiya shares how she helps companies—including her own—leverage AI to reinvent how they work and unlock opportunities for growth.
+
+The head of Microsoft’s AI for Good Lab shares how the technology is helping to address intractable global challenges—and what all leaders can learn from those efforts.

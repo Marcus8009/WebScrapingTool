@@ -1,0 +1,55 @@
+URL: https://customers.microsoft.com/en-us/story/1837633288515694884-eaton-microsoft-365-copilot-discrete-manufacturing-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 918
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 915
+
+Eaton needed to manage thousands of standard operating procedures (SOPs) and improve data access across teams, prompting the company to find a solution to streamline operations, automate documentation, and support knowledge transfer.
+
+Eaton adopted Microsoft 365 Copilot to automate the creation of 1,000 SOPs, streamline customer service operations, and improve data access. Copilot helps teams work more efficiently, focus on strategic tasks, and facilitate smooth onboarding.
+
+Eaton’s Copilot adoption cut SOP creation time from one hour to 10 minutes, improved data access, and is expected to cut customer response times by 20%, simplifying knowledge transfer and freeing employees to focus on higher-value tasks.
+
+As a global leader in intelligent power management, Eaton is committed to delivering exceptional customer experiences and streamlining its operations. As the company continues to grow, unifying financial workflows and making essential information accessible across departments becomes increasingly vital. Eaton’s finance teams, in particular, frequently need accurate data for complex reporting and analysis, while customer support agents rely on quick, easy access to information. Achieving these goals means implementing solutions that would increase operational efficiency and support a cohesive, data-driven culture.
+
+We’re rolling out Copilot at scale and prioritizing advancements in areas that will see significant impact at Eaton.
+
+Katrina Redmond, CIO, Eaton
+
+Eaton adopted Microsoft 365 Copilot to centralize knowledge, support those objectives, and advance its aims of reducing costs and preparing for an evolving workforce. An immediate opportunity was the accounting centralization and optimization program, part of which was the manual, time-consuming documentation process for 9,000 standard operating procedures (SOPs). This required clarity and accessibility within a strict timeline, and after completing the first few thousand manually, Eaton recognized the need for a more efficient approach, as each SOP was taking over an hour to document. “Finance teams were documenting their activities, but it was slow going,” says Tom Doyle, Senior Project Manager at Eaton, referring to the ambitious timeline. “Without Copilot, teams were typing everything manually.” With Copilot, Eaton’s finance team transformed the SOP documentation process, streamlining workflows and helping to meet project deadlines, so people can focus on more strategic work. Doyle describes Copilot as “a jump start” that was key to achieving efficiency across Eaton’s finance operations.
+
+Finance teams were documenting their activities, but it was slow going. Without Copilot, teams were typing everything manually.
+
+Tom Doyle, Senior Project Manager, Eaton
+
+The advantages of Copilot extend beyond finance, improving accessibility to data across the company. Eaton is implementing Microsoft 365 Copilot for Service to strengthen customer support. "With faster data access response times can be reduced by 20%. We’re aiming to strengthen our customer support approach with Copilot for Service by using CRM insights to speed responses and improve the overall customer experience,” says Jason Pappas, Director of AI and Innovation at Eaton. Microsoft 365 Copilot for Sales, he adds, will bring Salesforce data directly into Teams and Outlook, supporting more effective customer relationship management.
+
+With faster data access response times can be reduced by 20%. We’re aiming to strengthen our customer support approach with Copilot for Service by using CRM insights to speed responses and improve the overall customer experience.
+
+Jason Pappas, Director of AI and Innovation, Eaton
+
+“We’re working to get information out of people's heads, to get the expertise of the organization into technology where it’s accessible,” explains Katrina Redmond, CIO at Eaton. “We’re rolling out Copilot at scale and prioritizing advancements in areas that will see significant impact at Eaton.” This process is particularly important as Eaton prepares for workforce transitions, ensuring that essential knowledge remains within the organization. Redmond emphasizes, “We want to retain knowledge that might otherwise be lost,” underscoring the role of Copilot in supporting continuity within Eaton.
+
+Frank Biondolillo, Emerging Technology Analyst at Eaton, observes how Copilot has helped reshape the handling and organization of information across departments, helping employees access and work with data effortlessly. “Copilot has been instrumental in driving tangible benefits, such as with SOP creation. We’ve now begun to use it for more generalized personal and team productivity, including uncovering information across the enterprise,” he explains, emphasizing the value Copilot brings to finance, where effective data analysis and organization are essential.
+
+Copilot has been instrumental in driving tangible benefits, such as with SOP creation. We’ve now begun to use it for more generalized personal and team productivity, including uncovering information across the enterprise.
+
+Frank Biondolillo, Emerging Technology Analyst, Eaton
+
+Reduced time to create 1,000 SOPs by 83%
+
+“I use Copilot to slice and dice data, grouping and filtering it based on my needs,” Kim Vo, Project Manager at Eaton, says. “It’s like having a tool that adapts to me,” she says, noting the flexibility and efficiency Copilot brings to her role.
+
+With Copilot, SOP creation time has dropped from one hour to just 10 minutes—an 83% reduction—saving more than 650 hours and significantly improving operational efficiency across the 1,000 SOPs aided by Copilot. “Copilot gave us the efficiency we needed to stay on track and document our processes,” Doyle reflects, emphasizing that these time savings have been a “game changer.” With finance and customer service teams able to focus on more strategic initiatives, Eaton is well positioned to maintain its commitment to reliable, intelligent power management and stay competitive in a rapidly evolving industry.
+
+Discover more about Eaton on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.
+
+I use Copilot to slice and dice data, grouping and filtering it based on my needs. It’s like having a tool that adapts to me.
+
+Kim Vo, Project Manager, Eaton

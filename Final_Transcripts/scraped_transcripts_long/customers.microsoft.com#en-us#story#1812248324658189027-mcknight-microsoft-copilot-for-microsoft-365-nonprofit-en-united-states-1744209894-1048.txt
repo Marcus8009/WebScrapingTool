@@ -1,0 +1,67 @@
+URL: https://customers.microsoft.com/en-us/story/1812248324658189027-mcknight-microsoft-copilot-for-microsoft-365-nonprofit-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 1177
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1174
+
+The Minnesota-based McKnight Foundation supports projects that promote justice, racial equity, the arts, and economic abundance locally and around the world. In line with its culture of innovation, it wanted to experiment with AI to improve internal operations.
+
+McKnight adopted Microsoft 365 Copilot for all staff. They prompt the AI solution to take on manual, time-consuming tasks such as writing first drafts of content and translating interviews—in a secure environment.
+
+So far, McKnight has found that Microsoft 365 Copilot saves staff time, increases productivity, and frees space to focus on strategic priorities. They spend the saved time developing deeper, even more effective partnerships with grantees.
+
+The McKnight Foundation works to advance a more just, creative, and abundant future where people and planet thrive. Established in 1953, the Minnesota-based family foundation is deeply committed to advancing climate solutions in the Midwest, building an equitable and inclusive Minnesota, supporting the arts in Minnesota, and advancing neuroscience and international crop research.
+
+"As an organization, we prioritize innovation and learning," explains Jacques Hebert, Communications Director of the McKnight Foundation. "Like many, we are wrestling with the opportunities and challenges presented by AI. We have worked collaboratively with our IT partners to create the means for staff to experiment responsibly and learn together."
+
+McKnight recently adopted Microsoft 365 Copilot to become more productive, improve communications and internal operations, and ultimately drive progress on its mission. The AI assistant is freeing staff from time-consuming, manual tasks that distract from the organization’s bold objectives. “Copilot allows us to focus on big-picture strategic priorities rather than getting stuck in the weeds,” says Trisha Harms, Senior Communications Officer at the McKnight Foundation. “It makes a big difference for how much effectiveness we can have outside our walls.”
+
+“At McKnight, we strive to foster a culture of collaborative learning, so our adoption of Copilot started with both internal and external research,” Hebert says. An internal team listened to staff enthusiasm as well as concerns, brought in external experts, and nurtured ongoing conversations for staff to share and learn. For example, they discussed the organizational priority that AI-informed content would not plagiarize intellectual property. “Our adoption of Copilot was the result of collaborative decision-making and research. It’s a learning journey we’re still on,” Hebert adds.
+
+McKnight guidelines on appropriate uses for the AI assistant, plus organization-wide training and collaboration, empower staff to be good stewards of McKnight data and maintain control of outputs. “We know it’s not meant to replace the roles of humans,” Hebert says. “We still need critical analysis, editing, and human oversight.”
+
+As staff continue to experiment and innovate with Microsoft 365 Copilot, they are encouraged to communicate their successes, concerns, and learnings.
+
+From providing pathways for economic mobility to funding a vibrant art scene, McKnight catalyzes change by empowering community partners. Microsoft’s AI assistant is relieving the burden of lower-value tasks so staff can focus on building up their partners.
+
+“Copilot makes our work easier so we can do our jobs better and more meaningfully,” Harms says. “Any way we can increase efficiency and productivity means we can do more for and with our grantee partners.”
+
+Copilot summarizes content across Microsoft Teams, SharePoint, and Outlook, which staff find particularly helpful after time out of the office. It translates interviews, which supports McKnight’s programs and departments. It helps communications staff brainstorm content, such as blog and social media posts, to kickstart the creative process. “Streamlining our processes with Copilot means we’re able to get so much more done,” Harms says. “We’re able to spend more time in the field and better serve our grantee partners.”
+
+“My goal is to unchain our team from legacy technology. I empower them with the solutions that allow their best work for our grantee partners, securely,” says Tony Lusiba, Director of IT at the McKnight Foundation.
+
+McKnight adopted Microsoft 365 Copilot in part because of its closed-loop system. With Copilot, internal and partner data never enters the public domain, in contrast to other AI tools. “Introducing Copilot helped us tighten up cybersecurity by replacing unsecured generative AI platforms with a product we know we can trust,” Hebert explains.
+
+Copilot is embedded within McKnight’s tenant and the Microsoft stack the nonprofit already uses. It integrates with the organization’s security policies and features such as multifactor authentication, its governance and permissions policies, and SharePoint data retention rules. In addition, organization-wide comfort with Microsoft 365 facilitated the Microsoft 365 Copilot rollout. “Adoption of the M365 ecosystem was critical to get all our staff access to Copilot as soon as possible,” Lusiba says. “This enables everyone to learn and grow.”
+
+Seamless security coverage gives Lusiba the confidence to give all McKnight staff the freedom to explore Copilot’s capabilities. For instance, the AI assistant empowers staff to find, synthesize, and build on organizational knowledge housed across the Microsoft stack. Copilot works across Microsoft Teams, SharePoint, and other applications to quickly find answers, summarize documents, and combine content, all while respecting established access rules.
+
+Staff are increasingly turning to Microsoft 365 Copilot to support their everyday work. Harms says, “The more that folks have used Copilot, the more they’ve come to trust it.”
+
+McKnight enacts its commitment to equity not only through its funding but also in how it operates day to day. Generative AI helps advance that priority, Hebert says. “Copilot is one resource that allows everyone to connect, align, and move forward on our mission.”
+
+McKnight invested in a Copilot license for every single employee as part of that culture of equity. The diverse makeup of McKnight’s staff, and the foundation’s broad range of focus areas and departmental functions, has led them to find novel uses for the AI assistant. AI champions throughout the organization support colleagues who are less comfortable with new technology, increasing Copilot adoption organically.
+
+Copilot is also helping McKnight improve its accessibility practices. For example, the AI assistant makes suggestions to adjust contrast or color choices in PowerPoint presentations. The recommendations are especially helpful for staff who are less familiar with visual accessibility guidelines. Staff also direct Copilot to write alt text for images in internal and external communication. This speeds up the step that enables screen readers to interpret visual content for people who are blind or low-vision.
+
+“We really do care about making sure every staff person feels included and like they belong,” Harms says. “Technology is one part of our holistic approach to making sure everything we do drives our mission forward.”
+
+Find out more about the McKnight Foundation on Facebook and LinkedIn.
+
+Copilot allows us to focus on big-picture strategic priorities rather than getting stuck in the weeds.
+
+Trisha Harms, Senior Communications Officer, McKnight Foundation
+
+Introducing Copilot helped us tighten up cybersecurity by replacing unsecured generative AI platforms with a product we know we can trust.
+
+Jacques Hebert, Communications Director, McKnight Foundation
+
+Copilot makes our work easier so we can do our jobs better and more meaningfully. Any way we can increase efficiency and productivity means we can do more for and with our grantee partners.
+
+Trisha Harms, Senior Communications Officer, McKnight Foundation

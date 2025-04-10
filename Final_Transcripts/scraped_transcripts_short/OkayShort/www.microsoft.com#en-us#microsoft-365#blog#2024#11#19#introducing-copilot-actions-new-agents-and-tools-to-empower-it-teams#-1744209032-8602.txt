@@ -1,0 +1,43 @@
+URL: https://www.microsoft.com/en-us/microsoft-365/blog/2024/11/19/introducing-copilot-actions-new-agents-and-tools-to-empower-it-teams/
+Source: www.microsoft.com
+Total Word Count: 489
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 486
+
+Available on desktop and mobile devices
+
+Microsoft 365 Copilot is becoming a daily habit for people around the world—already, nearly 70% of Fortune 500 companies are using it. Dow anticipates that Copilot will save it millions of dollars on shipping operations in the first year; at Bank of Queensland Group, 70% of users are saving two and a half to five hours per week; Eaton is speeding up internal documentation processes by 83%; and Accenture is going big, rolling out Copilot to 100,000 employees.
+
+Today at Microsoft Ignite 2024, we’re accelerating our ambition to empower every employee with Copilot as a personal assistant and to transform every business process with agents built in Microsoft Copilot Studio.
+
+Announcements include:
+
+These announcements build on our wave 2 momentum, including the new autonomous agent capabilities that we announced in October 2024.
+
+Thanks to our customers, we have the world’s best feedback loop on AI at work. We’ve dramatically improved Copilot performance—responses are two times faster on average and response satisfaction is nearly three times higher1—and shipped hundreds of new features. And we’re adding new value to Copilot to tackle work’s biggest pain points and help every employee scale their impact—from automating repetitive tasks to managing your calendar.
+
+Copilot is where you interact with agents, and Copilot Studio is where you can easily create, manage, and connect agents to Copilot. We’re introducing agents in Microsoft 365 designed to help scale individual impact and transform business processes. These new agents complement the autonomous agents that we announced in October 2024 for sales, service, finance, and supply chain professionals—and we’re just getting started. We’ll create many more agents in the coming year that will give customers the competitive advantage they need to future-proof their organization.
+
+Chief information officers and IT professionals are at the epicenter of AI transformation. To empower every IT team to lead at scale, we’re introducing the Copilot Control System—designed for IT to confidently adopt and accelerate the business value of Copilot and agents.
+
+In today’s digital landscape, protecting your organization’s data from emerging threats and ensuring system integrity is paramount. We’re pushing the boundaries to continue making Windows the most secure and performant platform for you and your organization.
+
+Save time, amplify productivity, and drive business forward faster.
+
+To empower every employee with Copilot as a personal assistant and transform every business process with agents built in Copilot Studio, start using Copilot today. Visit Microsoft365.com/copilot or download the Microsoft 365 app on your mobile device.
+
+Sources:
+
+1 Blind, side-by-side human intelligence tasks conducted on behalf of Microsoft in July and August 2024, each with 9 participants (judges) to compare user satisfaction with query responses of Microsoft Copilot and a competitor. Copilot won 16% of the comparisons in July and 46% in August.
+
+2 Pricing is accurate as of November 2024.
+
+The power of AI wherever you go. Available on desktop and mobile devices.
+
+Connect with us on social

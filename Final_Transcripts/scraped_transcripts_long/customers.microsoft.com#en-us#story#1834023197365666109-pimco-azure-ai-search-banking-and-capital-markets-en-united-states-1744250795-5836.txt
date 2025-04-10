@@ -1,0 +1,55 @@
+URL: https://customers.microsoft.com/en-us/story/1834023197365666109-pimco-azure-ai-search-banking-and-capital-markets-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 1144
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1141
+
+The client-facing teams at PIMCO serve hundreds of thousands of clients around the world, all of whom need accurate, up-to-date information on the products they hold. To boost the client experience, PIMCO wanted to help its associates spend less time aggregating data and more time engaging with clients.
+
+To help associates find relevant information faster, PIMCO built an enterprise tool, named ChatGWM, on Azure AI. ChatGWM is a secure, RAG-based application that searches across PIMCO-approved structured and unstructured data sources to deliver fast, relevant information to its teams.
+
+Instead of searching through documents themselves, associates can now simply type their questions into ChatGWM using advanced search technology to get more insightful responses, fast. ChatGWM also provides the source of its information, helping associates verify that everything is factually correct.
+
+PIMCO is a global leader in active fixed income with $2 trillion in assets under management (as of September 30, 2024). For over 50 years, the company has served its global client base by investing client capital in income and credit opportunities that span the liquidity spectrum. PIMCO prides itself on its extensive resources, global presence, and time-tested investment processes that are designed to help give clients an edge as they pursue their long-term goals. The markets might change, but PIMCO’s commitment to clients remains the same.
+
+PIMCO’s client-facing teams around the world need accurate, up-to-date information on the PIMCO products their clients hold. Responsiveness, as well as quality of content, is critical for client service. “Our clients have such diverse investment needs,” says Matthew Schwarz, Head of Business Strategy and Analytics in US Wealth Management at PIMCO.“When clients call with questions about the specific funds they’re invested in, our teams need to find accurate answers quickly.”
+
+Finding those answers may mean searching through a large number of data sources, depending on the request. This process, when accounting for the high volume of clients across the organization, takes a significant amount of time that could be better spent engaging clients instead of sifting through data. “Improving our data search process by 10%, or even 5%, would drive scale and efficiency across the company,” says Sanket Bafna, Senior Vice President, Head, Client Data Intelligence and Sales Technology at PIMCO. “We saw an opportunity to use AI to enhance associate productivity and improve the client experience.”
+
+As our needs have grown and evolved, Azure AI has allowed us to start small, start fast, build, test, iterate, and deploy the applications.
+
+Sanket Bafna, Senior Vice President, Head, Client Data Intelligence and Sales Technology, PIMCO
+
+The advancement of large language models (LLMs) presented PIMCO an opportunity to further evolve the quantitative capabilities it has used for decades and accelerate the impact of solutions such as the client request search process.So, the team came up with the idea of building a chat interface that could answer questions by searching for relevant information.
+
+But as a financial services company, PIMCO has strict regulatory requirements around the types of information it can share with clients. All data or statistics must come from the most current monthly or quarterly report, depending on the product. It was crucial the new interface use only PIMCO-approved data when surfacing information. With these guardrails in mind, the company chose Azure AI for its breadth of functionality. “We loved the completeness of vision Microsoft has shown with AI, including security and compliance. Azure AI has allowed us to spend time building solutions instead of building AI plumbing,” says Bafna.
+
+The solution ended up being a custom tool named ChatGWM. It’s an advanced retrieval augmented generation (RAG) app that boosts the capabilities of LLMs by adding a knowledge retrieval system that provides grounding data. PIMCO built ChatGWM with Azure AI Foundry, a comprehensive platform that equips developers with everything they need to build unique GenAI experiences that scale.
+
+With ChatGWM, Azure AI Document Intelligence takes data sources and breaks (or “chunks”) them into smaller pieces from which it can extract information and find meaning. This extracted information is sent to Azure AI Search, an advanced knowledge retrieval system for enterprise RAG applications, to be effectively processed by an LLM. AI Search then generates embeddings from the data using an Azure OpenAI Service embedding model, enabling semantic similarity search for more nuanced and relevant interactions in the application. The embeddings are stored in a vector index in AI Search. Because AI Search offers retrieval capabilities and seamless data source integrations, ChatGWM is designed to provide responses to every question using the most relevant information.
+
+Using prompt orchestration in Azure AI Foundry, ChatGWM is able to connect workstreams and, because PIMCO stores data across several locations like SharePoint and Box, it uses Azure Logic Apps to make sure files are updated in real time when documents get added or removed. PIMCO is looking forward to utilizing upcoming Azure Cosmos DB features such as Vector Search, Full Text Search, and Semantic re-ranker (RRF).
+
+In terms of scaling ChatGWM, using Azure has allowed the team to build and mature the platform without needing to change its underlying technology. “As our needs have grown and evolved, Azure AI has allowed us to start small, start fast, build, test, iterate, and deploy the applications. We were able to grow the application on the same stack,” says Bafna.
+
+We loved the completeness of vision Microsoft has shown with AI, including security and compliance. Azure AI has allowed us to spend time building solutions instead of building AI plumbing.
+
+Sanket Bafna, Senior Vice President, Head, Client Data Intelligence and Sales Technology, PIMCO
+
+Now, instead of manually searching folders, files, and databases for information on client products, PIMCO’s client-facing teams will be able to type their questions directly into ChatGWM to receive responses and provide timely and accurate information to clients even faster. ChatGWM also provides the source of its information alongside the response, a feature offered by AI Search, giving teams a quick way to verify that everything is factually correct. They can even download the source documents to share with clients.
+
+With the ability to ask questions, receive responses, and verify answers all in one place, teams can spend more time engaging clients and having deeper conversations. “Tasks that used to take a lot of time are now so much easier to complete,” says Schwarz. As ChatGWM continues to roll out, PIMCO anticipates saving thousands of hours previously spent on manual processes and improving the client experience.
+
+Based on the success of ChatGWM, PIMCO plans to expand its use of Azure AI Services. By fully embracing the breadth of Azure AI, PIMCO is optimizing internal operations and continuing to improve the client experience.
+
+Discover more about PIMCO on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.
+
+Tasks that used to take a lot of time are now so much easier to complete.
+
+Matthew Schwarz, Head of Business Strategy and Analytics in US Wealth Management, PIMCO

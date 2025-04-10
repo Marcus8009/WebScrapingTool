@@ -1,0 +1,150 @@
+URL: https://www.microsoft.com/en-us/worklab/our-year-with-copilot-what-microsoft-has-learned-about-ai-at-work
+Source: microsoft.com/worklab
+Total Word Count: 2568
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 2565
+
+Getting AI right requires intention, experimentation, and some unexpected heroes. Here’s how you can apply insights from our experience to your own organization.
+
+A little while back, Jared Spataro got an email from someone he couldn’t immediately place. It’s an experience common for executives: someone reaches out, and it’s clear you have an existing relationship, but you just can’t recall how you know them. So Spataro, Microsoft Corporate Vice President of AI at Work, instinctively turned to Copilot, prompting the chat interface to search across all his meetings, chats, documents, and emails to find out. “It was the most beautiful response I’ve ever seen,” says Spataro, one of the early architects of Microsoft 365 Copilot. It told him who the man was and how he knew him, when they first met, and what they had talked about.
+
+“That was when I realized, Wow, this is going to change business in a really significant way.”
+
+Spataro has been using Copilot for a year, along with hundreds of thousands of other Microsoft employees and early customers. The company-wide rollout has been marked by creative experimentation, continual learning, and even a little soul searching about the role of AI within an organization. As our own “customer zero,” we had a lot to learn: How quickly would people develop new skills and AI habits? How was it going to change day-to-day work, entire functions, and even entire teams? And how could we quickly scale those lessons across the company?
+
+“It’s been a year of learning, but we have started to discover what Copilot can unlock for individual employees and companies as a whole,” Spataro says. “Most days it can feel like we’re on a rocket ship. More specifically, like we’re riding on the rocket ship as we’re building it.”
+
+As with any rocket launch, this one required multiple test flights. We’ve spent the past year experimenting to see what works and what doesn’t, learning from our experiences, and then sharing what we’ve learned across the company and with our customers. Now, as every leader looks to build the AI-powered organization of the future, we want to share what we’ve learned.
+
+Illustrations by Tomasz Woźniakowski
+
+01
+
+GO FOR THE BIG WINS
+
+(AND THE EASY ONES TOO)
+
+Who should get AI first? We prioritized functions that would drive ROI fastest.
+
+How We Did It
+
+“Every company will have a slightly different approach,” says Nathalie D’Hers, Corporate Vice President of Microsoft Digital, who oversaw the internal rollout to our more than 200,000 employees. “In our case, we zeroed in first on the roles that we knew would gain a lot of benefit.”
+
+It made sense for sales to get first access: After all, they need to know the product inside and out to communicate its value to customers. But beyond that, we found that salespeople are uniquely positioned to benefit from Copilot, whether it’s cutting down on email triage to prioritize leads or gathering relevant info ahead of a client meeting. In early results, our salespeople saved 90 minutes of time per week; 83 percent of them felt they were more productive; and 67 percent said they were able to parlay the time savings into more time with customers.
+
+Next came customer service and support. Nine months ago, they rolled out Copilot to all of their support professionals at once, so they could get the entire organization familiar with the technology fast. They had four objectives: reduce time to expertise for agents, streamline access to knowledge, reduce repetitive administrative tasks (to allow people to focus more on customer support, their key priority), and reduce the high volume of inquiries that come in every day.
+
+—Jared Spataro, Microsoft Corporate Vice President of AI at Work
+
+The investment has paid off. According to a study last year from our Chief Economist’s office of nearly 10,000 Microsoft support agents, several teams saw, on average, a 12 percent reduction in case handling time and a 10 percent boost in case resolution.
+
+And once HR got access, the department retooled an AI-powered employee resource called Ask HR, which expedited the response time for more complex questions about benefits, payroll, and other HR topics. With HR service advisors using Copilot, employees now get faster and more accurate answers to questions that previously might have taken several days to compile and respond to.
+
+“Our HR service professionals are able to handle employee inquiries more efficiently,” says Kathleen Hogan, Microsoft Executive Vice President and Chief People Officer. “So far we are seeing a 26 percent reduction in initial response time thanks to Copilot.”
+
+From there, we used what we learned from those early adopters to help guide the rollout to the rest of our company.
+
+How You Can Do It Too
+
+Put Copilot where it’s most useful. Whatever department or role you’re targeting, clearly identifying goals before a rollout helps leaders and employees determine from the start what’s working and what’s not. It also helps set appropriate benchmarks for success, whether that’s response times or more effective meetings or other metrics. For guidance, look to our Copilot Scenario Library, which includes suggested use cases and key performance indicators to help orgs determine how Copilot can help.
+
+Go for easy wins too. As you’re going after function-level transformation, use AI to improve simple tasks as well. Gaining confidence and ability early on (for example, asking Copilot to recap a meeting) helps users maintain a healthy growth mindset when they hit the inevitable road bumps.
+
+Give it to entire teams. Rolling out Copilot to entire teams at once—even if they’re small ones—is crucial in promoting peer-to-peer learning: It encourages sharing and learning among the group members, multiplying the impact of the technology. It also allows organizations to see patterns to help identify what’s working (or what’s not).
+
+Make sure to track the impact. To understand how AI is transforming workplace behavior, you’ll need a way to measure its usage. A platform like our Copilot Dashboard can help you plan and measure the impact.
+
+02
+
+FIND YOUR INTERNAL
+
+CHAMPIONS
+
+Their enthusiasm and knack for sharing their AI skills with others will encourage use across the organization.
+
+How We Did It
+
+Many of our employees went through a period of experimentation and playing around with Copilot before they started to drill down on what it could do. That’s where internal champions come in. “They don’t need to be AI experts,” says Callie August, a Copilot champion in the marketing organization. “Just people who are willing to test, learn, and be okay with being wrong.”
+
+Through managers and rollout leaders, we identified people who were most excited to dive into the technology and share what they learned with their peers. We then empowered them to lead internal trainings and create quick demo videos to share their skills. That grassroots approach allows others to see the potential—and inspires them to explore the technology for themselves.
+
+New Words for a New Way of Working
+
+Essential AI terms every leader should know
+
+The ability to work alongside AI naturally, including writing great prompts, evaluating creative work, and checking for bias. Take action: Encourage everyone in your organization to always be asking, “How can AI help me?”
+
+How You Can Do It Too
+
+Employ champions at every level. An early-in-career employee is going to use Copilot in a very different way than someone who’s been managing a team for 20 years. With advocates at all levels of the organization, everyone from individual contributors to the C-suite can see relevant prompts and use cases.
+
+Find the connectors. While technical expertise is great, it’s not a must. Look for people with a natural aptitude for leadership who can take complex information and distill it down in a relatable way. After all, your internal champions will be spending most of their time teaching and interacting with other people, not programming.
+
+Make it official. Once you’ve identified your champions, establish an AI council. As we describe in our adoption playbook, the makeup of that group will be unique to what your company needs, but it should include people from your IT enablement team, your change management team, an executive sponsor, and a representative from risk management. And it should meet regularly to ensure that organizational insights are shared effectively.
+
+Recognize and incentivize. “You have to celebrate people who are adopting AI and showcase their efforts,” says Hossein Nowbar, Chief Legal Officer at Microsoft. “We had early adopters of AI join me onstage during our department-wide summit to talk about how they are leveraging AI and the efficiencies they gained.” This recognition inspires others to join the AI journey.
+
+03
+
+DOUBLE DOWN
+
+ON SKILLING UP
+
+Make employee training a priority from the start; the training will evolve over time as both trainers and learners become more comfortable with Copilot.
+
+How We Did It
+
+We held live one-on-one and group training sessions where people could ask questions and practice prompting in a variety of different work situations. Internal champions created self-guided courses that employees could access on a SharePoint site and answered questions and offered guidance to employees on Viva Engage.
+
+We also offered employees training that accommodated different work schedules and learning preferences: Some people might not have time to join an in-person session, so they can watch videos or snapshot demos. Others may want to join big interactive sessions where they can ask questions of an expert in a live environment. And we created incentives for taking and passing training courses—like digital badges that declare one a “Copilot Champ.”
+
+Our trainings evolved as we learned what worked and what didn’t. “In the beginning, I usually did 30-minute sessions where we’d focus on one app at a time,” August says. “Now we’ll do more comprehensive training where we show one piece of every app.” August eventually took her training sessions public, with a series of short videos explaining everything from how to mitigate writer’s block to what to do if you’re late to a meeting. “I thought about pain points. What are the things I hate to do at work, and are there Copilot prompts that can solve those tasks?”
+
+Like any new routine, building the Copilot habit takes time. Our internal research has found that a time savings of just 11 minutes a day is all it takes for users to see the value from Copilot.
+
+How You Can Do It Too
+
+Don’t reinvent the wheel. Because we created a variety of training materials for our own people, organizations looking to roll out Copilot now have resources available. Look to our adoption playbook and guidance for support on both technical readiness and getting your people prepared.
+
+But also, use what works best for you. Orgs can create interactive libraries of prompts tailored to the work they do, along with recommendations on which app or apps to use, so that everyone can share what works with other teams across the organization.
+
+Remember your managers. “One of our early learnings was that we need to be sure we are engaging with managers as a direct leader of employees,” says Sandeep Bhanot, Microsoft Corporate Vice President of Engineering & Data, who leads the team that supports our commercial sales organization. “We found that unless managers were fully bought in and saw the value of Copilot, they weren’t able to be champions of Copilot for their teams, which is critical to success. This uncovered the need for manager training, too, getting them engaged, skilled, and bought in to the value of Copilot so they could lead by example.”
+
+04
+
+BUILD THE AI HABIT
+
+In any AI rollout, some people will be eager to adopt the new technology, and others less so. Embrace a growth mindset when it comes to experimenting with AI and then using it regularly.
+
+How We Did It
+
+Throughout our rollout, leaders asked their teams to consider how AI could help them do whatever task they were setting out to do, big or small, before they set out to do it. “When it came to Copilot, we asked ourselves two questions,” D’Hers says. “Number one, how can an AI tool help us be more efficient in this task? And number two, is this something that artificial intelligence can just help us do better?”
+
+Soon enough, users across the organization were developing their own new work habits, based upon early victories and time-saving hacks. After every meeting, they might ask Copilot what their action items are. Or they’ll use Copilot to find material that might live in an email, a chat, or a PowerPoint deck.
+
+Then it clicks: “When people see that this is a way to enhance their work, not a usurping of their work, there’s this spark of realization,” says Chris Fernandez, Microsoft Corporate Vice President of HR Services and Digital Employee Experiences.
+
+Like any new routine, building the Copilot habit takes time. Our internal research has found that a time savings of just 11 minutes a day is all it takes for users to see the value from Copilot. And it takes about a business quarter, or 11 weeks, for most people using Copilot to see improvement in four key areas: productivity, work enjoyment, work-life balance, and the ability to attend fewer meetings.
+
+How You Can Do It Too
+
+Remember that it’s an organizational challenge, not only an IT challenge. “When I talk to customers,” says Colette Stallbaumer, General Manager of Copilot, “one predictor of success is if they have involvement at every level of the organization—from senior leadership to functional leaders to grassroots employee activation.” This approach signifies that a company is thinking of it as a new way of working, and not just a new technology.
+
+Start small. To start building the habit, encourage your teams to find the immediate wins in their workday that deliver from the start. Instead of searching through folders for a deck, for example, encourage your people to use Copilot to locate the file. Executives, meanwhile, can use it to summarize long documents or drawn-out email chains.
+
+Understand that this is new—really new. Unlike other new technology, there’s an emotional component to adopting AI. The shift can be unsettling, so it’s important to help people understand how AI can be valuable—to their time, for instance, or the quality and purpose of their work. Consider the note-taking ability in Microsoft Teams. “Someone might say, ‘But I usually take the notes in meetings!’” says Claire Sisson, Principal Group Product Manager, Microsoft Digital, who helped lead the company-wide rollout. “So we tell them, ‘Instead of taking notes, you can be a full participant in the meeting. Now you can focus your attention on the critical thinking you can bring.’”
+
+O
+ur biggest lesson over the past year? We all have to be thoughtful, iterative, and willing to evolve. And while a project this intricate might seem daunting, it’s so valuable that you can’t afford to put it off. “Leaders who see the opportunity,” Spataro says, “who are able to think creatively about what AI can do to rewire every aspect of the organization, are going to be the ones who gain a competitive edge—and that will set them apart in this next era of work.”
+
+The bestselling author on what leaders need to know about the key to true productivity and the secrets of “supercommunicators.”
+
+Subscribe to WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.

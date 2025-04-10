@@ -1,0 +1,48 @@
+URL: https://www.microsoft.com/en-us/worklab/inside-ai-native-ad-agency
+Source: microsoft.com/worklab
+Total Word Count: 826
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 823
+
+As leaders look to blaze a new path with AI, they can all take a page from Supernatural AI’s playbook.
+
+In my series on AI-native organizations, Part 1 uncovers the core principles of AI natives, Part 2 zooms in on one business in detail, and Part 3 looks at how every company can start using these insights.
+
+To grasp the future of business, look to AI-native organizations: from processes to products, these companies are infusing every facet of their operations with AI. In a previous newsletter, I wrote about common ways that AI natives work differently. Today I’m zooming in on one company I find particularly compelling: Supernatural AI, a 30-employee creative agency that’s inventing a more efficient, strategic way of doing business.
+
+Founded in 2021, Supernatural bills itself as “a place where people and machines work together to make advertising better.” It uses AI to weave data into all its offerings, from consumer research and brand strategy to creative ideation, and clients have included US Bank, Kayak, and Zipcar. Like many AI natives we talked to, Supernatural leverages AI to play both offense (unlocking new business opportunities and delivering value to clients) and defense (reducing costs).
+
+Deploy AI to uncover new business value 
+Traditionally, only major brands—like national fast-food chains—have been able to localize their advertising to specific cities. It’s time-consuming and expensive to create so many iterations on the creative, let alone to ensure that every variation is grounded in local knowledge and data.
+
+Supernatural is using AI to bring this capability to brands of all sizes. Employees can use AI to help generate hyperlocal social media ads in minutes rather than days, even when working with modest budgets. Humans then touch up what AI produces.
+
+“Humans and AI need each other,” Supernatural co-founder Mike Barrett told us. “AI doesn’t always have good judgment, but that’s okay—I have good judgment. AI has the ability to endlessly version assets. People don’t.”
+
+That combination—human creativity and judgment paired with AI’s ability to brainstorm, iterate, and ground ideas in relevant data at great speed—is a powerful advantage. In advertising, “you have massive upward pressure on costs, and competition means you have downward pressure on pricing,” Barrett says. “The only way to resolve the margin squeeze is productivity. And we knew that the way to solve productivity was AI. We would use AI to claw back margin.”
+
+Focus on what sets you apart 
+AI helps Supernatural with margins, but clients benefit too because the agency can deliver strategically driven results faster. Supernatural uses a data-and-AI platform—employees call it “The Superconductor”—built on more than two decades of research on advertising effectiveness, along with data about target audiences and competitors.
+
+The platform keeps track of those many considerations, saving human energy and creating competitive advantage by leveraging data more effectively. Supernatural uses it to test messaging on AI avatars of customers instead of human focus groups, saving time and money.
+
+With those capabilities, Supernatural is speeding up its process to create a competitive advantage over bigger, more established agencies. One client, US Bank, hired the agency to do a national campaign—choosing Supernatural over a longstanding partner that has decades of history and thousands of employees. The campaign went from brief to creative rollout in under four months, a process that previously would have taken nine.
+
+Build a more fluid organization 
+Supernatural’s approach aligns with what my team and I have found in our research about AI-native organizations generally. For instance, AI natives tend to have more fluid org charts. At Supernatural, creative work is shared by people across roles, not just those with creative titles. The agency has hired people from many walks of life, including a former journalist, an investment banker, and a financial services marketer. Since AI scales data-informed advertising expertise across the staff, the company can hire for special perspectives, not just standard skills.
+
+Getting the right staffing mix has required trial and error. At first, Supernatural envisioned hiring mostly experienced leaders to “manage” AI, but that didn’t always work. Barrett says it’s not only about experience: you have to find “tinkerers” who like to experiment with technology.
+
+AI can be a sensitive subject in creative circles. Barrett tells creatives, “AI is no more coming for your job than circular saws came for the jobs of carpenters. The idea that you’re going to turn on some power tools, leave them in a room by themselves, and come back to fully finished furniture? It’s ludicrous.” Instead, he asks people to think of AI as “a power tool for creative people.”
+
+Supernatural’s founders have deep experience in advertising, and they understand the industry’s challenges and how AI can solve them. We often talk about how AI can level the playing field for employees with less experience or skill, but we shouldn’t forget that it also empowers people who are already at the top of their game to reach new heights.
+
+AI at Work
+
+By the Numbers

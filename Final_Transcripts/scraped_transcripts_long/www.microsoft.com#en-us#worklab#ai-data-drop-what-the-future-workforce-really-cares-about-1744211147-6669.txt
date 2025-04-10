@@ -1,0 +1,48 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-data-drop-what-the-future-workforce-really-cares-about
+Source: microsoft.com/worklab
+Total Word Count: 585
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 582
+
+Our new research shows that AI is table stakes for younger employees.
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+Since our customers first started using Microsoft Copilot, we’ve been closely studying how people use it at work and what their behaviors can teach us about adopting and rolling out AI broadly—and we want to share what we’re learning with leaders who are looking to drive AI adoption with their own people. Last month, we told you about the 11-by-11 tipping point. Now, another 11-week insight: fresh data shows that after about one business quarter with Copilot, it becomes a game-changer for the majority of early-in-career employees in picking where to work. Here’s what you need to know.
+
+What we did: As part of our ongoing Copilot Usage in the Workplace survey, we looked at the work patterns of more than 1,000 early users. But we wanted to take a closer look at one group in particular: early-in-career employees. After all, these users will soon make up the bulk of the workforce—what can their feelings around AI today tell us about future norms? 
+ 
+To start to find out, we isolated individual contributors and entry-level talent, then grouped these users by how long they had been using Copilot (less than three weeks; 3–6 weeks; 7–10 weeks; 10+ weeks). From there, we charted how likely they were to agree that having Copilot would influence their choice of employer.
+
+What we found: Early-in-career employees start out excited to use Copilot. They’re experimenting with their new tool, seeing what it does, and feeling a sense of delight as they explore its capabilities. Then, between three and 10 weeks in, the novelty appears to wane and we see a dip in their feelings toward Copilot. But when they get to that 11-week point, the habit really starts to take hold, and a full 54 percent say that access to Copilot would affect their choice of employer. It’s a wakeup call for every leader that rolling out AI today—and providing access and training to your early-in-career employees—will be key to attracting both current and future talent.
+
+Early-in-career employees are on board with Copilot
+
+After 11 weeks, most of these workers say Copilot would influence their choice of employer.
+
+Survey question: “Whether an organization had Copilot would influence my choice of employer”
+
+ICs & entry-level talent only: n-size: 232
+
+Why it matters: Over half of young people say that a new-to-market tech could shape their job choices. That shows its growing importance—and suggests that its influence will only grow as the technology gets better. Before we know it, today’s early-in-career employees will dominate the workforce, and people will want to know that AI access and learning are available to them before they start a new job.
+
+We learned from our own rollout at Microsoft that AI adoption takes intentionality, experimentation, and lots of learning. As access to AI tools becomes an employer differentiator, the time to get a strategy in place is now.
+
+Methodology: The ongoing Copilot Usage in the Workplace survey launched in September 2023. It surveys both Microsoft employees and early users of Copilot at other companies, mostly in North America and Europe. All users included in the analysis had been using Copilot for at least three weeks.
+
+Want more great insights on where work is headed? 
+Subscribe to the WorkLab newsletter.
+
+Customer Zero
+
+Navigation

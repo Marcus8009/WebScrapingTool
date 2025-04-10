@@ -1,0 +1,50 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-data-drop-how-ai-breaks-down-barriers-to-inclusivity
+Source: microsoft.com/worklab
+Total Word Count: 790
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 787
+
+A first-of-its-kind study of neurodivergent and disabled Copilot users highlights the ways AI can transform their experience at work.
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+Since AI came to work just under two years ago, its productivity and time-saving benefits have been well documented. Now, a first-of-its-kind study—commissioned by Microsoft from professional services firm EY—shines a light on how AI can help address the specific challenges faced by employees who are neurodivergent or living with a disability. Surveying more than 300 neurodivergent and disabled Microsoft 365 Copilot users across 16 organizations, the study shows that Copilot can improve accessibility and inclusion, alleviating negative feelings these employees can have about themselves, their work, and their organization.
+
+“We’re keen for Copilot to aid accessibility and inclusion at work,” says Microsoft Director of Inclusive Hiring and Accessibility Neil Barnett. “This first insight from live deployments is game-changing. It shows how Copilot is empowering organizations in their quest to offer inclusive, productive, and meaningful work—and how we can do more with Gen AI.”
+
+What the researchers did: EY’s researchers surveyed 316 Copilot users who identify as neurodivergent or living with a disability—from 16 organizations across several regions and market sectors—about their experiences using AI at work. A subset of those employees participated in follow-up interviews.
+
+What they found: The results highlighted Copilot’s substantial benefits for neurodivergent and disabled employees, which researchers dubbed “augmented inclusion.” More than 75% of participants reported that Copilot helped them perform better in their role, improve the quality of their work, bring out their best, and boost their sense of inclusion. Researchers identified three key ways the technology nurtures these benefits.
+
+Removing barriers: Neurodivergent and disabled employees can experience daily work situations as hurdles, and a little help overcoming these hurdles can transform their experience of participation. For example, 80% of the employees surveyed said that Copilot helps them with written communication—with 71% noting that it enables them to get to a first draft faster—and 61% responded that the AI assistant helps them structure their thoughts. As one participant put it, “Day to day, Copilot supports me when I am stuck and my brain has stopped working. I get task paralysis when I have too many things or can’t get past the one thing I need to do. Copilot helps me with this.”
+
+Improving productivity: Many neurodivergent and disabled employees perform successfully in spite of their work environment, a struggle that can lead to cognitive drag and, frequently, a lack of mental energy. Survey participants shared that Copilot helped them reclaim time and energy, with 88% of them feeling more productive at work. More than 90% of respondents said that Copilot made key tasks—understanding meeting contributions, proofreading, summarizing, creating follow-up actions—more accessible and efficient. “As someone who struggles with spelling, I used to reread my emails several times before sending. Now I use Copilot to proofread my emails and save 2 to 5 minutes for every email I send out,“ one employee said.
+
+Enhancing meaning: An employee’s sense of self-respect and recognition of their work by the team and organization have a significant effect on feelings of inclusion. Copilot helps neurodivergent and disabled employees feel better about themselves and their work: 85% of those surveyed said it enables them to perform better in their role, 83% believe it helps them improve the quality of their work, and 77% said it assists in bringing out the best in them. One respondent explained, “It can help me do things with confidence that normally I would leave for others to do and get recognition for. It extends the breadth of business activities I feel comfortable and competent doing.”
+
+AI Boosts Inclusion and Accessibility
+
+Neurodivergent and disabled employees share how Copilot improves their experience at work.
+
+What it means: This pioneering research highlights early findings about how AI can help employees with the unique challenges they face at work. Copilot alone won’t solve issues of inclusion in the workplace, but it can empower accessibility and inclusion efforts in significant ways. This AI advantage will become increasingly important as young people enter the workforce: 53% of Gen Z now identify as neurodivergent,1 and EY predicts that figure could reach up to 70% for Gen Alpha. Business leaders take note: 80% of Gen Z is more likely to apply for a role with an organization that makes space for neurodivergent and disabled employees than one that doesn’t.2
+
+Check out the full report.
+
+Want more essential insights on AI and the future of work? Subscribe to the WorkLab newsletter.
+
+1 ZenBusiness survey 
+2 Tallo survey
+
+AI at Work
+
+Better Habits

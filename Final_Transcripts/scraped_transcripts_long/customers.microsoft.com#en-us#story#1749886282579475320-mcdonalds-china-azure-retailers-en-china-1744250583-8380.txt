@@ -1,0 +1,53 @@
+URL: https://customers.microsoft.com/en-us/story/1749886282579475320-mcdonalds-china-azure-retailers-en-china
+Source: customers.microsoft.com
+Total Word Count: 1243
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1240
+
+To help employees stay at the forefront of business innovation while opening nearly 1,000 new locations per year, McDonald’s China decided to use AI to elevate all levels of customer service, quality, and operational excellence. In partnership with Microsoft, McDonald’s China established an AI Lab to catalyze its AI journey. The AI Lab team chose to use Microsoft Azure AI to support a full set of intelligent solutions based on large language models, natural language interaction, generative intelligence, and machine learning on the Azure cloud platform. Putting its initial focus on augmenting training at the company’s education center, Hamburger University, the team empowered students with AI assistants, enhanced search, and document translation. Now, these AI tools are helping McDonald’s China rapidly optimize efficiency across the organization.
+
+While the golden arches of McDonald's can be found in more than 40,000 locations worldwide, one of the company’s fastest-growing markets is China. The fast-food leader got its start there in 1990 and has around 6,000 restaurants on the Chinese mainland. The company plans to open 1,000 new restaurants across the country in 2024 and targets to reach 10,000 restaurants by 2028.
+
+Amid expansion, McDonald’s China remains committed to being a leader in innovation, using technology to elevate all levels of customer service, quality, and operational excellence while also empowering its employees. “Our brand mission is making delicious feel-good moments easy for everyone,” says Aaron Huang, Group Chief Financial Officer at McDonald’s China. “McDonald's China's current digital transformation also adheres to this mission, focusing on the characteristics of McDonald's business, fully embracing leading industry technologies, and continuously providing excellent and innovative digital user experiences for our customers and employees.”
+
+Core to McDonald’s China innovation is AI. The company wanted to explore how using AI could help it increase operational efficiency, reduce costs, and support more data-driven decision-making at scale. McDonald’s China also wanted to enhance the employee training experience and improve the speed of learning and development at its corporate education center in Shanghai: Hamburger University.
+
+“Through our long-term, established partnership with Microsoft, we wanted to find ways to use AI to transform operations, empower and train employees, and elevate every aspect of service across all locations in China,” says Eric Lin, Head of Omni-Channel Technology at McDonald’s China. “This includes IT, business processes and communications, and customer experiences.”
+
+In 2023, McDonald’s China, in collaboration with Microsoft, established the AI Lab to explore the practical implementation of AI in all McDonald's China locations. The Lab is part of the McDonald’s IT R&D team. Its focus is primarily on large language models, diffusion models for images, and digital personas, with the aim of integrating the powerful capabilities of AI into McDonald's China existing operations.
+
+The AI Lab group chose Microsoft Azure AI for its enterprise AI models, along with foundational models provided by Azure AI Speech and Vision. Azure AI Studio, Azure AI Search, and Azure AI Infrastructure are also a part of the lab’s generative AI stack. In addition, they are using GitHub Copilot to support more rapid coding, giving the team more time for problem-solving and drafting a clear roadmap to address priorities across the company, including business value, data access, and technology.
+
+“Utilizing Azure AI, we generated a catalog of over 20,000 APIs based on AI model designs for our R&D teams. The teams can now employ natural language code generation to simplify the development process and create solutions more efficiently,” says Lin.
+
+With GitHub Copilot, the team can use AI to check if API implementations align with Azure AI best design practices. This supports efficient API governance across the entire company. In addition, natural language processing and AI capabilities help facilitate rapid querying, composition, and code generation for APIs, thereby enhancing the level of design, development, and maturity of APIs.
+
+“Our developers can also rapidly augment operations within and across divisions and also easily add and enhance functionality at scale. This can assist the company in everything from launching new products to localizing content and quickly adapting to customer trends,” says Lin.
+
+The company started its AI transformation journey creating solutions to support employee training at Hamburger University. The school needed support in translating instructive documents from McDonald’s global training system. It also wanted to help employees find specific information quickly without having to look through many documents to find the answers they needed. The developer team employed Azure AI Search and Azure Kubernetes Service (AKS) to support search optimization and translation enhancement.
+
+During the learning process, Hamburger University students can easily search for core learning materials with natural language and use AI assistants to answer any questions related to course material, including restaurant operations. The translation capabilities of the large language models easily translate content into other languages for immediate use.
+
+Professors at China Hamburger University are also using AI to prepare new teaching materials in a more standardized and uniform format. “The transformation of training process into immersive gamified environments is giving professors at Hamburger University greater creativity and flexibility in course preparation,” says Lily Li, Vice President, Training, Learning, and Development at Hamburger University.
+
+“Azure AI is helping us create more flexible training options,” says Li. Employees can take classes at the Hamburger University campus and online, some self-paced. This is encouraging greater interest in training, and AI adoption, consumption, and retention (ACR) have skyrocketed from 2,000 to 30,000 employee transactions monthly. “AI enhances the efficiency of employee training and makes the entire experience more interesting and diverse by utilizing simulations and models that respond to the way employees engage,” says Li.
+
+The insights gained creating AI-enhanced employee training are helping McDonald’s China rapidly expand AI use across the organization. AI tools like Azure AI Search are supporting employees to complete day-to-day office tasks faster, supporting overall productivity. “In addition, our internal teams now receive support through semantic search and AI assistants for daily tasks,” says Huang. “As a result, we have been able to automate tasks and increase levels of operational efficiency, freeing employees to focus on higher value work, even within our R&D Technology team.”
+
+AI tools are also under consideration to augment everything from supply chain operations to personalized customer loyalty programs, even supporting marketing campaigns with copywriting and image generation. "We're also capitalizing on the capabilities of Microsoft 365 Copilot and GitHub Copilot to create immersive, gamified training scenarios that help employees gain advanced skills in service,” says Lin.
+
+Huang adds that these AI tools are also empowering employees to make data-driven decisions that can help reduce costs and further improve efficiency at scale. “We will soon be using AI tools in restaurant locations too. With staff already trained in the tools, we can be agile and accurate in assisting customers throughout the ordering, preparation, and delivery processes—ultimately enhancing customer satisfaction with the dining experience,” says Huang.
+
+“Collaborating with Microsoft and utilizing new technologies has enabled us to become a game-changer in our industry,” says Huang. “With Azure AI and GitHub Copilot, we’re not just optimizing our operations, we’re revolutionizing them. With the initial digital innovations we have achieved, we are excited to continue embracing and exploring AI innovations in greater depth in the future.”
+
+Find out more about McDonald’s China on LinkedIn.
+
+“Collaborating with Microsoft and utilizing new technologies has enabled us to become a game-changer in our industry. With Azure AI and GitHub Copilot, we’re not just optimizing our operations, we’re revolutionizing them.”
+
+Aaron Huang, Group Chief Financial Officer, McDonald's Group China

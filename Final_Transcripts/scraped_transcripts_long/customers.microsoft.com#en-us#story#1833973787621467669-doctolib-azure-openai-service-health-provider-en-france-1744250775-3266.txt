@@ -1,0 +1,43 @@
+URL: https://customers.microsoft.com/en-us/story/1833973787621467669-doctolib-azure-openai-service-health-provider-en-france
+Source: customers.microsoft.com
+Total Word Count: 850
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 847
+
+As one of the leading eHealth companies in France, Doctolib empowers healthcare practitioners to focus on what they do best: patient care.
+
+The company leverages Microsoft technologies to develop an AI-powered medical assistant, integrating both Azure OpenAI Service and Mistral Large on Azure.
+
+Medical consultations are now summarized in 15 seconds, allowing practitioners to spend twice as much time with patients.
+
+AI holds tremendous potential to transform the healthcare industry by improving care outcomes, patient experiences, and allowing them to deliver the best care possible. Since 2013, Doctolib has harnessed innovation to provide next-generation digital services, enhancing the daily lives of health professionals and improving patients' access to care. While technology advances, Doctolib’s purpose remains the same: build the healthcare patients all dream of. For the leading eHealth company, AI solutions are a means to facilitate further human interactions.
+
+With 1 million healthcare practitioners and 90 million patients using their platform across Europe, the company is now at the forefront of AI to go one step further in delivering on their promise. Leveraging Microsoft Azure AI technologies, the company has introduced a virtual assistant for medical consultations, enabling health professionals to concentrate more on their patients and less on administrative tasks.
+
+Improving patient care with Azure OpenAI Service and Mistral Large on Azure
+
+“Our mission is to help health professionals spend twice more time looking their patients in the eye rather than their computer screen,” explains Arthur Talpaert, Lead Product Manager at Doctolib. “What’s time-consuming for the practitioners is taking notes on the computer for the patient file and putting together the medical record.” With this ambition at heart, Doctolib leveraged Microsoft’s expertise and advanced AI technology to power its conversational agent. The assistant transcribes the consultation in real-time and turns it into a structured, relevant, comprehensible summary within only 15 seconds. Practitioners, on the other hand, will carry out the final step—carefully reviewing, editing, and validating medical information to be integrated directly in the patient’s file or shared with the patient.
+
+Based on a series of models including GTP-4o, available on Azure OpenAI Service, the Consultation Assistant consistently achieves a high-quality score in generating outputs, empowering practitioners to spend twice as much time interacting with their patients. “Physicians share their views that this is a major contributor to reducing their mental workload. They’ve regained a sense of appreciation for their work, they are reconnecting with their vocation,” explains Talpaert. Both the audio and the transcription are destroyed soon after the medical summary is checked by the practitioner who remains in the driving seat.
+
+A secure, compliant, and tailor-made applications to handle sensitive medical data with utmost responsibility
+
+In an industry where data safety and privacy are crucial, Doctolib entrusted Azure services’ state-of-the-art security measures, which include controls natively integrated into the hardware and firmware components. Microsoft solutions also come with the HDS certification, ensuring a reliable environment for storing and managing health data. The team faced the challenge of integrating various data types seamlessly, as the AI needed to process both speech and data from the patients' Electronic Health Records (EHR). “It’s complex in terms of the model, privacy security, and the ethical considerations of patient health data—to ensure full compliance with regulations and with our high ethical standards—but it was exciting to deep dive into these aspects from a technical point of view,” Talpaert says.
+
+The company also needed flexibility when it came to building and deploying the different models on Azure—and the level of data training personalization. The company chained different models—from Azure OpenAI Service to Mistral Large on Azure—and built the AI app responsibly through the comprehensive Azure AI Studio platform. To ensure the highest degree of accuracy, all these models were fine-tuned on proprietary data reannotated in-house and in the native French language. “There are a lot of controls from a data and AI point of view on the model precision in order to mitigate and avoid any medical risk,” notes Talpaert. “We have the flexibility of switching from one model to another with the same level of Provisioned Throughput Units (PTU) within Azure,” adds Dana Ghosn, AI Program Lead at Doctolib.
+
+Proven and trusted: a consultation assistant endorsed by hundreds of health professionals
+
+The company already beta-tested the assistant with over 400 voluntary health professionals over thousands of consultations per week, and received extremely positive feedback. The feedback from health professionals and patients is incredible, both in terms of patient care quality and work comfort. “It’s also a great added value for patients who have a stronger relationship with their practitioners and are getting from them a much more exhaustive medical report thanks to the assistant,” details Talpaert.
+
+In the future, the assistant will keep being enriched to further support health practitioners by helping with suggestions for the next best question in the patient’s medical history as well as assisting in the diagnosis.
+
+It’s also a great added value for patients who have a stronger relationship with their practitioners and are getting from them a much more exhaustive medical report thanks to the assistant
+
+Arthur Talpaert, Lead AI Product Manager, Doctolib

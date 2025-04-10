@@ -1,0 +1,45 @@
+URL: https://customers.microsoft.com/en-us/story/1772120481217819586-unumgroup-azure-insurance-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 1097
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1094
+
+Unum Group, an international provider of workplace benefits and services, is using Microsoft Azure solutions to support its mission of helping the working world thrive. The company sought to modernize the manual, time-consuming process of retrieving policy information for inquiries within AskUnum, its client support center. Using Azure OpenAI Service and other Azure offerings, Unum Group developed an AI-powered solution to streamline retrieval. The solution reduced response times to four to five seconds, significantly improving the client experience team’s efficiency and client satisfaction. Unum Group’s collaboration with Microsoft exemplifies its commitment to delivering modern, reliable services, setting the stage for future innovation.
+
+Unum Group, a forward-thinking insurance provider, wanted to improve efficiency within its Unum brand client support center. Client experience representatives needed to quickly access policy information buried within extensive document repositories, so the IT team sought to innovate.
+
+Turning to cloud-based AI offerings on Microsoft Azure, including Azure AI Search and Azure OpenAI Service, the team developed a generative AI-powered solution that was launched in record time. In fact, Unum Group’s team verified a successful proof of concept within two weeks and deployed a full solution within four months. As a result, its client experience representatives are now empowered to deliver faster responses to customer inquiries without sacrificing reliability, boosting employee satisfaction and improving the client experience. The success of Unum Group’s AI initiative has cleared a path toward further innovation.
+
+Unum Group has more than 175 years of industry experience and is committed to making a positive impact for its customers. Continually striving to enhance its operations, the company has been actively exploring AI and machine learning for the past decade. The company exemplifies what is possible with innovation and adaptability, achieving an international presence and a client base that, as of 2023, includes half of all Fortune 100 companies. “We want to deliver consistent, reliable, high-quality service to our clients and partners, so we’re always looking for ways to make it a better experience,” says Tim Harper, Vice President of Client Success Onboarding at Unum Group.
+
+Harper saw an opportunity to improve the customer support center, AskUnum, where client experience representatives had to manually sift through 300,000 digitized policies to locate pertinent information while responding to client inquiries. This process consumed valuable time and increased the risk of errors, undermining both employee efficiency and client satisfaction.
+
+The digital team was challenged to develop a solution and recognized the potential of AI technology. “When we have a step-change technology like generative AI, it makes it even more attractive and easier to accomplish outstanding things,” says Gautam Roy, Senior Vice President and Chief Technology Officer at Unum Group.
+
+Roy and his team pitched the idea of using generative AI and cloud technology, particularly Azure OpenAI Service, which presented new opportunities to employ advanced language-learning capabilities well-suited to handling language-based data. To access the technology, the team turned to Microsoft, with whom Unum Group already had a trusted relationship for business applications through Microsoft 365. Beyond providing secure access to Azure OpenAI Service, Microsoft offered pretrained language models and invaluable expertise to guide Unum Group through its AI implementation.
+
+Using Microsoft technology, the team successfully developed a proof of concept using 100 policies within a remarkably short span of two weeks. This rapid success instilled confidence in Unum Group’s leaders, prompting them to transform the prototype into a fully operational product. “The technology availability and maturity were perfect,” says Roshan Ramamoorthy, Assistant Vice President of IT Delivery at Unum Group. “We were confident enough to say, ‘We can take 1.3 terabytes of unstructured data, build an app, and deliver a critical business solution.’”
+
+The team prioritized delivering an accurate and useful product from the outset by building infrastructure to ingest large amounts of data. Scaling the solution to handle 300,000 policy contracts—composed of Microsoft Word documents and PDFs with complex grids—required creative problem-solving. Unum Group collaborated with Microsoft solutions architects to pioneer the use of AI in this context. “We received a lot of support from Microsoft. We were learning from them, and they were learning from us, too. It was a sort of symbiosis,” says Roy.
+
+The team used Azure AI Search to develop a unique approach to address the specificity and relevance of user queries. By building rich metadata and a sophisticated retrieval process, it achieved even higher accuracy and reliability. While testing during the pilot period, the team listened to feedback and refined its engineering to improve accuracy. Unlike building its own language model, which would take years, the team used pretrained models and adjusted prompts to manually boost accuracy and efficiency.
+
+The tool has reduced the average search response time to an impressive four to five seconds, while producing highly relevant results. “When we went live, we had 95% accuracy,” says Ramamoorthy. The tool’s intuitive nature has also facilitated quick adoption and training, garnering positive feedback from the workforce within the first week of its implementation. Employees trust the tool and feel that it has improved their jobs, and more than 90% of AskUnum employees are now using it. The AI-generated results address 75% of contract-related questions, freeing up time for employees to personalize solutions.
+
+Unum Group credits its success to internal team collaboration, supported by Microsoft. “We didn’t go into this looking to solve with AI. We defined what the problem was, and then we looked into the tools that were available. In our case, generative AI was a perfect use case,” says Roy.
+
+By implementing generative AI, Unum Group has seamlessly integrated cutting-edge technology into its operations with minimal employee training, enhancing internal processes and customer experiences. “Even though we’ve been here for 175 years, we want to deliver our services in a very modern manner,” says Abhi Gite, Vice President of Technology at Unum Group.
+
+The project’s success has gained attention, earning a Unum Group CEO award for innovation. Roy believes that effective generative AI integration relies on three pillars: a deep understanding of the technology; clean, usable data; and a robust governance framework, including the incorporation of human oversight and responsibility. With this holistic approach, Unum Group stands as a model for innovative and responsible AI use.
+
+“This underlines the spirit of Unum Group. For us, innovation is embedded in our culture. It is not something we need to think about; it is who we are,” says Roy.
+
+“We received a lot of support from Microsoft. We were learning from them, and they were learning from us, too. It was a sort of symbiosis.”
+
+Gautam Roy, Senior Vice President and Chief Technology Officer, Unum Group

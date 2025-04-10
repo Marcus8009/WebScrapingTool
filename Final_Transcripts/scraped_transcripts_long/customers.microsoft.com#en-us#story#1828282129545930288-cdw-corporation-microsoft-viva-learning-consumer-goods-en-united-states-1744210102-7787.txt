@@ -1,0 +1,59 @@
+URL: https://customers.microsoft.com/en-us/story/1828282129545930288-cdw-corporation-microsoft-viva-learning-consumer-goods-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 1098
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1095
+
+Technology solutions provider CDW Corporation (CDW) is embracing generative AI to power employee productivity and accelerate customers’ AI journeys.
+
+CDW is an early adopter of Microsoft 365 Copilot. To facilitate the digital transformation, the company provided robust training resources and established a collaboration venue on Microsoft Viva Engage.
+
+Microsoft 365 Copilot has significantly helped CDW achieve its goals by improving work quality for 88% of users, enabling 77% to complete tasks faster, and increasing productivity for 85% of users.
+
+Technology solutions provider CDW Corporation (CDW) is dedicated to helping its customers maximize the value of technology, and the company is on the leading edge of generative AI adoption. A longtime Microsoft partner and user, CDW became an early adopter of Microsoft 365 Copilot to develop firsthand experience that it could share with customers. With online training resources and a collaboration venue in place, CDW is eager to see how Copilot will drive productivity and innovation among its 10,000 employees, creating a ripple effect that will empower clients to achieve remarkable results.
+
+CDW is a multi-brand technology solutions provider for customers in the United States, the United Kingdom, and Canada, with more than 15,000 employees. The company helps its customers navigate an increasingly complex IT environment and maximize their technology investments. CDW is eager to be at the forefront of the AI era to boost internal productivity and better serve its clients with its own hands-on experience.
+
+As the use of generative AI–powered tools expanded in the industry, CDW realized that the most effective way to advise customers would be to develop firsthand experience. The company relied on Microsoft 365 for its daily workflows, making Microsoft365 Copilot a natural fit for its employees. CDW also valued the solution’s built-in security, knowing that the company’s information would remain private and confidential. “We can stay within a Microsoft365 environment that our information security team has already vetted, a crucial part of why we chose Copilot,” says Kelly Twomey Eidson, Manager of Enterprise Collaboration at CDW.
+
+We quickly found that this is not just a Microsoft 365 update. This is a brand-new way of working, and you have to change your behaviors and workflow to make Copilot an integral part of your daily life.
+
+Michael Kennedy, Vice President of Technology Enablement and Strategy, CDW Corporation
+
+CDW was an early adopter of Microsoft 365 Copilot, initially acquiring licenses to innovate with the new technology. As employees experimented with the tool and shared features like meeting summaries, excitement grew, leading to increased requests for access to finally rollout to 10,000 employees.
+
+By equipping its employees with Copilot, CDW can enhance customer service through firsthand experience and accelerate clients' AI journeys.
+
+The cornerstone of CDW’s successful program is its employee training and internal collaboration venues. Using online videos and resources available in Microsoft Viva Learning, employees must complete familiarity training before receiving Copilot. The company continues to provide additional tips and training opportunities so that employees can maximize the value of the solution.
+
+“We quickly found that this is not just a Microsoft365 update,” says Michael Kennedy, Vice President of Technology Enablement and Strategy at CDW. “This is a brand-new way of working, and you have to change your behaviors and workflow to make Copilot an integral part of your daily life.”
+
+The company also uses Microsoft Viva Engage for an internal collaboration space called Brainwave, where Copilot users can share practical tips and effective prompts and ask questions. For example, one employee wanted to use Copilot to take information from meeting attendees in Microsoft Outlook to create an agenda slide in Microsoft PowerPoint; the Brainwave community was able to recommend and refine a prompt to accomplish the task. “We’re really trying to build this community up and get champions sharing more resources,” says Eidson.
+
+We’re getting feedback from a lot of our coworkers that because Copilot takes the place of writing notes, they are much more present in a meeting. They’re listening and contributing to the meeting versus worrying about taking notes.
+
+Steve Staines, Head of Enterprise Collaboration, CDW Corporation
+
+Surveys from CDW’s pilot program show significant increases in productivity through various use cases. In the surveys, 88% of users report that Copilot helps them improve their work quality, and 77% say that they complete tasks more quickly. Additionally, Microsoft Teams meeting summaries generated by Copilot help employees focus on meaningful discussions, creating higher-quality, more effective meetings.
+
+“We’re getting feedback from a lot of our coworkers that because Copilot takes the place of writing notes, they are much more present in a meeting,” says Steve Staines, Head of Enterprise Collaboration at CDW. “They’re listening and contributing to the meeting versus worrying about taking notes.”
+
+Features such as email summaries and content creation are also boosting productivity and simplifying CDW employees’ daily routines. Among Copilot users, 80% report spending less mental effort on mundane tasks, and 85% say that Copilot helps them be more productive. With the ease of a prompt, employees can have Copilot summarize daily activity across emails, messages, and team chats and highlight any action items. “I’ve found that I’m much less reliant on search engines,” says Staines. “I go to Copilot and ask my questions to get information. It’s been a true assistant.”
+
+CDW’s firsthand experience with Copilot is also helping the company share its successes with customers and partner with them to accelerate their generative AI journeys. Sales personnel who use Copilot can share practical tips with CDW customers. “It pays dividends when we put the tools in the hands of our employees,” says Kennedy. “They can then better explain the benefits to our customers and help advance their perspective and strategy.”
+
+I cannot wait to see what 10,000 coworkers can accomplish with Copilot. I can’t even imagine the information and recommendations we will receive from Copilot in the future.
+
+Kelly Twomey Eidson, Manager of Enterprise Collaboration, CDW Corporation
+
+As CDW embraces AI technology and looks to the future, it is already beginning to explore other Microsoft Copilot solutions, such as GitHub Copilot and Microsoft Copilot for Security to streamline internal operations and customize solutions for clients.
+
+“We see a huge amount of potential on the horizon to promote Copilot,” says Kennedy. “It’s a step in AI fluency for CDW to understand the off-the-shelf capabilities that can unlock innovation.”
+
+The ongoing usage of Copilot within the company delivers significant time savings, fueling excitement and anticipation throughout the organization.“I cannot wait to see what 10,000 coworkers can accomplish with Copilot,” says Eidson. “I can’t even imagine the information and recommendations we will receive from Copilot in the future.”

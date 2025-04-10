@@ -1,0 +1,53 @@
+URL: https://customers.microsoft.com/en-gb/story/1770536569687978092-visier-solutions-azure-openai-service-professional-services-en-canada
+Source: customers.microsoft.com
+Total Word Count: 1437
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1434
+
+“We found GPT-4.0 Turbo on Azure OpenAI Service to be a fantastic resource that has really improved both the quality and the performance of our generative AI experience.”
+
+Adam Binnie, Chief Innovation Officer, Visier, Inc.
+
+People power businesses. Traditionally, companies have championed this belief through the lens of customer experience. But a growing number of companies have pivoted to consider what that means in the context of their employees. As Adam Binnie, Chief Innovation Officer at Visier, explains, “Without employees, the customer experience doesn’t work.”
+
+Technology, life sciences, retail banking, and other companies with highly skilled labor forces often face complex challenges around hiring, developing, and retaining talent. Since 2010, Visier has developed purpose-built solutions that deliver valuable people analytics. “Our mission is to show organizations how their people impact their business and how their business impacts their people,” says Binnie. “Imagine a frontline nurse manager—that’s an incredibly difficult and busy job. They need insight into which nurses might need career development or new certification opportunities, but they have pressing work in front of them and need a way to get to that information really easily.”
+
+Visier wanted every leader, manager, and employee to have an assistant they could call on to ask key questions, get intelligent responses, and make data-driven decisions without having to chase answers or go through intensive product training. That’s why it created its digital solution, Vee. Visier chose to build Vee using Microsoft Azure AI infrastructure, including Azure OpenAI Service, so that it could provide highly secure, reliable access to Vee for any organization, large or small. Using inputs from more than 50,000 customers, Visier trained Vee as a generative AI experience that unlocks all of those actionable insights and makes accessing people-related business, employee, and industry information remarkably simple, especially for companies that wouldn’t have enough data to train a model of their own.
+
+“With Vee, we can bring the incredible power of Azure generative AI to everyone to make a real difference in how people operate their business,” says Binnie. “That frontline manager in a hospital can use Vee to reach every level of their business and bring real frontline impact to both how their employees experience work and ultimately how their patients experience the organization.”
+
+In any given hour, Vee can process questions from up to 150,000 customers. Visier’s innovation and generative AI teams, led by Binnie and Chief Development Officer Ju Wu, have to ensure the company’s infrastructure can support demand, especially as its customer and data pool expand. “Customers are expecting a conversational experience that operates at the speed of thought,” says Binnie. “For many customers, if they don’t get immediate responses, they will never come back.”
+
+Visier prioritized robustly delivered enterprise-scale technology capabilities for Vee’s core language model. That led the company’s generative AI team to start working with GPT-3.5 Turbo on Azure OpenAI and then add GPT-4.0 Turbo for its go-live solution. Visier also now mixes guaranteed provisioned throughput (PTU) consumption models and pay-as-you-go (PAYG) deployments depending on the workload. “We have multiple agents doing jobs, and for different task complexities we choose different model capabilities,” says Wu, leader of the company’s generative AI initiative. “With Azure, it’s so easy for us to make that decision.”
+
+PTUs provide a two-second to four-second response time for the company’s average token size, while GPT-3.5 Turbo excels at an average of 600 milliseconds and GPT-4.0 Turbo achieves a two-second to three-second average with the company’s prompt size. A PAYG version of the PTU has an average response time of 10 to 12 seconds. “We have less-complex models that work very fast and are relatively inexpensive mixed with more expensive, powerful solutions. Azure gives us that choice and the flexibility to bring things together, so we don’t pass on excessive costs to our customers,” says Binnie. “We found GPT-4.0 Turbo on Azure OpenAI Service to be a fantastic resource that has really improved both the quality and the performance of our generative AI experience.” In fact, the company expects almost half of its compute load to be based on GPT-4.0 Turbo as it expands Vee across its entire customer base.
+
+Building up the AI infrastructure for Vee over the course of a year, Visier leaders grew passionate about what AI can do and how Azure makes their biggest dreams possible. The company gets five times better performance with Azure OpenAI compared to OpenAI alone and three times better performance using PTUs versus a PAYG model on GPT-4.0. “The Azure team shines in tuning the models and having all the resources to get them running effectively,” says Wu. “Compared to connecting directly, the minute you switch to Azure on the same models, including the PAYG model, you immediately see a big improvement on performance.”
+
+Vee offers multiple access points and eventual outputs that help customers get straight to the information they need. “People can come directly to our core experience, ask a question, and Vee will both attempt to directly answer and also start to compile a set of assets, including visualizations of insights,” says Binnie. “Vee essentially does reflective listening. We imagine it providing a similar experience to customers as they might get by talking with somebody from HR who explains and contextualizes information.”
+
+Visier has made Vee accessible from Microsoft Teams and started plans for additional Microsoft 365 connections. “We want to bring Vee to where people work—inside Microsoft 365, Teams, SharePoint, and so on,” says Binnie.
+
+With customers already asking Vee millions of questions every hour and every minute, new queries have grown in complexity as the tool has grown in its capabilities and overall capacity. But Visier designed Vee as an aggregator of anonymized information and insights. “Having collected answers for more than 14 years, we’ve got a really good idea of the breadth of questions we might get and how best to answer them without having to load up customers’ private data into the language model. The actual sourcing of the answers from the customers' data is done by the Visier platform. We then leverage firewalled models in Azure and provide a more private experience,” says Binnie.
+
+Visier appreciates the resilient Azure AI infrastructure, while the company’s customers enjoy a compelling experience that comes turned on and ready to use. Enterprise-grade security, privacy, and user access is also built into Visier’s foundational product to handle the intricacies of people data with Azure and the language model layered on top, unifying customer-informed and localized knowledge without requiring data retention. “Early on, customers’ first concern was not whether it would work but whether it was safe,” says Binnie. “Their instinct was that we’d make all that data available via a public language model. They felt a lot more secure when they learned we use Azure.”
+
+In addition to AI infrastructure, Visier has tapped Azure and the entire Microsoft ecosystem to help it grow as a cloud-first company. “Most of our Visier colleagues worked in the analytics space in the on-premises world, and our original plan was to be a software-as-a-service business born in the cloud,” says Binnie. “We hosted our own infrastructure and built our own cloud, but now we are looking to tap into the incredible security, robustness, and manageability provided by Azure.”
+
+Committed to continuous improvement and innovation, Visier now works with Azure AI and Microsoft product teams to proactively address model changes and adopt other performance-driven suggestions. “Seeing how powerful these Azure models have become really opened up our thoughts on how far this can go and how fast we can use this technology to achieve our mission,” adds Binnie. Visier also continues to evaluate new competition in AI models, but, as Wu shares, “Still today, Azure OpenAI Service stands out in comparisons of performance and capability.”
+
+Underscoring Visier’s success is the high quality answers Vee provides and the impressive speed at which it produces responses—both sustainable feats with Azure. “We see massive expansion in how many people use Vee and how much impact it’s having on their businesses and how they deliver these insights at scale,” says Binnie. “We’re also keen to connect to Azure Marketplace, Microsoft Fabric, and other analytical infrastructure within Azure.”
+
+Concludes Binnie, “We think Azure AI will be the vehicle that makes it even clearer how we drive effectiveness for employees at every level and that makes transformational change more accessible to everybody.”
+
+Find out more about Visier on X, Facebook, LinkedIn, and YouTube.
+
+“With Vee, we can bring the incredible power of Azure generative AI to everyone to make a real difference in how people operate their business.”
+
+Adam Binnie, Chief Innovation Officer, Visier, Inc.

@@ -1,0 +1,51 @@
+URL: https://customers.microsoft.com/en-us/story/1744468024452864249-kantar-windows-11-professional-services-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 1531
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1528
+
+To achieve its vision of delivering an employee experience that rivals the simplicity and ease of use of the best consumer experience, Kantar moved from on-premises to cloud-based Intune endpoint management. In preparation for its deployment of Windows 11 Enterprise, the company spun up Windows 365 Cloud PCs—and is harnessing the power of generative AI with Copilot. In addition to reducing costly, time-consuming IT processes, these benefits enabled Kantar to boost productivity for employees—translating an improved employee experience into impactful outcomes for its clients.
+
+Based in the United Kingdom and with a presence in over 90 markets globally, Kantar Group is a data, insights, and consulting company that helps brands shape their future. After splitting from its parent company WPP in early 2020, Kantar embarked on a mission to modernize its legacy infrastructure and IT roadmap to stay at the forefront of their constantly evolving industry.
+
+To achieve its vision of delivering an employee experience that rivals the simplicity and ease of use of the best consumer experience, Kantar moved from on-premises to cloud-based Intune endpoint management. In preparation for its deployment of Windows 11 Enterprise, the company spun up Windows 365 Cloud PCs—and is harnessing the power of generative AI with Copilot. In addition to reducing costly, time-consuming IT processes, these benefits enabled Kantar to boost productivity for employees—translating an improved employee experience into impactful outcomes for its clients.
+
+In separating from WPP, Kantar faced a decision—to continue with on-premises management of its Windows 10 legacy environment, or to set out on the path to cloud management with Microsoft Intune and deploying Windows 11 Enterprise. Prab Greenwood, Kantar’s Head of Digital Workspace, recognized this corporate realignment as an opportunity to revamp their IT strategy, and embarked on a mission to upgrade both the IT infrastructure and employee experience. “We wanted to move to modern management with Intune, be fully Entra ID-joined, and implement zero-touch provisioning with Windows Autopilot,” she explains. “And then the question was—are we going to do all that work for Windows 10? It was an obvious decision to move to Windows 11 and take advantage of its full set of capabilities.”
+
+Previously, provisioning PCs was a manual process where IT spent several hours of engineering work on each device before handing it over to an employee. Additionally, on-premises device management created challenges for Kantar offices where IT was not present on site full-time, requiring employees who needed support to wait until a support engineer was available. Multiplying this by the 30,000 employees across the UK, the US, Asia, and Europe meant a significant time burden for IT. “Our goal was to create a foundation that would set the company up for success for the next decade,” says Alex Edwards, Modern Workplace Consultant at Kantar. “We were keen to get rid of the legacy way of doing things and stay ahead of the curve with Windows 11, especially before Windows 10 end of support in 2025.”
+
+Greenwood is confident in their ambitious decision to modernize Kantar’s IT infrastructure. "The corporate technology experience should match or exceed what you expect from a consumer experience. With Windows 11 Enterprise, Windows 365, and Copilot, we are moving the needle to a simple, frictionless experience that rivals advances in personal technology."
+
+Having gone through several OS upgrades during her career, Greenwood has seen the upgrade journey evolve away from the traditional process that was planning and labor-intensive. Greenwood’s team conducted application testing and worked with App Assure to ensure application compatibility but found that there weren’t significant disruptions. “We were quietly confident that we could make the shift without a full-scale upgrade project, and without some of the complexities that we’d seen in previous upgrades,” she asserts. “We’re not seeing negative impacts from the change, and it’s allowed us to move at speed.”
+
+Kantar began deploying Windows 11 Enterprise in 2023, with phased rollouts planned through 2024. Edwards cites moving its endpoints to Intune and Entra ID (formerly Azure Active Directory) as a major enabler of their shift away from the legacy service desk experience. “Transitioning to the cloud means you’re always connected and can deploy and manage devices anywhere with ease. Intune allowed us to manage both sides while transitioning from a Windows 10 legacy environment to Windows 11, and now we manage and deploy all our applications through Intune.”
+
+Zero-touch provisioning has also played a critical role in accelerating deployment of Windows 11 Enterprise. “With Windows Autopilot, the device can ship directly to the employee’s home address from the manufacturer, pre-provisioned and ready for user setup straight out of the box—it’s a much slicker experience,” says Edwards. Coupled with changes such as employee self-service portals for application downloads, this has already reduced the need for central IT support.
+
+Kantar’s north star for improving IT operations includes taking advantage of what is already included in their E5 license to enhance security across the organization. “Part of this effort has been trying to get the most value out of the money we’re spending with Microsoft and maximizing usage of existing licensing, instead of spending more on third-party applications,” says Edwards. “Because we wanted optimal security, Windows 11 Enterprise was an easy decision.”
+
+The company is using Microsoft Defender for Endpoint, while features such as Virtualization-Based security and Credential Guard are enabled to protect corporate endpoints and data. Password management also became much easier. “Windows Hello for Business allows employees to log in much more securely with a biometric or a PIN so that they don’t need to remember a password. And with Windows Local Administrator Password Solution (LAPS), IT can issue temporary administrator access for passwords, while remaining compliant,” Edwards explains.
+
+So far, Kantar’s decision to move to Windows 11 Enterprise has been paying off. “Teams integrations into the desktop and snap features really make it a more productive and personalized experience for our colleagues,” shares Greenwood. “We’re also looking into the improved Windows 11 accessibility features and how it can help our colleagues who need them.” The overall ease of use and seamless transition to the new OS has also garnered positive feedback and is reflected in Kantar’s digital experience monitoring reports. “The change was intuitive,” says Greenwood. “We’ve put Windows 11 out there, and like our meeting room experiences, it’s pretty simple—click and go.”
+
+Edwards reflects that deploying modern technologies means removing barriers and investing in the employees who use it. "From a security point of view, we've implemented the end-to-end suite of new security features of Windows 11 Enterprise, all invisible to the end user. From an employee experience point of view, I think investing in employees is great for staff retention and attracting new talent.”
+
+The company has realized their goal of improving the experience for both IT and employees. IT hours are reduced, saving money. Edwards says, "Financially, a frictionless provisioning and update experience reduces the engineering burden. The money saved can be invested in better devices for employees. Senior management moved from spending $600 to $1,200 and giving people a higher-spec laptop. The total cost of ownership (TCO) is lower because the device will last four or five years and employees feel proud to have them."
+
+By the end of 2023, the company upgraded to Windows 11 Enterprise and spun up 1,000 Windows 365 Cloud PCs, which it is piloting for mergers, acquisitions, and divestments. Kantar has been particularly pleased by the pilot running Windows 11 on Windows 365 Cloud PCs and plans to accelerate deployment through the end of 2024. When complete, Kantar's modernization will have replaced one third of their global device fleet: 10,000+ devices, and 10,000 devices upgraded. In addition to its digital workplace, Kantar is updating its physical workspaces into smart meeting rooms with Surface Hubs and Teams Rooms.
+
+Kantar’s modernization efforts and deployment of Windows 11 Enterprise have also helped the company stay agile in being able to adopt new technologies as they emerge. “Windows 11 Enterprise has provided a strong foundation for using the tools that are essential to our business, while enabling us to adopt innovations like Microsoft Copilot,” remarks Sally Penson, Head of Transforming Delivery – UK Insights. In her daily workflows, she uses Copilot for Microsoft 365 to analyze survey data in Microsoft Forms, recap meetings, and create reports. Already, she has been able to reap significant time-savings benefits. “Copilot’s ability to call out key actions and summarize content has been transformational. It frees up my time to use my expertise to create more value, and spend less time on lower value activities, and instead focus on what drives impact and drives change for our clients.”
+
+“It’s all about the art of the possible,” explains Greenwood. “By equipping our teams with the best tech, we’re amplifying what already makes us a world leader in brand insights. Our goal is always simpler, stronger, removing friction—we don’t stand still.”
+
+Find out more about Kantar on X (Twitter), Facebook, and LinkedIn.
+
+“The corporate technology experience should match or exceed what you expect from a consumer experience. With Windows 11 Enterprise, Windows 365, and Copilot, we are moving the needle to a simple, frictionless experience that rivals advances in personal technology.”
+
+Prab Greenwood, Head of Digital Workspace, Kantar

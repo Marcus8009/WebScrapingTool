@@ -1,0 +1,55 @@
+URL: https://customers.microsoft.com/en-us/story/1835402038421112318-zurich-azure-openai-service-insurance-en-switzerland
+Source: customers.microsoft.com
+Total Word Count: 841
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 838
+
+With customers describing their needs in images, emails, and reports using their local language, Zurich Insurance Group recognized the challenge to translate unstructured data into a rules-based environment.
+
+Zurich Insurance Group turned to tools such as Microsoft Azure OpenAI Service for its advanced language AI, text-to-speech models, and highly secure, enterprise-grade Azure features.
+
+Zurich Insurance Group is developing advanced AI applications that lead to more accurate and efficient risk management evaluations, accelerating the underwriting process, reducing turnaround times, and increasing customer satisfaction.
+
+Insurance matters, offering individuals, small businesses, and multinational organizations protection. It provides a safety net customers hope they never need, but it must be crafted with care and precision. For this reason, the future of insurance demands simplified, flexible, and meaningful services. Striving to be one of the most responsible and impactful businesses in the world, Zurich Insurance Group (Zurich) identifies and addresses risk together with its customers.
+
+Christian Westermann, Group Head of AI at Zurich, says, “Our work goes beyond traditional protection. Insurance today is generating predictions based on sheer amounts of data, helping customers see around corners and increase resilience.”
+
+When seeking coverage, insurance customers often describe their situation with images, using their local language, so it can be challenging to translate this unstructured data into a rules-based environment. As a leading global insurer, Zurich must constantly look for ways to boost operational efficiency, accelerating processes like underwriting to serve customers more quickly.
+
+“Underwriting is the core of what we do. It’s all about making decisions based on risk, and it can be pretty intricate and time-consuming. To deliver even more value to our customers, we have been speeding up our processes and anticipating customer needs through data insights,” says Penny Seach, Group Chief Underwriting Officer at Zurich.
+
+Working to get information faster, Zurich wanted to transform how and how quickly the company serves its customers, making real-time access to data and analytics critical to its mission.
+
+Zurich continuously innovates, and in deploying AI across its value chain, the organization is improving risk assessment and increasing personalization. Working closely with companies like Microsoft, Zurich is making a significant impact across its global, decentralized footprint, setting new standards within a more secure, trusted, scalable environment.
+
+One of the key areas where Zurich is focusing its AI efforts is in underwriting. By adopting tools like Microsoft Azure OpenAI Service, Zurich is developing advanced AI applications that lead to more accurate and efficient evaluations. This not only improves the quality of risk assessments but also accelerates the underwriting process. The result is reduced turnaround times and increased customer satisfaction.
+
+Westermann says, “The new GenAI capabilities allow us to build bespoke, multimodal tools that benefit our underwriters and customers. But even going beyond helping underwriters, we are driving GenAI adoption throughout the insurance value chain, ultimately supporting our customers to become more resilient.”
+
+With the insurance industry being inherently language-heavy and multimodal, Zurich is using Azure OpenAI Service to understand the many languages within its global footprint.
+
+“We provide insurance to our customers in locations all over the world, and they often give us a lot of different data: reports, images, emails—all in different languages and formats. By embracing tools like Azure AI, we're able to make better sense of a complex world,” says Westermann.
+
+We provide insurance to our customers in locations all over the world, and they often give us a lot of different data: reports, images, emails—all in different languages and formats. By embracing tools like Azure AI, we’re able to make better sense of a complex world.
+
+Christian Westermann, Group Head of AI, Zurich Insurance Group
+
+Through its longstanding collaboration with Microsoft, Zurich continues to set new benchmarks for innovation, efficiency, and customer satisfaction. Bringing its ideas to fruition, Zurich has more than 200 AI tools currently deployed.
+
+“Azure AI can act like a coach, guiding our underwriters across the globe. Underwriters become the best at what they do with experience, and we're seeing AI help them gain that experience. They're asking better questions, understanding their customers more quickly, and driving customer satisfaction to new heights,” says Seach.
+
+Zurich continues to push the boundaries of what's possible, delivering exceptional service and driving positive industry change. As Zurich moves forward, it remains dedicated to customers at every step. Whether the customer is a global corporation, a small company, or an individual, Zurich is helping customers anticipate and adapt.
+
+Westermann concludes, “Collaborating with companies like Microsoft helps us ensure our customers feel even more valued and understood. This isn't just innovation; it's a transformation. And we're not just keeping up with change in our industry—we're leading it.”
+
+Azure AI can act like a coach, guiding our underwriters across the globe. Underwriters become the best at what they do with experience, and we’re seeing AI help them gain that experience. They’re asking better questions, understanding their customers more quickly, and driving customer satisfaction to new heights.
+
+Penny Seach, Group Chief Underwriting Officer, Zurich Insurance Group
+
+Discover more about Zurich Insurance on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.

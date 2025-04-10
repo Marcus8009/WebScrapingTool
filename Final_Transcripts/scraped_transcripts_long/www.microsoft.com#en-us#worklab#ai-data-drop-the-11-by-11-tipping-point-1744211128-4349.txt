@@ -1,0 +1,52 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-data-drop-the-11-by-11-tipping-point
+Source: microsoft.com/worklab
+Total Word Count: 759
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 756
+
+Our new research reveals how to build an AI habit.
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+Since we first introduced Copilot to our earliest customers, we’ve been closely studying how people are using AI at work—what’s going well, where there are challenges, and what early behaviors can teach us about adopting and rolling out AI broadly. And we want to share what we’re learning with leaders who are looking to drive AI adoption with their own people. Up first: the findings we call “the 11-by-11 tipping point,” which show the time it takes for you and your people to start building an AI habit. Let us explain.
+
+What we did: We asked 1,300 Microsoft 365 Copilot users across different functions and industries about AI’s impact on their productivity, work enjoyment, and more. Then we analyzed which factors were more likely to influence these outcomes.
+
+What we found: A time savings of just 11 minutes a day was the magic number where users started to see value from AI.
+
+To be clear, most people actually saved more time each day: the most efficient users saved 30 minutes a day, the equivalent of 10 hours a month, while the average person saved 14 minutes a day, or nearly five hours each month. But according to our research, 11 minutes of time savings is all it takes for most people to feel like AI is useful—the key to getting a habit to stick.
+
+And as it turns out, 11 is an important number. We also found that 11 weeks is the breakthrough moment at which most people say Copilot improves four key areas at work: productivity, work enjoyment, work-life balance, and the ability to attend fewer meetings. Thus, the 11-by-11 tipping point.
+
+Making Work Better
+
+Over the course of about one business quarter (11 weeks), Copilot users saw improvement in four key outcomes: productivity, meeting relief, work enjoyment, and work-life balance.
+
+A set of four bar charts showing that Copilot users see improvements on key outcomes over the course of a business quarter. Over the course of 6, 10, and more than 10 weeks, 67%, 70%, and 75% of users say they are more productive; over the course of 6, 10, and more than 10 weeks, 45%, 49%, and 57% of users say it helps them enjoy work more; over the course of 6, 10, and more than 10 weeks, 23%, 27%, and 34% of users say it helps them have better work-life balance; over the course of 6, 10, and more than 10 weeks, 18%, 22%, and 37% say they are able to attend fewer meetings.
+
+Why it matters: Just 11 minutes a day of time savings over 11 weeks of usage is the magic formula for unlocking Copilot value. That means that in a little less than a business quarter, most of the Copilot users at your company can form an AI habit—one that can power your organization to new heights.
+
+So how do you get people to 11-by-11? First, find the easy wins that immediately save 11 minutes a day. To model how to catch up on missed meetings, tell your people not to worry about taking notes or listening to the recording, and instead ask AI to recap the key points. Executives can use it to summarize long documents or drawn-out email chains. Think about examples specific to different roles too: recruiters, for instance, can easily save 11 minutes by using AI to write up job descriptions. By narrowing in on those use cases that deliver from the start, your people will more quickly save 11 minutes a day.
+
+Second, encourage them to stick with it until they’ve used AI for 11 weeks. Remind them that this is a new way of working and it takes time to build new habits—and model that behavior through your continued use of AI.
+
+Over 11 weeks, that 11 minutes a day adds up to 10 hours saved—or one whole work week each year. That’s a habit we can get behind.
+
+Methodology: The ongoing Copilot Usage in the Workplace survey launched in September 2023. It surveys both Microsoft employees and early users of Copilot at other companies, mostly in North America and Europe. All users included in the analysis had been using Copilot for at least three weeks.
+
+Want more great insights on where work is headed?
+Subscribe to the WorkLab newsletter.
+
+Framework
+
+Working Smarter

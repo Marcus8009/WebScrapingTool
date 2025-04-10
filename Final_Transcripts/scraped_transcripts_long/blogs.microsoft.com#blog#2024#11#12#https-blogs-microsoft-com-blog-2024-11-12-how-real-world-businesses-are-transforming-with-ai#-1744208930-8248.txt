@@ -1,0 +1,55 @@
+URL: https://blogs.microsoft.com/blog/2024/11/12/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/
+Source: blogs.microsoft.com
+Total Word Count: 723
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 720
+
+Mar 10, 2025 | Alysa Taylor - Chief Marketing Officer, Commercial Cloud & AI
+
+Updated March 10, 2025: The post contains more than 140 new customer stories, which appear in italics at the beginning of each section of customer lists. The post will be updated regularly with new stories.
+
+One of the highlights of my career has always been connecting with customers and partners across industries to learn how they are using technology to drive their businesses forward. In the past 30 years, we’ve seen four major platform shifts, from client server to internet and the web to mobile and cloud to now — the next major platform shift to AI.
+
+As today’s platform shift to AI continues to gain momentum, Microsoft is working to understand just how organizations can drive lasting business value. We recently commissioned a study with IDC, The Business Opportunity of AI, to uncover new insights around business value and help guide organizations on their journey of AI transformation. The study found that for every $1 organizations invest in generative AI, they’re realizing an average of $3.70 in return — and uncovered insights about the future potential of AI to reshape business processes and drive change across industries.
+
+Check out the top 5 AI trends to watch from IDC and Microsoft
+
+Today, more than 85% of the Fortune 500 are using Microsoft AI solutions to shape their future. In working with organizations large and small, across every industry and geography, we’ve seen that most transformation initiatives are designed to achieve one of four business outcomes:
+
+In this blog, we’ve collected more than 400 of our favorite real-life examples of how organizations are embracing Microsoft’s proven AI capabilities to drive impact and shape today’s platform shift to AI. Today, we’ve added new stories of customers using our AI capabilities at the beginning of each section. We’ll regularly update this story with more. We hope you find an example or two that can inspire your own transformation journey.
+
+Generative AI is truly transforming employee productivity and wellbeing. Our customers tell us that by automating repetitive, mundane tasks, employees are freed up to dive into more complex and creative work. This shift not only makes the work environment more stimulating but also boosts job satisfaction. It sparks innovation, provides actionable insights for better decision-making and supports personalized training and development opportunities, all contributing to a better work-life balance. Customers around the world have reported significant improvements in employee productivity with these AI solutions:
+
+New Stories:
+
+We’ve seen great examples of how generative AI can automate content creation, ensuring there’s fresh and engaging materials ready to go. It personalizes customer experiences by crunching the numbers, boosting conversion rates. It makes operations smoother, helping teams launch campaigns faster. Plus, it drives innovation, crafting experiences that delight customers while lightening the load for staff. Embracing generative AI is key for organizations wanting to reinvent customer engagements, stay ahead of the game and drive both innovation and efficiency.
+
+New Stories:
+
+Transforming operations is another way generative AI is encouraging innovation and improving efficiency across various business functions. In marketing, it can create personalized content to truly engage different audiences. For supply chain management, it can predict market trends so companies can optimize their inventory levels. Human resources departments can speed up the hiring process, while financial services can use it for fraud detection and risk assessments. With generative AI, companies are not just refining their current processes, they’re also discovering exciting new growth opportunities.
+
+New Stories:
+
+Generative AI is revolutionizing innovation by speeding up creative processes and product development. It’s helping companies come up with new ideas, design prototypes, and iterate quickly, cutting down the time it takes to get to market. In the automotive industry, it’s designing more efficient vehicles, while in pharmaceuticals, it’s crafting new drug molecules, slashing years off R&D times. In education, it transforms how students learn and achieve their goals. Here are more examples of how companies are embracing generative AI to shape the future of innovation.
+
+New Stories:
+
+CTAs:
+
+IDC InfoBrief: sponsored by Microsoft, 2024 Business Opportunity of AI, IDC# US52699124, November 2024
+
+Tags: AI, AI Azure, Azure OpenAI Service, Copilot, Copilot Studio, Microsoft 365 Copilot
+
+Oct 29, 2024 | Judson Althoff
+
+Oct 1, 2024 | Microsoft Corporate Blogs
+
+Sep 26, 2024 | Robert Dahdah
+
+Follow us:

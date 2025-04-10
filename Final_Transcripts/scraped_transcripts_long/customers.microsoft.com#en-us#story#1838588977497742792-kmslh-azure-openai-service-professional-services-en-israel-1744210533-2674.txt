@@ -1,0 +1,45 @@
+URL: https://customers.microsoft.com/en-us/story/1838588977497742792-kmslh-azure-openai-service-professional-services-en-israel
+Source: customers.microsoft.com
+Total Word Count: 883
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 880
+
+KMS Lighthouse helps companies retrieve and share enterprise knowledge. Always seeking innovation, it aimed to enhance its knowledge management platform to provide more efficient content creation and advanced AI capabilities for its global clientele across various industries.
+
+Microsoft Teams and Dynamics 365 integration enabled users to leverage KMS Lighthouse without having to switch applications. And with Azure OpenAI Service, companies can create relevant content more quickly within the KMS Lighthouse application.
+
+KMS Lighthouse enhanced access to its solution through Azure Marketplace, resulting in $1 million in new business within months. Its customers report a 70% reduction in onboarding times, a 40% reduction in call center wait times, a 150% growth in productivity authoring content, and a 150% rise in customer satisfaction.
+
+KMS Lighthouse is a global technology company specializing in organizational knowledge management solutions. It helps workers—from customer service agents to field service technicians—retrieve crucial information faster, improving service quality and accuracy. Serving a global client base in industries like telecommunications, financial services, insurance, and healthcare, it counts GE HealthCare and Orange Telecom among its notable clients.
+
+The company's platform also features content management tools for easy creation and organization of knowledge articles and documentation. Additionally, built-in analytics offer insight into usage, content effectiveness, and customer interactions to facilitate data-driven decisions.
+
+One of the biggest selling points of KMS Lighthouse is its large variety of integrations, making it accessible across diverse channels and solutions. "We deliver consistent knowledge across all customer touchpoints, including call centers, websites, mobile apps, and chatbots," explains Sagi Eliyahu, Chief Executive Officer at KMS Lighthouse.
+
+KMS Lighthouse established a strategic partnership with Microsoft as early as in 2019. This collaboration enabled the company to extend its highly scalable solution using Microsoft Azure. It also enabled KMS Lighthouse to connect its knowledge management solution with various Microsoft platforms.
+
+For instance, the KMS Lighthouse integration for Microsoft Teams lets employees search and access relevant knowledge snippets and decision trees directly within Teams. “This integration helps users avoid wasting time searching for information and reduces potential errors when accessing critical knowledge,” shares Eliyahu. The company also offers a native integration with Dynamics 365, which enables users to easily access relevant knowledge directly within customer service cases or sales opportunities. A customer service agent can quickly pull up knowledge articles or frequently asked questions (FAQs) related to the issue they are resolving, without leaving the Dynamics 365 interface, where case information is being held. This saves workers time and improves workflow efficiency by keeping everything in one place.
+
+As the company started growing globally, it introduced KMS Lighthouse as a transactable application on Azure Marketplace in 2021, making it more readily available to users. “For large companies, enterprises knowledge management has become ever more critical. The availability of KMS Lighthouse on the Microsoft Azure Marketplace brings our solution to all Azure customers, increasing our impact,” shares Yair Cohen, Cloud Strategic Alliances Manager at KMS Lighthouse.
+
+By making KMS Lighthouse more accessible through the Azure Marketplace, the company has also seen tremendous business growth. "We've seen an increase in demand for our solution on the Azure Marketplace," shares Doron Gower, Chief Solution Architect at KMS Lighthouse. "Our net new business exceeded $1 million in the first few months."
+
+We've seen an increase in demand for our solution on the Azure Marketplace. Our net new business exceeded $1 million in the first few months.
+
+Doron Gower, Chief Solution Architect, KMS Lighthouse
+
+Average increase in customer satisfaction scores
+
+Always seeking to pioneer new technologies, KMS Lighthouse was intrigued by the potential of Azure OpenAI Service. "We decided to integrate Azure OpenAI into KMS Lighthouse to assist companies with the content creation process," shares Gower. The integration of AI helps content authors be more efficient while maintaining human oversight for accuracy. Azure OpenAI Service assists companies with generating summaries or automatic responses, enhancing content within knowledge articles and producing FAQs and answers. It also empowers their clients to quickly find answers to their questions in relevant articles or resources, helping them resolve issues on their own.
+
+Using the knowledge management solution has brought many benefits to KMS Lighthouse customers. “Today, KMS Lighthouse users increase their productivity by 150% thanks to our solution’s smart search functionalities, content structuring, and machine learning capabilities,” says Eliyahu. “Our customers also train their customer service agents 70% faster, as they have all the information at their fingertips when talking to clients. There’s no need to memorize content.” Clients can also find answers to their questions themselves without help from an agent, cutting call center holding times by 40%. As a result, customer satisfaction scores have gone up by 150% on average.
+
+Improvements weren't limited to office workers; some frontline workers and field technicians from KMS Lighthouse’s customers also benefited from access to manuals, troubleshooting guides, and real-time information. The solution enabled them to resolve issues efficiently, leading to a 60% reduction in overall time on site and boosting first-time fix rates up to 95%.
+
+With such success, KMS Lighthouse looks to driveinnovation further. "Our customers find the synergy of KMS Lighthouse and Microsoft a game changer," reflects Eliyahu. Building on this momentum, the company plans to deepen its partnership with Microsoft. "We plan to continue the evolution of our solution by adding more layers of Azure OpenAI," Eliyahu concludes.

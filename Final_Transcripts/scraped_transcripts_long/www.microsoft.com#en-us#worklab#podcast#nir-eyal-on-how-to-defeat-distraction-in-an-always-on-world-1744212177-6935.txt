@@ -1,0 +1,47 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/nir-eyal-on-how-to-defeat-distraction-in-an-always-on-world
+Source: microsoft.com/worklab/podcast
+Total Word Count: 839
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 127
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in our new world of work.
+NIR EYAL: We have reactive work, and we have reflective work—reacting to notifications, reacting to emails, reacting to what your colleagues and boss wants. That’s reactive work. We have to spend some amount of our time reacting to our customers and clients’ needs. But, if you don’t also have time for reflective work—planning, strategizing, creative work, and thinking requires us to do so without distraction. If you don’t schedule that time, you’re going to run real fast in the wrong direction. 
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 712
+
+Podcast
+
+The bestselling author ofHooked explains how AI can help you form good habits to regain focus and learn on the job.
+
+WorkLab Podcast Guest Nir Eyal
+
+January 3, 2024
+
+Nir Eyal is a bestselling author and entrepreneur with a special expertise in how to make products and services engaging and habit-forming. In his book Indistractable: How to Control Your Attention and Choose Your Life, he harnessed that expertise to develop simple guidelines on how we can maintain focus and tune out the ubiquitous distractions that buffet us all day, every day.
+
+Eyal is the last guest for season 5 of the WorkLab podcast, in which host Molly Wood has conversations with economists, technologists, and researchers who explore the data and insights about the work trends you need to know today—from how to use AI effectively to what it takes to thrive in our new world of work.
+
+Three big takeaways from the conversation:
+
+Eyal points out that we often convince ourselves we are being productive when we’re actually being distracted. He differentiates between reflective work, the kind where you think deeply and really get things done, and reactive work—reacting to notifications, emails, office chatter. “We have to spend some amount of our time reacting to our customers and clients’ needs,” he says. “But strategizing, creative work, and thinking requires us to do so without distraction. So you’ve got to plan at least some time in your day for that reflective work.”
+
+He’s been touting the huge potential for business applications of AI for over a decade, and he predicts that we’ll soon begin to harness the power of generative AI to help us stay focused and working on the things we want to prioritize. “What I could see happening someday is that we have these little AI assistants who know our greater intentions, who know what our schedule should look like, and who help us formulate how we can turn our values into time,” he says. “They can help keep us accountable and say, ‘Hey, I see you’re doing this thing as opposed to the thing you planned to work on, is that what you really want to be doing?’”
+
+Eyal is a strong believer in timeboxing, arguing that filling in the white space in your calendar is how you mindfully determine what you want to focus on, and also the best way to pinpoint when and how you get distracted. He also points out that watching TikTok clips and surfing social media is not a distraction if you actually build time for it into your day. “Dorothy Parker said that the time you plan to waste is not wasted time,” he says. “So if you have planned time in your calendar to watch something online, or to go on social media, or to play a video game, that’s great.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the episode 8 conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in our new world of work.
+
+NIR EYAL: We have reactive work, and we have reflective work—reacting to notifications, reacting to emails, reacting to what your colleagues and boss wants. That’s reactive work. We have to spend some amount of our time reacting to our customers and clients’ needs. But, if you don’t also have time for reflective work—planning, strategizing, creative work, and thinking requires us to do so without distraction. If you don’t schedule that time, you’re going to run real fast in the wrong direction.
+
+Business strategist Erica Keswin explains the need for more humanity in the workplace—not in spite of generative AI, but because of it. Plus, a new framework for employee retention.
+
+If business leaders prioritize human-first technology, says Microsoft's Chief Scientific Officer, society is bound to flourish.

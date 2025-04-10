@@ -1,0 +1,45 @@
+URL: https://customers.microsoft.com/en-us/story/1776965075841351020-petrochemical-industries-company-microsoft-365-energy-en-kuwait
+Source: customers.microsoft.com
+Total Word Count: 911
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 908
+
+In the petrochemical industry, staying ahead means leveraging cutting-edge technology. Petrochemical Industries Company (PIC) has done just that, transforming its operations with Copilot for Microsoft 365. From drafting emails to generating complex documents in minutes, Copilot has not only enhanced productivity and data security but also fostered a more professional communication style across the company.
+
+A subsidiary of Kuwait Petroleum Corporation (KPC), the Petrochemical Industries Company (PIC) is a petrochemical industry leader in the Middle East and across the globe. With more than five decades of experience, PIC specializes in the manufacturing and marketing of petrochemicals. The company leverages its resources and partnerships to provide high-quality products to its customers, regardless of geographical location.
+
+In late 2022, PIC laid the groundwork for its digital transformation, with a focus on intelligent automation. "This approach involved shared objectives for the KPC group as a whole and digital plans specifically for PIC. We wanted to streamline processes by automating time-consuming tasks and cutting down on manual effort," explains Reyadh Ali Albaqshi, Information and communication Technology Manager at PIC. “We engaged with multiple vendors, including Microsoft. We realized that Microsoft 365 Copilot aligned well with our goals and requirements, as well as provided the necessary level of security.”
+
+PIC’s technology team was aware that the best way to introduce such an innovative tool was by securing buy-in across all levels of the organization. They saw the potential business value in Copilot for Microsoft 365 and knew that they had to convey its importance to others to ensure adoption. To encourage this, PIC undertook a phased rollout and comprehensive support strategy. Each rollout included targeted training sessions that were instrumental in building enthusiasm for and competency in Copilot among PIC employees.
+
+Microsoft 365 Copilot quickly gained the endorsement of various departments. PIC teams started relying on it for everything from reviewing and summarizing documents to drafting emails and storytelling. “Copilot for Microsoft Teams and Word addresses diverse departmental needs, from finance to those engaging directly with data in Excel,” notes Maisa Bakhesh, Team Leader of Infrastructure, Security, Business Continuity, and Communication at PIC. Remarkably, PIC’s strategy also contributed to a notable increase in the use of Microsoft 365 applications, especially Teams and OneDrive, further boosting productivity. “Because Copilot uses the information available within the user’s account to fetch relevant answers, people started using all of Microsoft 365 apps much more,” adds Bakhesh.
+
+With Microsoft 365 Copilot, PIC’s daily operations and communication have been streamlined, bringing a new level of efficiency. PIC’s team can now save time on previously time-consuming manual tasks, enabling them to focus more on high-value, creative work. Copilot has not only enabled PIC teams to communicate faster and speed up repetitive processes, it has also freed them up to be more creative and inclusive by helping them do more in less time. “It used to take us at least a week to prepare documents, like requests for proposals and quotations. Now, we can do it in a day or faster,” explains Bakhesh. PIC’s commercial department used to spend a lot of time generating meeting minutes. With Copilot, the meeting minutes are ready for them right after the pre-tender meeting.
+
+Microsoft 365 Copilot even assists PIC’s team in swiftly crafting creative drafts. “Drafting a speech would usually take at least one day. With Microsoft Copilot, it took less than five minutes,” shares Lulwa Abdullah, Team Leader of Applications at PIC. The corporate communication department also uses Copilot to write articles and posts for social media.
+
+“It used to take us at least a week to prepare documents, like requests for proposals and quotations. Now, we can do it in a day or faster.”
+
+Maisa Bakhesh, Team Leader of Infrastructure, Security, Business Continuity, and Communication, Petrochemical Industries Company (PIC)
+
+The introduction of Microsoft 365 Copilot has simplified repetitive tasks and enhanced the quality of PIC’s work. Bakhesh notes, "When preparing various documents, Copilot often suggests potentially overlooked clauses, enabling us to be more thorough. We've also received feedback that our company-wide correspondences sound and look more professional, thanks to Microsoft 365 Copilot’s assistance. "
+
+Importantly, the migration has instilled a sense of security to PIC. “Some of our employees experimented with free generative artificial intelligence (AI) tools available online, but we were concerned that this would expose confidential information,” remarks Bakhesh. The secure Microsoft 365 environment eased PIC’s concerns. Bakhesh emphasizes, "Microsoft 365 Copilot keeps our information secure and confidential."
+
+“Microsoft 365 Copilot keeps our information secure and confidential.”
+
+Maisa Bakhesh, Team Leader of Infrastructure, Security, Business Continuity and Communication, Petrochemical Industries Company (PIC)
+
+Looking ahead, PIC continues to embrace AI across the organization. It also intends to draft an AI policy to guide ethical and responsible use. "We want users to be aware of its risks and potential biases, such as plagiarism or data validity. We are working to ensure that users are aware of the dos and don'ts with Copilot," Bakhesh reveals. PIC is also considering integrating Microsoft Fabric with Copilot, which will enhance decision-making processes through advanced data queries and AI.
+
+"Any organization needs to be using AI in some form. If we don't change, we don’t move forward. I'm glad that we’re pioneering AI at PIC," concludes Reyadh Ali Albaqshi.
+
+“Any organization needs to be using AI in some form. If we don't change, we don’t move forward. I'm glad that we’re pioneering AI at PIC.”
+
+Reyadh Ali Albaqshi, Information and Communication Technology Manager, Petrochemical Industries Company (PIC)

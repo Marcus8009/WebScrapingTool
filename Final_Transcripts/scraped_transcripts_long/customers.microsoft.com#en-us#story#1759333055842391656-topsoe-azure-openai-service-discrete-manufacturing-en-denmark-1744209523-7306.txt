@@ -1,0 +1,65 @@
+URL: https://customers.microsoft.com/en-us/story/1759333055842391656-topsoe-azure-openai-service-discrete-manufacturing-en-denmark
+Source: customers.microsoft.com
+Total Word Count: 1471
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1468
+
+Topsoe is at the forefront of catalysis and process technology. The company's goal is to be the global leader in carbon emission reduction technologies by 2024. Its aspiration to benefit from the latest technology extends to communications and IT, and the company saw an opportunity to promote the large-scale adoption of AI tools across its organization. In just seven months, Topsoe went from knowing little about AI technology and governance to 85% of the office employees using AI solutions. In addition, a comprehensive program of training continues to add to the pool of AI knowledge and expertise as employees embrace and explore the transformative potential of OpenAI and ChatGPT technology and new tools are developed.
+
+"With generative AI, we are facing a development in artificial intelligence that rivals the impact of the internet. We should view this as a similar transformation to when the internet became widely accessible to everyone, transitioning from being a specialized discipline to something that anyone could utilize.”
+
+Morten Holm Christiansen, Chief Transformation Officer at Topsoe, is commenting on the difference generative AI can make at his company and the initiative he undertook to start AI adoption across Topsoe.
+
+“You can choose between either sitting and waiting to see how it unfolds, or you can try to push it in relation to the potential benefits we can derive from it. Of course, we should push forward, we should be proactive, because we can turn it into a competitive advantage for Topsoe,” he adds.
+
+Like many other companies in its sector, Topsoe has been waking up to the possibilities that AI offers and has been working with Microsoft to embrace it.
+
+Jesper Krogh, Digitalization Director R&D at Topsoe, adds: “AI has quite literally transformed the world in the past year, and we simply can’t afford to miss out. That’s why we decided to introduce our colleagues across the organization to this new technology, how it behaves, and what it can do for us.”
+
+Topsoe is a leading global provider of technology and solutions for the energy transition. The company delivers catalysis and process technology within chemical processing, hydroprocessing and emissions management and electrolysis for the Power-to-X industry. Located in Denmark, Topsoe currently employs 2,800 employees who operate out of 15 offices worldwide, generating approximately $1 billion in revenue.
+
+Topsoe has the ambition to become the global leader in carbon emission reduction technologies by 2024, and digital innovation is part of the strategy. In recent years, this ambition has spurred the organization to take a close look at AI and what it could do for business. “We were looking for ways to support our processes to make them more automated and work smarter, and Microsoft offered a known and trusted secure set-up,” explains Merete Langseth, Head of the Office of the CIO at Topsoe.
+
+"At the time, we had a good working relationship and a solid track record with Microsoft going back years. It was clear that the language model from OpenAI was revolutionary, and their partnership with Microsoft enabled us to integrate it into the best possible setup. Jesper Krogh adds, “Our first step—creating an internal version of ChatGPT for Topsoe through Azure OpenAI endpoints—was therefore able to get up and running pretty fast.”
+
+As it started planning for the rollout, Topsoe realized soon enough that this was new technology with no known standard way to start the implementation. For this reason, the company decided to take a company-wide, collaborative approach to promoting the use of this revolutionary technology.
+
+"We took the bold step of involving the entire company in the deployment. We went to all the business areas and collected use cases, talked to them about what business benefit we could get out of this technology."
+
+“So from the very start, we factored in business needs and requirements and probed where AI could be of value,” explains Merete Langseth. Morten Holm Christiansen concurs: “The best thing about involving employees is that they have hands-on experience with the tasks at hand. They are the experts, and of course, I trust that they also know how it can best benefit them in their daily work.”
+
+After use cases were defined, it became clear that deployment should occur via two distinct tracks—one for specialist needs and another relating to more general use and governance. “Some solutions were tailor-made for a very narrow audience internally. For example, one use case was a Topsoe-specific job posting generator, so relevant for 100 to 200 people."
+
+“But other generative AI tools would come through existing software vendors like Microsoft and support productivity gains for processes that were relevant for most global companies. This needed a governance track where we looked at generative AI in general and who should own it, support it, and take decisions on the business value of it,” Merete Langseth explains.
+
+Another key to the swift deployment was the close working relationship Topsoe had with trusted supplier twoday, who not only helped cobuild the solution by bringing key experience and expertise to the project but also served as an advisor in structuring and choosing the use cases with the highest potential for feasible implementation and significant business impact. Both companies recognize the value of the close working relationship the teams enjoyed and the outstanding synergy that it helped create.
+
+Jakob Ladekær, Head of AI at twoday, explains: “We worked as a unified team toward shared goals and quickly discovered a positive collaborative feeling around the projects, with different individuals bringing their own expertise. And that's exactly what great teams need.”
+
+The Topsoe internal ChatGPT went live in July 2023, with 65% of the employees soon using the platform. Focusing uptake on just white-collar workers, the number rises to an incredible 85% across the organization.
+
+The solution is already proving a huge success—enabling a safe platform for the entire organization to increase their personal productivity and get familiar with the new possibilities of generative AI. The easy single sign-on access and secure environment were welcomed from all sides in the organization, and employees were happy to be given clear directions and be encouraged to use this new technology.
+
+On top of that, Topsoe has since used AI to develop a range of solutions, including a job post assistant and a manual design tool, with more—including a science article and a proposal assistant—in the pipeline. “We also have one to help us with operating procedures for our production lines, and we are planning for them all to go live in 2024,” states Jesper Krogh.
+
+The recognition of Topsoe’s achievements went beyond its staff and technological partners. The company scooped an award at Denmark’s prestigious Digital Competences 2023 event held in Copenhagen. The prize, named "This Year’s Digital Competency Boost," was awarded to highlight Topsoe’s efforts to build internal AI competencies through training and upskilling its employees digitally.
+
+“Employee courses in AI happen every 14 days, and we have created a safe environment within the company where the employees can try out the many new options,” Jesper Krogh explains. “By giving employees the opportunity to explore and create use scenarios, we have fostered curiosity and interest in what they can do with AI. And that has great value.”
+
+Like many organizations adopting this relatively recent technology, Topsoe is at the beginning of its AI journey but has already made great strides forward. This is not only in terms of the technical prowess but also its commitment to cultural change and training. Both will help ensure staff can develop new use cases for the technology and apply AI to novel situations as it evolves and its potential expands.
+
+“We have to spend time looking at what is coming and what other companies are doing. For example, there are visual applications developing. Perhaps that could in the future be interesting for engineering drawings. Another opportunity is OpenAI’s new GPT repository where people could make their own GPTs. We’ll need to consider how to incorporate that into our landscape and into our model,” comments Merete Langseth.
+
+Jesper Krogh emphasizes that applying AI to new scenarios will entail continued adoption of the right technological solutions, and gives an example:
+
+“We have been looking at foundational model for segmenting images coming off our electron microscopes. And we are in the process of evaluating a neural network model that can help do mechanical design for engineering components. So there's an awful lot of really strong advancements that can hit the core business significantly over the coming years, and we are very keen on following up on that.”
+
+“AI has quite literally transformed the world in the past year, and we simply can’t afford to miss out. That’s why we decided to introduce our colleagues across the organization to this new technology, how it behaves, and what it can do for us.”
+
+Jesper Krogh, Digitalization Director R&D, Topsoe

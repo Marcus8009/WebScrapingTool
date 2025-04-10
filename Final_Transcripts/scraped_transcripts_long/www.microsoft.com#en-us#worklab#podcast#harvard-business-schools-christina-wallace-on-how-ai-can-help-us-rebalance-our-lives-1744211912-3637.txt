@@ -1,0 +1,47 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/harvard-business-schools-christina-wallace-on-how-ai-can-help-us-rebalance-our-lives
+Source: microsoft.com/worklab/podcast
+Total Word Count: 831
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 132
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to how to empower people for flexible work. 
+CHRISTINA WALLACE: Identity historically in America is very tied to our jobs. But if you can develop an identity that is so much broader than just how you monetize your time today, you have, individually, a ton more optionality and flexibility in how you might need to zig and zag. And as an organization, if you have inculcated this culture, you now have an organization that is able to zig and zag much more fluidly because you’re all on the same team, and you’re all rowing in the same direction. 
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 699
+
+Podcast
+
+Advice for leaders on building a diversified “portfolio life,” and rethinking careers and growth for the AI-powered work.
+
+WorkLab Guest Christina Wallace
+
+October 18, 2023
+
+Christina Wallace is a Harvard Business School instructor, serial entrepreneur, and author of the book The Portfolio Life. Wallace discusses how leaders and individuals should rethink careers and personal growth in AI-powered work. She also talks about the joy of seeing her students grasp the potential of AI, and how all of us can use AI as not just a virtual assistant but a “virtual chief of staff,” freeing up more time for the creative thinking and serendipity we’ll need to adapt to the constantly evolving world of work—and to simply rest and recharge.
+
+Wallace is the third guest for season 5 of the WorkLab podcast, in which host Molly Wood has conversations with economists, technologists, and researchers who explore the data and insights about the work trends you need to know today—from how to use AI effectively to what it takes to thrive in a digital age.
+
+Three big takeaways from the conversation:
+
+In her book, Wallace lays out a vision of a life in which career, personal life, and side interests are constantly rebalanced like the elements of a well-managed financial portfolio. “If you can develop an identity that is so much broader than just how you monetize your time today, you have a ton more optionality and flexibility in how you might need to zig and zag to survive moments of disruption. And if you have inculcated this culture in your organization, your organization is able to zig and zag much more fluidly because you’re all rowing in the same direction.”
+
+Wallace describes how she believes AI tools will be integrated into our work processes in the same way that spreadsheets and calculators once were. “It doesn’t mean we don’t teach arithmetic anymore,” she notes. “It just means once we teach the backbone of it, once you understand the concepts and how the pieces fit together, you can go faster and then build a financial model off of that instead of doing it all by hand.”
+
+Wallace describes how she’s witnessed her students at Harvard Business School grasp the greater potential of AI, and how she’s seen academics reshape their instructive models and their homework assignments to reflect the role that AI plays in the research and writing process. “I think we’re starting to really unlock the power of using it almost as a partner, as a collaborator,” she says. “You can actually use it to get to the so what? questions. Don’t just find me all of the search results—parse them, find the connections, and after having correlated these things for me, then I can use that information to make a judgment call.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the episode 3 conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab, we hear from experts about the future of work, from how to use AI effectively to how to empower people for flexible work.
+
+CHRISTINA WALLACE: Identity historically in America is very tied to our jobs. But if you can develop an identity that is so much broader than just how you monetize your time today, you have, individually, a ton more optionality and flexibility in how you might need to zig and zag. And as an organization, if you have inculcated this culture, you now have an organization that is able to zig and zag much more fluidly because you’re all on the same team, and you’re all rowing in the same direction.
+
+He helped transform how we collaborate. Now he's taking us behind the scenes on how AI is reshaping work
+
+There’s a lot to look forward to if business leaders act out of excitement, not fear

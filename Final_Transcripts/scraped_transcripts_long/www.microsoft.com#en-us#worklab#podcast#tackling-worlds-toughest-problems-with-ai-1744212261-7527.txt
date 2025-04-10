@@ -1,0 +1,46 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/tackling-worlds-toughest-problems-with-ai
+Source: microsoft.com/worklab/podcast
+Total Word Count: 1033
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 159
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age. Today I’m talking with Juan Lavista Ferres, Microsoft Chief Data Scientist and the director of the AI for Good Lab at Microsoft. Lavista Ferres co-founded the lab in 2018 and leads its team of dedicated data scientists and researchers who use AI to help address challenges around the globe, working especially closely with government agencies and nonprofits. In this episode, we discuss how AI is being applied to everything from increasing biodiversity to preserving cultural artifacts to medical research. Juan also shares some responsible AI practices and the business value of AI adoption. Please note that our conversation does veer into some heavy topics, including Sudden Infant Death Syndrome. Here’s my conversation with Lavista Ferres. 
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 874
+
+Podcast
+
+The head of Microsoft’s AI for Good Lab shares how the technology is helping to address intractable global challenges—and what all leaders can learn from those efforts.
+
+WorkLab Guest Juan Lavista Ferres
+
+October 23, 2024
+
+“With artificial intelligence and data at our fingertips, we now have the tools to address the world’s most pressing problems. We no longer have excuses.” That’s the message of Microsoft Corporate Vice President and Chief Data Scientist of our AI for Good Lab Juan Lavista Ferres. He leads a team of data scientists and researchers who partner with organizations like the UN, the American Red Cross, and the Nature Conservancy to help them understand how to use AI to further their humanitarian missions. 
+ 
+Lavista Ferres recently co-authored the book AI for Good: Applications in Sustainability, Humanitarian Action, and Health. He joined us on the podcast to share key insights from the book and highlight what business leaders can learn from the lab’s efforts to harness technology to make the world a better place.
+ 
+Four big takeaways from the conversation: 
+ 
+AI is a huge unlock for data at any organization. Lavista Ferres says he realized the impact that AI could have on data science when he was telling medical researchers how algorithms could help them extract new insights from vast amounts of CDC data. “A lot of organizations have a significant amount of unstructured data, whether it’s images or video or text, and until very recently that was very difficult to work with,” he says. “Now, thanks to large language model AI, that is changing. Suddenly we have a new tool in our toolbox and we are able to solve problems we couldn’t solve before.” 
+ 
+AI can be a great leveler. “I think these AI models have a huge potential to help with the digital divide,” Lavista Ferres says. “In many ways, human-computer interaction will become much easier, much more natural, and that is going to change the way a lot of people live and work.” But, he notes, to use the technology you need to be able to get your hands on it. “This technology is great as long as you have access. So I think that one of the critical aspects for the world is to ensure that we provide everyone with these tools.” 
+ 
+AI is a game changer for accessibility. “I’m not a native speaker of English, but when you’re working in an organization or publishing research, you are expected to have very good English,” Lavista Ferres says. He explains that AI is an invaluable editing tool that he uses on a daily basis, and that’s just the tip of the iceberg in terms of the impact that AI is having on accessibility. “I think anybody that wants to know how AI is changing the world should talk to people with disabilities,” he says. “There are 1.3 billion people who live with disabilities, and I would say this is really a huge game changer for a lot of those communities.” He cites as an example vision-impaired friends of his who are using AI to help them parse their surroundings and navigate the world. 
+ 
+Nonprofits need AI at work for the same reasons all organizations do. While the AI for Good Lab assists organizations with disaster response projects, climate change initiatives, and healthcare research, Lavista Ferres stresses that a key way in which AI can aid them is by helping with the same sort of resource-intensive day-to-day tasks most companies face. “We need to make sure that every single person at a nonprofit is as productive as possible,” he says. “My wife runs a nonprofit bilingual school, and from reviewing documents to sending emails to applying for grants, these tools help them a lot.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age. Today I’m talking with Juan Lavista Ferres, Microsoft Chief Data Scientist and the director of the AI for Good Lab at Microsoft. Lavista Ferres co-founded the lab in 2018 and leads its team of dedicated data scientists and researchers who use AI to help address challenges around the globe, working especially closely with government agencies and nonprofits. In this episode, we discuss how AI is being applied to everything from increasing biodiversity to preserving cultural artifacts to medical research. Juan also shares some responsible AI practices and the business value of AI adoption. Please note that our conversation does veer into some heavy topics, including Sudden Infant Death Syndrome. Here’s my conversation with Lavista Ferres.
+
+The TikTok superstar and former creative executive shares his unique career journey and leadership insights.
+
+Psychologist and author Tomas Chamorro-Premuzic explains how AI can unlock greater performance.

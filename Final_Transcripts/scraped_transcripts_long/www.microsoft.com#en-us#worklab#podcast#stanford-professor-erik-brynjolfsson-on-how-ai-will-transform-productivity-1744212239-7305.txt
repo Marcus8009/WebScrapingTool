@@ -1,0 +1,47 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/stanford-professor-erik-brynjolfsson-on-how-ai-will-transform-productivity
+Source: microsoft.com/worklab/podcast
+Total Word Count: 814
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 154
+
+ELISE HU: This is WorkLab , the podcast from Microsoft. I’m your host, Elise Hu. On WorkLab my co-host Tonya Mosley and I hear from leading thinkers on the future of work. They all share surprising data and explore the trends transforming the way we work. This season we’ll be focusing on the recent breakthroughs in artificial intelligence. As we enter this new era of AI, more people are discovering its potential to boost their productivity and take care of the more tedious tasks.
+ERIK BRYNJOLFSSON: The changes that are happening right now, they’re affecting almost every part of the economy, and many of them are quite different than what happened in the previous 10 years. I think these tools can, and hopefully will, lead to more widely shared prosperity. If we play our cards right, the next decade could be some of the best 10 years ever in human history.
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 660
+
+Podcast
+
+What leaders must do to harness the full potential of the coming AI revolution
+
+WorkLab Guest Erik Brynjolfsson
+
+March 22, 2023
+
+Erik Brynjolfsson has said, “AI won’t replace managers, but managers who use AI will replace those who don’t.” Brynjolfsson is a researcher, author, professor, senior fellow at the Stanford Institute for Human-Centered AI, and director of the Stanford Digital Economy Lab. For the better part of four decades, Brynjolfsson has been researching and writing about the ways digital technology is transforming business strategy, productivity, and digital commerce. He joined WorkLab to offer business leaders an overview of how AI will transform productivity: how it will augment what we can accomplish at work, reduce the frustrations and disconnections of the hybrid era, and create new careers and economic opportunities.
+
+Brynjolfsson is the first guest for season 4 of Microsoft’s WorkLab podcast, in which hosts Elise Hu and Tonya Mosley have conversations with economists, designers, psychologists, and technologists who explore the data and insights into why and how work is changing.
+
+Three big takeaways from this conversation:
+
+Brynjolfsson is bullish on the potential of recent breakthroughs in large language model AI. “They’re affecting almost every part of the economy,” he says. “I think these tools can and hopefully will lead to more widely shared prosperity. If we play our cards right, the next decade could be some of the best 10 years ever in human history.”
+
+He believes that we will unleash the real power of AI when we use it to complement what humans do, rather than simply automating tasks that humans perform. “Many people, I think, have a failure of imagination and assume we’ll use AI to produce the same things but with fewer workers. In fact, if you look through history, most technologies have ended up complementing humans rather than substituting for them.”
+
+He says AI chatbots have already transformed the way he does his job. “I find that it’s already affecting the way I assign homework and the way that the students do their homework,” he says. “When I’m teaching my class in the spring, I’m going to tell the students, go ahead and use the technology. But I expect your essays to be that much better than the kids’ last year. In fact, I’ve already put the questions through the ChatGPT and the other tool, so I know what a conventional answer would be. That’s your starting point.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the episode 1 conversation.
+
+ELISE HU: This is WorkLab , the podcast from Microsoft. I’m your host, Elise Hu. On WorkLab my co-host Tonya Mosley and I hear from leading thinkers on the future of work. They all share surprising data and explore the trends transforming the way we work. This season we’ll be focusing on the recent breakthroughs in artificial intelligence. As we enter this new era of AI, more people are discovering its potential to boost their productivity and take care of the more tedious tasks.
+
+ERIK BRYNJOLFSSON: The changes that are happening right now, they’re affecting almost every part of the economy, and many of them are quite different than what happened in the previous 10 years. I think these tools can, and hopefully will, lead to more widely shared prosperity. If we play our cards right, the next decade could be some of the best 10 years ever in human history.
+
+With a little self-work, examining our past mistakes can transform and empower our future
+
+An expert on commercial real estate shares the trends and offers advice on how to make informed decisions about space

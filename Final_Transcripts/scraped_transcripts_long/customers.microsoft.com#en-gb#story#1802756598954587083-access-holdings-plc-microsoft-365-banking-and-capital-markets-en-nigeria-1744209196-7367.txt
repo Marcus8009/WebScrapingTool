@@ -1,0 +1,47 @@
+URL: https://customers.microsoft.com/en-gb/story/1802756598954587083-access-holdings-plc-microsoft-365-banking-and-capital-markets-en-nigeria
+Source: customers.microsoft.com
+Total Word Count: 966
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 963
+
+Access Holdings Plc. is a leading multinational financial services group serving over 56 million customers with services like commercial banking, lending, payments, insurance, and asset management. To address challenges in data management, meeting productivity, and app or software development, the company adopted Copilot for Microsoft 365. With generative AI capabilities integrated into daily tools, staff are more engaged in meetings and can analyze data faster. Writing code now takes two hours instead of eight, chatbots can be launched in 10 days instead of three months, and presentations can be prepared in 45 minutes instead of six hours.
+
+Headquartered in Lagos, Nigeria, Access Holdings Plc. operates a network of more than 600 branches and service outlets, spanning three continents, 18 countries, and 56+ million customers. It employs more than 28,000 people in its operations in Nigeria and is currently listed on the Nigerian Exchange Limited (formerly Nigerian Stock Exchange).
+
+Over the past 30 years, Access Holdings has evolved from a small Nigerian bank into a world-class African financial institution. “Like any leading organization, Access Holdings aims to quickly adapt to new technology trends, especially those proven to be highly beneficial like generative artificial intelligence (AI),” shares Lanre Bamisebi, Executive Director, IT and Digitalization at Access Holdings Plc. “This enables us to mainstream sustainable business practices to support our growth.”
+
+Access transitioned into a holding company to drive rapid growth and become a full-scale ecosystem player offering interconnected services across customer needs. Established in 2022, Access Holdings Plc. consists of the Access Bank Group, a Payment and Switching Services Company, a Digital Lending Company, a Pension Fund Company, and an Insurance Brokerage Company.
+
+"To inspire everyone in the organization to take advantage of AI, we knew we had to integrate AI into the tools people use every day. Copilot for Microsoft 365 made the most sense and was a natural fit for us," explains Bamisebi.
+
+The holding company started by training its executive directors and then the general managers to use Copilot. "According to our surveys, some of our employees were afraid of AI because they disliked change, and others feared their jobs might be at risk. The training we conducted aimed to reassure them,” Bamisebi notes. “The training also helped us gather use cases from the participants. We were amazed how people who didn't know how to use AI just a couple of hours before could suddenly come up with different ways to incorporate it into their work.”
+
+In the first three months, Access Holdings saw the benefits of Copilot for Microsoft 365 across its operations. Developers, for instance, now use Copilot to shorten the development lifecycle. "Rather than writing every line of code from scratch, developers can get an outline of code from Copilot and make edits. This can reduce an eight-hour timeline to about two or three hours," Bamisebi elaborates. Developers also use Copilot to review their existing code for efficiency, improving stability and availability by foreseeing potential system issues with predictive analysis.
+
+Using Copilot also helps Access Holdings accelerate project timelines. One of the team’s projects, a chatbot, has seen faster integration and development with its AI assistant. “Typically, a project of this nature might take two to three months, but with Copilot, it can be completed in approximately 10 days,” estimates Bamisebi.
+
+“Typically, a project of this nature might take two to three months, but with Copilot, it can be completed in approximately 10 days.”
+
+Lanre Bamisebi, Executive Director, IT and Digitalization, Access Holdings Plc.
+
+Additionally, staff benefits from the Copilot integration into Microsoft Teams, especially for online meetings that have many people in attendance. “With Copilot summarizing meeting minutes and highlighting important points, our staff can focus more on the conversation rather than note-taking,” Bamisebi adds. "Currently Copilot helps increase the engagement level of our staff during meetings by about 25%.”
+
+“Currently Copilot helps increase the engagement level of our staff during meetings by about 25%.”
+
+Lanre Bamisebi, Executive Director, IT and Digitalization, Access Holdings Plc.
+
+The company’s data science team relies on Copilot to extract insights from mountains of data. Access Holdings also noted a marked productivity increase in preparing reports and presentations. Bamisebi shares an example: "One of our executives had to present to investors. She used Copilot to quickly analyze the report, highlight its strengths and weaknesses, and rework the presentation with an analyst. What would have taken five or six hours, took just 45 minutes with Copilot."
+
+For staff with packed daily agendas, Copilot has proven invaluable. It helps streamline collaboration by summarizing chats, emails, and meetings, and ensures that no action items fall through the cracks. "Recently, I took a week off. Unlike my other vacations, this time I was able to just relax,” reflects Bamisebi. “I knew that as soon as I’m back, Copilot will help me catch up with anything that I’ve missed."
+
+For data security, Access Holdings has a dedicated Copilot environment that ensures information does not leak outside the organization or between user groups. Queries, interactions, and activities conducted with Co-pilot are managed exclusively by Access Holdings Plc.
+
+While it’s too early to quantify cost-savings, Bamisebi expects them to be substantial, “For example, a developer could also take on testing tasks. This could lead to about 25% enhanced staff efficiency and reduced technology operating costs.”
+
+Access Holdings is poised to continue its technological evolution. "One of the things I've always wanted to measure is the overall effectiveness of our technology," says Bamisebi. The company aims to develop metrics to gauge efficiency and ensure minimal bugs in generated code. “In only a few months, we’re able to make better decisions, analyze large sets of data, have more engaged discussions, and collaborate more smoothly. After a year, we are sure to see even bigger gains in efficiency and cost savings," concludes Bamisebi.

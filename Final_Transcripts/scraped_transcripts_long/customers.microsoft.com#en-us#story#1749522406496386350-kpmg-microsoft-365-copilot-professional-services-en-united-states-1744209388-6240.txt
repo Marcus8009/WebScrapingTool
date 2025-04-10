@@ -1,0 +1,88 @@
+URL: https://customers.microsoft.com/en-us/story/1749522406496386350-kpmg-microsoft-365-copilot-professional-services-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 1995
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1992
+
+For nearly a decade, KPMG Australia has used AI technologies to increase the efficiency, accuracy, and quality of a range of data discovery tasks. Seeing the potential of generative AI to further enhance its services, the firm tested offerings from multiple vendors before deciding to build a proof of concept of its ESG Comply AI platform using Microsoft Azure OpenAI Service, Azure AI Search, and Copilot for Microsoft 365. Guided by natural language prompts that subject matter experts enter, the compliance checker performs advanced text analysis of dozens of client source documents to identify full or partial compliance, or noncompliance, in a fraction of the time required for manual assessments. The organization is looking to use Comply AI and Copilot to transform how employees work by expediting data discovery, automating time-consuming administrative tasks, and enhancing collaboration with clients and coworkers.
+
+“In Copilot, you can actually understand what the AI tool is doing, rather than simply relying on results published to the user. We strongly believe that the AI capability that Microsoft, especially in the generative AI space, has to offer is first class.”
+
+Shahab Dayani, Director, Data Analytics and AI, KPMG Australia
+
+Judging from the news, it might seem that AI has just joined the mainstream in the last year or two. The truth is, AI has been evolving for more than a decade. As a top-tier global professional services firm, KPMG has been exploring and using AI for data analytics in its global audit, tax, and advisory services since 2016.
+
+The KPMG organization consists of member firms operating in more than 143 countries, each a legally distinct and separate entity responsible for its own obligations and liabilities. All share a common purpose and set of values, and all rely on innovation and best-in-class technology to help their clients mitigate risks and realize opportunities. Those member firms also see responsible AI as a critical competitive advantage in building trust and creating increased value for stakeholders.
+
+Throughout its AI exploration, KPMG has focused on building a trusted framework of policies and practices for how to use AI responsibly and ethically. Early on, it established AI councils at the country and global levels to review potential use cases for their adherence to responsible AI criteria. Primarily, AI councils evaluate whether the potential solution improves productivity and efficiency, increases quality and accuracy, enhances the wellbeing of employees and clients, and generates deeper insights.
+
+Having found significant value from early AI technologies such as natural language processing and machine learning, KPMG member firms around the world, led by KPMG Australia, decided to expand their investigation. Specifically, they wanted to determine how to responsibly apply generative AI to expedite many manual tasks.
+
+“We’ve created a trusted AI framework, used globally across KPMG, that considers the safety, risk, ethics, and other factors of venturing into generative AI to make sure that we’re doing it the right way and creating a safe environment for our staff and our clients,” explains Sophie Papworth, Senior Manager of Research, Strategic Design, and Product Strategy at KPMG Australia.
+
+“We’ve created a trusted AI framework, used globally across KPMG, that considers the safety, risk, ethics, and other factors of venturing into generative AI to make sure that we’re doing it the right way and creating a safe environment.”
+
+Sophie Papworth, Senior Manager, Research, Strategic Design, and Product Strategy, KPMG Australia
+
+KPMG tested generative AI technologies from multiple vendors, including participating in an early access program for Copilot for Microsoft 365. Through that early stage of testing, the firm saw the potential that Copilot offers for enhancing employee productivity and delivering high-quality outcomes for employees and clients. Based on those results, KPMG decided to test Copilot, Azure OpenAI Service, and Azure AI Search as the basis for many of its generative AI applications.
+
+“We’ve done our research in terms of what generative AI technology we want to use,” notes Shahab Dayani, Director of Data Analytics & AI at KPMG Australia. “Our alliance partnership with Microsoft has really helped us because we were able to sit down with senior leaders at Microsoft, discuss the opportunity, and learn about the latest and greatest generative AI capabilities that Microsoft has to offer, including Copilot.”
+
+Beyond the alliance, KPMG also saw a significant evolution of Microsoft generative AI capabilities in the last few years. And after working with the products, KPMG found that the transparency of the code in Copilot made it easier to build on and made the functionality more explainable to subject matter experts (SMEs).
+
+“In Copilot, you can actually understand what the AI tool is doing, rather than simply relying on results published to the user,” says Dayani. “We strongly believe that the AI capability that Microsoft, especially in the generative AI space, has to offer is first class.”
+
+In early 2023, KPMG Australia took its first step into generative AI with the KymChat conversational AI assistant, and then with KymTax, which focuses on tax precedent. Those were soon followed by the AI Workbench, which provides a platform for dozens of responsible AI–powered tools to improve individual productivity across the KPMG global workforce.
+
+One of the first AI Workbench tools that KPMG is developing is the Environment, Social, and Governance (ESG) compliance reporting assessment tool, called Comply AI. ESG reporting helps customers, investors, and financial institutions understand the full impact of an organization’s ESG practices. In the past, ESG reporting had been voluntary, but governments around the world recently have announced plans to introduce mandatory ESG reporting requirements starting in 2024.
+
+Those mandatory requirements will significantly increase the load on audit staff, so the KPMG Australia Audit and Assurance team needed to find a way to help its clients address those requirements as efficiently and cost-effectively as possible without stretching its SMEs too thin. KPMG created a pilot of Comply AI to automate the initial ESG compliance assessment process under the guidance of KPMG SMEs.
+
+“That doesn’t mean Comply AI is going to replace the task that was being done by an expert,” explains Dayani. “It just makes experts a lot more efficient and gives them the capabilities to perform those tasks in a much quicker and higher-quality way for our clients.”
+
+“That doesn’t mean Comply AI is going to replace the task that was being done by an expert. It just makes experts a lot more efficient and gives them the capabilities to perform those tasks in a much quicker and higher-quality way for our clients.”
+
+Shahab Dayani, Director, Data Analytics and AI, KPMG Australia
+
+KPMG Australia worked closely with the Microsoft Teams Ecosystem Engineering team to develop the proof of concept for Comply AI in just a few weeks. KPMG then rolled out the result to a group of SMEs in its audit and assurance practice in late 2023 to test against manual assessments.
+
+“Pilot testing has enabled us to identify which features of KymChat and Copilot add the greatest value and shape a secure and multifaceted change program as we continue its rollout,” says Jason Fogaty, Partner, Connected Technology Group at KPMG Australia.
+
+To use Comply AI, the SME uploads client source documents (Word, PDF, Excel, and other formats) into the tool. A message extension in Microsoft Teams—driven by Azure OpenAI—performs advanced text analysis of those documents. This analysis is automatically compared against a pre-built database representing the complete set of ESG standards to quickly produce an assessment that identifies whether documents are fully compliant, partially compliant, or out of compliance. It also provides direct links within the report to standards that show areas of noncompliance.
+
+When the several-page assessment is complete, the SME engages Copilot using natural language prompts to produce a detailed analysis summary of the full report. SMEs can seamlessly review results with colleagues and clients in a Teams chat and drill down into the specific standards to make recommendations and discuss next steps. Copilot can also be used to create an email of that summary to send to peers or the client, along with “to-do” lists, and schedule follow-up meetings.
+
+“We’ve got all of these different components, but where Copilot really brings it all together is report generation and drafting emails to the client, which becomes really, really powerful for our staff,” observes Dayani.
+
+KPMG expects that fine-tuning the language model to maximize accuracy will take about three months. “We’re looking at how we can train the model to provide a more accurate representation, and at prompt engineering to find ways to make the prompts and the flow work better and essentially end up with a more accurate final piece,” says Jayden Lee, Associate Architect at KPMG. When testing is complete, KPMG will start rolling out Comply AI globally and will expand it into other areas within the firm that require compliance reporting.
+
+KPMG is already using Copilot under carefully controlled circumstances. Behind the scenes, the firm is creating well-curated datasets to ensure more accurate output. Its internal communications team uses Copilot for drafting plans and materials, and the internal strategy team is using it to quickly convert workshop materials into preliminary strategy drafts. Also, firm leaders have reported significant time savings in using Copilot to respond to email.
+
+That time savings is also apparent in Comply AI testing, producing a significant reduction in ESG assessment time. “This solution has opened our eyes to the power of Microsoft Teams as a platform,” says Patrice Dupont-Roc, Chief Architect of AI, Data, and Insights at KPMG Australia.
+
+Using Copilot to summarize assessment results and automatically create emails and action items to be shared with colleagues and clients further accelerates the process. “If you were spending hours and hours to summarize hundreds of pages of an assessment, now you can use KymChat and Copilot to do that in minutes,” says Dayani.
+
+KPMG SMEs can use the saved time to focus on areas of partial compliance or noncompliance and to create broader insights that help further mitigate client risk and drive client success. The increased efficiency will also help KPMG handle more business with its current team, thus setting the stage for revenue growth.
+
+Applying the time saved on mundane manual tasks to areas that require more complex judgment will help improve the speed and quality of services to clients. It will also help improve career satisfaction for KPMG employees because they can spend time on more meaningful areas of their jobs.
+
+“Our vision at KPMG, using generative AI and Copilot, is to enable our people to do some of the tasks that they’re currently doing manually, in a much more efficient and productive way with higher quality,” says Dayani.
+He emphasizes that this does not replace the SME’s role but enhances it. “We see Copilot and the Comply AI platform as an enabler to help our experts more quickly review the output, validate it, and make sure that they agree with the results.”
+
+The interoperability between Comply AI and Copilot within Teams allows seamless collaboration in real time between SMEs and their clients and coworkers. And it doesn’t require a lot of training because many clients and most KPMG organizations are already familiar with Teams. This collaborative environment can expedite the process and contribute to increased transparency, consistency, and service excellence.
+
+KPMG sees potential for Copilot and the Comply AI platform far beyond the immediate ESG reporting needs.
+
+“Our plan is definitely to go broader than ESG compliance checking,” says Dayani. “We would like to bring in more use cases such as some that are impacting our financial services clients. Our ultimate vision is to make Comply AI and Copilot globally available so all of the other KPMG member firms—over tens of thousands of KPMG individuals and their clients—can benefit from it.”
+
+Find out more about KPMG on X, Facebook, and LinkedIn.
+
+“We see Copilot and the Comply AI platform as an enabler to help our experts more quickly review the output, validate it, and make sure that they agree with the results.”
+
+Shahab Dayani, Director, Data Analytics and AI, KPMG Australia

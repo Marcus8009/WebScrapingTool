@@ -1,0 +1,73 @@
+URL: https://customers.microsoft.com/en-gb/story/1782421038868081701-maire-microsoft-teams-energy-en-italy
+Source: customers.microsoft.com
+Total Word Count: 1574
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1571
+
+MAIRE is a leading technology and engineering group that develops and implements innovative solutions to enable energy transition. The company’s thousands of engineers help build large installations and are also burdened with paperwork and other bureaucratic tasks. MAIRE decided to use Microsoft 365 Copilot to help automate and streamline routine and repetitive activities. In the first phase of adoption the organization was saving 800 working hours per month, and the saving has more than doubled since then and continues to grow. The team is also encouraging the widest possible uptake of the AI-powered app, using its 'Human in the Loop' portal, containing material related to Microsoft 365 Copilot and to its use cases.
+
+“We are a group of highly skilled professionals, and the more time they spend using their creativity to build huge plants around the world, the less they waste on repetitive bureaucratic tasks, the lower their carbon footprint – and the quicker we’ll do our part in the green energy transition.”
+
+“Copilot is giving us the opportunity to enhance and amplify the skills of every one of those professionals. We were inspired by the book 'Human in the Loop', written by Paolo Benanti, a Catholic Franciscan friar who is part of the UN Advisory Body for AI. As a result, we titled our project aimed at achieving massive adoption of Copilot across our group after the title of the book. 'Human in the Loop' is a highly appropriate name for this project, which puts people at the center of everything. What's more, the name Copilot is a perfect fit too, because it gives the message that we, as humans, remain firmly in the driving seat, with the solution as our personal assistant.”
+
+Marco Armando Pecoraro, Engineering Processes Digitalization Group Leader at MAIRE, is explaining the motivation for his company’s cultural transformation by adopting AI across the workforce.
+
+“The great advantage of Microsoft Copilot is that it gives us the opportunity to unlock our people’s capabilities to explore how to do things better every day,” adds Luca Simonelli, IT Manager at MAIRE.
+
+“We put people at the center of our technology, not the other way around. We want to make sure that the benefits of AI are spread across the entire company, and not just restricted to an elective group of techies,” concludes Chiara Nidasio, Brand Marketing Manager at MAIRE.
+
+“We put people at the center of our technology, not the other way around. We want to make sure that the benefits of AI are spread across the entire company, and not just restricted to an elective group of techies.”
+
+Chiara Nidasio, Brand Marketing Manager, MAIRE
+
+Headquartered in Milan, Italy, MAIRE develops and implements innovative solutions to enable energy transition. They offer Sustainable Technology Solutions and Integrated E&C Solutions in nitrogen fertilizers, hydrogen, circular carbon, fuels, chemicals, and polymers. The company creates value in 45 countries and relies on more than 8,000 employees, supported by over 20,000 people engaged in its projects worldwide.
+
+As an organization dedicated to the circular economy, as well as its own commercial imperatives, MAIRE is acutely aware of the amount of time, effort – and carbon – that can be spent on the necessary paperwork involved in its vast engineering projects.
+
+“We were already aware that Microsoft 365 Copilot might be a good candidate to take the burden on a whole range of routine tasks in the company. Because we saw the value in AI, we wanted to make sure that everyone could take advantage of it,” Pecoraro concludes.
+
+“What we have realized is that this is not strictly speaking about a technology project. Or even a development project. It was, and continues to be, a change management project. And that’s a big reason why we have faith in the expertise of the Microsoft team to help support our future evolution and transformation.”
+
+Luca Simonelli, IT Manager, MAIRE
+
+“We’ve always been early adopters of Microsoft technology,” states Simonelli.
+
+“It comes from a solid partnership with the company, which was founded on the decision to go to the cloud in 2013, and it’s gone from strength to strength, particularly when we moved all our document management system to Microsoft 365. So, when Copilot arrived, it was natural for us to integrate that into our working practices also,” Pecoraro explains.
+
+Initially, the team decided to divide its 300 licenses across the group in order to judge its usefulness and popularity among staff across a range of different business areas and functions.
+
+“The adoption process in this first phase has followed this strategy: firstly, we have created a digital channel inside our largest EPC project with Microsoft Teams where our people working in the project can express their needs and the challenges they face, and a team of AI experts can provide the prompt and how to best use Copilot to fulfill those challenges.
+
+“Secondly, we have given Copilot access to a group of resources across different areas of the organization and what we have seen is that, even without providing any detailed training, our people have been able to use it autonomously by simply following the daily challenges of our project and applying it to a variety of different use cases.
+
+“The company was hoping to do more than reduce the amount of paperwork that was draining the efforts of our personnel. The roll out of Copilot to the business, IT, and communication departments was aimed at helping them face their personal working challenges with the support of an AI companion, and this has inspired everyone in the company to adopt the new technology."
+
+“The great advantage of Microsoft Copilot is that it gives us the opportunity to unlock our people’s capabilities to explore how to do things better, every day.”
+
+Marco Armando Pecoraro, Engineering Processes Digitalization Group Leader, MAIRE
+
+Since deployment, Copilot's interface facilitates collaboration among diverse teams promoting quick information exchange and alleviating communication bottlenecks. Additionally, the automation capabilities of Copilot for Microsoft 365 have demonstrated their value by simplifying everyday tasks.
+
+Thanks to Microsoft 365 Copilot, MAIRE is already saving hundreds of working hours per month, as measured directly by the Microsoft Copilot Dashboard in Viva Insight. “Copilot gives more time for the most important, core aspects of people’s jobs by reducing the amount of time they have to expend on writing reports and other routine tasks,” remarks Pecoraro.
+
+“To return to our earlier example of the tendering process, one of the first tasks we employed Copilot for was to compare different proposals from several partners. AI provided us with a breakdown of the key aspects of each one so our engineering staff could make the same informed decisions, but with only a fraction of the effort.”
+
+The company has currently dedicated an entire multidisciplinary team to manage the adoption internally with the aim to expand the roll out to the rest of the company. MAIRE has also launched an internal SharePoint portal where Copilot champions keep track of the evolving array of AI prompts and the related outcomes for each use case.
+
+“This is a great example of how to share knowledge about a new technology throughout an organization. It also assists in boosting the skills of everyone. Our 'Human in the Loop' portal community is the place where everyone in MAIRE can access all the material related to AI and all its current and future use cases, because we need people to know as much as they can about this technology. It is also a phenomenal training resource that has already benefited the company,” concludes Pecoraro.
+
+At the time of writing Copilot has not been rolled out to the entire company, but plans for expansion are underway. “We are now looking to scale up and starting to work with different partners. That includes Microsoft partner eLab which is assisting us with adoption change management,” explains Simonelli.
+
+“Considering the outcomes of the first phase, we have decided to purchase other 2,000 licenses, and we have adopted a different strategy for its assignment: a small portion of them have been given to a group of employees belonging to specific department of the company such as HR, Communication, Legal, and others which we expect to have the greatest benefit from Copilot adoption across the entire team.
+
+“But the majority of licenses have been assigned as a result of a Call-to-Action campaign that we launched in our ‘Human in the Loop’ portal, where people put forward their candidacy to use Copilot. The response has been enthusiastic, and we have seen an incredibly high adoption rate of Copilot from them,” adds Pecoraro. “Training is of course essential to maximizing the potential of this deployment. So, for the next months, Microsoft will be helping us in organizing and teaching classes. We have already done six training sessions and they were extremely popular and worthwhile.
+
+To maximize the impact of training across the organization we have selected and demonstrated a small number of essential adoption cases that everyone, regardless of their role, should be able to achieve with Copilot. These range from summarizing Teams meetings, creating documentation, emails, presentations, to searching for information.
+
+“What we have realized is that this is not strictly speaking about a technology project. Or even a development project. It was, and continues to be, a change management project. And that’s a big reason why we have faith in the expertise of the Microsoft team to help support our future evolution and transformation,” concludes Simonelli.

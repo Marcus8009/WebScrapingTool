@@ -1,0 +1,52 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-data-drop-which-jobs-have-an-ai-advantage
+Source: microsoft.com/worklab
+Total Word Count: 646
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 643
+
+Some business functions are reaping more initial benefits from Copilot. Here’s why.
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+At Microsoft, we’re doing deep research into AI adoption at work—what's working for people, what challenges are emerging, and how organizations can move from early experimentation to broad business transformation. Today we’re surfacing new data from Copilot customers that shows which job functions are gaining an early AI advantage. To do that, we looked at one of the first ways people report value from AI: time savings. Let’s have a closer look.
+
+What we did: As part of our ongoing Copilot Usage in the Workplace survey, we asked 1,300 early users of Copilot how much time they were saving each day. They had the choice between six answers: “I have not noticed any time savings,” “less than 5 minutes a day,” “5–10 minutes,” “11–30 minutes,” “31–60 minutes,” and “more than an hour.” We segmented the data by job function, then looked at how much time people in different roles reported saving.
+
+What we found: People in cybersecurity, product development, and sales/business development reported the most time savings daily, while those in procurement, legal, and supply chain reported the least. (Across the board, 11 minutes of time savings daily is all it takes for most people to feel like AI is useful—and that’s key to getting the AI habit to stick.)
+
+AI Saves Time Across Functions
+
+Most business areas are seeing enough time savings to reinforce the value of AI.
+
+*This chart shows how much time people in various job functions feel they save using AI. Survey responses—based on six categories of time savings—were converted to numbers to find the average perception of time saved. The bars are ordered based on those averages.
+
+Source: Microsoft Copilot Usage in the Workplace survey.
+
+What it means: Our researchers hypothesize that two key factors might influence which job functions are drawing the most value from AI:
+
+1. The type of work they do.
+In these early days, the value and use cases of AI are more obvious and straightforward in certain functions. People in sales, for example, can use Copilot to quickly prioritize leads and draft outreach emails, and those time savings free them up to build relationships with customers. Conversely, lawyers operate in systems where confidentiality, privacy, and attorney-client privilege are essential, and those strict requirements may make it more challenging to adapt their work to AI. 
+
+2. The realities of their industries.
+Different fields have different overall capacities for rapid change. In cybersecurity, people need to embrace new technologies to contend with ever-emerging threats. On the flipside, people in supply chain roles may approach new technology more slowly, since they often must integrate a range of vendors and legacy technologies into their operations.
+
+This will of course vary by individual, team, and organization—and there’s no doubt that employees are embracing AI at work broadly, with 75 percent of global knowledge workers currently using it, according to our 2024 Work Trend Index Annual Report. But to channel that widespread enthusiasm into business transformation, it’s important to grasp how people in different functions are using AI in general to help guide your AI rollout across the company. See our Work Trend Index for the latest data and guidance on how AI is transforming work for employees and leaders across the globe.
+
+Methodology: The ongoing Copilot Usage in the Workplace survey launched in September 2023. It surveys both Microsoft employees and early users of Copilot at other companies, mostly in North America and Europe. All users included in the analysis had been using Copilot for at least three weeks.
+
+Want more research and insights on AI at work? 
+Subscribe to the WorkLab newsletter.
+
+Findings
+
+Generative AI

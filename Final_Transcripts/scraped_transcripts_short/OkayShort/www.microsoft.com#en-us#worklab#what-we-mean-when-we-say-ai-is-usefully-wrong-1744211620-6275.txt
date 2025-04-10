@@ -1,0 +1,33 @@
+URL: https://www.microsoft.com/en-us/worklab/what-we-mean-when-we-say-ai-is-usefully-wrong
+Source: microsoft.com/worklab
+Total Word Count: 412
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 409
+
+Sometimes Copilot is right, and sometimes it’s usefully wrong. Either way, it puts you further ahead
+
+This article first appeared in the WorkLab newsletter. Be the first to get our updates by subscribing here.
+
+When you brainstorm with a person, their throwing-spaghetti-at-the-wall suggestions aren’t usually The Thing. They’re ideas, points of view—puzzle pieces that may fit together or may not. They stimulate your creative juices, helping you get to The Thing. The same is true of AI: Ask Copilot for 20 suggestions for a catchy presentation title, and bam! You have a list of relevant suggestions in seconds. They won’t all be that just-right idea you’re looking for, but often one or two will spark real inspiration—leading you toward a title you’d never come up with on your own.
+
+At Microsoft, we like to say that this is when AI is “usefully wrong.” It’s a different, more collaborative way of working with technology—one that upends our long-held assumptions about what computers can and can’t do. We’re used to one interaction with a computer: put in a query, get an answer. With AI, the answer isn’t the final word; the magic is in the conversation, the back and forth. And it’s up to people to build on, combine, or transform the content into something original and meaningful.
+
+Wharton professor and AI expert Ethan Mollick calls generative AI “alien intelligence.” Because it synthesizes ideas and information in novel ways, it’s inherently weird—so it can often propose some unconventional ideas. To harness that divergent thinking, you need to be open-minded and curious. AI can offer up content that is unexpected, surprising, or just plain weird. Don’t let that discourage you. Instead, embrace the challenge to come at a problem from a different perspective.
+
+It’s crucial to check that any AI-generated content is complete and correct. AI isn’t a replacement for your own creativity or judgment; it’s a tool that can enhance and augment those innately human skills. Don’t blindly accept or follow AI suggestions; instead, evaluate them carefully and objectively. Ask yourself: Is this content relevant and appropriate? How can I improve or refine it? How can I add my own voice or style to it?
+
+AI’s suggestions are a puzzle that’s nearly finished—it just needs your expertise to be complete.
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+Instant Insights
+
+Quick Read

@@ -1,0 +1,63 @@
+URL: https://customers.microsoft.com/en-us/story/1837667199713758792-clifford-chance-mcrosoft-365-copilot-professional-services-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 1081
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1078
+
+Clifford Chance was facing challenges from increasing data complexity and fast-evolving regulations. It sought to improve efficiency while empowering teams to focus on high-value work and upholding ethical standards.
+
+The firm adopted Microsoft 365 Copilot to streamline tasks, automate processes, and enhance collaboration. Lawyers use it to draft and manage emails and ensure compliance, allowing them to focus on complex legal work and improve productivity.
+
+Clifford Chance has seen productivity gains, faster client turnarounds, and improved service delivery. Routine non-billable tasks that once took hours are now completed in minutes, and employees report greater satisfaction and efficiency.
+
+Clifford Chance, a leading global law firm, has always embraced forward-looking strategies to stay ahead. Faced with increasing data complexity and fast-evolving regulations, Clifford Chance saw the opportunity to unlock the benefits and quality enhancements that AI tools could provide for its clients, people, and operations while maintaining high ethical standards. The goal: empower teams to focus on high-value work without being bogged down by routine tasks.
+
+We’re already getting a lot of value from Copilot, but we’re just scratching the surface of what it can do. It’s not just about productivity but also about generating greater business value.
+
+Paul Greenwood, Chief Technology Officer, Clifford Chance
+
+To achieve this, Clifford Chance expanded its use of AI technologies with the adoption of Microsoft 365 Copilot and Microsoft Viva, rolling them out across the firm globally. From business professionals and junior associates to partners, employees are finding that Copilot has streamlined tasks, automated routine processes, and improved collaboration. “We’re already getting a lot of value from Copilot, but we’re just scratching the surface of what it can do,” said Paul Greenwood, Chief Technology Officer at Clifford Chance. “It’s not just about productivity but also about generating greater business value for our clients.”
+
+Clifford Chance uses Microsoft Teams and Viva Engage to tailor communication and support managers through business changes. As Greenwood puts it, “We’re focused on enhancing the employee experience with tailored messaging and equipping managers to support their teams through business changes.”
+
+The firm deployed Viva to enhance productivity and wellbeing. Features like reducing distractions in meetings and aiding focus have proven particularly beneficial for employees with accessibility needs. Together, Copilot and Viva Suite help employees experience AI’s impact in meaningful ways.
+
+Copilot helps our lawyers to focus more time on delivering deeper, value-added insights and the strategic input that really matters to clients.
+
+Paul Greenwood, Chief Technology Officer, Clifford Chance
+
+Using Copilot, “My go-to prompt is actually to summarize emails in a table format from time sent, sender, actions for me or my team,” explains Jenni Polson, Senior Associate at Clifford Chance. “With that time saved, I can be more creative and effective in client interactions.” Anthony Vigneron, Director of Legal Technology Solutions at Clifford Chance, takes it a step further, emphasizing that AI isn’t just about speeding up current tasks. “We have to reimagine how we’re going to be working—focusing on the outcomes.”
+
+Balancing innovative technology with risk management has been a key focus for Clifford Chance, particularly when precision, rigor, and maintaining the highest ethical and responsible standards is at the heart of everything it does. Bahare Heywood, Chief Risk and Compliance Officer at Clifford Chance, explains, “Before deploying tools, we worked very closely with our Legal, Tech, and Risk teams to develop AI principles and policies, giving ourselves the space to try new things within our firm’s risk appetite.” This collaborative approach allowed the firm to adopt tools like Copilot while ensuring ethical and responsible use.
+
+Clifford Chance is also exploring Microsoft Copilot Studio to create, manage, and connect agents to Copilot. Some of these agents could, under the supervision of subject matter experts (and in line with our AI principle and policies), autonomously perform tasks or make decisions based on triggers like data and user inputs tailored to specific needs. “The concept of having an agent focused on compliance is incredibly powerful. It could allow me and my team to be more available to deal with much more complex issues,” Heywood adds.
+
+The concept of having an agent focused on compliance is incredibly powerful. It could allow me and my team to be more available to deal with much more complex issues.
+
+Bahare Heywood, Chief Risk and Compliance Officer, Clifford Chance
+
+Vigneron highlights how Copilot and agents can further enhance and transform ways of working. “We’re using technology that makes sense to our lawyers,” he says. “For instance, agents could help gather data, conduct research, and carry out tasks, allowing more efficient work and better insights for clients, always under the supervision of a qualified lawyer. With Copilot, we’re able to maintain the high standards of ethics and responsibility that we’re known for.”
+
+For instance, agents could help gather data, conduct research, and carry out tasks, allowing more efficient work and better insights for clients, always under the supervision of a qualified lawyer. With Copilot, we’re able to maintain the high standards of ethics and responsibility that we’re known for.
+
+Anthony Vigneron, Director of Legal Technology Solutions, Clifford Chance
+
+Copilot strengthens collaboration and knowledge sharing, helping lawyers tap into the firm’s collective expertise more effectively. “It’s like having an extra team member who never sleeps,” Greenwood adds. “Copilot helps our lawyers to focus more time on delivering deeper, value-added insights and the strategic input that really matters to clients.”
+
+Since adopting Copilot, Clifford Chance has seen gains in productivity when undertaking routine tasks. “For example, with Copilot, teams can track new legislation more effectively than ever,” says Greenwood. This should further improve client satisfaction and business value while also easing administrative loads.
+
+While the benefits of Copilot and Viva are already clear, Clifford Chance is progressing on its AI journey. “This is not just about embracing change,” Greenwood says. “It’s about strategically positioning Clifford Chance for the future while maintaining our core mission of delivering superior legal service.”
+
+The firm is exploring how to involve additional agents in more complex workflows to automate entire processes. Greenwood concludes, “The next step is to examine how we move beyond task automation and use agents to deliver outcomes. This would allow our teams to focus even more on what they do best—providing exceptional legal advice.”
+
+This is not just about embracing change. It’s about strategically positioning Clifford Chance for the future while maintaining our core mission of delivering superior legal service.
+
+Paul Greenwood, Chief Technology Officer, Clifford Chance
+
+Discover more about Clifford Chance on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.

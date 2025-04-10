@@ -1,0 +1,67 @@
+URL: https://customers.microsoft.com/en-us/story/1834923084335117944-laliga-azure-arc-media-and-entertainment-en-spain
+Source: customers.microsoft.com
+Total Word Count: 1466
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1463
+
+Based in Spain, LALIGA is one of the largest football leagues in the world. With LALIGA’s packed stadiums for in-person matches and a vibrant global online following, fast and secure hybrid cloud computing was a must to keep operations running smoothly.
+
+LALIGA deployed Microsoft Azure Arc and other services to bridge its cloud and on-premises workloads, manage its infrastructure in one place, and ensure low latency at its 42 stadiums. It uses AI in Azure for optimizing match scheduling and other key operations.
+
+LALIGA increased internal productivity and improved security by centralizing management of its on-premises and cloud environments. With low latency at stadiums and sought-after insights from AI, LALIGA is delivering an engaging and unique fan experience.
+
+There are few joys as pure as sports fans watching their favorite team. Whether streaming a match through an app or feeling the buzz of excitement in the stadium, a lot of details go into creating a smooth and immersive athletic event.
+
+Delivering a premium fan experience has always been a driving value for LALIGA. As one of the largest football (soccer) leagues in the world, LALIGA holds 42 clubs in two divisions. It is home to beloved powerhouse teams like Barcelona and Real Madrid, and it has built a passionate fan base, including 230 million followers on social media.
+
+LALIGA has 25 million fans who actively use digital assets such as the LALIGA Fantasy game, website, and app. “We aim to engage fans with state-of-the-art content quality at exactly the moment they want it,” says Miguel Angel Leal, Chief Technology and Innovation Officer at LALIGA.
+
+One reason LALIGA is so committed to its fans is because it sees its mission as more than entertainment. Leal explains how the emotion that football matches elicit is meaningful, but it’s not everything. “Part of what makes LALIGA so special is that we share our league values, such as being honest, always doing the right thing, and giving back to the community,” he says. “We want LALIGA to be a positive force in the world, and we believe that sports help develop a very healthy society.”
+
+To deliver on that mission, LALIGA needed to provide frictionless operations for its digital initiatives as well as its in-person events. For example, it wanted to use AI to optimize its complicated match scheduling decisions. Staff also needed to be able to quickly scan tickets for the tens of thousands of fans eager to get into stadiums before matches. This scenario put LALIGA in a unique situation. While most organizations operate solely out of offices and have the option to run fully in the cloud, LALIGA required high-performance computing at 42 different geographically dispersed stadiums.
+
+Therefore, it needed a hybrid environment. LALIGA runs most of its workloads in the cloud, but it also required some on-premises infrastructure at the sports venues to minimize latency. “We capture more than 3 million data points per match that we process in real time, so we need to put the infrastructure very close to the environment,” explains Leal.
+
+But for some organizations, managing cloud and on-premises environments can require two separate IT teams and management practices, creating a lot of complexity and duplication of effort. LALIGA began searching for an adaptive cloud approach, focusing on technologies that would not only help it bridge the hybrid environments but also seamlessly manage its workloads across diverse locations and platforms using AI.
+
+LALIGA found the adaptive cloud approach it was looking for with Microsoft and Microsoft Azure. LALIGA decided to adopt Azure Arc to manage its infrastructure in one place and ensure low latency at its stadiums. “When we first saw what Azure Arc could do, we were really impressed and realized that it was the easiest way to manage our infrastructure,” says Leal.
+
+LALIGA can now use Azure Arc to extend Azure to the edge from a single platform, no matter where the workload is located. LALIGA updated its mobile ticketing system, using Azure Arc to manage, update, and help secure its ticketing apps so that customers can get into the stadiums faster.
+
+As part of its adaptive cloud capabilities, LALIGA wanted to rapidly develop and scale its applications across its entire hybrid landscape. So, it turned to Azure Monitor to help track the performance and health of its infrastructure. LALIGA began using Microsoft Defender for Cloud for advanced security management and threat protection and Azure Update Manager to manage updates across its infrastructure, helping ensure all systems were up-to-date and highly secure.
+
+“We solved our challenges, because no matter where an application is running, we can confidently deploy, operate, and safeguard it,” says Leal. “That wasn’t possible before without an adaptive cloud approach.”
+
+When we first saw what Azure Arc could do, we were really impressed and realized that it was the easiest way to manage our infrastructure.
+
+Miguel Angel Leal, Chief Technology and Innovation Officer, LALIGA
+
+LALIGA is taking advantage of AI capabilities in Azure to further support its operations. It uses AI to predict the optimal times to schedule the complicated matrix of matches, which includes more than 3 million possible timing combinations per weekend. “We needed AI to tell us how to maximize audiences and how many people to expect to be watching, both physically and virtually,” says Leal.
+
+Overall, access to more AI to process large amounts of data is helping LALIGA become more efficient and strategic in its operations—and that ripples out to the clubs. “Microsoft helps us turn data into insights,” says Leal. “We share this information with the clubs, too, to support them with all the decisions that they need to make. For us, I would say that this is part of our DNA and it’s a very important part of the culture of LALIGA.”
+
+IT staff can manage the LALIGA on-premises and cloud environments seamlessly now that they have a unified view of both. By centralizing monitoring and more quickly seeing any issues, staff are better equipped to maintain high security standards. “We’re so pleased with Microsoft Defender because it’s easier than ever to protect all our different assets, especially the endpoints,” says Leal. “We’ve found that the combination of these Azure solutions is the perfect way for our IT and security staff to get a 360-degree view to manage any pain points.”
+
+Continues Leal, “We face many cyberthreats, so it’s critical that we manage everything in the same view and can confidently deploy and monitor all our solutions. We found the right tools and the right partner with Azure Arc.”
+
+Constantly defending the environment is a serious job for IT staff members, and Leal has noticed an improvement in their morale due to reliable, familiar, and user-friendly tools. “IT staff can get tired of using multiple disconnected applications for different purposes, and it’s time-consuming when you have to manually share critical information,” says Leal. “Now, IT staff are more comfortable using connected tools in Azure—we’ve improved efficiency and also forged a stronger team.”
+
+By deploying this combination of Azure services, LALIGA is poised to scale as needed to support its staff and fans. For example, sometimes fan behavior might be unpredictable, such as a jump in digital interactions. “We saw our Fantasy game suddenly grow exponentially, and we could react very quickly with Azure,” says Leal. “Our fans are the most important asset, and we’re proud to offer them reliable solutions with the ability to scale.”
+
+LALIGA will continue to innovate in the future. It already uses Microsoft Copilot in Azure and plans to start incorporating generative AI into its advanced football statistics tool, Beyond Stats, which it launched with Microsoft several years ago. The fan-facing web portal, a game changer for fans, uses big data to offer an in-depth understanding of what’s happening on the field.
+
+“More and more people are asking for the kind of information we provide in Beyond Stats, and we’ll use AI and Azure to help us further personalize statistics,” say Leal. “Then we’ll share that data with the different clubs and reach even more fans.”
+
+By turning to an adaptive cloud approach with Azure Arc, LALIGA empowered its employees and transformed its infrastructure management, leading to increased security and efficiency. It achieved its goal of seamlessly running a hybrid environment, without sacrificing any fan engagement. Concludes Leal, “We centralized everything with Azure, without losing any capabilities or performance—we actually improved response times. Being able to quickly adapt, configure, and deliver valuable content is possible using Azure Arc, and we’re very happy with that.”
+
+Discover more about LALIGA on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.
+
+We’ve found that the combination of these Azure solutions is the perfect way for our IT and security staff to get a 360-degree view to manage any pain points.
+
+Miguel Angel Leal, Chief Technology and Innovation Officer, LALIGA

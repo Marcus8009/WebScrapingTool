@@ -1,0 +1,64 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-at-work-why-cios-matter-more-than-ever
+Source: microsoft.com/worklab
+Total Word Count: 1051
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1048
+
+IT leaders can set their organizations on a course for AI-powered success—if they take the right approach.
+
+Day to day, chief information officers do the crucial but often unsung work of building and maintaining the tech and backend systems that keep an organization afloat. Their role comes to the forefront in moments of dramatic change: Think of how CIOs swiftly ushered us all into hybrid work in 2020. Prior to that, they powered the shift to cloud and the introduction of a computer on every desk. Now, in the AI era, they’re at the epicenter of yet another transformation.
+
+According to the 2024 Gartner CIO Generative AI Survey,1 48 percent of CIOs report being the single executive responsible for AI efforts in their organization. And the role is becoming more difficult: demand for IT continues to grow, but CIOs (and chief technology and data officers) are often expected to do more with less, driving innovation as efficiently as possible.
+
+It’s a challenging—and pivotal—moment. But a few strategies can help CIOs be the architects of their organizations’ futures in 2025 and beyond. If these four approaches seem simple, keep this in mind: Very few CIOs consistently implement all of them. To hone your competitive advantage, adopt all four.
+
+1. Get your data in order 
+Issues around data hygiene and permissions are nothing new. But don’t use longstanding challenges on that front as an excuse to delay AI deployment. Instead, look at AI as a reason to accelerate your efforts.
+
+When Copilot can draw from your work data—emails, files, meetings, etc.—it’s much, much smarter about your business and its needs. But Copilot can also reveal gaps or holes in your data permissions, since it references whatever data employees have access to (even if they shouldn’t). Build the foundation of your organization’s future AI-driven success by managing your data issues now.
+
+2. Embrace a “learn it all” mindset 
+Keeping up with AI can be a challenge, but it’s now one of a successful CIO’s most critical jobs. CIOs are the advisors to the CEO and beyond who educate their organizations on AI’s possibilities.
+
+Executives who are truly curious about AI set up their employees for learning. At Clifford Chance, a leading global law firm, Chief Technology Officer Paul Greenwood and his team saw AI’s potential to address increasing data complexity and fast-evolving regulations, while maintaining high ethical standards. They deeply researched available tools and worked closely with legal and risk teams to develop AI principles and policies before deployment. Now the firm’s lawyers use Copilot to draft and manage emails and ensure compliance, allowing them to focus on complex legal work.
+
+The result: The firm has seen productivity gains, faster client turnarounds, and improved service delivery. Routine non-billable tasks that once took hours get done in minutes.
+
+3. Measure and share your results 
+Start by experimenting with your own team or department. Identify one of your pain points or a business challenge where AI can help, deploy AI to transform that process, and then measure the results. Finally, share the story of that transformation, along with lessons learned, to inspire people across the organization. It’s a formula that you can repeat throughout the company.
+
+For instance, Bank of Queensland Group’s CIO Craig Ryman and Group CTO Robert Wilson have implemented an ambitious tech strategy at the 150-year-old Australian financial institution, shifting from manual processes to digitized, data-driven operations. To help employees grasp how AI could help them work, the bank looked for proof points: it learned that 70 percent of Copilot users were gaining 30 minutes to an hour a day.
+
+The bank has developed various use cases to inspire employees throughout the organization. For instance, a team building a report used Copilot to simulate stakeholders’ perspectives. This helped ensure the report was clear and provided sufficient context for different types of stakeholders. As a result, they were able to reduce stakeholder review time by four weeks.
+
+As you deploy AI across your organization, look at these processes that may be ready for reinvention.
+
+Once you’ve applied AI to a functional process, measure how it impacts KPIs and share the results.
+
+4. Find allies across the business 
+Not surprisingly, one of the biggest challenges associated with deploying AI is cost. It’s a significant net-new expenditure, and IT budgets haven’t grown apace. Every chief financial officer wants to see ROI from AI.
+
+CIOs who co-own digital delivery with CxOs are between 1.5 and 2 times more likely to meet or exceed outcome targets from digital initiatives enterprise-wide, according to Gartner’s 2025 CIO Agenda, Grow the Digital Vanguard.2 When CIOs partner with functions across the business and target processes that are ripe for reinvention, they save money and create new value.
+
+Melanie Kalmar, the Chief Information and Chief Digital Officer at global materials science company Dow, has been working closely with the company’s supply chain leaders to automate the time-consuming process of auditing shipping invoices and tracking down billing inaccuracies.
+
+Dow partnered with Microsoft to use Copilot and agents to automate the shipping invoice analysis process and streamline Dow’s global supply chain, unlocking efficiencies and cost-saving opportunities. Word of that success is spreading across the organization. Kalman says, “People are knocking on the door saying, ‘Hey, can you help?’”
+
+Summing it up
+CIOs and IT specialists are at the epicenter of AI transformation. CIOs are not just navigating change—they have a chance to shape the future of their businesses. And they don’t have to go it alone: carefully chosen external partners can share resources, lessons learned, and blueprints to guide them.
+
+With a learning mindset, a reflex to experiment and share their learnings, and strong partners across the organization and beyond, CIOs are well placed to turn AI’s potential into real-world impact and business value.
+
+1 Gartner®, Key Findings From the 2024 Gartner CIO Generative AI Survey, 26 August 2024. GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and is used herein with permission. All rights reserved.
+
+2 Gartner®, 2025 CIO and Technology Executive Agenda: Grow The Digital Vanguard 18 October 2024. GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and is used herein with permission. All rights reserved.
+
+Results
+
+Column

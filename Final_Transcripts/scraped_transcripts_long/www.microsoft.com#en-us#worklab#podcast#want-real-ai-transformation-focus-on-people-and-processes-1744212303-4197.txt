@@ -1,0 +1,47 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/want-real-ai-transformation-focus-on-people-and-processes
+Source: microsoft.com/worklab/podcast
+Total Word Count: 708
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 83
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age. 
+DELPHINE ZURKIYA: The biggest advice I have for CEOs is to say, you know, what is it you’re trying to solve? What’s your strategy? What’s your business problem? And then we can think about how AI can support that. 
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 625
+
+Podcast
+
+McKinsey partner Delphine Zurkiya shares how she helps companies—including her own—leverage AI to reinvent how they work and unlock opportunities for growth.
+
+WorkLab Guest Delphine Zurkiya
+
+November 4, 2024
+
+Delphine Zurkiya has a message for CEOs who are mapping out their AI adoption journeys: “A lot of pilot programs really don’t scale because, in the enterprise, it’s all about changing people and processes. The technology won’t work if that’s not put in place.” As a senior partner at the strategy and management consulting firm McKinsey & Company, Zurkiya helps medical and life sciences companies accelerate their AI transformations and growth. She’s also a member of the McKinsey Technology Council, where she leads generative AI initiatives for her division.
+
+In this episode, we discuss how leaders can scale AI and reskill teams for this new era of work, and why it’s important to be completely transparent about when and how you utilize AI.
+
+Three big takeaways from the conversation:
+
+To determine your AI strategy, start by asking fundamental questions. Zurkiya says that most of the leaders she works with have moved past the “Should I care about this technology?” phase and into the “I should care, what do I do with it?” phase. “The biggest advice I have for CEOs is to say, what is it you’re trying to solve?” she says. “What’s your strategy? What’s your business problem? And then we can think about how AI can support that.”
+
+Eliminating data silos will accelerate your AI journey. Zurkiya recommends conducting a thorough data inventory as part of your AI adoption strategy. Any data silos you encounter will need to be dealt with. “We initially thought we had access to all the data, but it turned out that people have plenty of data on various repositories, SharePoints, et cetera that we didn’t know existed,” she says. She says there was some reluctance from some quarters to share it all until it was made clear that this is how information will now be shared and used at the company.
+
+Be transparent about your AI usage. Some employees treat AI as their secret helper, or even as if it’s some kind of shameful crutch. But to unlock the true power of the technology—for you and for those you work with—be completely aboveboard about when and how you use it. Zurkiya describes meeting with a client and showing them how AI helped her track down a specific piece of information quickly based on a vaguely remembered description: “It’s important to just be a role model, and to explain to people this is really the way you change your workflow.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age.
+
+DELPHINE ZURKIYA: The biggest advice I have for CEOs is to say, you know, what is it you’re trying to solve? What’s your strategy? What’s your business problem? And then we can think about how AI can support that.
+
+The head of Microsoft’s AI for Good Lab shares how the technology is helping to address intractable global challenges—and what all leaders can learn from those efforts.
+
+Psychologist and author Tomas Chamorro-Premuzic explains how AI can unlock greater performance.

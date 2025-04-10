@@ -1,0 +1,67 @@
+URL: https://customers.microsoft.com/en-us/story/1783172439597920946-absa-github-copilot-banking-and-capital-markets-en-south-africa
+Source: customers.microsoft.com
+Total Word Count: 1181
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1178
+
+The Absa Group, one of Africa's largest financial institutions, has made great headway in embracing generative AI initiatives by adopting Microsoft Copilot to enhance operational efficiency and customer engagement across multiple business areas. Using this AI-driven tool, Absa’s employees have streamlined various business processes, saving several hours on administrative tasks each day and being better prepared to engage with fellow colleagues and clients.
+
+Absa is one of Africa's largest diversified financial services groups, offering an integrated set of products and services across personal and business banking, corporate and investment banking, wealth and investment management, and insurance.
+
+Absa has acknowledged the importance and value of AI and has embraced these opportunities to transform its digital business landscape. “The only way to remain competitive in such a dynamic banking landscape is through the right use of technology and changing our ways of working,” states Naomi Parsons, Head of Digital Delivery, Absa Corporate and Investment Banking (CIB). “Achieving our vision of transforming human experiences and ensuring seamless delivery can be better realized through digital tools.”
+
+"The global community is undergoing significant transformation due to AI initiatives,” says Elizabeth Schell, Senior Digital Manager, Absa CIB. “Aligning our organisation with these changes is imperative. Initiating momentum and action, rather than simply preparing is critical.”
+
+Absa chose to experiment with Microsoft Copilot as an AI assistant and digital tool to empower its employees. "We could’ve opted for a standalone AI tool, but we were already using Microsoft 365, and Copilot is embedded in the Microsoft application stack," Parsons highlights. “Using Copilot for Microsoft 365 therefore made perfect sense in adopting generative AI technologies into our daily work.”
+
+“We were already using Microsoft 365, and Copilot is embedded in the Microsoft application stack. Using Copilot for Microsoft 365 therefore made perfect sense in adopting generative AI technologies into our daily work.”
+
+Naomi Parsons, Head of Digital Delivery, Absa CIB
+
+Absa decided to empower its frontline employees across different business areas by leveraging Copilot for synthesizing information and generating content. “We need to engage with clients and explain complex issues like loan approvals or pricing as effectively as we possibly can,” says Parsons. “Copilot acts as an enabler towards smoother operations and potentially improving client interactions."
+
+Previously, Absa’s Sales team had to dedicate a lot of time to studying financial documents before client meetings. With Copilot, this preparatory phase has been drastically shortened. “Ordinarily, we’d have to go through the documents line by line to understand and make sense of everything,” shares Lindelani Ramukumba, Chief Information Officer, Absa Relationship Banking. "With Copilot, we can summarize massive financial statements and contracts, infer trends, and be in a better position to have more informed conversations with the clients, in significantly less time."
+
+“With Copilot, we can summarize massive financial statements and contracts, infer trends, and be in a better position to have more informed conversations with clients, in significantly less time.”
+
+Lindelani Ramukumba, Chief Information Officer, Absa Relationship Banking
+
+Absa’s client facing teams also began to experiment with Copilot to assist them with admin tasks. These teams are inundated with emails while having to quickly respond to clients and follow up with colleagues on decisions. “Using a feature such as Copilot summarizing emails or generating a meeting action has been a significant productivity gain,” highlights Parsons. “Copilot saves at least two hours per day for some users.”
+
+“Copilot saves at least two hours per day for some users.”
+
+Naomi Parsons, Head of Digital Delivery, Absa CIB
+
+Like any bank, Absa regularly undergoes the formal process of auditing its services, information systems, financial records, and procedures, which are summarized in a report and presented to an auditor. This used to be a laborious and time-intensive activity, where precision and accuracy are paramount. "With Copilot, we can quickly summarize and correlate the evidence to come to a conclusion; there is no ambiguity," shares Ramukumba. Absa’s Legal and Marketing departments are also benefiting from Copilot’s capabilities. One late Friday afternoon, the Marketing team received a request to review and provide a recommendation on several PDF documents for an executive forum.
+
+"With Copilot, the whole process of reading and summarizing these PDF documents took 20 minutes," recalls Schell.
+
+“With Copilot, the whole process of reading and summarizing these PDF documents took 20 minutes.”
+
+Elizabeth Schell, Senior Digital Change Manager, Corporate Investment Bank, Absa CIB
+
+The Legal team also required assistance in translating Portuguese documents for client recommendations, which Copilot assisted with in minutes. “Copilot provided the core themes and our legal team had to simply verify and make minor edits before sending it back to the client.” Copilot has also ensured that colleague and client content is delivered in the appropriate tone and style, optimizing communications and engagement.
+
+Absa’s Relationship Banking and Insurance colleagues quickly realized value in Copilot in Excel. Usually, teams who don't typically use advanced Excel commands had to seek help from colleagues with strong financial modeling skills to prepare comprehensive reports.
+
+With Copilot, Absa’s employees began using Excel for advanced data analysis. “With Copilot, even less experienced Excel users can create pivot tables, merge data sources, add formulas, and create graphs. They can confidently present these to the client without the need to interrupt their more technical colleagues,” remarks Ramukumba.
+
+Using Copilot to experiment with advanced features in Microsoft 365 has boosted Absa's learning culture. Parsons reflects, "By learning from mistakes faster, we can iterate and improve at a pace unmatched by traditional methods.” This not only drives efficiency but also contributes to a happier culture, where colleagues have more time for learning, collaboration, and personal growth.
+
+Employees who took part in the pilot have reported improvements in email communication and overall efficiency. This enables the team to save countless hours. “Using Copilot has really made a difference to my work-life balance. I am now able to end my workday at a reasonable time and fully focus on my family in the evening,” says Mariam Kalane, Change Team Lead and Senior Project Manager, Absa Relationship Banking.
+
+Absa also extends its use of AI with GitHub Copilot. Parsons emphasizes, "We aim to increase our velocity in producing code and also explore how we can de-risk the code we deliver."
+
+Reflecting on Absa’s journey, Parsons recognizes how experimenting with AI has impacted the business. "Generative AI improves our daily work and how we create value for clients. Copilot helps us to be better prepared for meetings, reduces meeting times, and helps free up time usually spent on admin. It redefines productivity for all.”
+
+Johnson Idesoh, Group Chief Information and Technology Officer at Absa Group, agrees, “Generative AI plays a key role in our bank’s strategy to deliver a seamless customer experience by being digitally powered. We are excited about what we have achieved with our strategic partner, Microsoft, and we are thrilled about what lies ahead.”
+
+“Using Copilot has really made a difference to my work-life balance. I am now able to end my workday at a reasonable time and fully focus on my family in the evening.”
+
+Mariam Kalane, Change Team Lead and Senior Project Manager, Absa Relationship Banking

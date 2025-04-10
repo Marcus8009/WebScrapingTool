@@ -1,0 +1,143 @@
+URL: https://www.microsoft.com/en-us/worklab/the-art-and-science-of-working-with-ai
+Source: microsoft.com/worklab
+Total Word Count: 2418
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 2415
+
+We’re entering a new era of AI-powered productivity. Here’s what business leaders need to know to get their organizations—and their people—ready
+
+We’ve been learning a lot about how AI is going to transform work from the tens of thousands of customers and employees who are already using Microsoft 365 Copilot. Our early findings show that there’s both an art and a science to working with AI—and what you get out of it depends on how you ask.
+
+This new way of working is sorely needed. Over the past few years, the pace and volume of work have only increased: On a given workday, our heaviest M365 users search for what they need 18 times, receive more than 250 emails, and send or read nearly 150 chats, according to data from searches across M365 services. Teams users globally are in three times more meetings each week than they were in 2020. And on Windows, some people use 11 apps in a single day to get their work done.
+
+AI helps lift the weight of work, augmenting human capability and accelerating everyone’s innate ingenuity. By learning the best practices, leaders can empower their people to embrace this new era of AI-powered productivity—and reap the benefits for their organization.
+
+Illustration by Neil Webb
+
+“Working with AI is more than just pushing buttons. It’s about asking the right questions,” says Jaime Teevan, Chief Scientist & Technical Fellow at Microsoft. “If you can learn the art and science of doing that, AI can really elevate the potential of you and your organization and redefine the boundaries of what can get done.”
+
+GET STARTED
+
+O
+ur research on how to get the most out of AI indicates one overarching rule of thumb: the more detail you give in your prompts, the better the answer will be.
+
+HOW I PROMPT
+
+What makes Copilot feel almost magical is the fact that it has a deep understanding of me, my job, my priorities, and my organization. It knows my entire universe of data at work. I can write:
+
+Quickly summarize the meeting I had at 11 a.m. yesterday.
+
+Who attended?
+
+What decisions were made?
+
+Give me a sense of what you think the next steps should be.
+
+Put that summary into an email to Jun, and propose a time we’re both free next week to discuss.
+
+Write it in Japanese.
+
+Jared Spataro
+
+Microsoft CVP, Modern Work & Business Applications
+
+If you ask Microsoft Copilot with Graph-grounded chat a simple or open-ended question, it will answer in kind. But if you want more detail and refinement, the question must be more pointed. For instance, if you ask Copilot, what did I miss yesterday? it will offer up a slew of email and chat summaries that you were looped in on. For more precision, be more specific and detailed in the first interaction, e.g., what are my action items from yesterday for the Woodgrove account? That will deliver fine-tuned results that summarize what’s expected of you from meetings, long email threads, disparate chats, and comments in decks and documents.
+
+“With traditional search, people have become so accustomed to being very concise,” says Tara Roth, Corporate Vice President of Microsoft 365 Customer Success Engineering. “You use just a few key words and get a lot of links back, and then do a lot of processing on your own. With prompting, you can be more verbose and descriptive about what you want to get the most accurate and relevant responses.”
+
+Our research shows that there are four key building blocks of a successful prompt: start with the end in mind by explaining what you want Copilot to do; set the stage with any context or details; define any parameters, such as specific dates, documents, or emails that Copilot should look to; and tailor the delivery, or how you want Copilot to present its response.
+
+Anatomy of a Prompt
+
+To get the best response, it’s important to know how to frame and phrase your Copilot prompts. This example, best used in Microsoft Copilot with Graph-grounded chat, highlights the most important things to consider.
+
+HOW I PROMPT
+
+Once a week, to keep myself informed and prepare for meetings with global HR partners, I ask Copilot:
+
+What are the top challenges facing global HR organizations this week in September 2023?
+
+What about in Australia, 2023?
+
+Are HR trends in the US for September 2023 different than the HR trends in Germany for September 2023?
+
+Show me HR research across all of our global offices from the past three months, 2023.
+
+Who are the top voices talking about these challenges?
+
+It opens the door to possibilities rather than simply coming to a conclusion.
+
+Amy Coleman
+
+Microsoft CVP, Human Resources & Corporate Functions
+
+Get creative and experiment with different styles to hone in on answers that fit your needs. Try specifying tone (neutral, casual, professional) or giving guidance for what kind of language to use, i.e., language a non-technical person could understand. Analogies, poems, and even historical allegories (what is a moment in history I can use to explain the central message in this doc?) can be useful ways to help you process the information.
+
+It’s also helpful to give Copilot a point of view from which to answer. Usually, that involves some explanation about who you are and what you’re trying to achieve so the AI can roleplay: You are a social media manager writing LinkedIn copy. You are a product marketer working on a new campaign. You are a coding tutor who is great at explaining Python to students. You can also ask for a response in the style of a specific persona or approach, like tell me how to solve this problem with the expertise of a Stanford business professor, or teach me about this esoteric company concept in a way a non-technical person could understand.
+
+Another best practice: Ask Copilot to explain how it arrived at a response. “If you ask the model to explain itself, it will produce a better answer,” Teevan says. “It’s similar to how math teachers ask students to show their work—they get better answers from the kids.”
+
+AI excels at imitation—large language models work by mimicking human conversations—so try to give examples of what you’d like the output to look like. Write a catchy slogan for a new brand of toothpaste that whitens teeth and freshens breath, using the following example for inspiration: “Good things never change.”
+
+It’s also useful to think of our relationship with AI through a sports analogy, say researchers Jake Hofman, Dan Goldstein, and David Rothschild, who study AI-augmented cognition at Microsoft. At one end of the spectrum, the researchers say, AI can function like a steroid, giving people a short-term superhuman boost—instantaneous email drafts! quick social media copy!—when they simply offload work to it. In the middle of the spectrum, AI is like a high-quality running sneaker: it can speed up routine, time-consuming tasks (think cleaning and reformatting data), freeing up time and making people more productive in the moment without any long-term consequences. Where AI begins to truly transform work, though, is on the other end of the spectrum, when it serves as a coach, improving people’s own capabilities over time instead of merely assisting them in the moment. With thoughtful design and use, the researchers explain, AI tools can augment people’s innate abilities—leading to unprecedented boosts in productivity.
+
+ITERATION IS EVERYTHING
+
+O
+ne of the most common mistakes people make with AI is giving up after a single try yields a less-than-ideal result. Working with AI isn’t a one-way street, where you simply give a command and get a response. It’s a dynamic and interactive process, where you and your Copilot co-create content, solve complex problems, and learn new information based on your goals, expectations, and feedback. And your initial prompt is just the beginning.
+
+“It’s the first turn of a crank,” says Jon Friedman, Microsoft CVP of Design and Research. “You can ask it to adjust things or edit it down or add something that’s missing. The collaboration is going back and forth, putting information in, getting something back, asking questions, learning—having a conversation.”
+
+As you provide more details and context, that conversation helps Copilot understand what you want and generate more relevant outputs. It also helps everyone learn: by asking Copilot to explain, summarize, or paraphrase something, you can gain new insights and perspectives.
+
+Give it feedback when it produces good or bad outputs so it can learn from your expectations and improve its performance. This sentence is too vague, can you be more specific? Thank you, this is much better. Can you please add a sentence that summarizes the main point of the paragraph?
+
+Let’s say you need to prepare for a presentation. You might first type, Please create a storyboard for a 60-minute keynote where I need to get a room full of salespeople engaged about our new approach to sustainability. Use these files as background.
+
+Once Copilot shares a draft, you can follow up. Add a key message to land for each section, or that’s great, but I’d like more detail on why a salesperson would care about this. Keep going until you’re satisfied. Copilot doesn’t get discouraged, so ask for plenty of options: give me 10 ideas for an opening paragraph; rewrite this section in five distinct styles; give me three analogies that might resonate with this audience.
+
+“All work is iterative,” says Colette Stallbaumer, General Manager of Microsoft 365 and Future of Work. “Whether it’s on your own or with other people, it involves multiple cycles of refinement and improvement. It’s the same when you’re working alongside AI.”
+
+Experimentation is key. Get creative with different prompts, feedback, and refinements until you find what works best for what you need. And be polite: Basic etiquette, such as saying please and thank you, goes a long way. Generative AI is trained on human conversations, so when it registers politeness, it’s more likely to be polite back—which can improve performance and responsiveness and create a more collaborative working environment. Think of it like a partner in a creative dialogue, where the more you learn from Copilot, the more Copilot learns from you.
+
+BUILDING NEW WORK HABITS
+
+T
+he era of the PC democratized access to the word processor, a then-revolutionary technology. The age of AI offers what Chief Scientific Officer at Microsoft Eric Horvitz calls the “idea processor”: an always-available, never-tiring partner that can help you think through, well, everything.
+
+HOW I PROMPT
+
+When I’m reading an article, I get better summaries when I say, summarize this article for a Microsoft executive with a particular interest in research, than when I just ask for a summary. Or if I’m trying to think critically about the article, I might follow up by telling it what I want the reply to look like: What questions should that exec ask of the article? Please include answers to the questions, quoting the article when possible. Basically, I get better replies by including details and direction.
+
+Jaime Teevan
+
+Microsoft Chief Scientist & Technical Fellow
+
+“Just as our brains synthesize information to generate creative thoughts, AI can generate, refine, and connect ideas across a vast landscape of knowledge,” Horvitz says. “That augments our own intellect.”
+
+Say you need to get a gut check on a tricky email or brief, ASAP. Before AI, you might ping a trusted colleague, hoping that they’ll see your message and then have time for you between their own meetings and to-do lists. Teevan says that one of her favorite ways to use Copilot is to get feedback on her work, such as difficult emails she needs to send. “I might say, ‘I’m about to send this email to this set of folks.’ I would describe myself and I would describe my audience, and then ask, ‘What red flags do you think people might have?’ Once I got those, I’d then say, ‘Can you suggest three ways to address each of those red flags?’ I use it to see holes and risks that I might not have imagined.”
+
+According to data from our 2023 Work Trend Index survey, information workers who said they didn’t have enough time and energy in their day were nearly 2x more likely to say that they could achieve high performance if they had a personal assistant. AI gives every member of your workforce a personal sounding board whenever they need it, one that has infinite reserves of time and energy.
+
+The potential is enormous, but working with AI requires building new work habits. While it will never replace the magic of brainstorming with other people, it makes rapid collaboration far more accessible—particularly for flexible and distributed teams who aren’t in the same office or time zone. In fact, Copilot can actually enhance collaboration with your team: Just ask it to pinpoint the unresolved questions during a Teams meeting or suggest any potential discussion points when co-creating in Loop. You can also use the new Copilot Lab to experiment with prompts, share your favorites with co-workers, and get inspired.
+
+Copilot won’t get it right every time; we like to say that those outputs are “usefully wrong.” In that way, says Sumit Chauhan, Microsoft CVP of the Office Product Group, it’s similar to when you brainstorm with a person. While what they suggest isn’t always right, she explains, those ideas help her refine her own thinking.
+
+Rarely is any individual’s suggestion the million-dollar idea. But not-quite-right suggestions can stimulate your own creative juices—helping you and your team get to that idea. “It’s yet another piece of information that’s helping me get to an answer,” Chauhan says. The same is true of AI: out of 10 suggestions for a catchy presentation title, one may spark some inspiration, leading to the perfect phrase.
+
+LIFTING THE WEIGHT OF WORK
+
+W
+e are all struggling under the weight of work. We are overwhelmed by information, deadlines, and the crush of always-on communication. AI can help—not just by making work easier or faster, but by making it more fulfilling. When we don’t need to spend as much cognitive energy on figuring out what happened in that meeting, getting caught up on email, or finding that document from that chat last week, we can spend more time on the substance of our work—and our purpose for doing it.
+
+There’s a lot to look forward to if business leaders act out of excitement, not fear
+
+Subscribe to WorkLab
+
+Science-based insights on the future of work, direct to your inbox.

@@ -1,0 +1,79 @@
+URL: https://customers.microsoft.com/en-us/story/1837822642507786660-docusign-azure-logic-apps-other-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 1396
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1393
+
+Docusign needed to overcome the limitations of its current systems, scale operations, and automate processes. By implementing AI-driven agreement lifecycle management, it sought to serve its global customer base more efficiently.
+
+The company turned to Azure to develop the Intelligent Agreement Management (IAM) platform. IAM automates, scales, and enhances the agreement management processes using Azure AI, Azure Cosmos DB, Azure Logic Apps, and AKS.
+
+With its revolutionary Azure-based platform, Docusign can now accelerate growth and scale globally. It supports millions of workflows, reducing contract processing times and enhancing customer satisfaction with advanced AI-powered analytics.
+
+In today’s fast-paced business landscape, agility isn’t just an advantage—it’s a necessity. When it comes to agreement management, outdated processes hinder progress, costing the global economy an astonishing $2 trillion1 annually. Cumbersome, resource-intensive methods lead to significant operational bottlenecks and error-prone manual processes, resulting in lost time, increased costs, and diminished effectiveness.
+
+Docusign, a leader in e-signature solutions with 1.6 million global customers, saw this challenge as a golden opportunity to reshape itself, along with the entire agreement management industry.
+
+While continuing to support its existing customer base, Docusign pioneered an entirely new category of agreement management designed to streamline workflows. This bold vision led to the creation of Docusign Intelligent Agreement Management (IAM), a groundbreaking platform that transforms agreement data into actionable insights, enhances productivity, and accelerates contract review cycles. Using AI capabilities, IAM aims to ensure better collaboration and unification across business systems and to provide secure solutions tailored to diverse customer needs. Streamlining operations helps businesses reclaim lost productivity and unlock new value from customer agreements. This innovative approach represents a paradigm shift in data-driven decision-making.
+
+Kunal Mukerjee, Vice President of Technology Strategy and Architecture at Docusign, explains, “We needed to transform how businesses worked with a new platform. With Docusign Intelligent Agreement Management, built with Microsoft Azure, we help our customers create, commit to, manage, and act on agreements in real time."
+
+The Microsoft Azure platform provides the highly secure, globally scalable infrastructure needed to support IAM applications. Azure gives Docusign the ability to use cutting-edge AI technologies and cloud capabilities to create a powerful and extensible solution.
+
+We needed to transform how businesses worked with a new platform. With Docusign Intelligent Agreement Management, built with Microsoft Azure, we help our customers create, commit to, manage, and act on agreements in real time.
+
+Kunal Mukerjee, VP, Technology Strategy and Architecture, Docusign
+
+Docusign is fundamentally reshaping how organizations engage with their agreements. Using AI technology, the company modernized agreement management to address critical business challenges head-on. This transformation has yielded substantial improvements in operational efficiency for customers worldwide. One early adopter, KPC Private Funds, reported a 70% reduction in time and resources dedicated to agreement processes.
+
+Additionally, Docusign successfully launched IAM applications—including IAM for Sales, IAM for Customer Experience, and IAM Core—for a customizable solution as part of this initiative, re-engineering how businesses manage their most critical documents. The results underscore the transformative power of AI-driven solutions in streamlining complex business operations.
+
+The IAM platform uses sophisticated multi-database architecture to efficiently manage various aspects of agreement processing and management. At the heart of the IAM platform is Azure AI, which automates manual tasks and processes agreements using machine learning models. The workflow begins with agreement data stored in an Azure SQL Database and is then transferred through an ingestion pipeline to Navigator, an intelligent agreements repository. Navigator prepares key portions of each agreement and sends them to Azure OpenAI Service via API calls with specific prompts. Azure Blob Storage houses the raw PDF documents associated with each agreement, providing on-demand rendering through the Navigator user interface.
+
+“Navigator was more than speed—it was built to get smarter with each agreement. It is surfacing important information for our customers, like upcoming renewal dates, so they can prepare for negotiations,” says Mukerjee.
+
+Navigator was more than speed—it was built to get smarter with each agreement. It is surfacing important information for our customers, like upcoming renewal dates, so they can prepare for negotiations.
+
+Kunal Mukerjee, VP, Technology Strategy and Architecture, Docusign
+
+The Azure SQL Database Hyperscale service tier serves as the primary transactional engine, providing virtually unlimited storage capacity and the ability to scale compute and storage resources independently.
+
+Rebecca Denman, Vice President of Product Management at Docusign, reports, “Azure SQL Database Hyperscale is the core of our transaction engine. It lets us scale and adapt to growing demand. This makes it possible for us to bring new Docusign IAM platform capabilities like Navigator and Maestro to customers globally faster than ever before.”
+
+Azure SQL Database Hyperscale is the core of our transaction engine. It lets us scale and adapt to growing demand. This makes it possible for us to bring new Docusign IAM platform capabilities like Navigator and Maestro to customers globally faster than ever before.
+
+Rebecca Denman, VP, Product Management, Docusign
+
+Azure OpenAI Service asynchronously processes information, extracting key details such as renewal dates, terms, and contracting parties. The results are then retrieved from a queue and stored in both Azure Cosmos DB and Azure Elasticsearch. This sophisticated architecture uses advanced indexing and search algorithms, giving Docusign the ability to offer intelligent, data-driven features that quickly surface relevant information from vast agreement databases. As a result, the value of Navigator is more advanced, empowering users with the critical insights they need to make well-informed business decisions.
+
+Azure Cosmos DB hosts the Docusign Agreement Data Model (ADM) database, which stores key metadata for each agreement and envelope, including AI-generated extractions and enrichments. This NoSQL database solution provides the scalability and flexibility required for handling diverse agreement data structures, ensuring low-latency data retrieval and consistency across regions. It delivers timely, interactive responses on agreement data, identifying patterns and insights, eliminating bottlenecks, and supporting efficient operations across multiple tenants in the customer-facing applications.
+
+Azure Logic Apps plays a crucial role in orchestrating complex workflows within the IAM platform in a no-code, low-code solution called Maestro. This orchestration service is designed to give users across the experience spectrum the ability to automate workflows and build connections that work with their existing business systems. Logic Apps offers full-stack capabilities that maintain operational consistency, security, and governance across cloud and on-premises environments. With Azure Logic Apps, Docusign empowers organizations to accelerate business solutions without being hindered by infrastructure complexity. The service’s extensive connector library seamlessly interoperates with various systems and services, enhancing the overall flexibility and power of the IAM platform.
+
+Mukerjee notes, “We’ve entered a world where agreements come to life and adapt to business demands, powered by AI.” This architecture facilitates rapid deployment and updates of individual components without affecting the entire system. A robust set of RESTful APIs delivers seamless interoperation with existing human resource, procurement, and sales systems such as customer relationship management (CRM), enterprise resource planning (ERP), and human capital management (HCM) platforms.
+
+In addition, the Docusign Contract Lifecycle Management (CLM) solution for complex enterprise agreements is hosted on Azure Kubernetes Service (AKS) to provide efficient, automated scaling of containerized applications. This AI app architecture facilitates rapid deployment and updates of individual components without affecting the entire system.
+
+The collaboration between Docusign and Microsoft has ushered in a new era of agreement management, setting an industry exemplary for efficiency, innovation, and strategic value. With AI-driven capabilities, IAM helps eliminate administrative bottlenecks so organizations can concentrate on strategic initiatives.
+
+We’ve entered a world where agreements come to life and adapt to business demands, powered by AI.
+
+Kunal Mukerjee, VP, Technology Strategy and Architecture, Docusign
+
+IAM redefines agreement management for modern business. By tapping into the unrealized value in agreements and mitigating risks, IAM provides customers with insights to make more informed decisions and respond more quickly to market changes. The platform serves as a blueprint for developing and scaling AI-powered SaaS applications in the cloud, offering valuable insights for enterprise architects.
+
+“We now use Azure OpenAI Service to power our AI solutions, including our AI extractions and our generative AI solutions,” Denman reports.
+
+Looking ahead, as AI technologies advance, IAM is poised for even greater enhancements in personalization, predictive analytics, and automated decision-making, solidifying its position at the forefront of intelligent agreement management.
+
+Discover more about Docusign on Instagram, LinkedIn, X/Twitter, and YouTube.
+
+We now use Azure OpenAI Service to power our AI solutions, including our AI extractions and our generative AI solutions.
+
+Rebecca Denman, VP, Product Management, Docusign

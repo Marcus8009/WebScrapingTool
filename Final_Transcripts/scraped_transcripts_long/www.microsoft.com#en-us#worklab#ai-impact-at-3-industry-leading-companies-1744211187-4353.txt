@@ -1,0 +1,59 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-impact-at-3-industry-leading-companies
+Source: microsoft.com/worklab
+Total Word Count: 1028
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1025
+
+New data shows that adoption is increasing—and it’s already accelerating breakthroughs and driving innovation.
+
+While generative AI is still a relatively new technology, data from McKinsey & Company1 suggests that 2024 will go down as a defining year for adoption. The percentage of organizations regularly using generative AI (65 percent) has nearly doubled in the past 10 months, and the number of organizations using it in two or more business functions jumped from one-third in 2023 to 50 percent this year. Businesses are also reporting meaningful cost reductions and revenue boosts—with use cases in HR, supply chain, marketing, and sales seeing the most value.
+
+Here at Microsoft, we’re seeing a similar sea change among our customers. Last quarter, the number of Microsoft 365 Copilot customers increased by more than 60 percent and daily users more than doubled. More companies are also shifting from experimentation to widespread implementation. The number of customers with more than 10,000 seats more than doubled, with industry leaders like Capital Group, Disney, Dow, Kyndryl, and Novartis turning to AI to accelerate business results.
+
+The data is clear. More and more companies are realizing the potential for AI to transform their businesses. To help organizations on their AI journey, we’re sharing three ways businesses are using Copilot today to drive productivity, innovation, and business results.
+
+1. Accelerating rare disease research at Amgen
+
+The company: Amgen harnesses the best of biology and technology to fight the world’s toughest diseases and make people’s lives easier, fuller, and longer. They discover, develop, manufacture, and deliver innovative medicines to help millions of patients.
+
+The challenge: In the fast-paced world of biotechnology, they saw an opportunity to collaborate, manage data, and make informed decisions more efficiently.
+
+Copilot’s impact: Amgen is leveraging Microsoft 365 Copilot to support its operations, from the office to the lab. As an early adopter, Amgen started with 300 licenses of Microsoft 365 Copilot, and it has since expanded to 20,000. By integrating Copilot into its workflows, Amgen has enhanced productivity, streamlined processes, and fostered innovation. The use of Copilot has enabled Amgen’s teams to collaborate more effectively, manage data efficiently, and make informed decisions swiftly in support of their mission: to serve patients.
+
+“We now use Copilot on a daily basis. There’s no corner of the business that’s going to be untouched by AI tools paired with human expertise.” —Dr. David Reese, EVP & CTO, Amgen
+
+2. Maximizing value for clients at Cognizant
+
+The company: As a leading provider of digital transformation and consulting services, Cognizant operates at the intersection of industry and technology. The company helps clients navigate complex problems and enables them to quickly seize emerging opportunities to remain competitive in a fast-moving economy.
+
+The challenge: Cognizant’s bottom line depends on employees’ capacity to think strategically, solve problems, and focus on work that drives impact for clients. Like workers at many firms (who, according to our 2024 Work Trend Index Annual Report, allocate 60 percent of their day to communication and only 40 percent to creation), Cognizant employees also found that the time devoted to managing emails and meetings was diminishing their ability to focus on strategic, big- picture thinking.
+
+Copilot’s impact: Since expanding its initial pilot to provide 24,000 employees with Copilot, Cognizant has experienced a 10 percent reduction in time spent on emails and a 27 percent increase in employees leaving meetings early. Additionally, the company has seen a 73 percent boost in document creation, indicating more time spent on high-value content for clients. This newfound efficiency gives Cognizant’s people the time and space to focus on big ideas and deliver more value to clients, faster.
+
+“When you use Copilot at a company like Cognizant, you very rapidly see that it’s shaving wasteful hours out of your day. It’s getting rid of onerous tasks that used to take you hours, and it’s making you much more focused on the creative, valuable parts of your experience that produce strong work for customers. You don’t have to be mindlessly typing things. We shouldn’t be doing that kind of work anymore. We have the technology—let’s use it and get focused on adding higher value to the chain.” —Reed Wiedower, Innovation and Enablement Leader, Cognizant
+
+3. Powering better patient care at Teladoc Health
+
+The company: Teladoc Health has been a leader in telehealth for over two decades, long before the COVID-19 pandemic made telehealth mainstream, offering patients care for their physical and mental health anywhere and anytime they need it.
+
+The challenge: Before adopting Copilot, Teladoc employees struggled with siloed, inefficient processes that were reducing productivity and impacting their ability to deliver on their commitment to patients.
+
+Copilot’s impact: By revolutionizing Teladoc’s internal processes and client interactions, Copilot has dismantled silos between commercial client product teams and operations, fostering enhanced integration and communication. Using Microsoft Power Automate and Power BI, Copilot automates the categorization and routing of client member issues, initiates workflows, synthesizes reports, and sets alerts on key metrics. This has drastically reduced ticket turnaround times, cutting resolution times from four days to just hours. Moreover, Copilot supports various operational departments by drafting responses to common patient questions and ensuring accurate, consistent answers through a centralized database. The time savings are substantial, with team members getting back up to five hours per week, translating to thousands of hours saved annually—a significant boost for a company with more than 6,000 employees.
+
+“Copilot saves us thousands of hours as an enterprise just through eliminating daily processes—it’s driving operational efficiency across Teladoc, like a personal assistant that never sleeps.” —Eddie Swafford, Vice President of Operations, Teladoc Health.
+
+Recent surveys of CIOs show a significant increase in the percentage of organizations that are planning to adopt generative AI over the next 12 months. Combine that expected acceleration with what our research has already shown about the positive impact of Copilot on businesses worldwide, and we start to see how AI will reinvent the way we work.
+
+1The state of AI in early 2024: Gen AI adoption spikes and starts to generate value, May 30, 2024
+
+Want more great insights on where work is headed? Subscribe to the WorkLab newsletter.
+
+2024 Work Trend Index Annual Report
+
+Reinvention

@@ -1,0 +1,61 @@
+URL: https://customers.microsoft.com/en-us/story/1804624062321190625-lotte-hotels-and-resorts-azure-ai-studio-travel-and-transportation-en-korea
+Source: customers.microsoft.com
+Total Word Count: 1549
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1546
+
+Lotte Hotels & Resorts, including Signiel, is the largest hotel and resort company in Korea that leads the country’s hotel and resort culture. As more and more domestic and international tourists are visiting, it welcomes guests with quality services and facilities as a global chain hotel. This is all thanks to countless employees' hard work. Lotte Hotels & Resorts has been creating a new work culture that allows them to work more efficiently and focus on the nature of the work by adopting Microsoft Power Platform for automation.
+
+Lotte Hotels & Resorts recently introduced Microsoft Power Platform to build an automated work environment. Without the help of professional developers, employees can now automate their tasks with simple training and effectively entrust simple, repetitive tasks to AI-powered robots.
+
+"Automation services through RPA have been a topic of continued interest. RPA was introduced to some services and we applied automation to room reservations, which resulted in amazing outcomes. RPA was also used to refine databases, which allowed over 50,000 pieces of data to be processed automatically in a short time. In the past, 25 people had to work on it for nearly a month. It became automated, which made the work more efficient, and the accuracy was satisfactory."
+
+Lotte Hotels & Resorts has long been interested in automating tasks through RPA. RPA turned out to be a great tool for simple repetitive tasks that created bottlenecks in many different types of work.
+
+The company decided that if the service was to be scaled across the company, it would be able to increase productivity, focus, and satisfaction for their work. However, adopting it and continuing to operate it was a burden on the technical staff involved in automation on top of the financial burden from operational costs. The operating costs for RPA are high, and it's difficult to adjust the details of RPA. The operating system is continuously upgraded, and the cost and time for maintenance could not be ignored as RPA had to be adjusted every time something changed.
+
+Lotte Hotels & Resorts started considering Microsoft Power Platform. Power Platform is a low-code environment that allows users to create simple applications or services to take care of tasks on a computer even if they are not developers.
+
+The company gained interest in automation across clouds and computers through Power Automate. It has already been deployed in local data centers in Korea, ensuring security and high availability, which provided the following benefits:
+
+Among other things, there was an existing service license agreement with Microsoft, which allowed easy access to Power Platform. Only a few users with advanced services needed to purchase some additional licenses. An environment was already created where RPA could be started right away with minimal cost. It was completely different from traditional RPA, which required a license for each unit. With the introduction of the technology, Lotte Hotels & Resorts saw RPA as part of the work culture.
+
+"We have determined that it is much better to replace the efforts and costs of continuous development and operation with internal training. We expected that the overall work efficiency would be increased greatly if employees who know how to use Excel could create RPA models that they need through simple training."
+
+Partners Lotte Data Communication and DEX Consulting built a Microsoft Power Platform environment while running an in-house training program. Each department selected employees interested in RPA to create and operate RPA directly through an eight-week training curriculum. The final part of the project was a direct combination of RPA and practical work, with each employee building a service that would help them do their jobs.
+
+Of course, not all employees are interested in RPA from the start. Lotte Hotels & Resorts thought that the best way to promote it was through word of mouth from the staff of the neighboring department or other hotels doing similar work who found it effective. That's why the training project schedule was established to avoid overlapping job groups.
+
+"Due to the nature of hotel operations, each chain of the hotel operates independently. When a hotel's reservation department leverages RPA, other hotels' reservation departments can take the scenario or improve it to create a better automation experience. It was a priority to create an opportunity to share the utility of the experience with the field."
+
+Currently, 17 hotel properties of Lotte Hotels & Resorts in Korea have created an RPA council to share their experiences and knowledge with one another. The 17 hotels have different characteristics, but they are actively sharing how to leverage RPA with one another. There are also programs for hosting competitions, gathering ideas, and rewarding employees for work-reducing effects of RPA.
+
+The use of RPA is shared through the organization, which can lead to better results. Lotte Hotels & Resorts values original ideas and work and has registered the developed flow as intellectual property. They are repeating progress by continuing to improve it in other hotels and departments to create better results and sharing it again.
+
+Some say that "hyper-automation" will reduce the workforce. While it may have an impact in a broad range, the intention of Lotte Hotels & Resorts is to eliminate simple repetitive tasks of employees and increase the efficiency of their tasks.
+
+Lotte Hotels & Resorts' hotel reservation system is an example. Currently, Lotte Hotels & Resorts and other global hotel chains make reservations on OPERA, which has the highest market share in the global hotel industry. While most global hotel reservation platforms automatically send reservations to the OPERA system of the hotel, many domestic hotels use their own systems. Thus, data integration is not easy due to data specifications or interface issues with OPERA. Reservations made through domestic booking platforms had to be manually entered into OPERA by reservation staff members, which had a possibility of reservation information being entered incorrectly. However, with RPA, human errors caused by manual entry have been eliminated, and the time spent on simple input tasks can be used to improve customer service.
+
+After introducing Power Platform, a system was established to immediately confirm reservations made through external platforms and enter them into Lotte Hotels & Resorts’ reservation system. Simple inputs were eliminated without making changes to the existing operating system. Lotte Hotels & Resorts was able to reduce 10,000 work hours per year at 17 hotels through the reservation automation system within an enhanced data protection system under the management of less reservation management personnel in a space with a complete 24-hour security system.
+
+"We are looking forward to the shift in the overall work culture as we gradually transition to automation from simple repetitive work with more use of Power Platform. They will be able to reduce outsourcing on an irregular basis working late hours and will be able to solve the problem by themselves."
+
+The intent of RPA (and the Microsoft Power Platform that encompasses it) is to bring individual ideas into software to increase efficiency. By removing manual entry from reservation work, employees can focus more on customer service, their main area of work. This will ultimately lead to higher quality service.
+
+"Employees are highly satisfied. The use of Power Platform is a shift in work skills. They have to find a way to do things on their own more effectively, and Power Platform turns that idea into a reality. It's spreading rapidly in the company, slowly rooting in the corporate culture, although not everyone is interested and using it right now."
+
+Microsoft's mission is to empower everyone to work better with AI and the cloud. Power Platform offers a way for experienced professionals to make their work more valuable, even if they are not developers or know how to code. This is the so-called concept of citizen developers.
+
+With Power Platform, RPA is one of many features. That is why Lotte Hotels & Resorts is considering expanding Power Platform not only to automate tasks but also to develop applications and websites. Tools such as Power Apps and Power Pages solve problems with a completely different approach. Power Platform also provides the ability to easily use Microsoft's advanced AI technologies, such as chatbots, OCRs, and Azure OpenAI Service. Lotte Hotels & Resorts is constantly looking at the possibility of connecting customer service, including web pages and reservations, and internal operations through Microsoft Teams.
+
+"I think the ability to address more things on their own will eventually create a virtuous cycle within the organization. Whether it is used by one team member or two or three will certainly produce different results. Automation is not a challenge; it's an opportunity for companies to easily address issues through training and sharing experience. We are in an early phase, but in a process to create a natural work culture. We expect more for the work environment in the future after this becomes an integral part of our company."
+
+“Employees are highly satisfied. The use of Power Platform is a shift in work skills. They have to find a way to do things on their own more effectively, and Power Platform turns that idea into a reality. It's spreading rapidly in the company, slowly rooting in the corporate culture, although not everyone is interested and using it right now.”
+
+Kim Jun-woo, Digital Strategy Team Leader, Lotte Hotels & Resorts

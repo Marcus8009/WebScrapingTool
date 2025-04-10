@@ -1,0 +1,60 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-data-drop-5-copilot-prompts-to-try-out-at-work
+Source: microsoft.com/worklab
+Total Word Count: 969
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 966
+
+We asked people across professions for their most innovative uses of AI.
+
+As companies roll out AI across their organizations, our researchers have been studying how work actually works for people. Results from one of our global research studies, “Copilot Usage in the Workplace,” reveal the surprising ways people in different business functions—from product development and engineering to finance and legal—are using AI in real work scenarios, along with how they’re all using it across functions. Let’s have a closer look.
+
+What we did: The ongoing Copilot Usage in the Workplace survey explores how Copilot customers and Microsoft employees are putting AI to use, and what results they’re seeing. In an open-ended question, we asked 1,270 respondents: “What is the most surprising or interesting scenario where Copilot has helped you?”
+
+Here are some of the most helpful ideas that surfaced in the 1,000 usable responses, broken down by job function, along with examples of prompts to try out yourself*:
+
+Product Development 
+Scenario: Using Copilot to distill complex and messy information into a succinct proposal. 
+Use case: One respondent gathered rough ideas from a few different meetings about creating a new product, fed those notes into Copilot, and asked it to generate a draft of a product spec. Using AI helped the respondent structure their thoughts, create an outline, and wrap up the project more quickly. 
+Try this prompt: “I have gathered rough ideas from several brainstorming sessions about creating a new smart home product. [Document A] includes background on the target audience and key features we’re considering, while [Document B] focuses on design elements. Based on your synthesis of these two documents, please generate a draft of a product specification. The specification should include a product overview, technical specifications, market analysis, feasibility, and timeline.”
+
+Engineering 
+Scenario: Collaborating with Copilot to craft workshop exercises for engineers learning new skills.  
+Use case: During a workshop on administering a software program, an attendee asked the leader to share some extra exercises to help them master a challenging topic. The leader used a Copilot prompt to generate three new exercises. After reviewing Copilot’s suggestions and quickly testing one, the leader shared the exercises with the group. 
+Try this prompt: “Create three exercises to help advanced learners master the topic of ABC in software program XYZ. Each exercise should increase in difficulty, starting with a basic application, moving to an intermediate task, and finishing up with a difficult problem that integrates several aspects of the topic. For each exercise, please provide clear instructions and describe the expected outcome.”
+
+Finance/Accounting 
+Scenario: Leveraging Copilot as a research partner to get up to speed on an unfamiliar subject. 
+Use case: One respondent had a conversation with Copilot to surface information and background about a business unit they had never interacted with before. They asked questions about the division’s organizational setup and responsibilities. 
+Try this prompt: “I’m a new employee in the finance department at Contoso, and I have limited knowledge of our research and development team. Can you share background on their organizational setup and responsibilities? For example, who are the key leaders and what are their roles and areas of oversight? What are the main projects the team is working on? Thank you.”
+
+Legal 
+Scenario: Using Copilot to track revisions to ensure consistency and accuracy.  
+Use case: One survey respondent used Copilot to perform a “qualitative comparison” of different versions of the same document. 
+Try this prompt: “I’ve got the previous version of a document, [FileNameV1], and an updated version of the same document, [FilenameV2]. I need a detailed analysis of what changed between the first version and second version. Please highlight and describe changes in wording, summarize any new additions or deletions, and assess what impact these changes might have on the document’s meaning.”
+
+Marketing/PR 
+Scenario: Collaborating with Copilot as a brainstorm partner.  
+Use case: One marketer said they turn to Copilot every time they need to generate ideas for campaigns, names, or promotions. 
+Try this prompt: “I work for a new company called Contoso that plans to sell organic pet food, and I need help brainstorming names for a product line for puppies. Please suggest 20 names that allude to the product line’s organic ingredients, premium nature, nutritional value, and focus on puppies. Do not include existing company names in the results. For each name option, please give me three pros and cons for how the name (not the ingredients or the product itself) might perform with the consumer demographic outlined in [MarketingResearchReport_final].”
+
+Copilot’s Universal Appeal
+
+Analyzing the responses across all job functions revealed seven shared scenarios.
+
+Why it matters: Organizations are weaving AI into the work they do on two key levels. People seem to be using Copilot in certain common ways, like managing emails or brainstorming ideas, and it’s helpful to think of that as a base layer. Building on this foundation, savvy users are adding more targeted approaches that relate to their specific job functions (and personal lives: respondents reported tapping into Copilot for drafting emails to their child’s school and helping to plot out road trips). These findings point to a future when people will deploy AI for very customized use cases—and show that some users are already well on their way.
+
+Action item: People in every corner of your organization are developing their own smart strategies for AI. Encourage them to share their favorite prompts and use cases via Copilot Lab to spread their intelligence across the organization and supercharge everyone’s skills.
+
+*Example prompts are intended to be starting points, inspiration for your own AI journey. Every organization and situation is different. Experiment and iterate to pursue your specific use case—give yourself time to explore, fail, and be surprised.
+
+Want more great insights on where work is headed? Subscribe to the WorkLab newsletter.
+
+Research
+
+Generative AI

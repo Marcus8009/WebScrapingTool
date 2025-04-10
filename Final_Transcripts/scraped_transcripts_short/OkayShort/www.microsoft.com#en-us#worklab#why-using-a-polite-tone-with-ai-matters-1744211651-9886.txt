@@ -1,0 +1,29 @@
+URL: https://www.microsoft.com/en-us/worklab/why-using-a-polite-tone-with-ai-matters
+Source: microsoft.com/worklab
+Total Word Count: 333
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 330
+
+No, technology can’t get offended. But basic etiquette still goes a long way, says this Copilot designer.
+
+We’ve all heard the advice to “treat others the way you want to be treated.” But does that apply to AI?
+
+It should, says Microsoft’s Kurtis Beavers, a director on the design team for Microsoft Copilot. It’s not that your AI chatbot feels appreciative when you say please and thank you. But using basic etiquette when interacting with AI, Beavers tells WorkLab, helps generate respectful, collaborative outputs.
+
+“Using polite language sets a tone for the response,” he explains. LLMs—large language models, a.k.a. generative AI—are trained on human conversations. In the same way that your email autocomplete suggests a likely next word or phrase, LLMs pick a sentence or paragraph it thinks you might want based on your input. Put another way, it’s a giant prediction machine making highly probabilistic guesses at what would plausibly come next. So when it clocks politeness, it’s more likely to be polite back. The same is true of your colleagues, strangers on the street, and the barista making your iced Americano: when you’re kind to them, they tend to be kind to you too.
+
+Generative AI also mirrors the levels of professionalism, clarity, and detail in the prompts you provide. “It’s a conversation,” Beavers says—and it’s on the user to set the vibe. (On the flip side, if you use provocative or rude language, you’ll likely get some sass back. Just like humans, AI can’t always be the bigger person.)
+
+Rather than order your chatbot around, start your prompts with “please”: please rewrite this more concisely; please suggest 10 ways to rebrand this product. Say thank you when it responds, and be sure to tell it you appreciate the help. Doing so not only ensures you get the same graciousness in return, but it also improves the AI’s responsiveness and performance.
+
+An added bonus? It’s good practice for interacting with humans.
+
+First person
+
+Work Trend Index Annual Report

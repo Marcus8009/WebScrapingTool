@@ -1,0 +1,39 @@
+URL: https://customers.microsoft.com/en-us/story/1770472924267393932-motor-oil-group-microsoft-365-energy-en-greece
+Source: customers.microsoft.com
+Total Word Count: 1010
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1007
+
+Motor Oil Group, a leader in Greece's energy sector, has transformed its operations with Microsoft Copilot for M365, achieving remarkable efficiency gains. By integrating artificial intelligence into its workflows, it now spends minutes on tasks that used to take weeks. Crafting speeches, presentations, and job descriptions is now a breeze, transforming everything from human resources to financial operations. With Copilot, Motor Oil Group’s staff can focus on strategic initiatives, keeping the company at the forefront of the industry.
+
+Motor Oil Group, with a rich 51-year history, is a pioneering force in Greece’s Energy, Oil and Gas sector. It has already implemented an extensive investment plan aiming at the diversification of its portfolio and thus its gradual transformation to an all-inclusive energy group. The transition is structured around four core pillars: further modernization & digitalization of its oil and gas sector, enhanced retail operations and EV charging points, renewable energy with significant solar and wind park investments, and innovative ventures into alternative fuels and waste management.
+
+Digital transformation has played a key role in this transition. Jason Orphanidis, IT Manager, Retail and New Technologies at Motor Oil Group, shares, “We have been investing in technology and artificial intelligence (AI) to make our operations efficient. For example, we use AI in forecasting the energy produced from our solar and wind parks, which is essential for supporting our renewable energy business. In our refinery, we use AI to identify potential failures in our equipment, which saves us thousands of euros every month."
+
+Motor Oil Group saw how investing in better, scalable IT capabilities can empower its organization to grow further. “We are just one team servicing a company of 1,800 employees—so, we need to be productive with our time by reducing the time we spend on repetitive tasks, and focus more on innovative, strategic initiatives,” shares Orphanidis.
+
+This led the Motor Oil Group to participate in the early adoption program for Microsoft Copilot, an AI personal assistant embedded within the Microsoft 365 suite of applications. "We started by adopting Copilot in the IT department. We wanted to understand it fully first so we could then encourage people to use AI in their everyday work," Orphanidis shares. The company then selected ‘champions’ from its various subsidiaries to participate in a three-day training program intended to educate them and equip them to drive adoption. The training program then evolved into an ‘AI garage’, where Motor Oil Group’s internal champions met weekly to explore new possibilities to innovate, further embedding Copilot use cases in daily operations. “We aimed to go beyond the out-of-the-box functionality of Copilot. This initiative has not only encouraged continuous learning but also solidified the role of AI in driving our company forward,” remarks Orphanidis.
+
+Soon, 10% of Motor Oil Group’s staff became active Copilot users. The company started witnessing consistent time-savings and everyday productivity gains.
+
+One of the best examples is how the team used Copilot to craft the company’s Chief Financial Officer’s (CFO) speech based on an annual presentation of results for stakeholders and journalists. “We wondered what Copilot could make out from all the charts and tables in the presentation. In less than two minutes, it drafted a five-page speech—it not only contained all the important points, but also correlated data from the presentation with other company information, such as our acquisitions,” shares Orphanidis. When the team showed it to the Deputy CEO Petros Tzannetakis, he was impressed. “He said, ‘That’s fascinating!’ This was something that would’ve taken a week to prepare and would’ve needed someone with deep expertise. It explained the company’s growth, how certain factors affected the figures, and highlighted changes from the previous year. With some minor adjustments, it was ready to go.”
+
+Inspired by this success, Motor Oil Group also used Copilot to prepare the Chief Information Officer’s speech for the annual IT budget meeting. “In 40 seconds, Copilot provided a speech with all the necessary context behind the IT budget, comparing it to peers in the industry, and to last year's figures. Everyone was astonished once again,” Orphanidis shares.
+
+“In 40 seconds, Copilot provided a speech with all the necessary context behind the IT budget, comparing it to peers in the industry, and to last year's figures.”
+
+Jason Orphanidis, IT Manager, Retail and New Technologies, Motor Oil Group
+
+Various departments have also introduced new workflows, making processes faster and more efficient. For example, Motor Oil Group’s human resources (HR) department sped up a traditionally time-intensive task of updating employee profiles and job descriptions. Orphanidis highlights, "Our HR department was impressed by how Copilot can generate job descriptions for new roles as well as enhance existing ones. This is just one example of mundane tasks that HR typically handles. Having Copilot generate new ideas for structuring job profile templates was immensely valuable for the department."
+
+Similarly, the company’s marketing, communications, and public relations departments are learning how to use Copilot to create presentations quickly based on specific documents or Excel files. “They find Copilot’s assistance invaluable, as it gives them more time to focus on perfecting the assets and raise their quality,” shares Orphanidis.
+
+Looking ahead, Motor Oil Group plans to further integrate Copilot into the company's IT and customer service frameworks. "We want to look into Copilot integrations and enable employees to handle tasks like password resets or account unlocks through Copilot." Orphanidis explains. Motor Oil Group’s energy and retail call centers are also targeted for significant enhancements. With Copilot and its integrations with other platforms, Motor Oil Group aims to equip its agents with a 360-degree view of customer interactions, enhancing response times and service quality.
+
+Moreover, Motor Oil Group intends to continue building the capabilities of its AI Center of Excellence to harness the big data generated by the group. Orphanidis is optimistic about the role of AI in shaping the company's future, stating, "Five years from now, Motor Oil will be an even larger company. We plan to make the most of all the AI tools to provide real insights or develop automations, to stay a leader in Greece."

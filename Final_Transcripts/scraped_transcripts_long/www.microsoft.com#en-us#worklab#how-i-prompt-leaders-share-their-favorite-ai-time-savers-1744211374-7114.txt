@@ -1,0 +1,95 @@
+URL: https://www.microsoft.com/en-us/worklab/how-i-prompt-leaders-share-their-favorite-ai-time-savers
+Source: microsoft.com/worklab
+Total Word Count: 1138
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1135
+
+From ‘What are our top challenges?’ to ‘Summarize this email thread,' Microsoft executives share their favorite AI prompts
+
+Drop a few simple conversational prompts into AI, and the results are pretty astonishing. But these tools also have a deeper potential to transform how work gets done for those who learn how to fully leverage it.
+
+Think of generative AI as a digital assistant that augments your own knowledge and capabilities. If you take a few seconds to give it context and explain your goals, you can create things faster, complete tasks with ease, and lessen your cognitive load.
+
+As you experiment, you’ll develop your own approach to collaboration. To help you get started, we asked 10 leaders here at Microsoft how they use prompts to boost creativity, save time, and stay focused on the most meaningful and rewarding parts of their jobs.
+
+Sumit Chauhan, Corporate Vice President, Office Product Group
+
+When I get in to work in the morning, I’m already behind. There are unread emails and chat messages to catch up on while I’m simultaneously jumping into my first meeting. With Copilot in Outlook, I can type summarize, and boom—I have a pretty accurate rundown of the highlights of a long thread. Or let’s say I have to generate a deck based on documents, emails, previous presentations, what have you. I can go into PowerPoint and say, generate me a deck based on these things, and I get an outline or a draft of a deck. Just that one thing saves me an enormous amount of time.
+
+Jared Spataro, CVP, Modern Work & Business Applications
+
+What makes Copilot feel almost magical is the fact that it has a deep understanding of me, my job, my priorities, and my organization. It knows my entire universe of data at work. I can write:
+
+Quickly summarize the meeting I had at 11 a.m. yesterday.
+
+Who attended?
+
+What decisions were made?
+
+Give me a sense of what you think the next steps should be.
+
+Put that summary into an email to Jun, and propose a time when we’re both free next week to discuss.
+
+Write it in Japanese.
+
+Colette Stallbaumer, General Manager, Microsoft 365 and Future of Work
+
+Time is our most precious resource, and Copilot helps me reclaim some of that time at work. During a busy day, my most frequently used prompts start with “Find me”:
+
+Find me the Q2 news deck that Marta shared in a meeting this week.
+
+Find me the most recent Work Trend Index research document from Grace.
+
+Find me the hybrid work playbook we created in 2021.
+
+No more hunting for specific documents, decks, or emails. Copilot combs through all my folders and files to quickly find what I need—even if it’s a file I haven’t accessed in years. I find it saves me time and helps me stay focused on the strategic and creative work that matters most.
+
+Amy Coleman, CVP, Human Resources & Corporate Functions
+
+Once a week, to keep myself informed and prepare for meetings with global HR partners, I ask Copilot:
+
+What are the top challenges facing global HR organizations this week in September 2023?
+
+What about in Australia, 2023?
+
+Are HR trends in the US for September 2023 different than the HR trends in Germany for September 2023?
+
+Show me HR research across all of our global offices from the past three months, 2023.
+
+Who are the top voices talking about these challenges?
+
+It opens the door to possibilities rather than simply coming to a conclusion.
+
+Jaime Teevan, Chief Scientist & Technical Fellow
+
+When I’m reading an article, I get better summaries when I say, summarize this article for a Microsoft executive with a particular interest in research than when I just ask for a summary. Or if I’m trying to think critically about the article, I might follow up by telling it what I want the reply to look like: What questions should that exec ask of the article? Please include answers to the questions, quoting the article when possible. Basically, I get better replies by including details and direction.
+
+Deb Cupp, President, Americas
+
+I meet with a lot of customers. There are often a lot of ideas generated and action items assigned during these meetings. When I need to send follow-up emails, I rely on Sales Copilot to kick-start the drafting process. I just tell it to generate a response, and it looks at my previous email exchanges with that customer, recent notes from the Teams call, as well as any relevant data from the CRM, and suggests an appropriate response email. I can take that and make some edits of my own before hitting send. These prompts are like my personal shortcuts to staying organized and nailing communication, even on the busiest workdays.
+
+Jon Friedman, CVP, Design & Research
+
+I don’t write code. But I wanted to write JavaScript for an app that ran on mobile devices, so I prompted the AI with all the things I wanted the app to do, and it spit the code back at me. Then I asked, where do I put this code to look at it more carefully? It told me where and helped me troubleshoot errors. I didn’t just ask it to do something for me; I asked it to teach me too. It was like collaborating with a patient programmer.
+
+Kathleen Mitford, CVP, Global Industry Marketing
+
+Prompts like, write a list of… or compare… or give me examples of… give me interesting options and possibilities, and help me to explore creative ideas and build new work habits. Communication and iteration is key at work, and that includes communication with AI. I observe how Copilot responds to my prompts, then I ask it to evaluate its own response, then I ask it to iterate again. It’s like an ongoing dialogue, arrived at by testing and learning continually.
+
+Merrie Williamson, CVP of Azure Infrastructure, Digital & Application Innovation
+
+I am always looking for ways to go deeper in learning about our specific customers. One useful time saver is telling Copilot, highlight key trends and insights in this company’s quarterly earnings report. It’s a quick way to add the additional context I need to drive a great conversation for customer meetings.
+
+Tara Roth, CVP, Microsoft 365 Customer Success Engineering
+
+I love the ability to say, surface key action items for Teams meetings. It’s not always perfect, but it gets you close enough that you can then just quickly edit and add or take away whatever you want. I feel like I can be more attentive in the meeting because I’m not worried about taking notes. I can fully engage with the confidence that Copilot will have captured the key items accurately enough that I can then go modify and send out the summary.
+
+Instant Insights
+
+Instant Insights

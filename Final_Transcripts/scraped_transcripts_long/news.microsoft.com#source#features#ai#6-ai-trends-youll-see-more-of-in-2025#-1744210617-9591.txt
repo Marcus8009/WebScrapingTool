@@ -1,0 +1,109 @@
+URL: https://news.microsoft.com/source/features/ai/6-ai-trends-youll-see-more-of-in-2025/
+Source: news.microsoft.com
+Total Word Count: 1765
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1762
+
+In 2025, AI will evolve from a tool for work and home to an integral part of both.
+
+AI-powered agents will do more with greater autonomy and help simplify your life at home and on the job. On the global stage, AI will help us find new ways to address some of the biggest challenges we face, from the climate crisis to healthcare access.
+
+This progress will be driven by advancements in AI’s ability to remember more and reason better, among other innovations. And Microsoft will remain grounded in its commitment to help people use and build AI that is safe and secure.
+
+“AI is already making the impossible feel possible, and over the past year we’ve seen significant numbers of people and organizations moving from AI experimentation to more meaningful adoption,” says Chris Young, executive vice president of business development, strategy and ventures at Microsoft. “This is the start of a full-scale transformation of how this technology will change every part of our lives.”
+
+In the last year alone, generative AI usage jumped from 55% to 75% among business leaders and AI decisionmakers. New AI tools will bring even more potential.
+
+Want to know what’s ahead? Here are six AI trends to watch — and how Microsoft will innovate on each — in 2025.
+
+Over the past year, AI models became faster and more efficient. Today, large-scale “frontier models” can complete a broad range of tasks from writing to coding, and highly specialized models can be tailored for specific tasks or industries.
+
+In 2025, models will do more — and do it even better.
+
+Models with advanced reasoning capabilities, like OpenAI o1, can already solve complex problems with logical steps that are similar to how humans think before responding to difficult questions. These capabilities will continue to be useful in fields like science, coding, math, law and medicine, allowing models to compare contracts, generate code and execute multistep workflows.
+
+These advancements will be important in model innovation, but so will progress in data curation and post-training. For example, Microsoft’s family of small Phi models showed that curating high-quality data can improve model performance and reasoning.
+
+And Microsoft’s Orca and Orca 2 showed the power of synthetic data for post-training small language models, getting these models to perform at levels previously found only in much larger language models and to perform better on specialized tasks.
+
+Making models faster, better and more specialized will create new and more useful AI experiences, including with agents, in 2025.
+
+“There could be synergy between how we are training the models and how those models are powering agents in return,” says Ece Kamar, managing director of Microsoft’s AI Frontiers Lab. “And people will now have more opportunity than ever to choose from or build models that meet their needs.”
+
+Workers at nearly 70% of Fortune 500 companies already use Microsoft 365 Copilot to tackle plenty of repetitive and mundane tasks, such as sifting through email and taking notes during Teams meetings. In 2025, a new generation of AI-powered agents will do more — even handling certain tasks on your behalf.
+
+“Think of agents as the apps of the AI era,” says Charles Lamanna, corporate vice president of business and industry Copilot. “Just as we use different apps for various tasks, agents will begin to transform every business process, revolutionizing the way we work and manage our organizations.”
+
+With advancements in memory, reasoning and multimodal capabilities, agents will handle more complex assignments with new skills and ways to interact.
+
+Organizations can reimagine processes like creating reports and human resources tasks such as helping resolve a new laptop issue or answering benefits questions, freeing employees to focus on higher value work. Businesses can set up multiple agents to alert supply chain managers about inventory disruptions, recommend new suppliers and execute sales orders, handling daily challenges to help keep sales coming in.
+
+And you can build and use agents no matter your technical skill. Anyone can build an agent in Copilot Studio — no coding required — while developers can create more sophisticated agents to orchestrate more complex tasks in Azure AI Foundry.
+
+All of this will lay the groundwork for a future when organizations have a constellation of agents — from simple prompt-and-response to fully autonomous — that will work independently or together on behalf of individuals, groups or functions to execute and orchestrate processes.
+
+Amid all this AI development, human oversight will remain a central cog in the evolving AI-powered agent wheel, says Kamar.
+
+“In 2025, a lot of conversation will be about drawing the boundaries around what agents are allowed and not allowed to do, and always having human oversight,” Kamar says.
+
+Outside of work, AI is expected to make parts of your life easier in 2025. That’s because Microsoft Copilot can support you throughout your day as your AI companion.
+
+This means it will help simplify and prioritize tasks like your daily barrage of information to free up more of your time, all while safeguarding your privacy, data and security.
+
+As Copilot evolves over the next year, it will help you stay more connected and will have new capabilities.
+
+Copilot Daily, for example, will start your day by reading you a summary of relevant news and weather in a familiar voice.
+
+When you opt-in to use Copilot Vision, it will be able to see what you see online and talk with you about it because it will understand the web page you’re viewing, allowing it to answer your questions and suggest next steps.
+
+Copilot will also help you make decisions. It could help you furnish your new apartment by searching for matching furniture and then help you think through the best way to arrange all of it to achieve feng shui.
+
+And that’s only the beginning. In the coming years, AI experiences will become increasingly accurate and gain better emotional intelligence for more fluid interactions.
+
+While AI needs resources like energy, innovative solutions are helping with this challenge. Even as global datacenter workloads in 2020 were roughly nine times what they were in 2010, for example, datacenter electricity demand increased only 10%.
+
+That’s in part because Microsoft is working on its own and with others, like AMD, Intel and NVIDIA, to make its hardware more efficient, from its custom silicon series, Azure Maia and Cobalt, to its liquid cooling heat exchanger unit designed to efficiently cool large-scale AI systems.
+
+In the coming years, new datacenters that support AI will come online and consume zero water for cooling and the company will expand its use of superefficient liquid cooling systems such as cold plates.
+
+It’s all part of a broader effort to make the infrastructure AI is built on more efficient and sustainable in 2025.
+
+As Microsoft helps build a more efficient AI infrastructure, it will continue to invest in and use more low-carbon building materials, like near-zero carbon steel, concrete alternatives and cross-laminated timber.
+
+Microsoft will also keep investing in and using carbon-free energy sources like wind, geothermal, nuclear and solar power. The company is making long-term investments to bring more carbon-free electricity onto the grids where it operates and continues to advocate for the expansion of clean energy solutions around the world.
+
+This is only a slice of Microsoft’s planned infrastructure that will advance its goal to be a carbon negative, water positive, zero waste company by 2030, says Mark Russinovich, Azure’s chief technology officer, deputy chief information security officer and technical fellow.
+
+“In 2025 and beyond we’re going to increasingly have a holistic view of datacenters, energy and resources, so that we can maximize the efficiency of our entire infrastructure,” Russinovich says.
+
+Measurement is defining and assessing risks in AI, and it’s critical for building AI responsibly. One of the biggest developments this coming year can be summarized in two words: testing and customization.
+
+If you can measure risks and threats, you can help address or mitigate both. This means, for example, detecting and addressing ungrounded content, known as “hallucinations,” which are inaccurate responses from AI.
+
+Part of Microsoft’s ongoing work to build safe AI applications is developing tough and comprehensive testing, says Sarah Bird, Microsoft’s chief product officer of Responsible AI. In addition to assessing internal threats like hallucinations, testing will become better at recognizing external and increasingly sophisticated attacks.
+
+“Even as models get safer, we need to bring testing and measurement up to the worst of the worst threats that we see — testing that represents a sophisticated adversarial user and what they’re able to do,” Bird says. “We have the foundation, and we’re going to continue to iterate on it moving forward.”
+
+People will also gain greater control over how AI applications operate within their organizations. They will be able to customize applications that filter content and establish guardrails that fit their work. A gaming company, for example, will be able to specify what kinds of violent content employees who are building games can see.
+
+“The administrator can change the control of Microsoft 365 Copilot to say what types of content are appropriate in a workplace so people can do their jobs,” Bird says. “Control and customization are absolutely the future.”
+
+AI is already having a dramatic impact around the world, driving advances in everything from supercomputing to weather forecasting. It’s fueling historic breakthroughs in scientific research and promises to unlock new capabilities in the natural sciences, sustainable materials, drug discovery and human health.
+
+In 2024, for example, Microsoft Research made a breakthrough that will allow researchers to explore some of the world’s toughest biomolecular science problems, including the discovery of life-saving new drugs, with unprecedented speed and precision. Using an AI-driven protein simulation system, researchers found a new way to simulate biomolecular dynamics. This method, called AI2BMD, could help scientists solve previously intractable problems and fuel biomedical research in protein design, enzyme engineering and drug discovery.
+
+And AI’s impact on science will continue to grow.
+
+One of the most exciting things to watch in 2025 will be how AI’s use in scientific research fuels progress in addressing some of the world’s most pressing concerns, says Ashley Llorens, corporate vice president and managing director at Microsoft Research.
+
+“We’ll start to see these tools having a measurable impact on the throughput of the people and institutions who are working on these huge problems, such as designing sustainable materials and accelerating development of life-saving drugs,” Llorens says.
+
+In 2025, one trend is certain: AI will continue to drive innovation and unlock new potential for people and organizations around the globe.
+
+Illustrations by Michał Bednarski / Makeshift Studios. Story published on Dec 5, 2024.

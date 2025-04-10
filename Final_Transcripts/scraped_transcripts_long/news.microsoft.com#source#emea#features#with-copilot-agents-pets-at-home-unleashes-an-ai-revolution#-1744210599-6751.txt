@@ -1,0 +1,73 @@
+URL: https://news.microsoft.com/source/emea/features/with-copilot-agents-pets-at-home-unleashes-an-ai-revolution/
+Source: news.microsoft.com
+Total Word Count: 1387
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1384
+
+William Hewish took the job as chief information officer at Pets at Home, the UK’s biggest pet care company, in 2019. At the time, the systems running its four areas of operation were, as the business slang has it, in silos.
+
+The pet care company has about 450 physical stores, a retail website, about 450 veterinary practices run independently, and grooming services that style as many as 17,000 pets per week.
+
+“The business has always had a strategy to join up the pet care experience for customers,” Hewish recalled.  “Joining the digital world behind these was an immediate focus for me.”
+
+Online sales, the loyalty program, the vet practices – “all of these things were separate. So, I saw the opportunity to build a platform that stretched across our omnichannel business, joining our stores with our website, with our app and with our veterinary practices,” he said.
+
+After creating a platform in Azure that unites the data from its various operations, the company is focusing on the potential of AI, he said. Pets at Home is an early adopter of Microsoft Copilot Studio, where a business can create AI agents to act in support of different areas of the business. It coincides with Microsoft’s announcement October 21 of the ability to create autonomous agents to help build capacity for every sales, service, finance and supply chain team.
+
+With early access to agent-building features in Copilot Studio, Pets at Home created an agent to help its retail fraud detection team investigate suspicious transactions. The company is planning on creating other agents to assist its colleagues in other areas.
+
+It’s part of the company’s embrace of a range of AI services across departments. For veterinary colleagues, that means saving time on administrative tasks to be able to spend more time focused on patients. For the business as a whole, that means unifying the data from its different operations to create a better customer experience.
+
+“We have some fantastic data – there are 8 million customers in our Pets Club, with 10 million pets,” he said. “We’re using machine learning and AI algorithms to produce recommendations for next best actions.”
+
+“We can give information to our colleagues in our pet care centers about our customers’ pets, and what they would typically buy or need at their life stage. We can bring that same data to life across our organization so that we’re really relevant to customers, and we’re helping them make the best decisions for their pet, whether they are in a store, online or at the veterinary practice.”
+
+Simon Ellis is the head of AI transformation and enterprise architecture at Pets at Home.
+
+“We’re a retailer; we’re a healthcare provider. We provide expert grooming services, and we run our loyalty scheme, Pets Club,” he said. “Altogether, we are a wide and complex business.”
+
+He said that using Copilot Studio to create the agent for the retail fraud team had proven to be a rapid and seamless process because it doesn’t require a high degree of coding skill to integrate it into Pets at Home’s existing systems. Agents are AI tools that can work on behalf of an individual or team to operate and orchestrate business activities. They range from simple prompt-and-response agents to fully autonomous agents. Copilot is how people can interact with these agents.
+
+“The beautiful thing about Copilot and Copilot agents is it can connect into our existing ecosystem of either our bespoke solutions or partners’,” Ellis said.
+
+“The ability to bring in artificial intelligence and agents to work alongside our colleagues to provide them quicker insight and give them the ability to be more efficient allows us to scale and grow the business while improving our overall consumer service,” Ellis added.
+
+Privacy is of the utmost importance to Pets at Home, he said. “Data never leaves our ecosystem and is only used under the strict terms and conditions of use granted to us by our customers, partners, our legal and our information security teams and our Data Protection Office.”
+
+One area where the company sees potential for the use of agents is in retail fraud detection, which is where Pets at Home has developed bespoke tools for its copilot trial. Globally, retail fraud is a $100 billion problem.
+
+For Pets at Home, fraud is simply part of life as a large retailer, and it has used this trial to think about how it can use technology to empower colleagues in their roles. Kay Birkby is the company’s senior fraud manager. She said fraud attempts range from improper returns to coupon or discount abuse to the use of stolen credit cards.
+
+Birkby cited an example where sometimes the same photograph showing a damaged package would be used multiple times by different people in an effort to generate a refund or redelivery.
+
+With the volume of cases being investigated, it was difficult to detect that type of systematic fraud. In the trial, Pets at Home’s team found that the agent it built with Copilot Studio can sift through significant amounts of data very quickly and easily spot something like a photo being used multiple times by different parties. Using the new agent developed by Pets at Home using Copilot Studio helps Birkby’s team analyze the transaction data more efficiently and make decisions about when to act on it. She said the copilot agent had also proven useful in detecting problems with products through its tracking of complaints.
+
+“We’re finding those anomalies and patterns of behavior, not just to identify undesirable behavior, shall we say, but also to identify cases where this customer experienced an issue that we need to look into further,” Birkby said. “Is there an issue with this product, for example, that we need to take internally?”
+
+She said that a big part of her job is making sure that loyal customers aren’t unjustly suspected of playing the system.
+
+“I am always aware that if I get my job wrong then I can really impact our genuine customers because effectively I could go too hard and block them from being able to transact with us,” she said. “It is really a fine line.”
+
+In embracing AI as a business strategy, Hewish, the CIO of Pets at Home, says the experience for customers and their pets is paramount. Using data more skillfully with AI will make that easier across Pets at Home’s operations.
+
+“There are lots of demands on clinical colleagues’ time, so to help them with spending more of this time seeing patients, making the admin more efficient is the obvious answer,” he said. “There’s only so much a person can do in a day.”
+
+Dr. Samantha Butler-Davies is the Veterinary Services Director at Pets at Home, and she said AI has great potential to help vets. The company has been testing a customized version of a transcription tool using copilot components to transcribe during some clinical consultations and operations. She also sees AI’s potential in helping with scheduling and planning, an area where agents could be of service.
+
+At one point, she said, she worked at an animal hospital. It was not unusual to have as many as 20 inpatients needing care at the same time.
+
+“This patient needs meds at this time, this one needs physiotherapy at that time, this one needs to have been walked by this time,” she recalled. To organize the available colleagues, the schedule and the changing needs of the dogs, cats and other animals being cared for was a pressure-filled and complex task.
+
+“Veterinary medicine is both a science and an art,” she said.
+
+“You have the facts in front of you, but of course our patients can’t speak to us,” she added. “You have to interpret the symptoms and speak to the owners to understand what’s been going on and what could be behind it.”
+
+Hewish said that using AI in the clinics is “about freeing up clinicians to do clinicians’ work that they’re trained years for. It’s what they love and what they want to do. They want to save pets. They don’t want to sit at a screen.”
+
+He said that giving vets and other colleagues more time to work with animals and their owners aligns with Pets at Home’s overall mission: “Creating a better world for pets and people who love them.”

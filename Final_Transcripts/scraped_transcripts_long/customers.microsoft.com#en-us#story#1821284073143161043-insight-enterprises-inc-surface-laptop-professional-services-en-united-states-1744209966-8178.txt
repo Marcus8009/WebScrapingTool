@@ -1,0 +1,69 @@
+URL: https://customers.microsoft.com/en-us/story/1821284073143161043-insight-enterprises-inc-surface-laptop-professional-services-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 890
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 887
+
+Insight wanted to improve productivity by streamlining processes and onboarding. Stronger security and privacy measures were needed to avoid potential vulnerabilities. Scalable solutions were needed to improve delivery quality, accuracy, and speed.
+
+Surface, Windows 11, and Copilot help modernize operations.
+
+TPM 2.0 and Windows Hello on Surface improve security and collaboration.
+
+Windows 11 boosts application performance, especially in resource-heavy tools.
+
+Copilot streamlines workflows.
+
+Copilot saves teammates four hours weekly, increasing productivity.
+
+Security and operational efficiency have significantly improved.
+
+Collaboration and flexibility are driving employee satisfaction.
+
+Insight is poised to maintain industry leadership.
+
+Insight Enterprises, a global leader in solutions integration, excels in digital transformation, cloud services, cybersecurity, and modern infrastructure. With a network of more than 8,000 partners, Insight stands out by incorporating AI into tailored, future-proof solutions. However, the company was dealing with tech complications that hindered productivity and information discovery.Insight recognized an opportunity to enhance delivery quality and speed by implementing scalable solutions that modernize processes, accelerate onboarding, and strengthen data privacy measures.
+
+To address these issues, Insight turned to a suite of Microsoft technologies, including Microsoft Surface, Windows 11, and Microsoft 365 Copilot to provide the necessary tools to modernize operations while paving the way for future growth and innovation.
+
+Surface devices offered Insight a future-ready platform equipped with security features, such as TPM 2.0 chips and Windows Hello facial recognition, crucial in advancing data security. Shahana Nasmin, Senior Information Technology Manager at Insight, explains, “Surface is a very secure platform for us. The Windows Hello facial recognition feature, now improved with the infrared camera, has further strengthened our security posture.” Surface also provides flexibility, encouraging inclusive work styles that foster collaboration and innovation. The devices’ mobility, battery life, and seamless wireless functions have significantly improved the user experience across various departments. “Mobility has improved, and the high-res displays have made a noticeable difference,” Nasmin notes. “The wireless keyboard feature of Surface Pro is also very handy, and the keyboard shortcuts and gestures that have been built into the hardware are very, very helpful.”
+
+Surface is a very secure platform for us. The Windows Hello facial recognition feature, now improved with the infrared camera, has further strengthened our security posture.
+
+Shahana Nasmin, Senior Information Technology Manager, Insight
+
+Paired with Surface devices, Insight has embraced Windows 11 due to its robust security features and performance. It helps streamline application performance, particularly in high-demand applications like Microsoft Teams. “Teams used to use a lot of resources, but with the newer Surface devices and Windows 11, application performance is much better,” says Mathew Skaff, Vice President, Global Business Solutions at Insight. Mark Berlin, Vice President of Partner Management at Insight, adds, “We’ve seen exceptional performance out of Surface devices with Windows 11, especially with audio and noise canceling and overall video quality. The high-resolution display and touch and pen support have also been well received.”
+
+Teams used to use a lot of resources, but with the newer Surface devices and Windows 11, application performance is much better.
+
+Mathew Skaff, Vice President, Global Business Solutions, Insight
+
+Copilot has been a game-changer for Insight by automating routine tasks like meeting summarization, email management, and content creation. To support global adoption, Insight used Microsoft Viva Engage for training and best practice sharing, fostering collaboration across teams. The company also addressed AI and data privacy challenges by carefully managing data quality and permissions. “For each of our teammates using Copilot, we’ve seen about four hours of productivity gained per week from data summarization and content creation,” Skaff says, underscoring the value Copilot brings in facilitating workflows and improving efficiency.
+
+The wireless keyboard feature of Surface Pro is also very handy, and the keyboard shortcuts and gestures that have been built into the hardware are very, very helpful.
+
+Shahana Nasmin, Senior Information Technology Manager, Insight
+
+Since adopting Surface devices, Windows 11, and Copilot, Insight has markedly improved operational efficiency and teammate satisfaction. These technologies have driven the company's success and laid a strong foundation for future growth.
+
+For each of our teammates using Copilot, we’ve seen about four hours of productivity gained per week from data summarization and content creation.
+
+Mathew Skaff, Vice President, Global Business Solutions, Insight
+
+The advanced security features of Surface devices and Windows 11 have fortified Insight’s infrastructure. “It’s crucial to be ahead of the game,” Skaff emphasizes. “We want to take advantage of new technology as it rolls out, then bring that knowledge to our clients, and we are at the forefront of understanding what Surface devices with Windows 11 can do.”
+
+The automation Copilot provides has freed teammates to focus on higher-level strategic tasks. “I’m able to attend to more strategic outlook meetings because I don’t have to sit through every meeting,” Skaff says. “Copilot summarizes the key points for me, saving time, so I can concentrate on more important matters.”
+
+With streamlined operations and an increase in innovation, Insight is well equipped to lead in the technology solutions industry and support sustained growth.
+
+Discover more about Insight on Facebook, Instagram, LinkedIn, X/Twitter, and Youtube.
+
+It’s crucial to be ahead of the game. We want to take advantage of new technology as it rolls out, then bring that knowledge to our clients, and we are at the forefront of understanding what Surface devices with Windows 11 can do.
+
+Mathew Skaff, Vice President, Global Business Solutions, Insight

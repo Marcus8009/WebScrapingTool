@@ -1,0 +1,35 @@
+URL: https://customers.microsoft.com/en-us/story/1760377839901581759-axa-gie-azure-insurance-en-france
+Source: customers.microsoft.com
+Total Word Count: 861
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 858
+
+AXA, a leading insurance company, is taking a new step in its digital transformation with generative AI. In just three months, the insurer developed AXA Secure GPT—a platform powered by Azure OpenAI Services that empowers employees to leverage the power of generative AI while targeting the highest level of data safety and responsible use of the tool. This swift development highlights AXA's commitment to innovation and its potential to empower employees in the insurance industry.
+
+Counting 93 million clients globally and operating in over 51 countries, AXA is one of the world’s leading insurance and asset management groups. The company joined the surge of generative AI, providing its 140,000 employees the power of this new era of AI with an emphasis on doing things securely and responsibly. “Our goal was to ensure that all our employees had access to the same technology as the public AI tools within a secure and reliable environment. We wanted to go fast, and that's why we did it in less than three months” said Vincent De Ponthaud, Head of Software & AI Engineering at AXA.
+
+After crafting the overall functional architecture, a team of AXA experts collaborated with Microsoft, the company’s long-term and trusted services provider, to develop the AXA Secure GPT application powered by Azure OpenAI Services. “We leveraged Microsoft Azure to benefit from all that’s already in place in terms of innovative services and contractual protection,” De Ponthaud added, pointing out that AXA already turned to Azure technology for its cloud transformation. “It was a perfect alignment with Microsoft. They promptly offered the latest innovation through Azure OpenAI Service, and we were eager to swiftly implement these advancements for our employees.”
+
+The initial two months focused on prototyping, followed by a month of fine-tuning. By summer, the AXA Secure GPT application was rolled out for employees within AXA Group Operations present in 14 countries. With very strict standards for data management, AXA included an additional security layer for authentication and audit trail.
+
+“AXA has some strong guidelines when it comes to security and data privacy. We need to know what kind of data has been shared in detail,” AXA’s Head of Software & AI Engineering said, explaining that the system uses content filtering and data protection measures. It was essential for the company to ensure it was using data in a way that was compliant with current legislation like the EU General Data Protection Regulation (GDPR) for European Entities, and other local legislations. When using Azure OpenAI Services, the prompts, data, and outputs remain in a safe environment and aren’t shared with any external services. For AXA, it means that all the data remains located in a dedicated cloud tenant, allowing the company to remain in control and manage any potential security alert internally.
+
+Secure GPT is based on Azure OpenAI Services, and as such, leverages models that have already been fine-tuned using human feedback reinforcement learning. In addition, AXA can also rely on Microsoft content filtering technology to which the company added its own security layer to prevent any jailbreaking of the model using Prompt Shields and ensure an optimal level of reliability. All those layers are regularly updated to maintain advanced safeguarding.
+
+The company also provided extensive support to the employees to guarantee the best use of AXA Secure GPT for efficiency and safety. “We leveraged Microsoft technology as well as their know-how through Microsoft Consulting Services. So, they support us in this journey to design the best architecture to leverage such service in AXA’s environment,” said De Ponthaud. The insurer also set up a change management program in each country to support the employees.
+
+Currently, 140,000 AXA employees have access to the platform. “As an employer, it is our responsibility to provide our employees with the best tools to enhance their comfort and enable them to focus on high-value activities,” he added. As the platform can be used for text generation and translation, it can drastically save time when it comes to creating a job description for HR employees or a draft for the communications team. For IT employees, it can also generate code in several programming languages, though most capable in Python.
+
+In the words of an AXA employee, "Secure GPT helps me as a sparring partner in problem-solving by directly suggesting potential causes and solutions that I may not have thought of, allowing me to move faster and further."
+
+“It's an extremely powerful tool if the prompts are well-written,” De Ponthaud said. For that reason, AXA offered training to showcase the platform’s possibilities and its proper use in terms of data privacy. After gathering feedback from the first users, the company released a prompt library a few weeks ago, a collection of over a hundred prompts tailored for the different departments. “It’s a way to use the tool efficiently.” Most of the employees who try the tool end up adopting it, he concluded.
+
+“We leveraged Microsoft technology as well as their know-how through Microsoft Consulting Services. So, they support us in this journey to design the best architecture to leverage such service in AXA’s environment.”
+
+Vincent De Ponthaud, Head of Software & AI Engineering, AXA

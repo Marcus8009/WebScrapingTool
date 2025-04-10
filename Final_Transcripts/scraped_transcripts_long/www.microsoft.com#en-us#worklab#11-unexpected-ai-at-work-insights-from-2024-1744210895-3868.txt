@@ -1,0 +1,71 @@
+URL: https://www.microsoft.com/en-us/worklab/11-unexpected-ai-at-work-insights-from-2024
+Source: microsoft.com/worklab
+Total Word Count: 1494
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1491
+
+Lessons from AI experts, real-world research, and business breakthroughs that every leader should know.
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+AI began to have real impact on business this year, demonstrating its value as both a personal assistant for every employee and a transformation catalyst for every organization. It was also a year of learning, as thought leaders, real-world research, and business breakthroughs all shined a light on how AI will reshape every aspect of work—illuminating both the opportunities and challenges ahead. Along the way, new terms, ideas, and creative use cases emerged. From the illustrative (“islands of intelligence”) to the delightful (custom coloring books), here are 11 AI-at-work insights every leader should know. 
+
+Avoid “islands of intelligence” 
+When people first start working with a new tool, there’s a tendency to sequester updated knowledge and workflows from others. This creates “islands of intelligence” that stymie knowledge sharing and, over time, critical business transformation. With AI, it’s essential to encourage sharing and discussion across your organization, says A.J. Brush, a Microsoft Partner Group Product Manager. “People react to what others do, not always what they say,” she says. “When people see their leaders using the same tools and sharing what they’ve learned, they get excited to do the same.” So bridge the gaps between those islands to build your organization’s collective brainpower. 
+Read: When It Comes to AI, Don’t Build “Islands of Intelligence”
+
+Partner up 
+For decades, humans have been conditioned to work with technology by issuing commands. Think of how we use a calculator: You input some numbers and symbols, and it responds with an output. AI can operate like that, but it actually works best if you treat it like a colleague rather than a calculator. When you ask it to write a first draft or create a deck, it might not get things right on the first try, so you need to iterate with it, or “co-create.” It’s about having a conversation, a back-and-forth, until you land in the right place. And remember: with AI, as with humans, it never hurts to say “please” and “thank you.” 
+Read: Work with AI Like It’s a Colleague, Not a Calculator 
+
+Remember: BYOAI is not safe for work 
+By the first half of 2024, 75 percent of employees were using AI at work. But their employers struggled to keep up. Our 2024 Work Trend Index Annual Report found that almost 80 percent of AI users bring their own AI tools to work. That number is even higher for Gen Z employees: a full 85 percent of them say they have used AI tools at work that were not provided by their employer. These unsanctioned “BYOAI” tools may help individual employees boost productivity, but they fail to help the business take advantage of the team- and organization-wide benefits of AI. Worse, they put company data at risk. For every leader, a company-wide AI rollout should be a top priority. 
+Read: AI at Work Is Here. Now Comes the Hard Part 
+ 
+Use AI to “write out loud” 
+We’ve all suffered from blank screen syndrome—and it can add up to a lot of time and productivity lost for employers. A team at materials science company Dow not only discovered how AI can address writer’s block, but they’re also using it to reinvent how they produce technical white papers. They schedule, and record, meetings to discuss a topic in depth, with the aim of handing the transcript over to Copilot to weave the conversation into a clear, cohesive first draft. Call it “writing out loud.” The result: a process that once required hours of work can now be accomplished in 30 minutes. 
+Read: AI Data Drop: 3 Key Insights from Real-World Research on AI Usage 
+
+Think of AI like…MapQuest? 
+AI inspires a lot of metaphors, but here’s one we love. On the WorkLab podcast, Microsoft Chief Scientist Jaime Teevan compared AI to advances in map technology. She pointed out that it’s certainly useful to tap AI to summarize documents, but limiting your use of the technology to such basic tasks is sort of like the days when we’d print out MapQuest directions to carry with us. Thinking more expansively about the potential of digital maps eventually got us things like traffic prediction and rideshare apps. Approaching AI with the same level of creativity promises to unlock similarly transformative leaps in value. 
+Listen: Microsoft’s Chief Scientist on AI’s Untapped Potential 
+
+Also, think of it like a circular saw 
+Ad agency Supernatural AI weaves the technology into all its work, from brand strategy to creative ideation. Co-founder Mike Barrett shared a metaphor he uses to reassure people who worry that machines will take over their jobs. “AI is no more coming for your job than circular saws came for the jobs of carpenters,” he tells them. “The idea that you’re going to turn on some power tools, leave them in a room by themselves, and come back to fully finished furniture? It’s ludicrous.” Instead, he asks people to think of AI as “a power tool for creative people.” 
+Read: Inside an AI-Native Ad Agency 
+
+Consider your entire AI system 
+Large language models are proliferating, and they’re getting better all the time. A counterintuitive side effect: as LLMs become more sophisticated, they’ll become commodities. As Microsoft CMO of AI at Work Jared Spataro explains, there will be a lot of stellar models out there with less differentiation between them. What does that mean for businesses? The model is one important part of an AI system, but not the only part, so companies should focus more on how they integrate these models with their own data and workflows. 
+Read: LLMs Are Becoming a Commodity—Now What? 
+
+Accelerate AI adoption—and the sales will follow 
+As Lumen President and CEO Kate Johnson was telling WorkLab podcast host Molly Wood about how she’s using AI to launch the telecom company into the future, she revealed a surprising detail: When Lumen first rolled out Copilot, adoption metrics were low. Johnson had her own usage audited and found out that she was using AI much less than she had thought. She then made an extra effort to use Copilot and shared her shift in daily habits with other leaders at Lumen, driving adoption first among senior executives and then to the rest of the organization. Eventually, people reported saving about 30 minutes a day—that adds up at a company with tens of thousands of employees. Johnson also singled out how the technology has transformed one department in particular: “AI for sales has been huge.” 
+Listen: Lumen CEO Kate Johnson Says Leaders Should Be Catalysts 
+
+Take a functional approach 
+To help business leaders understand how AI will fundamentally transform every major business function, we looked under the hood at Microsoft and asked seven functional leaders for a firsthand report on how their own adoption journeys are unfolding and where they think they’ll go next. From Finance and HR to Customer Service and Legal, they shared lessons learned and invaluable tips for their peers at other organizations. One big takeaway: look for your team’s biggest pain point, then apply AI to fix it. 
+Read: AI Is Already Changing Work—Microsoft Included 
+
+Start deploying AI agents today 
+Forward-looking companies like Dow are already putting agents to work. In 2024, the company started using agents to cut costs in critical areas. Dow spends several billion dollars a year on shipping, and some of the thousands of invoices contain inaccurate charges that can build up to significant potential overpayments. “If we had a better way to assess and track invoicing errors—even a 1 percent improvement would mean substantial savings,” says Dow Chief Information and Chief Digital Officer Melanie Kalmar. Enter Copilot and agents. Dow partnered with Microsoft to automate the shipping invoice analysis process and streamline its global supply chain. 
+Read: AI Impact at Dow: Copilot Identifies Millions in Cost Savings 
+
+Don’t forget to have fun 
+One question our podcast host, Molly Wood, always asks guests is about how they use AI in their work and personal lives. Rackhouse Ventures founder Kevin Novak’s use case was particularly Dad Mode: “My three-and-a-half-year-old is big into coloring,” he told us. “We’ll go to the aquarium or whatever, and then I will get home and use an image generation AI to basically create coloring books of our adventure.” Novak had fascinating insights about the transformative potential of AI at work, but the idea of creating a bespoke coloring book featuring a curly haired kid and a “chunky bearded dad” to delight a toddler demonstrates the transformative potential of AI when it comes to parenting too. 
+Listen: An AI-First Data Scientist on the Technology’s Current Limits and Future Potential
+
+Want more essential insights on AI and the future of work? Subscribe to the WorkLab newsletter.
+
+Results
+
+2024 Work Trend Index Annual Report

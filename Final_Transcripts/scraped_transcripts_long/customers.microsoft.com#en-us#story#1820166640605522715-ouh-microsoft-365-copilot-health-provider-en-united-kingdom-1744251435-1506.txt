@@ -1,0 +1,117 @@
+URL: https://customers.microsoft.com/en-us/story/1820166640605522715-ouh-microsoft-365-copilot-health-provider-en-united-kingdom
+Source: customers.microsoft.com
+Total Word Count: 2597
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 2594
+
+OUH wanted to enable its staff to innovate with generative AI technologies in a safe, secure, and compliant way.
+
+OUH implemented Microsoft 365 Copilot to maximise the return on investment from its existing Microsoft investments.
+
+Staff report productivity improvements and time savings in back-office and administrative tasks, improving well-being and enabling more resources to be redirected to delivering frontline services.
+
+Admin time saving of 2-3 hours per week
+
+Oxford University Hospitals NHS Foundation Trust (OUH) is one of the UK’s largest teaching hospital trusts. The Trust’s IT team supports the provision of acute care across Oxfordshire and provides a technology platform for other local NHS organisations.
+
+With more than 18,500 network users, the OUH IT team recognised that there was a decided interest in the potential of generative AI to transform work amongst parts of its user base.
+
+Matt Harris, Interim Chief Digital and Partnership Officer at OUH, recalls, “We wanted a secure way for people to start using new generative AI technologies. I didn’t want staff using publicly available tools where there is a risk our data could leak out when it shouldn’t. Working with Microsoft to deploy Copilot meant we could be very comfortable with the security element of the tooling.”
+
+“Copilot sits in our Microsoft environment and we can be as restrictive as we want with its implementation. It’s an opportunity for the Trust to keep people engaged. And it’s a good, compliant way to enable people to explore the different ways in which they can use AI to improve the way they’re doing their job.”
+
+Lee Massie, Head of IT at OUH, began rolling out Microsoft 365 Copilot on January 1, 2024. The initial rollout was limited in scope, extending up to just over 4% of the Trust’s total user base whilst the team explored the value of the tool.
+
+Users were supported by a series of drop-in sessions in which the IT team shared ideas about use cases, prompting, requests, and actions. For example, they shared how to turn a report into a PowerPoint presentation and how to use Copilot to summarise unread emails.
+
+“Some users came along to one session, others came along to several,” recalls Lee Massie. “As we widened out the use of Copilot to more users, it was apparent from those sessions we needed to create a centre of excellence on our intranet and create a hub on Microsoft Teams where users can share ideas and successes, so people can learn from each other’s experiences. We created the centre of excellence in partnership with Microsoft and it has been a tremendous success, with staff sharing ideas and learning from their peers. It is so valuable in learning some of Copilot’s capability and recognising potential use cases.”
+
+To date, the Trust has found that most users are seeing a time saving of at least an hour per week. However, OUH expects this to rise as users become more familiar with the tool.
+
+At present, over a third of users report a saving of between one and two hours per week in Teams. Even at this early stage, nearly 10% of users report a saving of around three to four hours per week.
+
+One colleague in the information governance team reported that complex formatting tasks which used to take 15 to 20 minutes each time were now reduced down to a matter of seconds. These time savings quickly add up. This means they can devote their time to providing the services to the frontline that give time back to care.
+
+Lee Massie says, “I think I’m personally saving around an hour every day. For example, I use Copilot to compile information in my emails into timelines for the situation briefing reports I need to write. I have trained it to format the information into the right structure for an SBAR, saving hours on every report.”
+
+“I think the biggest saving everybody is agreeing on is the production of meeting minutes and summarisation in meetings and within personal workloads,” reports Lee Massie.
+
+Matt Harris shares the example of a targeted lung health check initiative, which prioritises lung scanning in the community. Liz Gamlen chairs the team’s meetings and has partnered closely with IT to launch the programme. It used to take Liz 90 minutes to write up the meeting notes for meetings which were taking place two or three times per week. She now uses Copilot to reduce that admin time to 25 minutes—effectively making a time saving of two to three hours per week.
+
+Liz was thrilled to spend fewer hours at the beginning and end of her hectic workday on admin tasks. She also loved being able to focus on making an impact instead of writing notes. She said this was priceless in helping her work-life balance.
+
+The Trust is still working through the implications of which meetings it is appropriate to record and turn on transcription, since these files become part of the permanent record. It is committed to applying responsible principles and ensuring compliant use of AI. The digital team is working closely with the information governance team to put the right processes in place.
+
+Meanwhile, Lee Massie says, “This has been a really positive start. However, I’m very keen to highlight the additional capabilities which show that Copilot is so much more than taking notes in your meetings and providing a recap.”
+
+Lee Massie used Copilot to create a set of questions in Microsoft Forms to collect feedback about its use. A wide group of users have reported enhancements to the way they work.
+
+One team leader praised Copilot’s text creation capabilities, reporting that the suggestions on alternative formatting and content were particularly useful. An executive director reported “massive time savings when taking notes in meetings, summarising points and actions, and distilling large documents into sensible summaries."
+
+A senior manager said, “Copilot really shines when boosting productivity. Think of it as having an extra pair of hands, freeing you to focus on what really matters.” They particularly valued the real-time response to specific questions during live meetings, Teams Chat summaries, and content generation through emails and documents.
+
+Another team leader enthused, “Another very clear time saving is when creating standard documents in Word, like TORs and agendas. These take time away from my normal job, so it’s useful to have this facility to reduce the time it takes to complete these tasks.”
+
+Lee Massie is cognizant that work so far has only touched the surface of what is possible. There is a huge untapped potential for Copilot to support users with accessibility needs, in particular. He is keen to establish feedback loops and knowledge sharing so users can continue to expand their use of Copilot and drive extra time savings and value.
+
+“It’s easy to get caught up in the obvious use cases,” Lee Massie warns. “One of my key takeaways was that people saw Copilot could summarise their Teams meetings notes. They thought ‘that’s really cool’ and off they went. But some of the other things then get overlooked. It’s about saying, ‘Okay, so you’ve mastered that in Teams but are you extending it over your full Microsoft 365 experience, in OneDrive and in your SharePoint spaces too?’”
+
+The team has identified opportunities to use Copilot to: reduce the cognitive load in meetings and be more present; produce board papers; fulfil freedom of information requests (for users with the right permissions); consolidate learning; and make pre-meeting briefings easier. In particular, the agendas for exec meetings can run up to 400 pages. Copilot makes it easy to jump to the right part of the document for the next item on the agenda.
+
+“We’re now at the stage of looping back to users to understand what people have done with Copilot and whether it really is of value to them. We want to develop personas to illustrate where Copilot can add value to guide the next stage of our wider rollout,” explains Lee Massie. “We have found that when you make the examples and training directly relevant to people’s role, they are more engaged. If use cases are based directly on that person’s workload, they resonate more strongly.”
+
+“One of the biggest things I use it for is intelligent search,” states Matt Harris. “Whether you’re searching internal documents or the web with Bing Copilot, you actually get properly curated information back. Instead of receiving a list of links you still have to review, see which ones are sponsored, which ones are relevant, you actually receive a curated piece of content answering the question you asked. It sounds like such a simple thing, but it’s massive.”
+
+In Finance, one leader has used Copilot in Excel to generate a VBA script that deals with different methods of highlighting issues and giving greater insight. Lee Massie explains, “I think Copilot will give some Office 365 users the ability to push their use of the Microsoft products in ways they would not have envisaged through additional coding. They will be able to get much more value out of their existing tools.”
+
+This opportunity is also being explored in IT. One team member says, “Copilot feels akin to the difference between coding and low-code tools. I can find the things I need easily, using natural language searches, without first needing to become especially skilled in any one specific tool, app, or feature.”
+
+An OUH Information Analyst agrees, “I’ve used Copilot to scope out the broad strokes of a Power App for performance data submissions. I hope to replace manual intervention methods to get KPI data into SQL. I’ve also used Copilot to confirm a PowerShell script I wrote manually.”
+
+I’m very keen to highlight the additional capabilities which show that Copilot is so much more than taking notes in your meetings and providing a recap.
+
+Lee Massie, Head of IT, Oxford University Hospitals NHS Foundation Trust
+
+Although Copilot has most benefit for the back-office teams which use Microsoft productivity tools every day, OUH is exploring how it can deliver productivity improvements and relieve pressure on clinical teams.
+
+Lee Massie is aware that the interest from the clinical teams must be matched with clinical governance and risk management. “We’re running workshops with our clinical governance group,” he explains. “But there are examples where we can benefit patients without touching clinical data.”
+
+“The pharmacy could use Copilot to rephrase and translate information leaflets, for example. Copilot is excellent at redrafting text, especially when you provide style and audience information. We have established Trust guidelines on publishing that Copilot can work within, for maximum benefit. This could save the Trust money on translation services and make information more accessible. NHS guidance states the average patient reading age is around 11 to 14 years old. We can use Copilot to redraft information so someone with a reading age of 11 can understand it. Both of these seemingly simple examples offer a massive opportunity for our inclusivity objectives.”
+
+Lee cites a pharmacist who told him, “My team now have more access to my time. Instead of spending all my day reading emails and attending meetings, Copilot gives me more time to help my team members to grow and be more productive.”
+
+One important element of the Trust’s wider rollout of Copilot will be coaching users to write good prompts.
+
+“I’ve learnt that I can get 50% of what I need from some prompts, but by refining those prompts I can drive that quality up to 80 or 90%,” Lee Massie explains. “Once you start to learn how to drive Copilot properly, you get much better, more refined answers.”
+
+He recommends asking very specific questions. “I’m moving away from just asking for a recap of the meeting,” he explains. “I like to ask things like: what did such a person say about this topic, include percentages and figures. Give me five bullet points about this particular item. I want the detail but I want to have it presented in an ordered way.”
+
+“It’s like trying any new thing. You start with the basics first, then as you get more familiar you can introduce more things. I’m focused on educating people that if you don’t get the you answer want first time, keep asking within that same Copilot conversation. This way, you can refine, refine, refine. When you find a prompt structure or recipe that works, save it and share it. That’s why we’re currently running drop-in sessions for people to come back and update their knowledge now they have an understanding of the tool.”
+
+Further, Lee Massie says, “Some people I would have expected to run with the idea haven’t had time to get round to it, so it is also about freeing those people up to learn. I want to develop the insights that really resonate with them—and that's where specific prompt examples and the peer-led conversation becomes so much more valuable.”
+
+The team is currently focusing on defining where Copilot can deliver most value. This will drive future adoption.
+
+“We’re not expecting people to diagnose patients with Copilot or develop new cures for disease, although we do have ongoing work looking at specific tools in that space,” states Lee Massie. “We’re really focused on Copilot being a digital assistant, providing support. It is very much a Copilot or a personal assistant, not an autopilot. You should think about it in terms of where you want support, assistance and directional guidance when using the Microsoft productivity apps you use every day.”
+
+He emphasises, “We see Copilot as a way to facilitate more efficient working, especially for our administrators, team leaders, and senior managers. Copilot helps us get even more power and capability from our existing Microsoft investments.”
+
+Although OUH’s Microsoft tenant sits outside the national NHS tenant, both Lee Massie and Matt Harris hope that the Trust’s experience can help to inspire other NHS organisations.
+
+“One of the concerns we hear a lot expressed by NHS staff at other trusts which haven’t started using Microsoft Copilot yet is around the problem of bias. Does Copilot have bias in terms of gender and race?” Lee Massie explains. “It’s really important to understand the depth with which Microsoft has addressed those concerns and is aligning to standards and best practices so you know these issues have already been dealt with.”
+
+“We have standard processes we apply to every change in process,” he continues. “We have to assess whether it is equitable and fair. We absolutely want to get the governance right, so we will probably see more of that coming into play as more people get access to Copilot. It’s all part of our vision for ethical, safe, appropriate use of technology to drive forward innovation.”
+
+“We know digital technologies are critical to the delivery of everything we do,” concludes Lee Massie. “The question is now: How do we get the right tools in the right places to ensure our digital investment is really well placed?”
+
+OUH is keen to share its learning with other NHS organisations, including the 500 users of the 20 Trusts involved in an NHS England trial which is underway.
+
+“Over the next few months, people inside and outside the national tenant will be having a conversation to understand their capabilities, desires, and interest in generative AI and Microsoft Copilot in particular,” he adds. “We are keen to share our learnings.”
+
+“We are doing our own due diligence to justify the cost metrics, build up the business case, and see where the value has come from. This is the kind of information and understanding that will drive Copilot deployment throughout the NHS.”

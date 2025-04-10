@@ -1,0 +1,51 @@
+URL: https://customers.microsoft.com/en-us/story/1832767714677750676-cradle-azure-openai-service-other-unsegmented-en-malaysia
+Source: customers.microsoft.com
+Total Word Count: 1041
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1038
+
+Malaysia is aiming to become a global top 20 startup ecosystem by 2030 but navigating the startup ecosystem is complicated since information is scattered across multiple stakeholders, agencies, and institutes.
+
+Launched MYStartup Single Window on Azure, a unified platform fostering entrepreneurship through end-to-end support, insights, and guidance. Cradle also introduced an AI-driven chatbot to boost user interaction and increase public engagement.
+
+User engagement quadrupled while resolution time was reduced from two days to a few clicks. Cradle also decreased customer service costs by 35%, increased international interactions by 40%, and increased daily average visits 10-fold.
+
+In 2021, Malaysia embarked on a mission to become one of the world’s top 20 global startup ecosystems by 2030. Cradle Fund Sdn. Bhd. (Cradle) is at the forefront of this effort, currently administered by the Ministry of Science, Technology and Innovation (MOSTI). The agency has been nurturing Malaysian startups since 2003. To date, it has funded over 1,100 startups across the nation, created 81,000 full-time jobs, and contributed nearly RM4 billion to the national GDP.
+
+One of the key challenges of Malaysia’s startup ecosystem was fragmented access to essential resources and support, causing inefficiencies that hindered startups’ growth and success. “Understanding the startup environment in Malaysia can often be challenging since information is scattered across multiple stakeholders, agencies, and institutions,” explains Norman Matthieu Vanhaecke, Group Chief Executive Officer at Cradle.
+
+To consolidate mountains of data, Cradle created MYStartup Single Window platform. Built on Microsoft Azure, the platform was designed to offer a convenient way to access resources, insights, opportunities, and information on everything from incubator programs and funding to bureaucratic processes. “Our goal was to create a unified platform that brings together ecosystem players and helps scale businesses while navigating the startup landscape,” notes Ts. Puganeswaran Kannan, Head of Group IT & Intelligence at Cradle.
+
+Our goal was to create a unified platform that brings together ecosystem players and helps scale businesses while navigating the startup landscape.
+
+Ts. Puganeswaran Kannan, Head of Group IT & Intelligence, Cradle
+
+Initially, MYStartup platform served as a simple repository of information. Soon, Cradle decided to leverage AI to help users find answers to their questions faster. “After exploring other solutions available in the market, it was clear that Microsoft’s Azure OpenAI Service would best fit all our needs in terms of scalability, security, integration, support, and reliability,” says Ts. Puganeswaran. “One of the added benefits of working with Microsoft is that it can also support startups that are a part of the MYStartup initiative with the necessary infrastructure and tools.”
+
+Under Microsoft’s guidance and with help from Agmo Group, a Microsoft partner, Cradle built a chatbot powered by Azure OpenAI Service. “We’ve been able to set it up so that the user experience is customized based on whether you’re a founder, investor, or technology partner,” explains Ts. Puganeswaran. The chatbot analyzes user queries, taps into its comprehensive knowledge base for accurate responses, and assists users around the clock without human intervention.
+
+Today, instead of sifting through mountains of information or sending emails to ask for information, MYStartup visitors can obtain instant answers and links to relevant pages through the chatbot. This eases the burden on Cradle’s customer support agents. “Previously, we would get about 200 queries per day, and it would take us about two days to respond to each one,” explains Ahmad Khairi Zulkifli, Head of Marketing & Content at Cradle. “Now, we receive less than 50 inquiries daily. As a result, we have decreased our customer service operational costs by 35%. Plus, 45% of questions come after working hours, so users receive information instantly instead of waiting overnight.”
+
+After implementing the chatbot, customer experience has improved. “User feedback has been overwhelmingly positive. They value a consolidated platform for the entire startup ecosystem which gives them accurate, in-depth details instantly,” notes Ts. Puganeswaran. But the proof is in the numbers. “After just four months, average daily visits have increased 10-fold, jumping from approximately 100 to 1,000,” adds Ts. Puganeswaran. “Users are spending three times more time on the platform, and customer retention and engagement have increased by 300%.” By handling multiple languages, the chatbot has also increased customer engagement among international visitors by 40%.
+
+After just four months, average daily visits have increased 10-fold, jumping from approximately 100 to 1,000.
+
+Ts. Puganeswaran Kannan, Head of Group IT & Intelligence, Cradle
+
+By bringing visibility to the startup ecosystem and encouraging users to take advantage of the platform, Cradle has reached its ultimate goal: sparking increased interest and fostering bonds between various players in the startup environment. “Previously, engagement was limited due to the difficulty of finding details. Now, with easy access to information, we see more interactions between investors and founders. The connections are stronger, and discussions are progressing to the next steps,” adds Ts. Puganeswaran.
+
+Moving forward, Cradle plans to integrate AI in other user flows on the MYStartup Single Window platform. “In the future, the chatbot will run users through a series of questions and recommend suitable investors,” he explains. “Founders will also be able to interact with the AI to determine their eligibility for grants like Cradle’s. The AI will help automate the process, which currently takes up to eight weeks. Eventually, we want the AI to lead a user through the whole process of setting up a business from a legal, regulatory, and financial point of view automatically on the portal itself.”
+
+Plans are also underway to create a mobile application for MYStartup Single Window and upgrade to a voice chatbot so that users can simply ask a question instead of typing it. Finally, Cradle is planning to expand internationally with a directory of a global startup ecosystem.
+
+The end goal is for MYStartup Single Window to function as a self-sufficient venture capital platform that will handle everything a startup needs. “Making the MYStartup Single Window platform a fully automated, easy, and seamless way to invest in the country is the key to putting Malaysia among the top 20 global startup ecosystems by 2030,” concludes Ts. Puganeswaran.
+
+With easy access to information, we see more interactions between investors and founders. The connections are stronger, and discussions are progressing to the next steps.
+
+Ts. Puganeswaran Kannan, Head of Group IT & Intelligence, Cradle

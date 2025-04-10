@@ -1,0 +1,47 @@
+URL: https://www.microsoft.com/en-us/worklab/how-6-experts-use-next-generation-ai
+Source: microsoft.com/worklab
+Total Word Count: 820
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 817
+
+From saving time to making presentations more fun, here’s how artificial intelligence experts use the latest technology in their work
+
+Pamela Mishkin knows nothing about forestry. So when the OpenAI researcher, who spends her days studying AI policy and safety, needed to learn how AI would affect forestry workers, she turned to the technology she works with every day.
+
+“I put some dense documents about forestry into the model,” she says. “Then I asked it to extract the sections that were most relevant to my question.” It’s research that would have otherwise taken her hours, completed far more quickly with next-generation AI.
+
+We’ve grown used to the background AI that gives us recommendations for what to watch, read, and buy. Now, with powerful new foundation models and accessible natural language interfaces, we’re entering a new phase of AI —one that empowers us to create, not just consume. To learn more, we spoke to six AI experts about how they use next-generation AI at work, from saving time to thinking differently to making speeches a little more bejeweled.
+
+Jaime Teevan, Microsoft Chief Scientist
+“I take all my pre-read documents—you know, you’re going into a meeting and you’ve got a bunch of documents you have to read—and summarize them as poems. I did it once or twice as a gimmick, but then I realized I actually process the information better—and it makes the process of preparing for a meeting a little bit joyful.”
+
+Erik Brynjolfsson, Director of the Digital Economy Lab at the Stanford Institute for Human-Centered AI
+“I had to give a talk at the National Bureau of Economic Research, and I asked GPT-3 to help me write my remarks. For fun, I had it rewrite my draft in the style of Taylor Swift. It made this absolutely amazing poem with these terrific metaphors that I had never heard before. Everybody at the conference thought it was just riotously fun and insightful. Combining academic work with a little bit of art sparked new ways of thinking about things. Ever since then, I’ve been listening a little bit more to Taylor Swift because I was like, ‘Wow, that was some pretty good poetry there.’”
+
+Sumit Chauhan, Microsoft CVP, Office Product Group
+“I’m getting ready for an off-site, and I have to write this paper about AI. There is so much information about it in emails, in documents, in PowerPoints. I said to Microsoft 365 Copilot , ‘Generate me a document with a framing, business plan, monetization, and go-to-market for AI.’ It searched all my relevant documents and emails and generated an outline, so I had a starting point. Without it, I probably would’ve spent an entire week preparing. Now I have the time to step back and think about how I should structure the conversation, the higher-level strategy. It’s giving me the creative space to think about it.”
+
+Eric Horvitz, Microsoft Chief Scientific Officer
+“Nature had a piece recently exploring why there was an unexpected jump in levels of methane in the atmosphere during the pandemic. I input the whole paper into the model and asked numerous questions, including, ‘Imagine that the hypotheses of these authors are incorrect. What else might be going on to explain this data?’ And the system came up with a beautiful set of alternate hypotheses that we might want to check. That session, and many others I’ve had in the realm of scientific exploration, shows how the system can serve as a scientific advisory copilot on some of the hardest problems we face.”
+
+Pamela Mishkin, researcher at OpenAI
+“I have a very different communication style than my manager. I’m very New York, off-the-cuff and quick, and she’s more by the book. I’ll ask ChatGPT to rewrite things in her style. I can ask it to double-check an email I’ve written to make sure that it’s clear—that it comes off as professional. I think it helps tone down my New York-ness when I’m communicating with Californians.”
+
+Sam Schillace, Microsoft Deputy CTO
+“I was in a Teams meeting, and we turned on closed captioning. The model—an internal experiment—took the closed captions and structured them into a Loop document. So at the end of the meeting, we didn’t just get a transcription, we got: ‘Here’s all the questions asked, all the answers that were given. Here’s all the stuff that was referenced and here’s a snippet of any document that referenced that.’ We got this nicely structured log of the meeting to refer back to.”
+
+Just as today we can’t imagine computing without a keyboard, mouse, or the internet, in the future, we won’t be able to imagine work without AI copilots that help us summarize, reason, and communicate. This is just the beginning of a whole new way of working—and what we can accomplish with it.
+
+Stay up-to-date with WorkLab
+
+New data and actionable insights, delivered right to your inbox
+
+Glossary
+
+Work Trend Index Special Report

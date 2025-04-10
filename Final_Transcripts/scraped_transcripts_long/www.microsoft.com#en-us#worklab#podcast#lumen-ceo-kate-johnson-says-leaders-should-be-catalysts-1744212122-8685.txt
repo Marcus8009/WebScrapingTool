@@ -1,0 +1,51 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/lumen-ceo-kate-johnson-says-leaders-should-be-catalysts
+Source: microsoft.com/worklab/podcast
+Total Word Count: 846
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 83
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age. 
+KATE JOHNSON: Think of my role as an instigator. I’m a catalyst. I come in and I say, “Hey, what got us here isn’t going to get us where we need to go, so we need to change things.” 
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 763
+
+Podcast
+
+In the age of AI, “what got us here isn’t going to get us where we need to go.”
+
+WorkLab Guest Kate Johnson
+
+September 11, 2024
+
+What does it take to transform your business from the ground up for the AI era? There’s no better person to ask than Kate Johnson, President and CEO of the telecommunications company Lumen.
+
+Johnson believes that AI transformation isn’t just about technology—companies need to do the hard work of culturally changing how they adopt technology. She’s putting this vision into practice at Lumen. 
+ 
+In this episode of the WorkLab podcast, Johnson talks about how AI is helping the company stay agile, reshaping the services Lumen delivers to customers, and transforming the way her 30,000 employees get things done.
+
+Four big takeaways from the conversation:
+
+Leaders need to be change agents. “Think of my role as an instigator. I’m a catalyst,” Johnson says. “I come in and I say, ’Hey, what got us here isn’t going to get us where we need to go, so we need to change things.’” She outlines the breakthroughs that were necessary to shift from a play-not-to-lose to a play-to-win mindset. “Really hard conversations needed to be had for us to excavate the unsaid and actually start tackling problems,” she adds. “You can’t fix what you don’t know exists.”
+
+AI’s real value is in augmenting, not replacing, humans. Johnson notes that thinking about AI as an opportunity for reducing headcount is wrong, and that companies must prepare their employees to take full advantage of the technology. “For a company that’s going through transformation, everybody’s first conclusion is, well, so you don’t need as many people, and that’s not really true—we need the people that we have,” she says. “What we need is for them (A) to be more productive, and then (B) we need lots of skill shifting, reskilling, and upskilling. AI is being very helpful in that journey as well, helping us focus on the right things at the right time during our transformation life cycle.”
+
+If you push too far, you fall off the curve. Johnson says that leaders have to “push hard enough to drive meaningful, measurable change, but not so hard that you lose your audience.” It’s important to realize that AI adoption can be daunting, even a little scary, she says, and some employees will struggle to get a handle on it. When Lumen’s CIO pointed out to her that one of the people who was slow to adopt AI was... Kate Johnson, it was real eye opener. “I would use it a little bit and then not for days. And that’s not really adoption,” Johnson says. “Adoption is when it becomes the way that you work. I had to pick a few easy things to start with, like email. Who doesn’t want to spend less time mired in your inbox?”
+
+AI is huge for sales. Johnson points out that Lumen has been using AI for a long time, but with “the advent of Copilot and generative AI, there’s just a new opportunity.” She insists that the technology is instrumental in helping the entire company be more agile and more informed about what customers need. But she singles out how it has transformed one department in particular: “AI for sales has been huge for our people. It really helps us understand where our customers are in their journey so much faster and better—it’s instantaneous.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age.
+
+KATE JOHNSON: Think of my role as an instigator. I’m a catalyst. I come in and I say, “Hey, what got us here isn’t going to get us where we need to go, so we need to change things.”
+
+AI will be our most effective, least judgmental tutor. But humans have their work cut out for them too.
+
+As AI goes from personal assistant to group assistant, the CVP of Business and Industry Copilot at Microsoft sees big opportunities for business leaders.

@@ -1,0 +1,70 @@
+URL: https://news.microsoft.com/en-au/features/anz-launches-first-of-its-kind-ai-immersion-centre-in-partnership-with-microsoft/
+Source: microsoft
+Total Word Count: 6
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 3
+
+ANZ launches first-of-its-kind AI Immersion Centre in partnership with Microsoft
+Microsoft News Center Microsoft News Center
+13 August, 2024
+
+ANZ today announced it will partner with Microsoft to launch an AI Immersion Centre at the bank’s Melbourne headquarters.
+
+The facility, located at 833 Collins Street, is a first for the banking sector in Australia and New Zealand. The bank plans to send 3,000 leaders through it over the next 12 months to accelerate AI adoption at scale.
+
+The AI Immersion Centre will help more ANZ leaders to understand what’s possible and how to use generative AI safely, through hands-on learning experiences. To support this, ANZ has purchased 3,000 Copilot for Microsoft 365 licences.
+
+
+
+ANZ Group Executive of Technology, Gerard Florian said: “We are actively embracing generative AI across all lines of our business to improve how we serve and protect our customers, process work and meet regulatory standards.
+
+“Applied safely, generative AI can enhance experiences for customers and employees, and help us generate business outcomes faster, with lower risk and at lower cost,” he said.
+
+ANZ is partnering with Microsoft because they have proven expertise and commitment to responsible AI innovation.
+
+Microsoft and LinkedIn’s 2024 Work Trend Index shows that Australia and New Zealand are among the strongest adopters of generative AI in the workplace.
+
+84 per cent of employees use the technology at work – higher than the global average of 75 per cent – and employees often aren’t waiting to be formally trained or introduced to the tools via their IT departments and leadership teams.
+
+According to the report, 78 per cent of AI users in Australia and 81 per cent in New Zealand are bringing their own AI tools to work.
+
+The AI Immersion Centre will enable the bank’s senior leaders to better support adoption and innovation by their teams and to transform banking services. This upskilling of leaders is part of a bank wide program to embrace the AI enabled future.
+
+
+Steven Worrall, Managing Director at Microsoft Australia and New Zealand, said: “We are proud to work with ANZ and support their journey to harness the potential of generative AI to transform the employee and customer experience.”
+
+“The launch of the AI Immersion Centre reflects Microsoft and ANZ’s shared commitment to fostering an environment where technological advancement and employee empowerment go hand in hand, ensuring the workforce is prepared for the future.”
+
+About ANZ’s adoption of Generative AI
+
+ANZ is actively supporting its leaders across the bank to use generative AI tools responsibly.
+
+These AI-literate leaders will then be able to support their teams in adopting tools as they become available.
+
+The bank has invested in Microsoft’s generative AI technologies – including Copilot for Microsoft 365, GitHub Copilot and Copilot in Microsoft Edge – to boost productivity and innovation across its workforce. AI tools are helping ANZ employees to improve their productivity and customer service.
+
+After piloting Copilot for Microsoft 365 to a subset of employees in November 2023, ANZ is among one of the first organisations in Australia to expand with a purchase of 3,000 additional licences. To read more about Copilot at ANZ visit here.
+
+“Our strategic investment in Copilot for Microsoft 365 is evidence of our commitment to harnessing the power of generative AI to enhance our services, streamline operations and empower our employees,” Florian said.
+
+ANZ has also deployed GitHub Copilot to 3,000 of its software developers and engineers to assist with generating code with significant productivity improvements as a result.
+
+Early tests measured engineers completing some programming tasks 40% – 55% faster; as the bank scales GitHub Copilot use, it is seeing significant increases in the amount of code produced while overall code quality has improved.
+
+Over time, ANZ expects it will be able to deliver more value for customers, faster, at a higher quality.
+
+In addition, the bank has built a private chatbot, Z-GPT, which employees can use to help generate and integrate internal information. Developed in 2023 by ANZ’s AI Centre of Experimentation in India, Z-GPT has been a key part of experimentation at ANZ, enabling teams to safely test generative AI with subsets of internal data.
+
+“As ANZ embraces generative AI at speed and scale, we remain steadfast in our commitment to security alongside innovation and technological advancement,” Florian said.
+
+“We are proud to be leading the way in integrating generative AI into how we work and setting new standards for the banking industry. ANZ is not just adapting for the future; we are actively shaping it with generative AI technology,” he said.
+
+The introduction of the AI Immersion Centre follows successful pilots of Copilot for Microsoft 365 and GitHub Copilot, as well as the development of Z-GPT.
+
+

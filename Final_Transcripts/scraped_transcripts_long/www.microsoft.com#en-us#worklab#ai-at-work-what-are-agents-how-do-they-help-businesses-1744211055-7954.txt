@@ -1,0 +1,52 @@
+URL: https://www.microsoft.com/en-us/worklab/ai-at-work-what-are-agents-how-do-they-help-businesses
+Source: microsoft.com/worklab
+Total Word Count: 930
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 927
+
+Understand the basics to grasp how to maintain a competitive edge.
+
+AI is moving fast. Just as business leaders are starting to wrap their heads around AI assistants, suddenly everyone’s talking about AI agents. They’re a hot topic for good reason: just as every employee will have an AI assistant like Copilot, every business process will soon be transformed by agents.
+
+To understand how agents will reshape the way your business works, first you need to grasp what they are and how they function. And since people are coming to this topic with different degrees of familiarity and technical knowledge, I’ll start with the fundamentals.
+
+What exactly is an AI agent? 
+To date, most people have used AI on an individual level to unlock gains in productivity for themselves. And already the time savings from using AI at work are well documented. You can use Copilot to do things like summarize documents, take meeting notes, and prioritize your inbox. From these interactions and your personal data your Copilot gets to know you, your job, your team, and how you like to work. It gets more personalized every time you use it.
+
+AI agents, on the other hand, are able to execute business processes. They can range from simple prompt-and-response agents to more advanced, fully autonomous agents that can execute an entire workflow from start to finish. Agents can think or reason, remember, be trained, and even know when to ask for help.
+
+Agents can be taught new skills, like the ability to send emails, create support tickets, or update records. You can teach them to react to events or triggers, such as an email from a customer. And if an agent needs clarification about something, it can check in with you for guidance. Because agents can be grounded in your organization’s data and knowledge, their actions are based on the context and needs of your specific business.
+
+Agents can be quite simple to create. Microsoft offers Copilot Studio as a platform where anyone can build an agent using natural language. The best part? They’re always on, working for you 24/7, in the background.
+
+Copilot & agents
+
+How do agents relate to Copilot? 
+Copilot is your personal AI assistant. It’s also where you’ll interact with AI agents. It’s like the single pane of glass you’ll go to for any work task—whether it involves one agent, several agents, or none at all. Here you can direct agents and use them to extract valuable information—whether it’s an update on your sales pipeline or direction on how to handle a back order for a discontinued product.
+
+One way of looking at it: Think of Copilot as your smartphone and agents as its apps. Your smartphone is where you interact with the apps. And there are apps to do all kinds of things, from booking a ride to the airport to managing your finances to helping you learn a new language. Just like apps, agents will be able to do a wide variety of things. In essence, agents are the new apps for an AI-powered world.
+
+What’s a specific scenario in which I would apply an AI agent? 
+You’ll use an agent when you want to apply AI to a business process, potentially one that extends across employees and functions. An agent can handle an end-to-end fulfillment process, for example—from taking the order, to processing the order and making intelligent substitutions for out-of-stock items, to shipping it to the customer.
+
+Agents enable organizations to scale capacity like never before. If you run a sales team, agents can take over important but time-consuming internal processes to let people concentrate on building customer relationships. And they offer up new opportunities. Imagine a customer places a big order: The agent could quickly fulfill the order and let the sales team know that this is a great opportunity to offer the customer more products. So, in seconds, this deal potentially becomes more lucrative.
+
+Where are some real-world examples? 
+Companies already use agents to increase revenue, reduce costs, and scale impact. Take Dow, the global materials science company. It spends several billion dollars on outbound shipping every year. Inaccurate charges in freight invoices can add up to substantial overpayments. The company has been working with Microsoft on a pilot to assess and track invoicing errors using Copilot and agents. Once the system is fully scaled to all shipping modes and locations around the globe, Dow anticipates increased accuracy in logistic rates and billing, which in the first year should result in the company saving millions of dollars in shipping costs.
+
+Thomson Reuters, meanwhile, built a professional-grade agent to speed up legal due diligence processes, with initial tests showing it could do some tasks in half the time. This agent can help the content and technology company increase the efficiency of work for clients and boost its new business pipeline. 
+
+How will agents change the way we work? 
+I expect a future in which organizations have entire constellations of agents—all working behind the scenes to sharpen existing processes and help invent new ones. In sales they’ll research leads, help prioritize opportunities, and guide customer outreach with personalized emails and responses. In the supply chain they’ll minimize disruptions by autonomously tracking supplier performance, detecting delays, and recommending adjustments on the fly. Across your business they’ll reduce costs, strengthen decision making, and foster continuous improvement.
+
+Ultimately, every company is made up of two things: its people and its processes. By tapping Copilot and agents you bolster both—and give your business the best chance of maintaining its competitive edge.
+
+Results
+
+Column

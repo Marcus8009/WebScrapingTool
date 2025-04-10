@@ -1,0 +1,43 @@
+URL: https://www.microsoft.com/en-us/worklab/when-it-comes-to-ai-do-not-build-islands-of-intelligence
+Source: microsoft.com/worklab
+Total Word Count: 661
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 658
+
+How to bridge the AI learning gap
+
+The Latest News
+
+Stay in the AI know with WorkLab
+
+Sign up for the WorkLab newsletter to get the latest AI research, insights, and trends delivered straight to your inbox.
+
+When people discover a new work hack, they can be tempted to keep it to themselves. Maybe they subconsciously want to gatekeep it, or maybe they mean to share it with colleagues but forget. Over time, this creates “islands of intelligence.” And while being on an island is great for a relaxing vacation, at work these private knowledge bases can hinder learning and development across the organization—which is why it’s crucial for leaders to promote (and reward) sharing and collaboration.
+
+We’re living through a unique moment where people across industries are all exploring the AI toolbox at the same time, says A.J. Brush, a Partner Group Product Manager at Microsoft who spends much of her time studying the most effective ways to talk to Microsoft Copilot. For her, the best part of learning isn’t improving her own work—it’s sharing with her colleagues. “There’s something magical about giving other people the same amount of delight,” she says.
+
+For leaders who want to get the most out of AI, it’s important to build bridges between individual islands, with everyone sharing what they learn. Here’s how:
+
+Keep a running list 
+Brush keeps a record of questions and conversation starters that are recommended to her by colleagues. One of those prompts: start the day by asking Copilot to summarize all communications since the evening before. Another tip: Before meeting with a colleague, get up to speed by asking Copilot to surface the latest interactions with them, organized by emails, chats, and files. A running list keeps your latest tips top of mind—and makes it easy to share them with others.
+
+Create a forum for sharing great prompts 
+Brush and her colleagues regularly share success stories and new prompts to try in a Microsoft Teams channel and an internal weekly newsletter. Think about which forum feels most conducive to sharing for your team: It could be a collaborative OneNote or Excel sheet, or a callout at the start of a standing meeting. The format is not as important as giving your team the opportunity to share their own best prompts, Brush says: “It feels good to help your colleagues discover ways to free up time for deep work.”
+
+Consult Copilot Lab 
+Copilot Lab is a repository for people to share their best prompts with co-workers and exchange advice about talking with AI. It’s a place to experiment and learn iteratively—and it can also pick you up from a productivity lull if you’re in need of inspiration. And as AI spreads across your organization and reaches more people, it can help employees who are just getting started. “When you show up to use something new, one of the challenges is that you don’t know what’s possible,” Brush says. “Can I ask about my email? Can I ask about meetings? This gives you a starting point.”
+
+Be a role model for your team 
+Leaders are uniquely positioned to show their teams that there is no shame in learning. By publicly sharing which prompts yield both good and not-so-good results and creating space for employees to chat about their experiences working with Copilot, leaders become champions of AI. “I spend a lot of time showing colleagues that they can pretty much ask AI for anything,” Brush says. If she has a question, she reasons that others are probably wondering about it too.
+
+“People react to what others do, not always what they say,” Brush says. “When people see their leaders using the same tools and sharing what they’ve learned, they get excited to do the same.” It’s not about telling people what to do. It’s about filling in your team’s awareness gaps by building bridges between islands—making knowledge accessible across your organization and building your collective brainpower.
+
+Research
+
+Reinvention

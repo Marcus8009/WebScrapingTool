@@ -1,0 +1,45 @@
+URL: https://customers.microsoft.com/en-us/story/1762150085964970175-enerjisa-uretim-microsoft-copilot-energy-en-turkiye
+Source: customers.microsoft.com
+Total Word Count: 1114
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1111
+
+Enerjisa Üretim, a trailblazer in Türkiye's energy sector, is leading the way in unlocking the potential of its workforce. The company embraced artificial intelligence in day-to-day processes, fostering an innovative work environment. More recently, the energy company has adopted Microsoft Copilot to streamline meeting summaries, reformat documents, and compile reports. The move has significantly reduced administrative work and increased mental bandwidth, enabling employees to concentrate on more strategic and fulfilling activities instead of spending six hours in meetings.
+
+Enerjisa Üretim, a leader in Türkiye's energy sector, places great importance on renewable resources and sustainability. The company’s portfolio includes 12 hydroelectric, eight wind, two solar, three natural gas, and one domestic lignite power plants (for which a just transition plan is being prepared)—all of which stand as a testament to Enerjisa Üretim's commitment to a clean, carbon-free future. It works hand-in-hand with sister companies Enerjisa Commodities, engaged in trading electricity, natural gas and green products globally and Senkron Energy Digital Services, which increases responsible energy consumption through software, loT, cyber security, data and green energy solutions. Together, the companies are transforming the modern energy industry through innovation.
+
+Enerjisa Üretim's ethos of sustainability extends to its people. The company takes concrete steps to empower its employees and to unleash their potential. “We want to equip our employees with the digital and technical tools to enable them to do what they want to do,” shares Ayşegül Gürkale, Assistant General Manager, People and Culture at Enerjisa Üretim.
+
+Identifying employee well-being as a critical area, Enerjisa Üretim looked for ways to alleviate the daily burdens faced by its workforce. "We all suffer from trying to do too much and fearing we’ll miss out on meetings. At some point, we could have more than one meeting scheduled at the same time and had to choose which is more important to attend," Gürkale reflects. Mert Yaycıoğlu, Chief Financial Officer at Enerjisa Üretim shares his personal experience, "Sometimes, I spend six hours in meetings. Those days drain my mental bandwidth; after a day like that, anyone would face difficulty managing follow-up tasks.”
+
+Luckily, Enerjisa Üretim’s IT team discovered Microsoft Copilot, an artificial intelligence (AI) assistant within the Microsoft 365 solution. “As soon as we heard about it, we were excited,” recalls Yaycıoğlu. The company deployed 300 Copilot licenses across different departments, encouraging its employees to explore and reap the benefits of AI-powered workflows.
+
+Almost immediately, Enerjisa Üretim discovered how Copilot could revolutionize its approach to meetings. "Previously, what we’d do for the meetings we couldn’t attend was nominate someone else. But someone else’s understanding could be quite different or limited because they might not have the same context as you," elaborates Yaycıoğlu. By using Copilot, the team at Enerjisa Üretim gained quick access to objective, efficient recaps of meetings and action items. And the benefits go beyond getting the facts. “Sometimes, I have back-to-back meetings and don’t even have time to jot down notes or process my thoughts,” Gürkale adds. “Copilot helps a lot by doing the notes for me. It frees up mental strain and feeds into employees’ overall well-being.”
+
+Copilot isn’t limited to summarizing meetings. Enerjisa Üretim’s employees have begun to use Copilot as a partner in drafting documents, creating presentations, managing emails, and compiling reports. "For example, we use Copilot to convert PDF or Word documents into PowerPoint presentations. Transferring information manually is detailed and mundane work that takes up lots of time,” illustrates Yaycıoğlu. “Now, Copilot handles the information transfer and reformatting. Putting together a 30-page budget presentation used to take two full days and three team members. Now, we are progressing to the target of spending 60% less time with only one person to do this. As the team gets better at using Copilot, we will be able to allocate more time to value added tasks."
+
+“Copilot handles the information transfer and reformatting. Putting together a 30-page budget presentation used to take two full days and three team members. Now, we are progressing to the target of spending 60% less time with only one person to do this. As the team gets better at using Copilot, we will be able to allocate more time to value added tasks.”
+
+Mert Yaycıoğlu, Chief Financial Officer, Enerjisa Üretim
+
+Financial reporting also got easier. Yaycioğlu's team has started to use Copilot to provide base data, standard graphs, and numerical information through automation. A monthly financial report which used to take five days now requires less time. And to Yaycioğlu's surprise, speed did not compromise quality. “I've been working in this field for 25 years, so I always have some professional skepticism regarding the accuracy of tools. I still check Copilot drafts every time, but so far, so good—I’m impressed,” reveals Yaycıoğlu.
+
+Enerjisa Üretim’s HR team is also planning to use Copilot to streamline the onboarding processes. "Copilot helps newcomers—they can ask it questions about a topic, and it’ll provide an answer with links to the source documents, tutorials, and more," Gürkale shares.
+
+Any initial skepticism about Copilot's security was quickly resolved. Enerjisa Üretim’s IT team explained that Copilot searches for information and serves up answers based on rules. "There are designated areas which Copilot can reach and then there are other areas that are restricted. For example, Copilot can reach documents stored in our company’s SharePoint and OneDrive, but any documents stored locally on my device are out of bounds, meaning my personal data is safe,” explains Gürkale.
+
+This clear demarcation between accessible and restricted data repositories reassured Enerjisa Üretim about the tool's safety features. “Our employees are very technically savvy and sensible; they store company-wide, confidential, and personal documents appropriately, so we didn’t have any concerns about security or data confidentiality,” adds Yaycıoğlu.
+
+Looking ahead, Enerjisa Üretim is setting its sights on using Copilot to further enhance its operational efficiency and encourage even more innovation. “What we're planning is to introduce Copilot for finance. This will allow us to utilize relevant data in our ecosystem to improve reporting mechanisms and get more effective outcomes,” shares Yaycıoğlu. “We could use Copilot to summarize important trends and act like an early warning system.”
+
+These types of improvements to Enerjisa Üretim’s workflow enable its employees to focus more on analysis and future strategy rather than focusing on past performance. Enerjisa Üretim sees AI not just as technological advancement, but as a mindset shift that permeates the company's culture. "Equipping our talented people with time-saving technology like Copilot makes them happier and enables them to unleash their true potential," concludes Gürkale.
+
+“Equipping our talented people with time-saving technology like Copilot, makes them happier and enables them to unleash their true potential.”
+
+Ayşegül Gürkale, Assistant General Manager, People and Culture, Enerjisa Üretim

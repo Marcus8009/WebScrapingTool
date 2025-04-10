@@ -1,0 +1,78 @@
+URL: https://www.microsoft.com/en-us/microsoft-365/blog/2024/09/16/microsoft-365-copilot-wave-2-pages-python-in-excel-and-agents/
+Source: www.microsoft.com
+Total Word Count: 1993
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1990
+
+Available on desktop and mobile devices
+
+Business Chat (BizChat) is now Microsoft 365 Copilot Chat. Learn more.
+
+We’re launching the next wave of Microsoft 365 Copilot, bringing together web + work + Pages as a new design system for knowledge work.
+
+First, we’re announcing Copilot Pages—a dynamic, persistent canvas designed for multiplayer AI collaboration. It’s the first new digital artifact for the AI age.
+
+Second, we’re rapidly improving Copilot in the Microsoft 365 apps. Our customers tell us Copilot in Microsoft Teams has changed meetings forever—in fact, it’s the number one place they’re seeing value. We’re excited to do the same thing for advanced data analysis in Microsoft Excel, dynamic storytelling in PowerPoint, managing your inbox in Outlook, and more.
+
+Third, we’re introducing Copilot agents, making it easier and faster than ever to automate and execute business processes on your behalf—enabling you to scale your team like never before.
+
+Get more done faster with an AI assistant in your Microsoft 365 apps, documents, and meetings.
+
+We’re excited to share these updates with our customers around the world. From enterprises to small businesses, they help Copilot get better every day. Nearly 1,000 customers have given us feedback on how they’re using Copilot, where it is having the biggest impact, and where it needs to be better. Based on that feedback, we have made more than 700 product updates and shipped over 150 new features this year. Now with GPT-4o and enhanced orchestration, we’ve dramatically improved performance. Copilot responses are more than two times faster on average, and response satisfaction has improved by nearly three times.1 When you add it all up, we’ve built the world’s best AI feedback loop with Copilot. And we’ll continue to rapidly bring all the latest models to Copilot and rapidly improve the product based on your input, adding new capabilities and new models, including OpenAI o1 with advanced reasoning.
+
+Copilot is the new UI for AI. And it all starts with Business Chat (BizChat), a central hub that brings together all your data—web data, work data, and line of business data—right in the flow of your work. BizChat turns all your organizational content into a rich database of information and insight, enabling you to collaborate with Copilot like a partner and turning every artifact into a reusable business asset. And we’re excited to announce Copilot Pages—a dynamic, persistent canvas designed for multiplayer AI collaboration. It’s the first step in our new design system for knowledge work.
+
+Pages takes ephemeral AI-generated content and makes it durable, so you can edit it, add to it, and share it with others. You and your team can work collaboratively in a page with Copilot, seeing everyone’s work in real time and iterating with Copilot like a partner, adding more content from your data, files, and the web to your Page. This is an entirely new work pattern—multiplayer, human-to-AI-to-human collaboration. For Microsoft 365 Copilot customers, Pages starts rolling out today and will be generally available later in September 2024.
+
+In the coming weeks, we’re also bringing Copilot Pages to the more than 400 million people who have access to the free Microsoft Copilot when they’re signed in with a Microsoft Entra account—offering the combination of web grounding, enterprise data protection (EDP), and Pages. Today, you can try Microsoft Copilot at Microsoft.com/copilot, and pin Copilot right in the flow of work in the Microsoft 365 app, and, soon, in Outlook and Teams.
+
+MICROSOFT 365 APPS
+
+For millions of people around the world, work happens in the Microsoft 365 apps. It’s where Copilot is already becoming a daily habit, delivering personal productivity gains and time savings. And with Wave 2, we’re taking everything we’re learning from our customers and using it to make Copilot even better.
+
+When people want to work with that data and get real value from it, they turn to Microsoft Excel—it’s the front-end for all your business data. We’re excited to announce that Copilot in Excel is now generally available. Now you can work with data that hasn’t been formatted as a table. We’ve added new skills to tap into the full power of Excel with support for more formulas like XLOOKUP and SUMIF; conditional formatting; and the ability to iterate with Copilot on visualizations like charts and PivotTables to fit your needs. And Copilot in Excel can now work with text, in addition to numerical, data.
+
+But we’ve gone even further. We’re announcing Copilot in Excel with Python, combining the power of Python—one of the world’s most popular programming languages for working with data—with Copilot in Excel. Now, anyone can work with Copilot to conduct advanced analysis like forecasting, risk analysis, machine learning, and visualizing complex data—all using natural language, no coding required. It’s like adding a skilled data analyst to the team. Copilot in Excel with Python is in public preview.
+
+No one goes from an idea to a polished presentation in a single prompt. Now generally available, Narrative builder in Microsoft PowerPoint helps you work with Copilot like a partner, iterating together to build a great first draft in minutes while keeping you in control of the creative process. Copilot uses your prompt to build an outline with topics that you can edit and refine to create a first draft of your presentation. Soon, you’ll be able to add files to the outline to ground your topics. And with Brand manager, Copilot can leverage your company’s branded template, so your presentations are enterprise-ready and on-brand. Soon, Copilot will pull in company-approved images from your SharePoint Organization Asset Library.
+
+In meetings today, there are two important conversations: the one that’s spoken, and the one happening in the chat. Copilot in Teams can now reason over both the meeting transcript and the meeting chat to give you a complete picture of what was discussed. For instance, you can ask Copilot if there were any questions that you missed in a meeting, and it will quickly scan across what was said, and what was typed in the chat, to see if anything was left unanswered. Now with Copilot in Teams, no question, idea, or contribution is left behind. This feature is generally available September 2024.
+
+We all struggle with email overload. Now, with Prioritize my inbox, Copilot in Outlook helps you quickly get to the messages that matter, analyzing your inbox based on both the content of your email and the context of your role—like who you report to and the email threads where you’ve been responsive. No more wading through lengthy messages—Copilot automatically generates a concise summary of each email, and includes why it prioritized the message along with top insights. And soon, you’ll be able to teach Copilot the specific topics, keywords, or people that are important to you, ensuring those emails are marked as high priority. These features will be in public preview starting late 2024.
+
+When working in Microsoft Word, you often need to bring in content from other documents and apps. But searching for, and incorporating, the information you need can be time-consuming and disrupt your writing. Coming later September 2024, Copilot in Word will enable you to quickly reference not only web data and work data like Word, PowerPoint, PDFs, and encrypted documents but also emails and meetings. And it integrates this information right in the flow of your work, so you can get to a good first draft fast. We’ve improved Copilot in Word to be an even better writing partner. Recent updates include a new, on-canvas start experience with suggested prompts to jumpstart your creative process and the ability to collaborate with Copilot inline as you work on specific sections of your document—both generally available.
+
+Microsoft OneDrive is a rich repository where professionals store their personal work content—but we all spend too much time trying to find the right documents or remember which document has the content we need. Copilot in OneDrive can reason over all your files quickly to find the information you need, making it easy to gain insights, summarize, and compare up to five files with a clear, easy-to-read summary of the details and differences within your files—without opening a file. Copilot in OneDrive is now rolling out and will be generally available end of September 2024.
+
+Accelerating every business process with Copilot—to grow revenue and reduce costs—is the best way to gain competitive advantage in the age of AI. Introducing Copilot agents, now generally available. Agents are AI assistants designed to automate and execute business processes, working with or for humans. They range in capability from simple, prompt-and-response agents to agents that replace repetitive tasks to more advanced, fully autonomous agents. And with Copilot agents, you can do all this and more by bringing the power of agents right into the flow of your work. Copilot agents work for you in the background, fully managed and orchestrated by Copilot. Simple and secure to manage, Copilot agent interactions stay in the Microsoft 365 service boundary. You can also leverage pre-built agents like the new Visual creator agent, which helps you create AI-generated images, designs, and soon videos.
+
+To make it even easier to build Copilot agents, today we are announcing agent builder, a new, simplified experience powered by Copilot Studio.
+
+Now anyone can quickly create a Copilot agent right in BizChat or SharePoint, unlocking the value of the vast knowledge repository stored in your SharePoint files. Imagine, for instance, firing up agent builder to build an agent right in the flow of your work in BizChat, quickly connecting it to SharePoint to power it with relevant business process data, and in moments you have a powerful knowledge resource you can share with your colleagues in Teams or Outlook. You can @ mention the agent as you would any other teammate, sharing new information and asking questions your agent answers in real time. If you want to build a more advanced agent from there, you can further customize it in Copilot Studio, deploying it to do things like connect to a data source or take actions on your behalf.
+
+Copilot agents and agent builder in BizChat will be rolling out in general availability to all customers over the coming weeks. Copilot agents and agent builder in SharePoint will enter preview in early October.
+
+Over the past 18 months, working with Copilot has become a daily habit for people everywhere, helping them complete tasks faster, hold more purposeful meetings, collaborate more effectively, and streamline business processes. Copilot customers grew more than 60 percent quarter over quarter, while the number of people who used Copilot daily at work doubled. Just today, we announced that Vodafone invested in Copilot for 68,000 employees. Amgen uses Copilot to accelerate research on rare diseases. Customer service agents at Teladoc save up to five hours each week using Copilot to draft responses to common client questions. Marketers at Finastra use it to go from content ideation to production 75 percent faster. On average, Copilot users at Honeywell saved 92 minutes per week using Microsoft 365 Copilot, the equivalent of 74 hours over a full year of use.²
+
+“In the past, if we were building a major campaign like the Finance is Open campaign, it would’ve taken us three months to generate the content. We can do that now with Copilot in less than one.”
+
+—Joerg Klueckmann, Head of Corporate Marketing and Communications, Finastra
+
+This is just the beginning of Wave 2 of Copilot innovation—in the next two months, we’ll be sharing more about how Copilot is supercharging productivity and accelerating business value for every customer. Stay tuned.
+
+Start using Copilot today—visit Microsoft365.com/copilot or download the Microsoft 365 app on your mobile device.
+
+For the latest research insights on the future of work and generative AI, visit WorkLab.
+
+1. Among Copilot responses in English
+2. Statistics are from an internal Honeywell survey of 5,000 employees where 611 employees responded
+
+The power of AI wherever you go. Available on desktop and mobile devices.
+
+Connect with us on social

@@ -1,0 +1,43 @@
+URL: https://www.microsoft.com/en/customers/story/1703814256939529124-volvo-group-automotive-azure-ai-services
+Source: www.microsoft.com
+Total Word Count: 1001
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 998
+
+Known for its innovation in support of both employees and customers, Volvo Group, a leading manufacturer of trucks, buses, construction equipment, and industrial engines, wanted to help its workers by streamlining invoice and claims document processing. It particularly needed the ability to extract data from images, like photographs and stamps, and to translate documents from and to multiple languages. With Microsoft Azure as its enterprise cloud solution, Volvo Group chose to create a solution using Microsoft Azure AI services and AI Document Intelligence. After a six-week pilot and four-month production timeline, Volvo Group launched a solution that simplifies document processing and meets the objectives of data extraction from images and translation. Now the solution has saved Volvo Group more than 10,000 manual hours.
+
+“We chose Microsoft Azure AI primarily because of the advanced capabilities offered, especially with AI Document Intelligence.”
+
+Malladi Kumara Datta, RPA Product Owner, Volvo Group
+
+Volvo Group cofounders Assar Gabrielsson and Gustaf Larson were always keen to remind workers and customers alike that “Automobiles are made by and for people.” Although this might seem like an obvious statement, the 96-year-old Swedish company made it their mission to continuously empower Volvo employees to create safe, high-quality vehicles that meet the changing needs of its customers and the populations they serve. “By using our innovation power to develop new solutions, we strive for a better everyday life for people around the world,” says Annavi Pushpalatha, Head of RPA & Workflow Digitization at Volvo Group.
+
+As one of the world’s leading manufacturers of trucks, buses, construction equipment, and marine and industrial engines, Volvo Group continuously applies that innovation to every aspect of its business. As a result, everyone from shop floor workers in Volvo Group manufacturing plants to service and maintenance experts and customer experience professionals in 190 countries has benefited. The company’s innovative mindset also helps Volvo Group’s customers with everything from driving experiences to solutions for financing and service.
+
+“We recently had two scenarios in service and financing we needed to transform, and both had to do with processing critical internal and customer-facing ‘paperwork,’ including invoices and credit notes,” says Malladi Kumara Datta, RPA Product Owner at Volvo Group. “The data was complex and came in a variety of forms, including emails, digital and scanned PDFs, and written bills.” Some of the documents were stamped or contained images, and many had tables across multiple pages. There were also other documents like freight receipts, contracts, and terms and conditions, complicating the processes.
+
+“Our automation team was tasked with coming up with a solution that could be more efficient and help the company better utilize the data it was collecting in these differing forms,” says Datta. A primary goal for Volvo Group was to easily extract accurate data from documents containing images, stamps, and printed text with handwritten notes over it. The other main goal was to take documents in multiple languages and translate their information into the specified language of the team needing the information. Datta says that the solution not only needed to read the data; it also had to make decisions based on that data, including whether or not it needed translation, and direct the data to the right team or archive, depending on the stage it was in the process.
+
+Volvo Group wanted a flexible platform solution that could evolve with Microsoft Azure AI services and other Microsoft technologies like Azure AI Document Intelligence. “We needed advanced capabilities, especially with AI Document Intelligence, to help us create a solution that extracts data from images—including photographs, stamps, and seals—and overwritten text to gain more detailed information about the products or services accounted for in the documents,” says Datta. “A technology which could quickly produce accurate text in multiple languages.”
+
+“The documents are received through Microsoft Outlook, and we use Power Automate cloud connector for Office 365 to copy, for example, a particular PDF file,” says Pushpalatha. “Using Azure Data Factory, we can preprocess documents to remove noise from scanned images, rotate and sequence images, and trim unnecessary pages. The output is either an XML or CSV file, depending on the Volvo Group division it will be sent to.” After the automation lifecycle, files are removed from storage and archived in a designated system.
+
+Volvo Group also employed Power Automate to create a data table in SharePoint detailing processing times for each document. The data was then linked to a Power BI report to track metrics such as average processing time, throughput time, and success rate of the automation. “The Azure solution gives us a lot of flexibility to innovate,” says Datta.
+
+“Working with Microsoft and the Customer Success Unit, we went from a six-week proof of concept to a four-month production timeline,” says Pushpalatha. Volvo Group has rolled out the solution in multiple markets to date, but further rollouts are planned to create a better employee experience. This solution will be added with new features that bring even more pre-processing and automation possibilities.
+
+Since launch, the company has saved 10,000 manual hours—about 850-plus manual hours per month. “The time savings are significant, and of course, automation brings better quality,” says Datta. “But for us it’s about employee experience and customer experience, how seamlessly these documents are processed.” Datta adds that the most important factor is that employees are giving positive reports and liking their work more. “Across the board, they have more time to focus on innovation and tasks related to their specific skill sets.”
+
+Pushpalatha agrees, “We know this directly impacts the relationships between Volvo Group divisions and customers. When people are more satisfied with their work, it creates a better experience for everyone.”
+
+Find out more about Volvo Group on X, Facebook, and LinkedIn.
+
+“We needed advanced capabilities, especially with AI Document Intelligence, to help us create a solution that extracts data from images—including photographs, stamps, and seals—and overwritten text to gain more detailed information about the products or services accounted for in the document.”
+
+Malladi Kumara Datta, RPA Product Owner, Volvo Group

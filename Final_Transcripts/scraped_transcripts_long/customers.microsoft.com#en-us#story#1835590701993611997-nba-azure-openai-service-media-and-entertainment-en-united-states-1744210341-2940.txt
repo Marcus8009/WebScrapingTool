@@ -1,0 +1,47 @@
+URL: https://customers.microsoft.com/en-us/story/1835590701993611997-nba-azure-openai-service-media-and-entertainment-en-united-states
+Source: customers.microsoft.com
+Total Word Count: 740
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 737
+
+Focused on its fans, the NBA began exploring new technologies to enhance the fan experience, wanting to harness data to provide insights behind all the great moments in every game.
+
+The NBA chose Azure OpenAI Service to easily incorporate OpenAI models into its applications, speeding up the time to market for new, innovative features.
+
+The NBA is helping fans connect with the league in the way they want, with personalized, localized insights, keeping at the forefront of a great fan experience.
+
+The demand for immersive experiences is skyrocketing, with customers increasingly eager to embrace experimental content. Focusing always on its fans, the National Basketball Association (NBA), a professional basketball league with global reach, is staying ahead of this trend. By embracing cutting-edge technology, the NBA is transforming the fan experience, creating unforgettable moments that resonate with basketball fans around the world, whether they’re watching one game or keeping an eye on many.
+
+Hika Delle Donne, Lead Product Manager of AI R&D at the NBA, says, “The NBA is constantly exploring new ways to elevate the fan experience, and we knew we could make better use of the immense amount of data we have to give fans even more of what they want—real-time insights into gameplay.”
+
+To offer a smarter way to watch the game, the NBA is using Microsoft Azure OpenAI Service to power “NBA Insights,” an AI-driven feature embedded within the NBA App. The new feature showcases how moments in a game relate to the bigger picture of player, team, and league statistics and developments, delivering a more comprehensive understanding of each game and its most important events.
+
+At the heart of NBA Insights is Azure OpenAI, processing immense amounts of data quickly. Fans now are receiving detailed information about their favorite players and teams, making it easier to stay updated on developments during live games. The technology allows us to analyze player performance, game strategy, and team dynamics to get fans more involved,” says Sydney Sarachek, AI Technical Lead at the NBA.
+
+At the heart of NBA Insights is Azure OpenAI, processing immense amounts of data quickly. Fans now are receiving detailed information about their favorite players and teams, making it easier to stay updated on developments during live games.
+
+Sydney Sarachek, AI Technical Lead, NBA
+
+The NBA is using Azure to build generative AI experiences for fans based on data it collects at every game. The league is creating unique experiences for each fan to experience the excitement of the game wherever they are. And through Azure OpenAI, specifically with GPT models, NBA Insights can use a larger context window for a greater amount of game data, resulting in more meaningful insights that tell fans why a play matters and keeps them informed on all the action.
+
+“By harnessing the computational power of Azure, NBA Insights delivers detailed analysis for every aspect of the game,” says Ian Allen, Senior Software Engineer of AI at the NBA. “We’re taking the experience even further by integrating historical context and real-time sources. Providing a comprehensive view, grounded in existing and emerging data, helps us serve up meaningful information to fans following the action in the NBA App.”
+
+In addition, NBA Insights elevates the fan experience by using Azure OpenAI to deliver insights that provide a deeper understanding of what’s transpiring.
+
+Working with Microsoft, the NBA is achieving its goal to deliver immersive and interactive content. This innovative approach is helping the NBA further engage fans and deliver needed context about what’s transpiring during games in real time. Moreover, the NBA continues to identify opportunities for fans to connect with the league in the way they want, making NBA Insights an essential feature for fans worldwide.
+
+As the NBA continues its AI journey, building new solutions and advancing the organization, its fan base is reaping the benefits. By delivering greater in-game insights, the NBA is providing the “why” behind key moments and transforming the way the game is enjoyed.
+
+Sarachek adds, “We truly believe NBA Insights on the NBA App is the future of basketball, serving in-the-moment insights and giving everyone who loves the game a more engaging experience.”
+
+By harnessing the computational power of Azure, NBA Insights delivers detailed analysis for every aspect of the game. We’re taking the experience even further by integrating historical context and real-time sources.
+
+Ian Allen, Senior Software Engineer, AI, NBA
+
+Discover more about NBA on Facebook, Instagram, LinkedIn, X/Twitter, and YouTube.

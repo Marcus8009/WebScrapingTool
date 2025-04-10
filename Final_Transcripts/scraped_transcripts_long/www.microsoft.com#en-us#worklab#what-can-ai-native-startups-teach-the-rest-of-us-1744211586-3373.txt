@@ -1,0 +1,58 @@
+URL: https://www.microsoft.com/en-us/worklab/what-can-ai-native-startups-teach-the-rest-of-us
+Source: microsoft.com/worklab
+Total Word Count: 1091
+
+=== TRANSCRIPT CONTENT ===
+Word Count: 3
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+Word Count: 1088
+
+This new wave of companies can show all companies a clear path to reinvention.
+
+In my series on AI-native organizations, Part 1 uncovers the core principles of AI natives, Part 2 zooms in on one business in detail, and Part 3 looks at how every company can start using these insights.
+
+An AI staffing firm with a single employee is on track to make $2 million in its first year of business. An ad agency infuses AI into its research and strategy to achieve in days what usually takes weeks. And a French croissant shop is using AI to perfect the baking process.
+
+A new wave of companies—we call them AI natives—provide a crystal ball into what the future of work will look like for every organization. These startups embed AI in every aspect of their business, from processes and products to sales and customer service. Like the internet-native companies of a generation ago, they’re using the latest technology to slash the cost of entry and time to market. Most of these companies are run with unrelenting efficiency and creativity. Some are so scrappy that they have a single employee (though with AI, it doesn’t feel that way).
+
+To discover what makes these companies tick, my team and I have been speaking with leaders at AI-native startups across industries and all over the world. We’ve learned four essential ways that all organizations can start to work like AI natives. Together, our findings point to one overarching takeaway: every business is going to become an AI-first business—or be beaten by one.
+
+Use AI on both offense and defense 
+One market research startup we talked to uses AI for the internal tasks it considers mundane or tangential to its purpose. But AI is also central to what makes its product stand out: the company relies on AI-generated participants instead of humans in its user and market research studies, which drives both efficiency and scale.
+
+As a result, the company isn’t seeking VC money, its CEO says. AI has helped it to become self-sustaining faster, with less investment.
+
+That’s a pattern we’re seeing at AI-native companies: They use AI for both defense and offense. The defensive moves save money. Often, that means outsourcing to AI the everyday tasks that don’t set their businesses apart, such as drafting HR policies, managing payroll processing, and reviewing legal contracts. But AI is also central to their offensive moves: they’re tapping AI to help them unlock new business opportunities, seize market share, and deliver value to customers.
+
+Democratize expertise across the organization 
+The PC helped democratize knowledge, expanding access to information. AI democratizes expertise—applying knowledge to solve a problem.
+
+An AI-native ad agency folded more than two decades of research about advertising effectiveness into its platform. With AI and data, creatives (and the entire agency) have the expertise of a strategist built right into the tool they use every day. Employees are able to operate more efficiently and effectively because these AI-powered insights are always front and center while they do creative work for their clients.
+
+AI scales expertise to everyone, making knowledge useful by providing a comprehensive level of understanding beyond the reach of any one person. This applies to the general expertise all AIs possess—say, the ability to analyze data or decipher domain-specific jargon—and to the specific expertise within a business. With AI, that expertise becomes efficiently shareable across the organization.
+
+Never leave data on the table 
+One healthcare startup we spoke to uses AI to personalize care by analyzing up to 200 factors that impact a patient’s health, from lab results to medications to diet preferences. Compare that to the standard electronic health record, which typically includes only about 10 percent of the data that’s actually relevant. AI can reason over all those factors with ease and deliver personalized insights in language that’s accessible to the patient who needs to act on it.
+
+Every business is sitting on a treasure trove of data. But sometimes, turning that data into something actionable or useful would take years of human brainpower. Today, AI makes it easy to synthesize data that is otherwise hard to use because it’s hidden, depends on disparate sources, or is just getting lost in information overload.
+
+Another data opportunity: some AI-native startups use technology to mine publicly available information and weave it into their products. One startup we spoke to surfaces insights and knowledge buried in the proceedings of local government, using AI to help process dense, complex city council transcripts and planning commission documents so that everyone—government officials, real estate developers, everyday citizens—can put this valuable information to use.
+
+Build organizations that are flatter and more fluid 
+Because AI is doing so much for AI-native startups they’re able to punch above their weight. One venture capitalist told us that a firm in his portfolio decided not to hire a CMO. Instead, the company went with a more junior marketer who taps AI to operate full-stack marketing activities. When people use AI effectively, the VC says, it’s “like getting everyone to start at the 30-yard line.”
+
+AI-native startups tend to be less hierarchical: Every employee, even those in the most junior roles, is a manager from day one, because they’re “managing” AI. That means every role is strategic instead of tactical, even for early-in-career employees. More seasoned employees, meanwhile, have new opportunities too: We’ve learned that people with experience managing people often excel at managing AI, because they know how to assign tasks clearly, provide feedback, and move forward with decisions.
+
+And while org charts have historically been cast in stone, many AI-native organizations morph based on business needs. Teams are often organized around projects and goals instead of functions like marketing or HR. When people have access to the skills and expertise that AI gives them, they can shift more easily into tasks that might be new for them. That brings new opportunities for employees and new flexibility to companies.
+
+Summing it up 
+AI-native companies point to a future where businesses are less top-down, expertise is democratized, and all data is an opportunity. Every company can learn from how these pioneers are reinventing business.
+
+As this transformation is unfolding, some business leaders get caught up in thinking they need an AI strategy. That’s a misconception. When I talk to customers I tell them to start with a business problem, then apply AI. What tasks can you automate, or delegate to AI? That’s your first step down the path to reinvention—a path illuminated by AI natives.
+
+Results
+
+AI at Work
